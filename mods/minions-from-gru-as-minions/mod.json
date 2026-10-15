@@ -1,0 +1,20 @@
+{
+	"id": "minions-from-gru-as-minions",
+	"name": "Minions From Gru as minions",
+	"kind": "maps",
+	"creator": "cz",
+	"description": "Thanks to Killerey & Aryas mod for reference to fix : p\nLady, hear me tonight\n'Cause my feeling is just so right\nAs we dance by the moonlight\nCan't you see you're my delight?Lady, I just feel like\nI won't get you out of my mind\nI feel love for the first time\nAnd I know that it's true\nI can tell by the look in your eyesLady, hear me tonight\n'Cause my feeling is just so right\nAs we dance by the moonlight\nCan't you see you're my delight?Lady, I just feel like\nI won't get you out of my mind\nI feel love for the first time\nAnd I know that it's true\nI can tell by the look in your eyesLady, hear me tonight\n'Cause my feeling is just so right\nAs we dance by the moonlight\nCan't you see you're my delight?Lady, I just feel like\nI won't get you out of my mind\nI feel love for the first time\nAnd I know that it's true\nI can tell by the look in your eyesLady, hear me tonight\n'Cause my feeling is just so right\nLady, I just feel like\nI feel love for the first timeLady, hear me tonight\nCan't you see you're my delight?\nLady, I just feel like\nI won't get you out of my mindLady, hear me tonight\n'Cause my feeling is just so right\n\n---\n\n**Created by** [CZ](https://runeforge.dev/users/CZ)\n\n**Original:** https://runeforge.dev/mods/58eeac41-f866-40b4-9f45-514fdced9977\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/minions-from-gru-as-minions/thumb.webp?v=0f190bcf",
+	"file": {
+		"version": 1,
+		"asset": "minions-from-gru-as-minions-v1.fantome",
+		"size": 5491841,
+		"sha256": "7feaa44519c8802ec438f5e126bbb9ca95b5d4ba793c2ad141e143c13fe9d8e5"
+	},
+	"maps": [
+		11
+	]
+}

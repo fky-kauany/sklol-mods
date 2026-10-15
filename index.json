@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T13:20:00.041Z",
+	"generatedAt": "2026-10-15T13:26:11.430Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -259,6 +259,12 @@
 			"links": {
 				"youtube": "https://youtu.be/QB0MbvKIQSg"
 			}
+		},
+		"cz": {
+			"name": "CZ",
+			"avatar": "creators/cz.jpg?v=1c45cb0c",
+			"bio": "i like one woman and thats it, spiderman is cool, and also XD XD XD XD",
+			"links": {}
 		},
 		"daka": {
 			"name": "daka",
@@ -7689,6 +7695,26 @@
 			}
 		},
 		{
+			"id": "minecraft-bgm",
+			"name": "Minecraft BGM",
+			"kind": "maps",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/minecraft-bgm/thumb.webp?v=8e833dad",
+			"file": {
+				"version": 1,
+				"asset": "minecraft-bgm-v1.modpkg",
+				"size": 46220799,
+				"sha256": "5b5ed7e1d3fd1468a9dd641a9329832c8c88eb16d4209c129fe4bbe46ae3bc2e"
+			},
+			"maps": [
+				11
+			]
+		},
+		{
 			"id": "minecraft-font",
 			"name": "Minecraft Font",
 			"kind": "fonts",
@@ -7738,6 +7764,28 @@
 				"size": 4261,
 				"sha256": "4426c3b7a2c437499cc3a11cdd6db1e5afdfca98908f7a70d30cabf9f5c92258"
 			}
+		},
+		{
+			"id": "minecraft-minions",
+			"name": "Minecraft Minions",
+			"kind": "maps",
+			"creator": "frog",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/minecraft-minions/thumb.webp?v=8a98bf3d",
+			"file": {
+				"version": 1,
+				"asset": "minecraft-minions-v1.fantome",
+				"size": 8382120,
+				"sha256": "a3057ff4e41b1aa98ef8d1477c26657a36be5d438bb059f13a30129562f40f5a"
+			},
+			"maps": [
+				11,
+				12,
+				35
+			]
 		},
 		{
 			"id": "minecraft-sound-effects-bgm",
@@ -7840,6 +7888,26 @@
 				"size": 26331,
 				"sha256": "638ac2b400acfc5e1d531974dfa2c8cd55fa161f202890b431de3f023dcf334b"
 			}
+		},
+		{
+			"id": "minions-from-gru-as-minions",
+			"name": "Minions From Gru as minions",
+			"kind": "maps",
+			"creator": "cz",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/minions-from-gru-as-minions/thumb.webp?v=0f190bcf",
+			"file": {
+				"version": 1,
+				"asset": "minions-from-gru-as-minions-v1.fantome",
+				"size": 5491841,
+				"sha256": "7feaa44519c8802ec438f5e126bbb9ca95b5d4ba793c2ad141e143c13fe9d8e5"
+			},
+			"maps": [
+				11
+			]
 		},
 		{
 			"id": "mita-hud",
@@ -8083,6 +8151,26 @@
 			}
 		},
 		{
+			"id": "neco-arc-minions",
+			"name": "Neco Arc Minions",
+			"kind": "maps",
+			"creator": "runeforgerecoveryteam",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/neco-arc-minions/thumb.webp?v=54bc2316",
+			"file": {
+				"version": 1,
+				"asset": "neco-arc-minions-v1.fantome",
+				"size": 2772668,
+				"sha256": "17f61e6ca764f8458dcde4a268ee4e3b9245eb3428d110098090891078ba6514"
+			},
+			"maps": [
+				11
+			]
+		},
+		{
 			"id": "neo-spamton-kassadin-sfx",
 			"name": "NEO Spamton Kassadin SFX",
 			"kind": "sounds",
@@ -8237,6 +8325,26 @@
 				"size": 127676000,
 				"sha256": "b711047e934972d2b28a1fe077162e70e81cc880f1085c1c0021de2fda6ff4a5"
 			}
+		},
+		{
+			"id": "nikke-bgm",
+			"name": "Nikke BGM",
+			"kind": "maps",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/nikke-bgm/thumb.webp?v=0be146e5",
+			"file": {
+				"version": 1,
+				"asset": "nikke-bgm-v1.modpkg",
+				"size": 39565231,
+				"sha256": "73c889ae6c88e425486aacef375cc1758806fafbb64e31176a20af4ddf9cd7ce"
+			},
+			"maps": [
+				11
+			]
 		},
 		{
 			"id": "no-ability-cooldown-sound",

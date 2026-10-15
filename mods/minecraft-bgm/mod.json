@@ -1,0 +1,20 @@
+{
+	"id": "minecraft-bgm",
+	"name": "Minecraft BGM",
+	"kind": "maps",
+	"creator": "aurecueil",
+	"description": "# 🎵 Track List\n\n| Event | Track(s) |\n|------|------|\n| Start Game (Blue Side) | [Wet Hands](https://www.youtube.com/watch?v=MSepOYJxB64) |\n| Start Game (Red Side) | [Haggstorm](https://www.youtube.com/watch?v=laZusNy8QiY) |\n| Game Loop 0 (Blue Side) | [Subwoofer Lullaby](https://www.youtube.com/watch?v=Gpd85y_iTxY) + [Living Mice](https://www.youtube.com/watch?v=oGxQNQtnr6Q) |\n| Game Loop 0 (Red Side) | [Minecraft](https://www.youtube.com/watch?v=qq-RGFyaq0U) + [Danny](https://www.youtube.com/watch?v=SznnVAnkv3c) |\n| Game Loop 1 | [Mine on Venus](https://www.youtube.com/watch?v=DZ47H84Bc_Q) |\n| Game Loop 2 | [Sweden](https://www.youtube.com/watch?v=aBkTkxKDduc) |\n| Game Loop 3 | [Aria Math](https://www.youtube.com/watch?v=atgjKEgSqSU) |\n| River Loop 0 | [Moog City 2](https://www.youtube.com/watch?v=C8df2pbOX6g) + [Dry Hands](https://www.youtube.com/watch?v=w_vk7UwFBhc) |\n| River Loop 1 | [Biome Fest](https://www.youtube.com/watch?v=8sglGXAfHLc) |\n| River Loop 2 | [Floating Trees](https://www.youtube.com/watch?v=j1Z_Ihkluek) |\n| River Loop 3 | [Beggining 2](https://www.youtube.com/watch?v=2vRBjHY7ReE) |\n| Atakhan Fight | [Key](https://www.youtube.com/watch?v=NkS3XLy3ga4) |\n| Victory | [Lava Chicken](https://www.youtube.com/watch?v=Xzx0V1JUI88) |\n| Defeat | [Clark](https://www.youtube.com/watch?v=UhWjWdlnmEw) |\n\n## ☕ Wanna buy me a [Coffee](https://ko-fi.com/aurecueil)? :> \n[![My Discord Server ^^](https://raw.githubusercontent.com/Aurecueil/Temp/refs/heads/main/images/banner6_better.png)](https://discord.gg/GETA29vZEK)\n\n## 📦 Misc\n\n[Tierlist of my BGM mods](https://runeforge.dev/users/Aurecueil)\n\ndc: `aurecueil`\n\ni DO take Commisions btw\n\n---\n\n**Created by** [aurecueil](https://www.divineskins.gg/aurecueil)\n\n**Original:** https://www.divineskins.gg/aurecueil/minecraft-bgm\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/minecraft-bgm/thumb.webp?v=8e833dad",
+	"file": {
+		"version": 1,
+		"asset": "minecraft-bgm-v1.modpkg",
+		"size": 46220799,
+		"sha256": "5b5ed7e1d3fd1468a9dd641a9329832c8c88eb16d4209c129fe4bbe46ae3bc2e"
+	},
+	"maps": [
+		11
+	]
+}

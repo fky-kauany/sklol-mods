@@ -1,0 +1,20 @@
+{
+	"id": "nikke-bgm",
+	"name": "Nikke BGM",
+	"kind": "maps",
+	"creator": "aurecueil",
+	"description": "# 🎵 Track List\n\n| Event | Track(s) |\n|------|------|\n| Start Game (Red Side) | [Lord for Justice](https://www.youtube.com/watch?v=Kc8gRCGtXMQ) |\n| Start Game (Blue Side) | [Old Tales Epilogue :: :Rewrite](https://www.youtube.com/watch?v=4aMCLi6Dyoo) |\n| Game Loop 0 (Red Side) | [ACPU Freeze](https://www.youtube.com/watch?v=7b0esAbfcGc) |\n| Game Loop 0 (Blue Side) | [You've Always Got Me](https://www.youtube.com/watch?v=Qp-b2PF-CI0) |\n| Game Loop 1 | [RE DASH](https://www.youtube.com/watch?v=RB7i6JnIdlE) |\n| Game Loop 2 | [Inferno of Nihilist](https://www.youtube.com/watch?v=ldIdL9vckBM) |\n| Game Loop 3 | [TuNGSTeN](https://www.youtube.com/watch?v=DQDs56LuKEs) |\n| River Loop 0 | [Lovely Lonely Cat](https://www.youtube.com/watch?v=S-bOBwuBRdU) |\n| River Loop 1 | [Let Me Out](https://www.youtube.com/watch?v=HmAka2FNpTU) |\n| River Loop 2 | [I FEEL SO ALIVE](https://www.youtube.com/watch?v=N1Cn_WNgaGc) |\n| River Loop 3 | [Jump Up](https://www.youtube.com/watch?v=zxGu0z2l5AA) |\n| Atakhan Fight | [Land Eater Phase 2](https://www.youtube.com/watch?v=lSt_6SiAUwo&t=91s) |\n| Victory | [Laplace Song](https://www.youtube.com/watch?v=swrOumIph44&t=5s) |\n| Defeat | [Title Screen](https://www.youtube.com/watch?v=SAxokIivRFI) |\n\n## ☕ Wanna buy me a [Coffee](https://ko-fi.com/aurecueil)? :> \n[![My Discord Server ^^](https://raw.githubusercontent.com/Aurecueil/Temp/refs/heads/main/images/banner6_better.png)](https://discord.gg/GETA29vZEK)\n\n## 📦 Misc\n\n[Tierlist of my BGM mods](https://runeforge.dev/users/Aurecueil)\n\ndc: `aurecueil`\n\ni DO take Commisions btw\n\n---\n\n**Created by** [aurecueil](https://www.divineskins.gg/aurecueil)\n\n**Original:** https://www.divineskins.gg/aurecueil/nikke-bgm-2\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/nikke-bgm/thumb.webp?v=0be146e5",
+	"file": {
+		"version": 1,
+		"asset": "nikke-bgm-v1.modpkg",
+		"size": 39565231,
+		"sha256": "73c889ae6c88e425486aacef375cc1758806fafbb64e31176a20af4ddf9cd7ce"
+	},
+	"maps": [
+		11
+	]
+}

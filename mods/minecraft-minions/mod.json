@@ -1,0 +1,22 @@
+{
+	"id": "minecraft-minions",
+	"name": "Minecraft Minions",
+	"kind": "maps",
+	"creator": "frog",
+	"description": "# ⚠️Redownload⚠️\r\n\r\n## Fixed for Brawl, ty Moga\r\n\r\nReplaces all Minions with Minecraft Mobs.\r\n\r\n*Fan-made, not affiliated with Riot Games or any other company.*\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/minecraft-minions\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/minecraft-minions/thumb.webp?v=8a98bf3d",
+	"file": {
+		"version": 1,
+		"asset": "minecraft-minions-v1.fantome",
+		"size": 8382120,
+		"sha256": "a3057ff4e41b1aa98ef8d1477c26657a36be5d438bb059f13a30129562f40f5a"
+	},
+	"maps": [
+		11,
+		12,
+		35
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"id": "neco-arc-minions",
+	"name": "Neco Arc Minions",
+	"kind": "maps",
+	"creator": "runeforgerecoveryteam",
+	"description": "Note : IM NOT THE ORIGINAL AUTHOR OF THIS SKIN, I only publish it to recovery and share it with the community.\n\nAll credits for Kingshound\n\n‎\n\nIf it breaks or has problems contact me on discord @AleXD\n\n### Mod information\n\n* Type of mod: Minion mod\n* Author: Kingshound\n* Skin Version: 1.1.0\n\n### Specifications\n\n* Modifies minions for both Summoners Rift\n\n### Credits\n\n* \"Neco-arc\" ([https://skfb.ly/ooJzW](https://skfb.ly/ooJzW)) by Paper Bandit is licensed under Creative Commons Attribution ([http://creativecommons.org/licenses/by/4.0/](http://creativecommons.org/licenses/by/4.0/)).\n* \"AK47\" ([https://skfb.ly/6RBGY](https://skfb.ly/6RBGY)) by SD Designer is licensed under Creative Commons Attribution ([http://creativecommons.org/licenses/by/4.0/](http://creativecommons.org/licenses/by/4.0/)).\n* \"baseball bat\" ([https://skfb.ly/6TIDy](https://skfb.ly/6TIDy)) by chopsuey is licensed under Creative Commons Attribution-NonCommercial ([http://creativecommons.org/licenses/by-nc/4.0/](http://creativecommons.org/licenses/by-nc/4.0/)).\n\n---\n\n**Created by** [RuneforgeRecoveryTeam](https://runeforge.dev/users/RuneforgeRecoveryTeam)\n\n**Original:** https://runeforge.dev/mods/47b86140-c560-45a6-9e5e-30666010582e\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/neco-arc-minions/thumb.webp?v=54bc2316",
+	"file": {
+		"version": 1,
+		"asset": "neco-arc-minions-v1.fantome",
+		"size": 2772668,
+		"sha256": "17f61e6ca764f8458dcde4a268ee4e3b9245eb3428d110098090891078ba6514"
+	},
+	"maps": [
+		11
+	]
+}
