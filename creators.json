@@ -240,6 +240,13 @@
 		"bio": "> # Welcome to my profile!\n> <p>Hi, I'm Fantom, a new <i>modder</i> to the <strong>RuneForge</strong> platform. Hope you have fun using my mods! Any errors, please report to the <a href=\"https://discord.com/invite/runeforge\">RuneForge Discord Server</a> and ping @fantom_thecrusader! Don't be sure I'll fix it ^^'</p>\n>\n>\n> <p>Here, have my socials:</p>\n><a href=\"https://linktr.ee/daFant0m\">My Linktree!!!1 ^w^ (I don't use half of the links there lol)</a>",
 		"links": {}
 	},
+	"frehlty": {
+		"name": "Frehlty",
+		"avatar": "creators/frehlty.jpg?v=2d77a48a",
+		"links": {
+			"youtube": "https://www.youtube.com/watch?v=hdTDthnQFW0"
+		}
+	},
 	"frog": {
 		"name": "Frog",
 		"bio": "XD",
@@ -408,6 +415,12 @@
 			"site": "https://runeforge.dev/mods?search=agomsmoga"
 		}
 	},
+	"mohankrishna": {
+		"name": "MohanKrishna",
+		"avatar": "creators/mohankrishna.jpg?v=36caec12",
+		"bio": "<div style=\"color: #000000; background-color: #ffffff\">\n<h3 style=\"color:cyan\"> <ins>Any Ideas or Improvements for New or Existing  Mods are Welcome. </ins> </h3>\n<br>\n<h4 style=\"color:cyan\">Please tell me If a Mod is Broken!! </h4>\n<br>\n<h4 style=\"color:cyan\">You can always contact me on Runeforge Discord server with @tohka_yatogami or Add me on Discord If you need me.</h4>\n</div>",
+		"links": {}
+	},
 	"mouf": {
 		"name": "Mouf",
 		"avatar": "creators/mouf.jpg?v=b3182dd4",
@@ -552,6 +565,12 @@
 		"name": "Sraach",
 		"avatar": "creators/sraach.png?v=2933556c",
 		"links": {}
+	},
+	"starchasmnyx": {
+		"name": "StarchasmNyx",
+		"links": {
+			"site": "https://docs.google.com/spreadsheets/d/1S2z6DErbS4FGVVvGEgPQdv8vgLu842MEuoVRVI7P-mY/edit?usp=sharing"
+		}
 	},
 	"sterak": {
 		"name": "Sterak",

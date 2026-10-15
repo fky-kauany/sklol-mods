@@ -1,0 +1,17 @@
+{
+	"id": "immortalized-legend-kai-sa-animated-loading-scre",
+	"name": "Immortalized Legend Kai'Sa Animated Loading Screen",
+	"kind": "other",
+	"creator": "mohankrishna",
+	"description": "# Overview:\n\n* Type of mod: Loading Screen\n* Some random detail: Immortalized Legend Kai'Sa\n\n## Mod Information:\n\n* Author: MohanKrishna\n* Mod Version: 15.15.1.0\n\n---\n\n**Created by** [MohanKrishna](https://runeforge.dev/users/MohanKrishna)\n\n**Original:** https://runeforge.dev/mods/b5784a95-ebc5-4337-a463-836ccd3ae23c\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/immortalized-legend-kai-sa-animated-loading-scre/thumb.webp?v=51ad763e",
+	"file": {
+		"version": 1,
+		"asset": "immortalized-legend-kai-sa-animated-loading-scre-v1.fantome",
+		"size": 45482715,
+		"sha256": "2f575ebff3a1c7dea6ae80a6f69bb429978928def79cf3bede917aee29fab4c2"
+	}
+}

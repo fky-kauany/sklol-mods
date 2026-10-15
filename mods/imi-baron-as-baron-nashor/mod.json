@@ -1,0 +1,17 @@
+{
+	"id": "imi-baron-as-baron-nashor",
+	"name": "Imi Baron as Baron Nashor",
+	"kind": "sounds",
+	"creator": "frehlty",
+	"description": "This mod replaces Baron Nashor's sounds and icons to stuff and voices from a controversial influencer and fighter from Slovakia Imi Baron.\n\n---\n\n**Created by** [Frehlty](https://runeforge.dev/users/Frehlty)\n\n**Original:** https://runeforge.dev/mods/84581d00-700f-41c4-8f79-36b977a39183\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/imi-baron-as-baron-nashor/thumb.webp?v=b2b3ca17",
+	"file": {
+		"version": 1,
+		"asset": "imi-baron-as-baron-nashor-v1.fantome",
+		"size": 33656653,
+		"sha256": "23c96b39eced241f4d724f7a76ae7c77d12e9a61cbd78aa750d7dc25b195067e"
+	}
+}

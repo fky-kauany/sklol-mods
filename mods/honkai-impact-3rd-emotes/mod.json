@@ -1,0 +1,17 @@
+{
+	"id": "honkai-impact-3rd-emotes",
+	"name": "Honkai Impact 3rd emotes",
+	"kind": "other",
+	"creator": "starchasmnyx",
+	"description": "— 200+ new emotes from honkai impact 3rd chat and more stuff related to hi3rd\n\n— pride month emotes changed with images of cute girls\n\nlist of changed emotes you can see here https://docs.google.com/spreadsheets/d/1S2z6DErbS4FGVVvGEgPQdv8vgLu842MEuoVRVI7P-mY/edit?usp=sharing\n\n---\n\n**Created by** [StarchasmNyx](https://runeforge.dev/users/StarchasmNyx)\n\n**Original:** https://runeforge.dev/mods/eda738ae-796f-4357-a879-dde467870b10\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/honkai-impact-3rd-emotes/thumb.webp?v=f4238d13",
+	"file": {
+		"version": 1,
+		"asset": "honkai-impact-3rd-emotes-v1.fantome",
+		"size": 12864138,
+		"sha256": "58f075a46168c732a7c7b95634f587d789b56b360db7e564061dfad59d9100a0"
+	}
+}

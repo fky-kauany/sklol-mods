@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T09:13:55.385Z",
+	"generatedAt": "2026-10-15T09:19:37.878Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -243,6 +243,13 @@
 			"bio": "> # Welcome to my profile!\n> <p>Hi, I'm Fantom, a new <i>modder</i> to the <strong>RuneForge</strong> platform. Hope you have fun using my mods! Any errors, please report to the <a href=\"https://discord.com/invite/runeforge\">RuneForge Discord Server</a> and ping @fantom_thecrusader! Don't be sure I'll fix it ^^'</p>\n>\n>\n> <p>Here, have my socials:</p>\n><a href=\"https://linktr.ee/daFant0m\">My Linktree!!!1 ^w^ (I don't use half of the links there lol)</a>",
 			"links": {}
 		},
+		"frehlty": {
+			"name": "Frehlty",
+			"avatar": "creators/frehlty.jpg?v=2d77a48a",
+			"links": {
+				"youtube": "https://www.youtube.com/watch?v=hdTDthnQFW0"
+			}
+		},
 		"frog": {
 			"name": "Frog",
 			"bio": "XD",
@@ -411,6 +418,12 @@
 				"site": "https://runeforge.dev/mods?search=agomsmoga"
 			}
 		},
+		"mohankrishna": {
+			"name": "MohanKrishna",
+			"avatar": "creators/mohankrishna.jpg?v=36caec12",
+			"bio": "<div style=\"color: #000000; background-color: #ffffff\">\n<h3 style=\"color:cyan\"> <ins>Any Ideas or Improvements for New or Existing  Mods are Welcome. </ins> </h3>\n<br>\n<h4 style=\"color:cyan\">Please tell me If a Mod is Broken!! </h4>\n<br>\n<h4 style=\"color:cyan\">You can always contact me on Runeforge Discord server with @tohka_yatogami or Add me on Discord If you need me.</h4>\n</div>",
+			"links": {}
+		},
 		"mouf": {
 			"name": "Mouf",
 			"avatar": "creators/mouf.jpg?v=b3182dd4",
@@ -555,6 +568,12 @@
 			"name": "Sraach",
 			"avatar": "creators/sraach.png?v=2933556c",
 			"links": {}
+		},
+		"starchasmnyx": {
+			"name": "StarchasmNyx",
+			"links": {
+				"site": "https://docs.google.com/spreadsheets/d/1S2z6DErbS4FGVVvGEgPQdv8vgLu842MEuoVRVI7P-mY/edit?usp=sharing"
+			}
 		},
 		"sterak": {
 			"name": "Sterak",
@@ -5281,6 +5300,176 @@
 				"asset": "high-noon-katarina-chroma-vfx-v1.fantome",
 				"size": 6316175,
 				"sha256": "46f1384e05b470161b8b404b2173f7db01e4f511926ae6791ff3b750783fa029"
+			}
+		},
+		{
+			"id": "high-noon-lucian-chroma-vfx",
+			"name": "High Noon Lucian chroma VFX",
+			"kind": "other",
+			"creator": "suriin",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/high-noon-lucian-chroma-vfx/thumb.webp?v=915bb41f",
+			"file": {
+				"version": 1,
+				"asset": "high-noon-lucian-chroma-vfx-v1.fantome",
+				"size": 8873929,
+				"sha256": "be8c9b4978e97161beca3b2e39e2328c3ba2f843bd65dd4fe67ff1b1c6c7bf74"
+			}
+		},
+		{
+			"id": "high-noon-samira-chroma-vfx",
+			"name": "High Noon Samira Chroma VFX",
+			"kind": "vfx",
+			"creator": "donutvsdonut",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/high-noon-samira-chroma-vfx/thumb.webp?v=bffda7c2",
+			"file": {
+				"version": 1,
+				"asset": "high-noon-samira-chroma-vfx-v1.fantome",
+				"size": 5556918,
+				"sha256": "ea6f81da06825333db10a2bc5fe0c10e857d3cc27fa806075f5cf2f16d922970"
+			}
+		},
+		{
+			"id": "high-noon-senna-chroma-vfx",
+			"name": "High Noon Senna chroma VFX",
+			"kind": "other",
+			"creator": "suriin",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/high-noon-senna-chroma-vfx/thumb.webp?v=34855ff0",
+			"file": {
+				"version": 1,
+				"asset": "high-noon-senna-chroma-vfx-v1.fantome",
+				"size": 16965505,
+				"sha256": "ee71174b48e4e895f8c437ff32d11a34eaa8f5c675a3fb9363dcb6642e468c7b"
+			}
+		},
+		{
+			"id": "hollow-knight-bgm",
+			"name": "Hollow Knight BGM",
+			"kind": "sounds",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/hollow-knight-bgm/thumb.webp?v=3cd39fa6",
+			"file": {
+				"version": 1,
+				"asset": "hollow-knight-bgm-v1.fantome",
+				"size": 41211157,
+				"sha256": "e4394cc5e01de4d85f677d00cf46dddaae5305a56136629a5700c0716cf590c2"
+			}
+		},
+		{
+			"id": "hollow-knight-font",
+			"name": "Hollow Knight Font",
+			"kind": "fonts",
+			"creator": "rhbarber",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/hollow-knight-font/thumb.webp?v=94a46b5a",
+			"file": {
+				"version": 1,
+				"asset": "hollow-knight-font-v1.fantome",
+				"size": 477899,
+				"sha256": "27df449b72f03fc266650635a421ef0a02a867288d7afe77ccd394264dddc388"
+			}
+		},
+		{
+			"id": "honey-bee-font",
+			"name": "Honey Bee Font",
+			"kind": "fonts",
+			"creator": "tyre-4770",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/honey-bee-font/thumb.webp?v=64b6e10c",
+			"file": {
+				"version": 1,
+				"asset": "honey-bee-font-v1.fantome",
+				"size": 77700,
+				"sha256": "99262d29b8f12f05e27d025a2368bbc162fcb740cf36c4b784d1e0dd0091af82"
+			}
+		},
+		{
+			"id": "honkai-impact-3rd-emotes",
+			"name": "Honkai Impact 3rd emotes",
+			"kind": "other",
+			"creator": "starchasmnyx",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/honkai-impact-3rd-emotes/thumb.webp?v=f4238d13",
+			"file": {
+				"version": 1,
+				"asset": "honkai-impact-3rd-emotes-v1.fantome",
+				"size": 12864138,
+				"sha256": "58f075a46168c732a7c7b95634f587d789b56b360db7e564061dfad59d9100a0"
+			}
+		},
+		{
+			"id": "i-m-my-own-master-now-nasus",
+			"name": "I'm My Own Master Now Nasus",
+			"kind": "sounds",
+			"creator": "pico-senpai",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/i-m-my-own-master-now-nasus/thumb.webp?v=3cb5c21b",
+			"file": {
+				"version": 1,
+				"asset": "i-m-my-own-master-now-nasus-v1.fantome",
+				"size": 1862356,
+				"sha256": "c0d529bae16d2180c01cb4fc3d3f1993925dd97152a18e8cd2deb2d52a59a8f3"
+			}
+		},
+		{
+			"id": "imi-baron-as-baron-nashor",
+			"name": "Imi Baron as Baron Nashor",
+			"kind": "sounds",
+			"creator": "frehlty",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/imi-baron-as-baron-nashor/thumb.webp?v=b2b3ca17",
+			"file": {
+				"version": 1,
+				"asset": "imi-baron-as-baron-nashor-v1.fantome",
+				"size": 33656653,
+				"sha256": "23c96b39eced241f4d724f7a76ae7c77d12e9a61cbd78aa750d7dc25b195067e"
+			}
+		},
+		{
+			"id": "immortalized-legend-kai-sa-animated-loading-scre",
+			"name": "Immortalized Legend Kai'Sa Animated Loading Screen",
+			"kind": "other",
+			"creator": "mohankrishna",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/immortalized-legend-kai-sa-animated-loading-scre/thumb.webp?v=51ad763e",
+			"file": {
+				"version": 1,
+				"asset": "immortalized-legend-kai-sa-animated-loading-scre-v1.fantome",
+				"size": 45482715,
+				"sha256": "2f575ebff3a1c7dea6ae80a6f69bb429978928def79cf3bede917aee29fab4c2"
 			}
 		}
 	]

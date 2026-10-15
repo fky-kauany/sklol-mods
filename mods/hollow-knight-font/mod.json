@@ -1,0 +1,17 @@
+{
+	"id": "hollow-knight-font",
+	"name": "Hollow Knight Font",
+	"kind": "fonts",
+	"creator": "rhbarber",
+	"description": "# 𖤍 Hollow Knight Font\r\n\r\nReplaces the usual font with Trajan Pro.\r\n\r\n## Issues\r\nFeel free to report them through [Discord](https://discord.com/users/367779328940965898) or by [email](mailto:me@rhbarber.com?subject=Hollow%20Knight%20Font%20Mod%20Issue).\r\n\r\n## Credits\r\n- Based on [PixelFont / Minecraft Font](https://runeforge.dev/mods/76d31212-26d1-421f-918a-059ccf09be70) by **sm0nks**\n\n---\n\n**Created by** [Rhbarber](https://runeforge.dev/users/Rhbarber)\n\n**Original:** https://runeforge.dev/mods/1890afaf-4a43-41d9-a66c-b183e21885d5\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/hollow-knight-font/thumb.webp?v=94a46b5a",
+	"file": {
+		"version": 1,
+		"asset": "hollow-knight-font-v1.fantome",
+		"size": 477899,
+		"sha256": "27df449b72f03fc266650635a421ef0a02a867288d7afe77ccd394264dddc388"
+	}
+}

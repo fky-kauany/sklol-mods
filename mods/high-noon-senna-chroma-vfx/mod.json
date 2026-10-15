@@ -1,0 +1,17 @@
+{
+	"id": "high-noon-senna-chroma-vfx",
+	"name": "High Noon Senna chroma VFX",
+	"kind": "other",
+	"creator": "suriin",
+	"description": "## Important info\r\n\r\nThis will clash with any custom skin that modifies High Noon Senna. 1 file for all chromas.\r\n\r\n## Description\r\n\r\n**Author**: Suriin\r\n\r\n**Skin**: High Noon Senna\r\n\r\n**Affects**: VFX colors\r\n\r\nDone upon request. Adds matching VFX to every chroma (except the mythic one), base remains the same.\r\n\r\n\r\n## Contact\r\n\r\nIf you have any issues or questions you can message me on discord: .suriin Just make sure you are on the RuneForge server.\r\n\r\n---\r\n\r\n### You can support me on Ko-Fi [ko-fi.com/suriinruneforge](https://ko-fi.com/suriinruneforge) <3\n\n---\n\n**Created by** [Suriin](https://runeforge.dev/users/Suriin)\n\n**Original:** https://runeforge.dev/mods/7be101b7-8852-486e-bd27-423d41619083\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/high-noon-senna-chroma-vfx/thumb.webp?v=34855ff0",
+	"file": {
+		"version": 1,
+		"asset": "high-noon-senna-chroma-vfx-v1.fantome",
+		"size": 16965505,
+		"sha256": "ee71174b48e4e895f8c437ff32d11a34eaa8f5c675a3fb9363dcb6642e468c7b"
+	}
+}
