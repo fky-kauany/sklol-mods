@@ -310,11 +310,23 @@
 			"youtube": "https://youtu.be/4ObovYm7LGM"
 		}
 	},
+	"lawarmor": {
+		"name": "lawarmor",
+		"avatar": "creators/lawarmor.png?v=8b3a490a",
+		"links": {}
+	},
 	"leafus": {
 		"name": "Leafus",
 		"avatar": "creators/leafus.jpg?v=478ea71d",
 		"links": {
 			"youtube": "https://www.youtube.com/watch?v=PibYmujLubI"
+		}
+	},
+	"leischii": {
+		"name": "Leischii",
+		"avatar": "creators/leischii.jpg?v=b8a0f41b",
+		"links": {
+			"youtube": "https://youtu.be/I1DUrbtIxjo?si=5b55C6bq1Iy-wRe-"
 		}
 	},
 	"lolsfxamateur": {

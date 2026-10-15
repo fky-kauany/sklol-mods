@@ -1,0 +1,17 @@
+{
+	"id": "gangplank-announcer",
+	"name": "Gangplank Announcer",
+	"kind": "announcer",
+	"creator": "leischii",
+	"description": "## Mod Information\n\n###### Mode: Summoners Rift & Aram\n\n###### Author: Leischii & NekoHiko\n\n###### Mod version: 4.0.1\n\n###### Description: Enables Gangplank announcer on Summoners Rift and Aram. There is also an alternative version including the Bilgewater background music.\n\n## Installation\n\nTo use this mod you have download 2 files:\n\n1\\. Either \"Gangplank Announcer Base\" OR \"Gangplank Announcer Base + Music\"\n\n2\\. A language addon . Do NOT use the \"base\" mod and the \"base + music\" mod in combination!\n\n(If your announcer is mute you are missing a langauge addon.)\n\n---\n\n**Created by** [Leischii](https://runeforge.dev/users/Leischii)\n\n**Original:** https://runeforge.dev/mods/d8b7d3e2-5326-4844-a810-7b7190bccb71\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/gangplank-announcer/thumb.webp?v=42efff81",
+	"file": {
+		"version": 1,
+		"asset": "gangplank-announcer-v1.fantome",
+		"size": 436866,
+		"sha256": "c5e301acba9f8efb7baec0d69e89bde38b4be21cf6dc7a099ba42ff3e94850a6"
+	}
+}

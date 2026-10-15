@@ -1,0 +1,17 @@
+{
+	"id": "gaster-kassadin-ult-sfx",
+	"name": "Gaster Kassadin Ult SFX",
+	"kind": "sounds",
+	"creator": "lawarmor",
+	"description": "Changes Kassadin's Riftwalk SFX to gaster blaster SFX from undertale.\r\n\r\nAppears on base skin only. You can use it with other custom skins as long as they dont change kassadin's R SFX.\n\n---\n\n**Created by** [lawarmor](https://runeforge.dev/users/lawarmor)\n\n**Original:** https://runeforge.dev/mods/1baebb93-acbb-4906-8ac2-09a984c7d8ee\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/gaster-kassadin-ult-sfx/thumb.webp?v=fd810493",
+	"file": {
+		"version": 1,
+		"asset": "gaster-kassadin-ult-sfx-v1.fantome",
+		"size": 922265,
+		"sha256": "b80c6d6e8cf05b64be273641abecb422ebbc4596846b86631db68bd31f40893c"
+	}
+}

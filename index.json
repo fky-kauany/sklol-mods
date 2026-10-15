@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T08:50:43.855Z",
+	"generatedAt": "2026-10-15T08:56:18.575Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -313,11 +313,23 @@
 				"youtube": "https://youtu.be/4ObovYm7LGM"
 			}
 		},
+		"lawarmor": {
+			"name": "lawarmor",
+			"avatar": "creators/lawarmor.png?v=8b3a490a",
+			"links": {}
+		},
 		"leafus": {
 			"name": "Leafus",
 			"avatar": "creators/leafus.jpg?v=478ea71d",
 			"links": {
 				"youtube": "https://www.youtube.com/watch?v=PibYmujLubI"
+			}
+		},
+		"leischii": {
+			"name": "Leischii",
+			"avatar": "creators/leischii.jpg?v=b8a0f41b",
+			"links": {
+				"youtube": "https://youtu.be/I1DUrbtIxjo?si=5b55C6bq1Iy-wRe-"
 			}
 		},
 		"lolsfxamateur": {
@@ -4525,6 +4537,176 @@
 				"asset": "gabe-newell-dota2-announcer-pack-v1.fantome",
 				"size": 5425421,
 				"sha256": "dfe19d9b063b37aa3ddc89299ab0431350eafb1a71dc564271f5c3665a4ef4eb"
+			}
+		},
+		{
+			"id": "gameboy-font",
+			"name": "GameBoy Font",
+			"kind": "fonts",
+			"creator": "tyre-4770",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/gameboy-font/thumb.webp?v=b9487293",
+			"file": {
+				"version": 1,
+				"asset": "gameboy-font-v1.fantome",
+				"size": 12295,
+				"sha256": "904b43b4a3e30b59a523f02a8940b00279744c95010f95633a239f8da22c11cd"
+			}
+		},
+		{
+			"id": "gangplank-annoucer",
+			"name": "Gangplank Annoucer",
+			"kind": "announcer",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/gangplank-annoucer/thumb.webp?v=bb4b4d5f",
+			"file": {
+				"version": 1,
+				"asset": "gangplank-annoucer-v1.fantome",
+				"size": 9571908,
+				"sha256": "9d8737cb0c81a6d81de0402f0360ba5d568685c67bed5dae062aafc3222a9faf"
+			}
+		},
+		{
+			"id": "gangplank-announcer",
+			"name": "Gangplank Announcer",
+			"kind": "announcer",
+			"creator": "leischii",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/gangplank-announcer/thumb.webp?v=42efff81",
+			"file": {
+				"version": 1,
+				"asset": "gangplank-announcer-v1.fantome",
+				"size": 436866,
+				"sha256": "c5e301acba9f8efb7baec0d69e89bde38b4be21cf6dc7a099ba42ff3e94850a6"
+			}
+		},
+		{
+			"id": "gangplank-announcer-ru",
+			"name": "Gangplank Announcer (RU)",
+			"kind": "announcer",
+			"creator": "dear-agony",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/gangplank-announcer-ru/thumb.webp?v=9f116a48",
+			"file": {
+				"version": 1,
+				"asset": "gangplank-announcer-ru-v1.fantome",
+				"size": 11142027,
+				"sha256": "ab9c6f1a3fea95cd7449700796ca0de03c9b7c752a1187a457ddeb07d1eef2a2"
+			}
+		},
+		{
+			"id": "garena-onmyoji-vn-font",
+			"name": "Garena Onmyoji VN Font",
+			"kind": "fonts",
+			"creator": "konari",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/garena-onmyoji-vn-font/thumb.webp?v=d9a6aee4",
+			"file": {
+				"version": 1,
+				"asset": "garena-onmyoji-vn-font-v1.fantome",
+				"size": 3064343,
+				"sha256": "f3540ead918020a6c638cc23e5aaec521905434b4f2bc4dd86076a0476dac7c4"
+			}
+		},
+		{
+			"id": "gas-gas-gas-nunu-willump",
+			"name": "GAS GAS GAS Nunu & Willump",
+			"kind": "sounds",
+			"creator": "pico-senpai",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/gas-gas-gas-nunu-willump/thumb.webp?v=4b97f7d7",
+			"file": {
+				"version": 1,
+				"asset": "gas-gas-gas-nunu-willump-v1.fantome",
+				"size": 10937135,
+				"sha256": "32036ef765942cab0d04400d2e80cb95168a3935a022566e7e1bd16c7eee41f5"
+			}
+		},
+		{
+			"id": "gas-gas-gas-rammus",
+			"name": "GAS GAS GAS Rammus",
+			"kind": "sounds",
+			"creator": "pico-senpai",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/gas-gas-gas-rammus/thumb.webp?v=21429f0e",
+			"file": {
+				"version": 1,
+				"asset": "gas-gas-gas-rammus-v1.fantome",
+				"size": 4129954,
+				"sha256": "93ba8218f6a86f9c616a2beb2df9c78c3b09a4cfc2b351eb12a402b5d4e14cdc"
+			}
+		},
+		{
+			"id": "gaster-kassadin-ult-sfx",
+			"name": "Gaster Kassadin Ult SFX",
+			"kind": "sounds",
+			"creator": "lawarmor",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/gaster-kassadin-ult-sfx/thumb.webp?v=fd810493",
+			"file": {
+				"version": 1,
+				"asset": "gaster-kassadin-ult-sfx-v1.fantome",
+				"size": 922265,
+				"sha256": "b80c6d6e8cf05b64be273641abecb422ebbc4596846b86631db68bd31f40893c"
+			}
+		},
+		{
+			"id": "general-grievous-announcer",
+			"name": "General Grievous Announcer",
+			"kind": "announcer",
+			"creator": "ramu3x",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/general-grievous-announcer/thumb.webp?v=9327d370",
+			"file": {
+				"version": 1,
+				"asset": "general-grievous-announcer-v1.fantome",
+				"size": 7276445,
+				"sha256": "d7df77ae331110da68fcf47e0893dd2cb195ff1aba9a85327319d9c3f7b817c3"
+			}
+		},
+		{
+			"id": "german-announcer",
+			"name": "German Announcer",
+			"kind": "announcer",
+			"creator": "aropatnik",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/german-announcer/thumb.webp?v=82e8be79",
+			"file": {
+				"version": 1,
+				"asset": "german-announcer-v1.fantome",
+				"size": 55472757,
+				"sha256": "d345869c0c0142d48be18e5ae5fb9c198cde633e2cf275db457b07c630ba3bf8"
 			}
 		}
 	]

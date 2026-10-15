@@ -1,0 +1,17 @@
+{
+	"id": "gas-gas-gas-rammus",
+	"name": "GAS GAS GAS Rammus",
+	"kind": "sounds",
+	"creator": "pico-senpai",
+	"description": "## **MOD INFORMATION**\n\n* Author: Pico Senpai\n* Mod Version: 1.0.0\n* Modified champion: Rammus\n* Modified sound: Rammus' Q\n\n## **DESCRIPTION**\n\n* Rammus becomes a car and plays a part of the song \"GAS GAS GAS\" by Initial D when using his Q\n\n## **SOCIALS**\n\n![](https://static.wixstatic.com/media/e2a744_abb27c3529754e04ab6ad06fd9c7ab56~mv2.png/v1/fill/w_740,h_416,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e2a744_abb27c3529754e04ab6ad06fd9c7ab56~mv2.png)\n\n###\nAdd me on Discord: pico\\_senpai\n\n### My Youtube channel: [Pico Senpai](https://www.youtube.com/channel/UCAZfp8d8ZLFUurid3w2wElQ)\n\n### Support me on Patreon!: [PicoSenpaiSFW](https://www.patreon.com/PicoSenpaiSFW)\n\n---\n\n**Created by** [Pico Senpai](https://runeforge.dev/users/Pico_Senpai)\n\n**Original:** https://runeforge.dev/mods/298b00d3-0225-4e77-9516-cd434c1f84e3\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/gas-gas-gas-rammus/thumb.webp?v=21429f0e",
+	"file": {
+		"version": 1,
+		"asset": "gas-gas-gas-rammus-v1.fantome",
+		"size": 4129954,
+		"sha256": "93ba8218f6a86f9c616a2beb2df9c78c3b09a4cfc2b351eb12a402b5d4e14cdc"
+	}
+}

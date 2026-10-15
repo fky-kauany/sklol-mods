@@ -1,0 +1,17 @@
+{
+	"id": "gameboy-font",
+	"name": "GameBoy Font",
+	"kind": "fonts",
+	"creator": "tyre-4770",
+	"description": "## ♥ Mod Info ♥\n\n* Fonts Replaced: UI\n* Name of used Font: Game Boy\n* Author: Tyre 4770\n* Skin Version: 1.0\n* Description: Game Boy font for League of Legos\n\n\n\n⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦\n\nMarch 7th 2024: updated for patch 14.5\n\n---\n\n**Created by** [Tyre 4770](https://runeforge.dev/users/Tyre_4770)\n\n**Original:** https://runeforge.dev/mods/16328deb-28f2-41f1-98e3-e57d775ff17b\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/gameboy-font/thumb.webp?v=b9487293",
+	"file": {
+		"version": 1,
+		"asset": "gameboy-font-v1.fantome",
+		"size": 12295,
+		"sha256": "904b43b4a3e30b59a523f02a8940b00279744c95010f95633a239f8da22c11cd"
+	}
+}

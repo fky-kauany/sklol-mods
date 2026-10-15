@@ -1,0 +1,17 @@
+{
+	"id": "gas-gas-gas-nunu-willump",
+	"name": "GAS GAS GAS Nunu & Willump",
+	"kind": "sounds",
+	"creator": "pico-senpai",
+	"description": "## **MOD INFORMATION**\n\n* Author: Pico Senpai\n* Mod Version: 1.0.1\n* Modified champion: Nunu & Willump\n* Modified sound: Nunu & Willump's W\n\n## **DESCRIPTION**\n\n* When using your W \"Gas Gas Gas\" by Manuel plays for the entire duration of the ability\n\n## **SOCIALS**\n\n![](https://static.wixstatic.com/media/e2a744_abb27c3529754e04ab6ad06fd9c7ab56~mv2.png/v1/fill/w_740,h_416,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e2a744_abb27c3529754e04ab6ad06fd9c7ab56~mv2.png)\n\n###\nAdd me on Discord: pico\\_senpai\n\n### My Youtube channel: [Pico Senpai](https://www.youtube.com/channel/UCAZfp8d8ZLFUurid3w2wElQ)\n\n### Support me on Patreon!: [PicoSenpai](https://www.patreon.com/PicoSenpaiSFW)\n\n---\n\n**Created by** [Pico Senpai](https://runeforge.dev/users/Pico_Senpai)\n\n**Original:** https://runeforge.dev/mods/9dfbf3cf-37d6-494b-b789-ce8968bc583f\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/gas-gas-gas-nunu-willump/thumb.webp?v=4b97f7d7",
+	"file": {
+		"version": 1,
+		"asset": "gas-gas-gas-nunu-willump-v1.fantome",
+		"size": 10937135,
+		"sha256": "32036ef765942cab0d04400d2e80cb95168a3935a022566e7e1bd16c7eee41f5"
+	}
+}
