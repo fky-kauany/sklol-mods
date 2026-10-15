@@ -1,0 +1,17 @@
+{
+	"id": "bury-the-light-yasuo",
+	"name": "Bury the Light Yasuo",
+	"kind": "sounds",
+	"creator": "pico-senpai",
+	"description": "## **MOD INFORMATION**\n\n* Author: Pico Senpai\n* Mod Version: 1.0.1\n* Modified champion: Yasuo\n* Modified sound: Yasuo's ultimate\n\n## **DESCRIPTION**\n\n* Taking inspiration from Vergil's incredible combos, Yasuo decided to replace the 1st son of Sparda himself, making him play \"Bury the Light\" from DMC5 everytime he ults for around 15 seconds.\n\n## **SOCIALS**\n\n![](https://static.wixstatic.com/media/e2a744_abb27c3529754e04ab6ad06fd9c7ab56~mv2.png/v1/fill/w_740,h_416,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e2a744_abb27c3529754e04ab6ad06fd9c7ab56~mv2.png)\n\n###\nAdd me on Discord: pico\\_senpai\n\n### My Youtube channel: [Pico Senpai](https://www.youtube.com/channel/UCAZfp8d8ZLFUurid3w2wElQ)\n\n### Support me on Patreon!: [PicoSenpai](https://www.patreon.com/PicoSenpaiSFW)\n\n---\n\n**Created by** [Pico Senpai](https://runeforge.dev/users/Pico_Senpai)\n\n**Original:** https://runeforge.dev/mods/d0a18c5c-35aa-44c1-b07e-ecb23fe1df16\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/bury-the-light-yasuo/thumb.webp?v=fad435b8",
+	"file": {
+		"version": 1,
+		"asset": "bury-the-light-yasuo-v1.fantome",
+		"size": 17597950,
+		"sha256": "0fae5d9eef9633eee50002a2191b24a58112128a9fcf00434b45984af3056aaf"
+	}
+}

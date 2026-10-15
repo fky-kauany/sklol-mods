@@ -1,0 +1,22 @@
+{
+	"id": "cats-vs-dogs-minions",
+	"name": "Cats vs Dogs Minions",
+	"kind": "mobs",
+	"creator": "moga",
+	"description": "###\n\nCats vs Dogs Minions!\n\n#\n\n### Overview:\n\n* Works on ALL minion skins, so other maps, like Noxus Rift, will have these only if given load priority.\n* Works in ALL Game Modes! - SR - ARAM - BRAWL\n\nPlease report bugs\n\n#\n\nClick either image below to use the other minion skins      ᓚᘏᗢ ♡ ᗢᘏᓗ\n\nhttps://runeforge.dev/mods/24b2d9c2-6705-49f1-80f8-b46e27b3a859\nhttps://runeforge.dev/mods/587042b0-860e-4ade-adc5-0d24ac3fd9d9\n\nhttps://discord.gg/gSXbEmPQCA\n\n---\n\n**Created by** [Moga](https://runeforge.dev/users/Moga)\n\n**Original:** https://runeforge.dev/mods/1ea78257-b704-4dab-ae40-992e6e269221\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/cats-vs-dogs-minions/thumb.webp?v=91fce7ec",
+	"file": {
+		"version": 1,
+		"asset": "cats-vs-dogs-minions-v1.fantome",
+		"size": 8469424,
+		"sha256": "c3cf32cd6f160a8d31f7adef4de5702e6a7306cb885b0405a3bff34a32b5168f"
+	},
+	"maps": [
+		11,
+		12,
+		35
+	]
+}

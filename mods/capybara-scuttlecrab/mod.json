@@ -1,0 +1,22 @@
+{
+	"id": "capybara-scuttlecrab",
+	"name": "Capybara Scuttlecrab",
+	"kind": "mobs",
+	"creator": "frog",
+	"description": "# Repair, fixed for Brawl. Ty Moga\n\n## Replaces the ScuttleCrab with a Capybara\n\nModel taken from TFT (Kapi Companion)\n\n*Fan-made, not affiliated with Riot Games or any other company.*\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/capybara-scuttlecrab\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/capybara-scuttlecrab/thumb.webp?v=f63c0eef",
+	"file": {
+		"version": 1,
+		"asset": "capybara-scuttlecrab-v1.fantome",
+		"size": 15933828,
+		"sha256": "84121d815c34280993e4fbb7af6145d9ab390dc4c4c04d17f7db1f6f6e4bd0ed"
+	},
+	"maps": [
+		11,
+		12,
+		35
+	]
+}

@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T07:35:50.711Z",
+	"generatedAt": "2026-10-15T07:38:29.656Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -143,6 +143,13 @@
 				"youtube": "https://youtu.be/D6MuCDAlA9Y?si=r_OtOm_IvjIUa1zc"
 			}
 		},
+		"frog": {
+			"name": "Frog",
+			"bio": "XD",
+			"links": {
+				"youtube": "https://www.youtube.com/@NotAFriendlyFrog"
+			}
+		},
 		"gloomytree": {
 			"name": "Gloomy Tree",
 			"avatar": "creators/gloomytree.jpg?v=b46ed5c2",
@@ -276,6 +283,16 @@
 			"avatar": "creators/rengoku-kyojuro.jpg?v=e317561b",
 			"links": {}
 		},
+		"rhbarber": {
+			"name": "Rhbarber",
+			"avatar": "creators/rhbarber.png?v=f2ff85b4",
+			"bio": "Idk, just making funny stuff. Love cats.\n\n![awoo](https://rhbarber.com/ss/awoo_cat.gif)",
+			"links": {
+				"discord": "https://discord.com/users/367779328940965898",
+				"twitch": "https://www.twitch.tv/fortyonevayne",
+				"x": "https://x.com/its_nabetse"
+			}
+		},
 		"runeforgerecoveryteam": {
 			"name": "RuneforgeRecoveryTeam",
 			"avatar": "creators/runeforgerecoveryteam.jpg?v=cdcfffea",
@@ -306,6 +323,16 @@
 			"bio": "## Ahai,\n\n\nI usually make custom skins when something annoys me and I want to fix it, so most often its connected to VFX colors, textures and small model tweaks.\n\n---\n\n## Donations appreciated!\n\n\nPayPal: [paypal.me/SuriinRuneforge](https://paypal.me/SuriinRuneforge)\n\nKo-fi: [ko-fi.com/suriinruneforge](https://ko-fi.com/suriinruneforge)\n\n---\n\n*~Count your blessings, keep 'em sweet*",
 			"links": {
 				"kofi": "https://ko-fi.com/suriinruneforge"
+			}
+		},
+		"tor-lol": {
+			"name": "tor.lol",
+			"avatar": "creators/tor-lol.webp?v=254b6187",
+			"bio": "Dear SoloQ Bronze Donkeys,\n\nI’m torlol, new to the community and always open to ideas, commissions, and fun mods.\n\nFree Gaza type sht.\n\nGot an idea for a mod or UI change? Feel free to reach out.\n\nDiscord & TikTok: tor.lol\n\nREPORT MY MODS VIA DISCORD SO I CAN FIX THEM\nI DONT DO SHT ABOUT IT WITHOUT FOOTAGE OR PROOF!",
+			"links": {
+				"discord": "https://discord.com/users/1025295287461347388",
+				"tiktok": "https://tiktok.com/@tor.lol",
+				"youtube": "https://youtu.be/IxX_QHay02M"
 			}
 		},
 		"tyre-4770": {
@@ -1903,6 +1930,169 @@
 				"size": 1977533,
 				"sha256": "3c252896a3f969906a5b9321bb614df5f7a97869068ab6f3254ab8908eee611a"
 			}
+		},
+		{
+			"id": "bury-the-light-pantheon",
+			"name": "Bury the Light Pantheon",
+			"kind": "sounds",
+			"creator": "pico-senpai",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/bury-the-light-pantheon/thumb.webp?v=a7693ac4",
+			"file": {
+				"version": 1,
+				"asset": "bury-the-light-pantheon-v1.fantome",
+				"size": 13866592,
+				"sha256": "0de9833f68df148c12168c5a1114e5a502a882132d0afef513212e46c21af834"
+			}
+		},
+		{
+			"id": "bury-the-light-yasuo",
+			"name": "Bury the Light Yasuo",
+			"kind": "sounds",
+			"creator": "pico-senpai",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/bury-the-light-yasuo/thumb.webp?v=fad435b8",
+			"file": {
+				"version": 1,
+				"asset": "bury-the-light-yasuo-v1.fantome",
+				"size": 17597950,
+				"sha256": "0fae5d9eef9633eee50002a2191b24a58112128a9fcf00434b45984af3056aaf"
+			}
+		},
+		{
+			"id": "cafe-cuties-yuumi-english-vo-wr-port",
+			"name": "Cafe Cuties Yuumi English VO WR Port",
+			"kind": "sounds",
+			"creator": "matthewchasm",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/cafe-cuties-yuumi-english-vo-wr-port/thumb.webp?v=0c7b0f2f",
+			"file": {
+				"version": 1,
+				"asset": "cafe-cuties-yuumi-english-vo-wr-port-v1.fantome",
+				"size": 5238735,
+				"sha256": "e39d5c39e772c0683dd30949afc6750b59419ce6a9218323bf3f2477ed1df1fa"
+			}
+		},
+		{
+			"id": "cafe-cuties-yuumi-japanese-vo-wr-port",
+			"name": "Cafe Cuties Yuumi Japanese VO WR Port",
+			"kind": "sounds",
+			"creator": "matthewchasm",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/cafe-cuties-yuumi-japanese-vo-wr-port/thumb.webp?v=5651114d",
+			"file": {
+				"version": 1,
+				"asset": "cafe-cuties-yuumi-japanese-vo-wr-port-v1.fantome",
+				"size": 6355252,
+				"sha256": "b544d8d606e9a0291a551a2005f42080c48d19a2b314491c2ffee204dec4ee80"
+			}
+		},
+		{
+			"id": "capybara-scuttlecrab",
+			"name": "Capybara Scuttlecrab",
+			"kind": "mobs",
+			"creator": "frog",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/capybara-scuttlecrab/thumb.webp?v=f63c0eef",
+			"file": {
+				"version": 1,
+				"asset": "capybara-scuttlecrab-v1.fantome",
+				"size": 15933828,
+				"sha256": "84121d815c34280993e4fbb7af6145d9ab390dc4c4c04d17f7db1f6f6e4bd0ed"
+			},
+			"maps": [
+				11,
+				12,
+				35
+			]
+		},
+		{
+			"id": "carat-gold-text-from-uma-musume-pretty-derby",
+			"name": "Carat Gold Text from Uma Musume Pretty Derby",
+			"kind": "ui",
+			"creator": "davex",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/carat-gold-text-from-uma-musume-pretty-derby/thumb.webp?v=14fae6cb",
+			"file": {
+				"version": 1,
+				"asset": "carat-gold-text-from-uma-musume-pretty-derby-v1.fantome",
+				"size": 9493,
+				"sha256": "ef43e7bab14f76946bff6fe3343106d845626a50d388be203b69e052b19939c2"
+			}
+		},
+		{
+			"id": "cash-dollars-gold-text",
+			"name": "Cash/Dollars - Gold Text",
+			"kind": "ui",
+			"creator": "tor-lol",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/cash-dollars-gold-text/thumb.webp?v=dff9a563",
+			"file": {
+				"version": 1,
+				"asset": "cash-dollars-gold-text-v1.fantome",
+				"size": 5726,
+				"sha256": "a1a3c5e66a7fac1e43664b08899e8267338f1498f1d728944750656eb1cef765"
+			}
+		},
+		{
+			"id": "cat-memes-sounds-for-spells",
+			"name": "Cat Memes Sounds for Spells",
+			"kind": "sounds",
+			"creator": "rhbarber",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/cat-memes-sounds-for-spells/thumb.webp?v=a18d38bb",
+			"file": {
+				"version": 1,
+				"asset": "cat-memes-sounds-for-spells-v1.fantome",
+				"size": 9292343,
+				"sha256": "6945e1a123caac282a2784a9a7dd81e6e9e962847150005437f97dd05f40e52b"
+			}
+		},
+		{
+			"id": "cats-vs-dogs-minions",
+			"name": "Cats vs Dogs Minions",
+			"kind": "mobs",
+			"creator": "moga",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/cats-vs-dogs-minions/thumb.webp?v=91fce7ec",
+			"file": {
+				"version": 1,
+				"asset": "cats-vs-dogs-minions-v1.fantome",
+				"size": 8469424,
+				"sha256": "c3cf32cd6f160a8d31f7adef4de5702e6a7306cb885b0405a3bff34a32b5168f"
+			},
+			"maps": [
+				11,
+				12,
+				35
+			]
 		}
 	]
 }

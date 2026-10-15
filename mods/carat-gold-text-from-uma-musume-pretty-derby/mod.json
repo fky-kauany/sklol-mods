@@ -1,0 +1,17 @@
+{
+	"id": "carat-gold-text-from-uma-musume-pretty-derby",
+	"name": "Carat Gold Text from Uma Musume Pretty Derby",
+	"kind": "ui",
+	"creator": "davex",
+	"description": "# Carat Gold Text from Uma Musume Pretty Derby :\r\n---\r\n\r\n## ⚙️ Skin Information\r\n\r\n* **Author:** Davex\r\n\r\n---\r\n\r\n## 💫 Features:\r\n\r\n- new gold colors + texture\r\n\r\n---\r\n\r\n## 💬 Contact & Support\r\n\r\nAny suggestions, ideas, questions, or bug reports? Send them over!\r\n* **Discord:** davex45a **[Come join my server!](https://discord.gg/XDF5Xma456)**\r\n**If you are interested in commissioning a skin, feel free to send me a DM on Discord! :D**\r\n\r\n💖 *If you like my work and want to keep my creativity flowing, consider supporting me!*\r\n\r\n[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/davex45)\r\n\r\n*Originally created by Davex.*\n\n---\n\n**Created by** [davex](https://runeforge.dev/users/davex)\n\n**Original:** https://runeforge.dev/mods/22ad4748-0209-4694-a1e7-f96359671785\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/carat-gold-text-from-uma-musume-pretty-derby/thumb.webp?v=14fae6cb",
+	"file": {
+		"version": 1,
+		"asset": "carat-gold-text-from-uma-musume-pretty-derby-v1.fantome",
+		"size": 9493,
+		"sha256": "ef43e7bab14f76946bff6fe3343106d845626a50d388be203b69e052b19939c2"
+	}
+}

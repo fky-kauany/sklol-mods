@@ -140,6 +140,13 @@
 			"youtube": "https://youtu.be/D6MuCDAlA9Y?si=r_OtOm_IvjIUa1zc"
 		}
 	},
+	"frog": {
+		"name": "Frog",
+		"bio": "XD",
+		"links": {
+			"youtube": "https://www.youtube.com/@NotAFriendlyFrog"
+		}
+	},
 	"gloomytree": {
 		"name": "Gloomy Tree",
 		"avatar": "creators/gloomytree.jpg?v=b46ed5c2",
@@ -273,6 +280,16 @@
 		"avatar": "creators/rengoku-kyojuro.jpg?v=e317561b",
 		"links": {}
 	},
+	"rhbarber": {
+		"name": "Rhbarber",
+		"avatar": "creators/rhbarber.png?v=f2ff85b4",
+		"bio": "Idk, just making funny stuff. Love cats.\n\n![awoo](https://rhbarber.com/ss/awoo_cat.gif)",
+		"links": {
+			"discord": "https://discord.com/users/367779328940965898",
+			"twitch": "https://www.twitch.tv/fortyonevayne",
+			"x": "https://x.com/its_nabetse"
+		}
+	},
 	"runeforgerecoveryteam": {
 		"name": "RuneforgeRecoveryTeam",
 		"avatar": "creators/runeforgerecoveryteam.jpg?v=cdcfffea",
@@ -303,6 +320,16 @@
 		"bio": "## Ahai,\n\n\nI usually make custom skins when something annoys me and I want to fix it, so most often its connected to VFX colors, textures and small model tweaks.\n\n---\n\n## Donations appreciated!\n\n\nPayPal: [paypal.me/SuriinRuneforge](https://paypal.me/SuriinRuneforge)\n\nKo-fi: [ko-fi.com/suriinruneforge](https://ko-fi.com/suriinruneforge)\n\n---\n\n*~Count your blessings, keep 'em sweet*",
 		"links": {
 			"kofi": "https://ko-fi.com/suriinruneforge"
+		}
+	},
+	"tor-lol": {
+		"name": "tor.lol",
+		"avatar": "creators/tor-lol.webp?v=254b6187",
+		"bio": "Dear SoloQ Bronze Donkeys,\n\nI’m torlol, new to the community and always open to ideas, commissions, and fun mods.\n\nFree Gaza type sht.\n\nGot an idea for a mod or UI change? Feel free to reach out.\n\nDiscord & TikTok: tor.lol\n\nREPORT MY MODS VIA DISCORD SO I CAN FIX THEM\nI DONT DO SHT ABOUT IT WITHOUT FOOTAGE OR PROOF!",
+		"links": {
+			"discord": "https://discord.com/users/1025295287461347388",
+			"tiktok": "https://tiktok.com/@tor.lol",
+			"youtube": "https://youtu.be/IxX_QHay02M"
 		}
 	},
 	"tyre-4770": {

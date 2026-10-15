@@ -1,0 +1,17 @@
+{
+	"id": "cat-memes-sounds-for-spells",
+	"name": "Cat Memes Sounds for Spells",
+	"kind": "sounds",
+	"creator": "rhbarber",
+	"description": "# 🐱 Cat Memes Sounds for Spells\r\n\r\nReplaces summoner spells' SFX with popular cat memes.\r\n\r\n## Issues\r\nFeel free to report them through [Discord](https://discord.com/users/367779328940965898) or by [email](mailto:me@rhbarber.com?subject=%22Cat%20Memes%20Sounds%20for%20Spells%22%20Mod%20Issue%20Report).\r\n\r\n## Credits\r\n\r\n- Based on [좋아요 Speaki cuayo summoner spells](https://runeforge.dev/mods/45ff90df-7a1e-481c-8f8e-5315d2d42bc6) by **archlyris**\r\n- Inspired by [awoo cat flash](https://runeforge.dev/mods/a27b8daf-bd6b-4a24-86c4-ca33afd05a7b) and [maow smite with awoo flash deluxe](https://runeforge.dev/mods/9b6312cb-e59b-4f73-95b1-58a245459a3e) by **arting**\n\n---\n\n**Created by** [Rhbarber](https://runeforge.dev/users/Rhbarber)\n\n**Original:** https://runeforge.dev/mods/9aa5f340-c9dc-49ab-842c-f5529ad41002\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/cat-memes-sounds-for-spells/thumb.webp?v=a18d38bb",
+	"file": {
+		"version": 1,
+		"asset": "cat-memes-sounds-for-spells-v1.fantome",
+		"size": 9292343,
+		"sha256": "6945e1a123caac282a2784a9a7dd81e6e9e962847150005437f97dd05f40e52b"
+	}
+}

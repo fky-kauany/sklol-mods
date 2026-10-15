@@ -1,0 +1,17 @@
+{
+	"id": "bury-the-light-pantheon",
+	"name": "Bury the Light Pantheon",
+	"kind": "sounds",
+	"creator": "pico-senpai",
+	"description": "## **MOD INFORMATION**\n\n* Author: Pico Senpai\n* Mod Version: 1.0.0\n* Modified champion: Pantheon\n* Modified sound: Pantheon's ultimate\n\n## **DESCRIPTION**\n\n* Pantheon became Vergil's greatest student and now play \"Bury the Light\" for around 10 seconds after landing with his ult.\n\n## **SOCIALS**\n\n![](https://static.wixstatic.com/media/e2a744_abb27c3529754e04ab6ad06fd9c7ab56~mv2.png/v1/fill/w_740,h_416,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e2a744_abb27c3529754e04ab6ad06fd9c7ab56~mv2.png)\n\n###\nAdd me on Discord: pico\\_senpai\n\n### My Youtube channel: [Pico Senpai](https://www.youtube.com/channel/UCAZfp8d8ZLFUurid3w2wElQ)\n\n### Support me on Patreon!: [PicoSenpaiSFW](https://www.patreon.com/PicoSenpaiSFW)\n\n---\n\n**Created by** [Pico Senpai](https://runeforge.dev/users/Pico_Senpai)\n\n**Original:** https://runeforge.dev/mods/aa04edfb-d8b5-44dc-a289-160f64bea172\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/bury-the-light-pantheon/thumb.webp?v=a7693ac4",
+	"file": {
+		"version": 1,
+		"asset": "bury-the-light-pantheon-v1.fantome",
+		"size": 13866592,
+		"sha256": "0de9833f68df148c12168c5a1114e5a502a882132d0afef513212e46c21af834"
+	}
+}

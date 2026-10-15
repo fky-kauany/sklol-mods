@@ -1,0 +1,17 @@
+{
+	"id": "cafe-cuties-yuumi-english-vo-wr-port",
+	"name": "Cafe Cuties Yuumi English VO WR Port",
+	"kind": "sounds",
+	"creator": "matthewchasm",
+	"description": "A VO mod that changes Yuumi's VO to the theme of Cafe Cuties series (Affects all skins). Changes most of Yuumi's combat VOs with some of base VOs mixed in.\n\n---\n\n**Created by** [MatthewChasm](https://runeforge.dev/users/MatthewChasm)\n\n**Original:** https://runeforge.dev/mods/f04f12ca-3c64-48fd-b834-9a2ef4711294\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/cafe-cuties-yuumi-english-vo-wr-port/thumb.webp?v=0c7b0f2f",
+	"file": {
+		"version": 1,
+		"asset": "cafe-cuties-yuumi-english-vo-wr-port-v1.fantome",
+		"size": 5238735,
+		"sha256": "e39d5c39e772c0683dd30949afc6750b59419ce6a9218323bf3f2477ed1df1fa"
+	}
+}

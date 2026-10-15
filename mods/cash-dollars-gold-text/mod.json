@@ -1,0 +1,17 @@
+{
+	"id": "cash-dollars-gold-text",
+	"name": "Cash/Dollars - Gold Text",
+	"kind": "ui",
+	"creator": "tor-lol",
+	"description": "# Dollar Stacks Gold Text\n\nTurns your usual gold-income popup into a stack of dollars. Same floating text, just a little more expensive-looking.\n\nGot an idea for another Gold Text mod? Send recommendations! I’m always looking for fun new ones to make.\n\n## Support\n\nIf you enjoy the mod, consider following me on TikTok: [@tor.lol](https://www.tiktok.com/@tor.lol)\n\n**Discord:** `tor.lol`\n\n---\n\n**Created by** [tor.lol](https://www.divineskins.gg/tor.lol)\n\n**Original:** https://www.divineskins.gg/tor.lol/dollars-gold-text\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/cash-dollars-gold-text/thumb.webp?v=dff9a563",
+	"file": {
+		"version": 1,
+		"asset": "cash-dollars-gold-text-v1.fantome",
+		"size": 5726,
+		"sha256": "a1a3c5e66a7fac1e43664b08899e8267338f1498f1d728944750656eb1cef765"
+	}
+}
