@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T10:56:08.694Z",
+	"generatedAt": "2026-10-15T11:01:43.102Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -8627,6 +8627,176 @@
 				"asset": "pride-month-emote-choose-your-gender-v1.fantome",
 				"size": 221605,
 				"sha256": "27c8817b11decd5feda6cb3076ffb96bc7070ed13044d1080b5dd47a60f6131e"
+			}
+		},
+		{
+			"id": "primogem-gold",
+			"name": "Primogem Gold",
+			"kind": "ui",
+			"creator": "sm0nks",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/primogem-gold/thumb.webp?v=bb00ec82",
+			"file": {
+				"version": 1,
+				"asset": "primogem-gold-v1.fantome",
+				"size": 14308,
+				"sha256": "1e198319206c532af21930850961eddc8351514a87cf3e11e924f60409f9dab6"
+			}
+		},
+		{
+			"id": "primogem-gold-pixelated",
+			"name": "Primogem Gold Pixelated",
+			"kind": "ui",
+			"creator": "sm0nks",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/primogem-gold-pixelated/thumb.webp?v=039aee1c",
+			"file": {
+				"version": 1,
+				"asset": "primogem-gold-pixelated-v1.fantome",
+				"size": 9808,
+				"sha256": "86cfc3cc08c0d1e4e4f544d4e4082fac789a683ee415783cf1e0b820e45901e5"
+			}
+		},
+		{
+			"id": "primordian-aatrox-chroma-vfx",
+			"name": "Primordian Aatrox chroma VFX",
+			"kind": "other",
+			"creator": "suriin",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/primordian-aatrox-chroma-vfx/thumb.webp?v=aee5a955",
+			"file": {
+				"version": 1,
+				"asset": "primordian-aatrox-chroma-vfx-v1.fantome",
+				"size": 20342587,
+				"sha256": "974e3a501c8bfeb657668f17dbc61d8dd2a295dc427687fe60d2ad1b8fa28306"
+			}
+		},
+		{
+			"id": "primordian-aatrox-skill-icons",
+			"name": "Primordian Aatrox Skill Icons",
+			"kind": "ui",
+			"creator": "guvercin",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/primordian-aatrox-skill-icons/thumb.webp?v=32bac138",
+			"file": {
+				"version": 1,
+				"asset": "primordian-aatrox-skill-icons-v1.fantome",
+				"size": 14830,
+				"sha256": "7b191752bc3497e4fa733cd5c023fc0710652b72c86ac0cc051a3caefadf65f3"
+			}
+		},
+		{
+			"id": "prince-sfx-hecarim",
+			"name": "Prince SFX Hecarim",
+			"kind": "sounds",
+			"creator": "gloomytree",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/prince-sfx-hecarim/thumb.webp?v=ec3ef95f",
+			"file": {
+				"version": 1,
+				"asset": "prince-sfx-hecarim-v1.fantome",
+				"size": 1084476,
+				"sha256": "388509ab397df6ae7d69010a419fc76bca33e7a25734ac21a140ed5456ff817b"
+			}
+		},
+		{
+			"id": "princess-zelda-announcer",
+			"name": "Princess Zelda Announcer",
+			"kind": "announcer",
+			"creator": "ramu3x",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/princess-zelda-announcer/thumb.webp?v=1af9c899",
+			"file": {
+				"version": 1,
+				"asset": "princess-zelda-announcer-v1.fantome",
+				"size": 6980918,
+				"sha256": "a0cf9a1b30a9733a6d448f9743aca9cf5a9c394a1d4aabf01cf5af8b9a2d3548"
+			}
+		},
+		{
+			"id": "project-bgm",
+			"name": "PROJECT: BGM",
+			"kind": "sounds",
+			"creator": "zamius",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/project-bgm/thumb.webp?v=83b6775d",
+			"file": {
+				"version": 1,
+				"asset": "project-bgm-v1.fantome",
+				"size": 11526461,
+				"sha256": "760c0930028cd2ff604afd0c2354ffd736548a5419448a7a2d885b7d0e784a26"
+			}
+		},
+		{
+			"id": "project-pyke-chroma-vfx",
+			"name": "PROJECT: Pyke chroma VFX",
+			"kind": "other",
+			"creator": "suriin",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/project-pyke-chroma-vfx/thumb.webp?v=85e58c32",
+			"file": {
+				"version": 1,
+				"asset": "project-pyke-chroma-vfx-v1.fantome",
+				"size": 27249562,
+				"sha256": "2a23be0d7c1ff526b271324523b24b8e9565b80aacdb2ff3ac53853fa756b9d1"
+			}
+		},
+		{
+			"id": "project-senna-red",
+			"name": "PROJECT Senna - Red",
+			"kind": "other",
+			"creator": "1gem1",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/project-senna-red/thumb.webp?v=bd8dd26b",
+			"file": {
+				"version": 1,
+				"asset": "project-senna-red-v1.fantome",
+				"size": 6181907,
+				"sha256": "a198bb0dffaeea61bfd0ea7dafe20b8c3dae60337dd20830e1614b38ae6f65de"
+			}
+		},
+		{
+			"id": "project-vayne-gold",
+			"name": "PROJECT Vayne - Gold",
+			"kind": "other",
+			"creator": "1gem1",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/project-vayne-gold/thumb.webp?v=a182cd07",
+			"file": {
+				"version": 1,
+				"asset": "project-vayne-gold-v1.fantome",
+				"size": 1216790,
+				"sha256": "c49e33f812d7c04bcbc4a130d06a9d1ef1e12a9743942e2411a450daedb74846"
 			}
 		}
 	]

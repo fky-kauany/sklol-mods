@@ -1,0 +1,17 @@
+{
+	"id": "project-bgm",
+	"name": "PROJECT: BGM",
+	"kind": "sounds",
+	"creator": "zamius",
+	"description": "### MOD INFORMATION\r\n\r\n**Modified Sounds:** Background music\r\n\r\n**Author:** Zamius\r\n\r\n**Description:** Changes Summoner’s Rift Classic-theme background music to PROJECT-theme music.\r\n\r\n##\r\n\r\n**NOTICE**\r\n\r\nYou need to select the Classic theme from the game's sound settings for this mod to work!\n\n---\n\n**Created by** [Zamius](https://runeforge.dev/users/Zamius)\n\n**Original:** https://runeforge.dev/mods/731fa51b-ec98-4472-936e-b268b7854050\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/project-bgm/thumb.webp?v=83b6775d",
+	"file": {
+		"version": 1,
+		"asset": "project-bgm-v1.fantome",
+		"size": 11526461,
+		"sha256": "760c0930028cd2ff604afd0c2354ffd736548a5419448a7a2d885b7d0e784a26"
+	}
+}

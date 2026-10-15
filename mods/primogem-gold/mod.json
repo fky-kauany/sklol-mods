@@ -1,0 +1,17 @@
+{
+	"id": "primogem-gold",
+	"name": "Primogem Gold",
+	"kind": "ui",
+	"creator": "sm0nks",
+	"description": "### Mod Info\r\n* Changes the gold gained to primogems\r\n* Not transferable between games\n\n---\n\n**Created by** [sm0nks](https://runeforge.dev/users/sm0nks)\n\n**Original:** https://runeforge.dev/mods/e1b82b14-ebb0-4f22-929a-d184469ebf96\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/primogem-gold/thumb.webp?v=bb00ec82",
+	"file": {
+		"version": 1,
+		"asset": "primogem-gold-v1.fantome",
+		"size": 14308,
+		"sha256": "1e198319206c532af21930850961eddc8351514a87cf3e11e924f60409f9dab6"
+	}
+}

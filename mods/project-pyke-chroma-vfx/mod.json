@@ -1,0 +1,17 @@
+{
+	"id": "project-pyke-chroma-vfx",
+	"name": "PROJECT: Pyke chroma VFX",
+	"kind": "other",
+	"creator": "suriin",
+	"description": "## Important info\n\nThis will clash with any custom skin that modifies PROJECT: Pyke. 1 file for all chromas. \n\n## Description\n\n**Author**: Suriin\n\n**Skin**: PROJECT: Pyke\n\n**Affects**: VFX colors\n\nDone upon request. Adds matching spell colors to every chroma, base remains the same.\n\n\n## Contact\n\nIf you have any issues or questions you can message me on discord: .suriin Just make sure you are on the RuneForge server.\n\n---\n\n### You can support me on Ko-Fi [ko-fi.com/suriinruneforge](https://ko-fi.com/suriinruneforge) <3\n\n---\n\n**Created by** [Suriin](https://runeforge.dev/users/Suriin)\n\n**Original:** https://runeforge.dev/mods/1249487c-eba9-409a-acb9-1f4f6a2729df\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/project-pyke-chroma-vfx/thumb.webp?v=85e58c32",
+	"file": {
+		"version": 1,
+		"asset": "project-pyke-chroma-vfx-v1.fantome",
+		"size": 27249562,
+		"sha256": "2a23be0d7c1ff526b271324523b24b8e9565b80aacdb2ff3ac53853fa756b9d1"
+	}
+}

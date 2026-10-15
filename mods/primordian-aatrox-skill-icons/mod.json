@@ -1,0 +1,17 @@
+{
+	"id": "primordian-aatrox-skill-icons",
+	"name": "Primordian Aatrox Skill Icons",
+	"kind": "ui",
+	"creator": "guvercin",
+	"description": "Primordian Aatrox Skill Icons changes Aatrox's hud\n\nI used Aatrox's in Game model, Cinematic ult scene and some Icons\n\nLooking for more?\n\nHere Yasuo version: [https://runeforge.dev/mods/f136a8f6-471e-4a04-8050-7c9c40f9ff35](https://runeforge.dev/mods/f136a8f6-471e-4a04-8050-7c9c40f9ff35)\n\nHere Jhin version: [https://runeforge.dev/mods/94075e99-565e-4c7f-8e6f-c03c8fc275b7](https://runeforge.dev/mods/94075e99-565e-4c7f-8e6f-c03c8fc275b7)\n\n---\n\n**Created by** [Güvercin](https://runeforge.dev/users/Guvercin)\n\n**Original:** https://runeforge.dev/mods/761da2be-9b64-4189-9122-4a44506eab01\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/primordian-aatrox-skill-icons/thumb.webp?v=32bac138",
+	"file": {
+		"version": 1,
+		"asset": "primordian-aatrox-skill-icons-v1.fantome",
+		"size": 14830,
+		"sha256": "7b191752bc3497e4fa733cd5c023fc0710652b72c86ac0cc051a3caefadf65f3"
+	}
+}

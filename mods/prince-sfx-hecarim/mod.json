@@ -1,0 +1,17 @@
+{
+	"id": "prince-sfx-hecarim",
+	"name": "Prince SFX Hecarim",
+	"kind": "sounds",
+	"creator": "gloomytree",
+	"description": "Replace Hecarim SFX with Prince from Clash Royale\n\n> Certified Gloomy Tree Banger.\n\n---\n\n**Created by** [Gloomy Tree](https://runeforge.dev/users/GloomyTree)\n\n**Original:** https://runeforge.dev/mods/c7c2b287-2203-4f3d-9e4b-28d978fa838b\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/prince-sfx-hecarim/thumb.webp?v=ec3ef95f",
+	"file": {
+		"version": 1,
+		"asset": "prince-sfx-hecarim-v1.fantome",
+		"size": 1084476,
+		"sha256": "388509ab397df6ae7d69010a419fc76bca33e7a25734ac21a140ed5456ff817b"
+	}
+}

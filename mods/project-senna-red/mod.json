@@ -1,0 +1,17 @@
+{
+	"id": "project-senna-red",
+	"name": "PROJECT Senna - Red",
+	"kind": "other",
+	"creator": "1gem1",
+	"description": "## Skin modified - PROJECT: Senna\r\n\r\n╰┈➤ _The idea for this mod was to give Senna a red chroma for this skin, I thought it'd look pretty cool_\r\n\r\n\r\n\r\n _Please remember to disable any other custom skin for this champ to avoid major bugs !!_\r\n\r\n\r\n# **➫ Any suggestions, ideas, questions or bug reports?**\r\n\r\nSend them over [**here! (my discord)**](https://discord.gg/6MTrrVbwgm)\n\n---\n\n**Created by** [1gem1rachel](https://runeforge.dev/users/1gem1)\n\n**Original:** https://runeforge.dev/mods/e4f74a0d-cfc6-49cb-a5b9-070105b54d57\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/project-senna-red/thumb.webp?v=bd8dd26b",
+	"file": {
+		"version": 1,
+		"asset": "project-senna-red-v1.fantome",
+		"size": 6181907,
+		"sha256": "a198bb0dffaeea61bfd0ea7dafe20b8c3dae60337dd20830e1614b38ae6f65de"
+	}
+}

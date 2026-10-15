@@ -1,0 +1,17 @@
+{
+	"id": "princess-zelda-announcer",
+	"name": "Princess Zelda Announcer",
+	"kind": "announcer",
+	"creator": "ramu3x",
+	"description": "# MOD INFO\n\n*Modifies the Summoner's Rift Announcer to Princess Zelda from Breath of the Wild*\n\n# CONTACT \n\n*Msg me on Discord @ramu3x\n\n# BESTOWAL\n\n> *\" the act of giving something as an honor or a gift* \"\n\n*If thouest art compelled to bestow upon me with thine money, clicketh thee this ko-fi link* [*https://ko-fi.com/ramu3x*](https://ko-fi.com/ramu3x)\n\n---\n\n**Created by** [Ramu3X](https://runeforge.dev/users/Ramu3X)\n\n**Original:** https://runeforge.dev/mods/edf41e9c-3e1e-4517-83e2-b7ce8d23a819\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/princess-zelda-announcer/thumb.webp?v=1af9c899",
+	"file": {
+		"version": 1,
+		"asset": "princess-zelda-announcer-v1.fantome",
+		"size": 6980918,
+		"sha256": "a0cf9a1b30a9733a6d448f9743aca9cf5a9c394a1d4aabf01cf5af8b9a2d3548"
+	}
+}
