@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T07:57:38.193Z",
+	"generatedAt": "2026-10-15T08:11:51.122Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -111,6 +111,14 @@
 			"name": "C_J_S",
 			"avatar": "creators/c-j-s.png?v=3a338fcc",
 			"links": {}
+		},
+		"craq": {
+			"name": "craq",
+			"avatar": "creators/craq.jpg?v=826b9d99",
+			"links": {
+				"site": "https://www.nexusmods.com/profile/craq47",
+				"youtube": "https://www.youtube.com/watch?v=j4690imtqKA"
+			}
 		},
 		"cyanidepillz": {
 			"name": "CyanidePillz",
@@ -3141,6 +3149,40 @@
 				"asset": "debonair-draven-chroma-vfx-v1.fantome",
 				"size": 13504097,
 				"sha256": "a58fc5ce6ca43dfe16d5a5111d61230dac4f0d53e9029422b7f74375036d9239"
+			}
+		},
+		{
+			"id": "deco-27-bgm",
+			"name": "DECO*27 BGM",
+			"kind": "sounds",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/deco-27-bgm/thumb.webp?v=47417339",
+			"file": {
+				"version": 1,
+				"asset": "deco-27-bgm-v1.fantome",
+				"size": 40213343,
+				"sha256": "7384205c41eb46a18d5f72a79d98b30d0f400f697362cc5023854f668bbdcb33"
+			}
+		},
+		{
+			"id": "default-kassadin-ukrainian-voiceover",
+			"name": "Default Kassadin (Ukrainian Voiceover)",
+			"kind": "sounds",
+			"creator": "craq",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/default-kassadin-ukrainian-voiceover/thumb.webp?v=b1f92e03",
+			"file": {
+				"version": 1,
+				"asset": "default-kassadin-ukrainian-voiceover-v1.fantome",
+				"size": 628724,
+				"sha256": "e87a568fa265c0a56726b70fb24668d857d6b2d95ee399a0479768f67a26abc4"
 			}
 		}
 	]

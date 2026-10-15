@@ -1,0 +1,17 @@
+{
+	"id": "default-kassadin-ukrainian-voiceover",
+	"name": "Default Kassadin (Ukrainian Voiceover)",
+	"kind": "sounds",
+	"creator": "craq",
+	"description": "# Mod Information\nUkrainian voiceover for Kassadin. Українське озвучення для персонажа Кассадіна.\n\nActor: [Роман Грибовський](https://www.youtube.com/watch?v=j4690imtqKA)\n\nОзвучка у вигляді окремого моду для **CS LOL Manager**, цілком легально.\n\nПрацює з усіма скінами, які не змінюють озвучку (тобто **епік**, та нижче).\n\n> P.S. Конкретно у цьому випадку озвучка у демо та у грі трохи відрізняється. Я скористався налаштуваннями з [цього відео](https://www.youtube.com/watch?v=U_nIod398gM), щоб зробити максимально відповідний голос до оригіналу.\n\n---\n\n**Created by** [craq](https://runeforge.dev/users/craq)\n\n**Original:** https://runeforge.dev/mods/8e7342d5-1704-43ce-9072-2858fdb38881\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/default-kassadin-ukrainian-voiceover/thumb.webp?v=b1f92e03",
+	"file": {
+		"version": 1,
+		"asset": "default-kassadin-ukrainian-voiceover-v1.fantome",
+		"size": 628724,
+		"sha256": "e87a568fa265c0a56726b70fb24668d857d6b2d95ee399a0479768f67a26abc4"
+	}
+}

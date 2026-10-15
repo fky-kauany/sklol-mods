@@ -1,0 +1,17 @@
+{
+	"id": "deco-27-bgm",
+	"name": "DECO*27 BGM",
+	"kind": "sounds",
+	"creator": "aurecueil",
+	"description": "## ☕ Wanna buy me a [Coffee](https://ko-fi.com/aurecueil)? :> \r\n[![My Discord Server ^^](https://raw.githubusercontent.com/Aurecueil/Temp/refs/heads/main/images/banner6_better.png)](https://discord.gg/GETA29vZEK)\r\n\r\n## 📦 Misc\r\n\r\n**Discord:** `aurecueil`\r\n\r\ni DO take commissions :p\n\n---\n\n**Created by** [aurecueil](https://runeforge.dev/users/aurecueil)\n\n**Original:** https://runeforge.dev/mods/d072c381-9df0-42c5-bd5d-beeb00dba758\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/deco-27-bgm/thumb.webp?v=47417339",
+	"file": {
+		"version": 1,
+		"asset": "deco-27-bgm-v1.fantome",
+		"size": 40213343,
+		"sha256": "7384205c41eb46a18d5f72a79d98b30d0f400f697362cc5023854f668bbdcb33"
+	}
+}
