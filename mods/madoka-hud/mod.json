@@ -1,0 +1,17 @@
+{
+	"id": "madoka-hud",
+	"name": "madoka hud ♥",
+	"kind": "ui",
+	"creator": "miyu",
+	"description": "madoka cute hud i think ♥\n\n---\n\n**Created by** [miyu](https://runeforge.dev/users/miyu)\n\n**Original:** https://runeforge.dev/mods/129850e8-c5f7-4397-b94a-9ee6fb41f09f\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/madoka-hud/thumb.webp?v=599b4b51",
+	"file": {
+		"version": 1,
+		"asset": "madoka-hud-v1.fantome",
+		"size": 14246742,
+		"sha256": "7deaef448d2445befa09a6a00d87ce3259ed2828982ff2ab04fca1349723e859"
+	}
+}

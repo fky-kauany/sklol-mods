@@ -1,0 +1,20 @@
+{
+	"id": "map-forcer",
+	"name": "Map Forcer",
+	"kind": "maps",
+	"creator": "thekillerey",
+	"description": "# INFO\nThis little mod is the key if you’re using my custom Summoner’s Rift maps. It forces every game mode to load the default Rift map, so you can actually play Old Rift, Winter Rift, or whatever version I drop. Without this, my maps won’t even start up properly. It allows me to update my mods faster on a simple change. Instead of updating my mods everytime you only need to update this mod. Only big changes will now be made on the map itself.\n\n---\n\n**Created by** [TheKillerey](https://runeforge.dev/users/TheKillerey)\n\n**Original:** https://runeforge.dev/mods/d410324f-3b6d-4dde-9f2e-fad097454ae4\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/map-forcer/thumb.webp?v=4f46c394",
+	"file": {
+		"version": 1,
+		"asset": "map-forcer-v1.fantome",
+		"size": 477183,
+		"sha256": "7863b58f95cee48f1c6dd0315b529ce8ef30ef19670e244caedf3a0224a45e13"
+	},
+	"maps": [
+		11
+	]
+}

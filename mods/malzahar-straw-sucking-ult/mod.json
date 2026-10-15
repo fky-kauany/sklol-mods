@@ -1,0 +1,17 @@
+{
+	"id": "malzahar-straw-sucking-ult",
+	"name": "Malzahar straw sucking ult",
+	"kind": "sounds",
+	"creator": "ceerel",
+	"description": "You guys know those chinese kogmaw reels that always have a malzahar ult then a crazy pentakill , yeah those malzahar ults always got that straw effect, i decieded to add it just for funsies\n\n---\n\n**Created by** [ceerel](https://runeforge.dev/users/ceerel)\n\n**Original:** https://runeforge.dev/mods/6f1ae3fa-6de1-4049-a971-45b004d0022a\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/malzahar-straw-sucking-ult/thumb.webp?v=2c26aeae",
+	"file": {
+		"version": 1,
+		"asset": "malzahar-straw-sucking-ult-v1.fantome",
+		"size": 2512415,
+		"sha256": "32023f661592188e72f0ca02edbe68b9ffc7f1d00a936b8ac3b4d2f2bd321a0f"
+	}
+}

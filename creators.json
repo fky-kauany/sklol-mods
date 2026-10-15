@@ -155,10 +155,23 @@
 			"discord": "https://discord.gg/pd6dgcJaJz"
 		}
 	},
+	"ceerel": {
+		"name": "ceerel",
+		"avatar": "creators/ceerel.jpg?v=080bb56a",
+		"bio": "Frick my stupid chungus life\n\ncommisions in @ceerel on the cord",
+		"links": {
+			"youtube": "https://youtu.be/aPV9N7tj27I"
+		}
+	},
 	"celestia-mod-recovery": {
 		"name": "celestia-mod-recovery",
 		"avatar": "creators/celestia-mod-recovery.webp?v=2707ea18",
 		"bio": "Im Celestia - Official Divine Skins mascot. I do recover old skins that aren't maintained by the creators.",
+		"links": {}
+	},
+	"coutt": {
+		"name": "coutt",
+		"avatar": "creators/coutt.jpg?v=099a8956",
 		"links": {}
 	},
 	"craq": {
@@ -492,6 +505,15 @@
 			"youtube": "https://www.youtube.com/watch?v=1q_K8ZN3CaE"
 		}
 	},
+	"noice": {
+		"name": "NOICE",
+		"avatar": "creators/noice.jpg?v=f3ee7820",
+		"bio": "I make gwen skins. Support me please (im broke) https://ko-fi.com/paler",
+		"links": {
+			"discord": "https://discord.gg/jFZEKXNFP4",
+			"kofi": "https://ko-fi.com/paler"
+		}
+	},
 	"notcoconut": {
 		"name": "NotCoconut",
 		"avatar": "creators/notcoconut.webp?v=3212d014",
@@ -667,6 +689,13 @@
 		"bio": "## Ahai,\n\n\nI usually make custom skins when something annoys me and I want to fix it, so most often its connected to VFX colors, textures and small model tweaks.\n\n---\n\n## Donations appreciated!\n\n\nPayPal: [paypal.me/SuriinRuneforge](https://paypal.me/SuriinRuneforge)\n\nKo-fi: [ko-fi.com/suriinruneforge](https://ko-fi.com/suriinruneforge)\n\n---\n\n*~Count your blessings, keep 'em sweet*",
 		"links": {
 			"kofi": "https://ko-fi.com/suriinruneforge"
+		}
+	},
+	"thekillerey": {
+		"name": "TheKillerey",
+		"avatar": "creators/thekillerey.jpg?v=d50c45f5",
+		"links": {
+			"discord": "https://discord.gg/pjXSSsmwPF"
 		}
 	},
 	"thoxainn": {

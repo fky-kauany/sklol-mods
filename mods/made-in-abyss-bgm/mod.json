@@ -1,0 +1,17 @@
+{
+	"id": "made-in-abyss-bgm",
+	"name": "Made in Abyss BGM",
+	"kind": "sounds",
+	"creator": "aurecueil",
+	"description": "# 🎵 Track List\r\n\r\n| Event | Track(s) |\r\n|------|------|\r\n| Start Game (Red Side) | Made in Abyss |\r\n| Start Game (Blue Side) | To the Abyss |\r\n| Game Loop 0 (Red Side) | 1st Layer + Theme of Reg + Welcome to My World |\r\n| Game Loop 0 (Blue Side) | Nanachi in the Light + Adventure Through the Light + Days in the Sun |\r\n| Game Loop 1 | Walking the Tightrope / Orth Waltz / Walking the Streets / Riko's Theme |\r\n| Game Loop 2 | Serpent Call / Those Everyday Feels / 2 Months / 4th Layer / Galantry and Recapitulation / Swings and Roundabouts / Rebirth (Arranged) / DANCE:NAREHATE / 6th Layer / Quartet |\r\n| Game Loop 3 | Pathway / Tomorroww / Prushka Sequence / Tozo Hanoline / New World |\r\n| River Loop 0 | In the Blind + Rafters + Jungle Run |\r\n| River Loop 1 | Bani Kuchi Nawa + Reg's Power |\r\n| River Loop 2 | Nanachi in the Dark + Tour the Abyss |\r\n| River Loop 3 | Mirage + Relinquish |\r\n| Grubbies Fight | Starway to the Fifth |\r\n| Herald Fight | The Return of Made in Abyss |\r\n| Baron Fight | The Rumble of Scientific Triumph |\r\n| Atakhan Fight | Saber Tooth |\r\n| Victory | Hanezeve Caradhina |\r\n| Defeat | Remembering Home |\r\n\r\n## ☕ Wanna buy me a [Coffee](https://ko-fi.com/aurecueil)? :> \r\n[![My Discord Server ^^](https://raw.githubusercontent.com/Aurecueil/Temp/refs/heads/main/images/banner6_better.png)](https://discord.gg/GETA29vZEK)\r\n\r\n## 📦 Misc\r\n\r\n[Tierlist of my BGM mods](https://runeforge.dev/users/Aurecueil)\r\n\r\ndc: `aurecueil`\r\n\r\ni DO take Commisions btw\n\n---\n\n**Created by** [aurecueil](https://runeforge.dev/users/aurecueil)\n\n**Original:** https://runeforge.dev/mods/f6e9ef4a-d3bf-4743-bc97-1bc1cf8e3170\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/made-in-abyss-bgm/thumb.webp?v=f1f989b8",
+	"file": {
+		"version": 1,
+		"asset": "made-in-abyss-bgm-v1.fantome",
+		"size": 92993764,
+		"sha256": "152726c5c03636c1e8e8851331b58c4ccfa97b5fd6011517e17cc9d82801d7e1"
+	}
+}

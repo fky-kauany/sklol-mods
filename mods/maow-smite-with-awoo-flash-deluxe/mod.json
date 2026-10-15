@@ -1,0 +1,17 @@
+{
+	"id": "maow-smite-with-awoo-flash-deluxe",
+	"name": "maow smite with awoo flash deluxe",
+	"kind": "sounds",
+	"creator": "arting",
+	"description": "maow maow awoo awoo win\r\n\r\nfor suggestions or anything else message me on discord: artist._.\n\n---\n\n**Created by** [arting](https://runeforge.dev/users/arting)\n\n**Original:** https://runeforge.dev/mods/9b6312cb-e59b-4f73-95b1-58a245459a3e\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/maow-smite-with-awoo-flash-deluxe/thumb.webp?v=5393c342",
+	"file": {
+		"version": 1,
+		"asset": "maow-smite-with-awoo-flash-deluxe-v1.fantome",
+		"size": 8388726,
+		"sha256": "eec966092f0b6f89ccf6b996f60091b481cb9fc64c68b582c502029f4b56447f"
+	}
+}

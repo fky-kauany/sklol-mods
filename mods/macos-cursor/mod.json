@@ -1,0 +1,17 @@
+{
+	"id": "macos-cursor",
+	"name": "MacOS Cursor",
+	"kind": "ui",
+	"creator": "disco",
+	"description": "Replaces league cursors with MacOS ones\n\nWorks on legacy and normal cursors.\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/macos-cursors\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/macos-cursor/thumb.webp?v=d030dbc3",
+	"file": {
+		"version": 1,
+		"asset": "macos-cursor-v1.fantome",
+		"size": 22400,
+		"sha256": "2761b21f85640222e2a3ee5304e209f132adaf35b91b33cf46d550dd5838f48a"
+	}
+}

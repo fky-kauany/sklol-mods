@@ -1,0 +1,17 @@
+{
+	"id": "malphite-flipped-sideway-180-moonwalk",
+	"name": "malphite flipped sideway, 180, moonwalk",
+	"kind": "other",
+	"creator": "archlyris",
+	"description": "i dont know if it will work or not, i think\n\n---\n\n**Created by** [archlyris](https://runeforge.dev/users/archlyris)\n\n**Original:** https://runeforge.dev/mods/c84d4775-2007-43b8-971d-2b13b80ad349\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/malphite-flipped-sideway-180-moonwalk/thumb.webp?v=e840aff6",
+	"file": {
+		"version": 1,
+		"asset": "malphite-flipped-sideway-180-moonwalk-v1.fantome",
+		"size": 56631,
+		"sha256": "a471a6f47436145c505ff48091553794c39089b816bf00a3d74b4f68cae5ee6e"
+	}
+}

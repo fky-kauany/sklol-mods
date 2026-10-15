@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T09:48:02.404Z",
+	"generatedAt": "2026-10-15T09:53:40.303Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -158,10 +158,23 @@
 				"discord": "https://discord.gg/pd6dgcJaJz"
 			}
 		},
+		"ceerel": {
+			"name": "ceerel",
+			"avatar": "creators/ceerel.jpg?v=080bb56a",
+			"bio": "Frick my stupid chungus life\n\ncommisions in @ceerel on the cord",
+			"links": {
+				"youtube": "https://youtu.be/aPV9N7tj27I"
+			}
+		},
 		"celestia-mod-recovery": {
 			"name": "celestia-mod-recovery",
 			"avatar": "creators/celestia-mod-recovery.webp?v=2707ea18",
 			"bio": "Im Celestia - Official Divine Skins mascot. I do recover old skins that aren't maintained by the creators.",
+			"links": {}
+		},
+		"coutt": {
+			"name": "coutt",
+			"avatar": "creators/coutt.jpg?v=099a8956",
 			"links": {}
 		},
 		"craq": {
@@ -495,6 +508,15 @@
 				"youtube": "https://www.youtube.com/watch?v=1q_K8ZN3CaE"
 			}
 		},
+		"noice": {
+			"name": "NOICE",
+			"avatar": "creators/noice.jpg?v=f3ee7820",
+			"bio": "I make gwen skins. Support me please (im broke) https://ko-fi.com/paler",
+			"links": {
+				"discord": "https://discord.gg/jFZEKXNFP4",
+				"kofi": "https://ko-fi.com/paler"
+			}
+		},
 		"notcoconut": {
 			"name": "NotCoconut",
 			"avatar": "creators/notcoconut.webp?v=3212d014",
@@ -670,6 +692,13 @@
 			"bio": "## Ahai,\n\n\nI usually make custom skins when something annoys me and I want to fix it, so most often its connected to VFX colors, textures and small model tweaks.\n\n---\n\n## Donations appreciated!\n\n\nPayPal: [paypal.me/SuriinRuneforge](https://paypal.me/SuriinRuneforge)\n\nKo-fi: [ko-fi.com/suriinruneforge](https://ko-fi.com/suriinruneforge)\n\n---\n\n*~Count your blessings, keep 'em sweet*",
 			"links": {
 				"kofi": "https://ko-fi.com/suriinruneforge"
+			}
+		},
+		"thekillerey": {
+			"name": "TheKillerey",
+			"avatar": "creators/thekillerey.jpg?v=d50c45f5",
+			"links": {
+				"discord": "https://discord.gg/pjXSSsmwPF"
 			}
 		},
 		"thoxainn": {
@@ -6420,6 +6449,179 @@
 				"asset": "lowtiergod-stormsurge-v1.fantome",
 				"size": 17718246,
 				"sha256": "db6969b3f1bfaa40040037c22be9a1856fe694ce11c938bcca082d75c8e25465"
+			}
+		},
+		{
+			"id": "macos-cursor",
+			"name": "MacOS Cursor",
+			"kind": "ui",
+			"creator": "disco",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/macos-cursor/thumb.webp?v=d030dbc3",
+			"file": {
+				"version": 1,
+				"asset": "macos-cursor-v1.fantome",
+				"size": 22400,
+				"sha256": "2761b21f85640222e2a3ee5304e209f132adaf35b91b33cf46d550dd5838f48a"
+			}
+		},
+		{
+			"id": "made-in-abyss-bgm",
+			"name": "Made in Abyss BGM",
+			"kind": "sounds",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/made-in-abyss-bgm/thumb.webp?v=f1f989b8",
+			"file": {
+				"version": 1,
+				"asset": "made-in-abyss-bgm-v1.fantome",
+				"size": 92993764,
+				"sha256": "152726c5c03636c1e8e8851331b58c4ccfa97b5fd6011517e17cc9d82801d7e1"
+			}
+		},
+		{
+			"id": "madoka-hud",
+			"name": "madoka hud ♥",
+			"kind": "ui",
+			"creator": "miyu",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/madoka-hud/thumb.webp?v=599b4b51",
+			"file": {
+				"version": 1,
+				"asset": "madoka-hud-v1.fantome",
+				"size": 14246742,
+				"sha256": "7deaef448d2445befa09a6a00d87ce3259ed2828982ff2ab04fca1349723e859"
+			}
+		},
+		{
+			"id": "mafia-graves-old-splash",
+			"name": "Mafia Graves Old Splash",
+			"kind": "ui",
+			"creator": "coutt",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/mafia-graves-old-splash/thumb.webp?v=756e8df4",
+			"file": {
+				"version": 1,
+				"asset": "mafia-graves-old-splash-v1.fantome",
+				"size": 61277,
+				"sha256": "1e3922696b55339fee9dbb4cb0418e49f473b431a18bd1663341e200be61ba41"
+			}
+		},
+		{
+			"id": "malphite-flipped-sideway-180-moonwalk",
+			"name": "malphite flipped sideway, 180, moonwalk",
+			"kind": "other",
+			"creator": "archlyris",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/malphite-flipped-sideway-180-moonwalk/thumb.webp?v=e840aff6",
+			"file": {
+				"version": 1,
+				"asset": "malphite-flipped-sideway-180-moonwalk-v1.fantome",
+				"size": 56631,
+				"sha256": "a471a6f47436145c505ff48091553794c39089b816bf00a3d74b4f68cae5ee6e"
+			}
+		},
+		{
+			"id": "malzahar-straw-sucking-ult",
+			"name": "Malzahar straw sucking ult",
+			"kind": "sounds",
+			"creator": "ceerel",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/malzahar-straw-sucking-ult/thumb.webp?v=2c26aeae",
+			"file": {
+				"version": 1,
+				"asset": "malzahar-straw-sucking-ult-v1.fantome",
+				"size": 2512415,
+				"sha256": "32023f661592188e72f0ca02edbe68b9ffc7f1d00a936b8ac3b4d2f2bd321a0f"
+			}
+		},
+		{
+			"id": "maow-smite-with-awoo-flash-deluxe",
+			"name": "maow smite with awoo flash deluxe",
+			"kind": "sounds",
+			"creator": "arting",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/maow-smite-with-awoo-flash-deluxe/thumb.webp?v=5393c342",
+			"file": {
+				"version": 1,
+				"asset": "maow-smite-with-awoo-flash-deluxe-v1.fantome",
+				"size": 8388726,
+				"sha256": "eec966092f0b6f89ccf6b996f60091b481cb9fc64c68b582c502029f4b56447f"
+			}
+		},
+		{
+			"id": "map-forcer",
+			"name": "Map Forcer",
+			"kind": "maps",
+			"creator": "thekillerey",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/map-forcer/thumb.webp?v=4f46c394",
+			"file": {
+				"version": 1,
+				"asset": "map-forcer-v1.fantome",
+				"size": 477183,
+				"sha256": "7863b58f95cee48f1c6dd0315b529ce8ef30ef19670e244caedf3a0224a45e13"
+			},
+			"maps": [
+				11
+			]
+		},
+		{
+			"id": "marin-kitagawa-gwen",
+			"name": "Marin Kitagawa Gwen",
+			"kind": "other",
+			"creator": "noice",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/marin-kitagawa-gwen/thumb.webp?v=c9760591",
+			"file": {
+				"version": 1,
+				"asset": "marin-kitagawa-gwen-v1.fantome",
+				"size": 10098765,
+				"sha256": "a69b927f669b4ef5d5794fdae6a2f6910d5634a075cc30985b5b6803133174b2"
+			}
+		},
+		{
+			"id": "masque-of-the-black-rose-katarina-prestige-vfx",
+			"name": "Masque of the Black Rose Katarina Prestige - VFX",
+			"kind": "other",
+			"creator": "1gem1",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/masque-of-the-black-rose-katarina-prestige-vfx/thumb.webp?v=fb7ec65c",
+			"file": {
+				"version": 1,
+				"asset": "masque-of-the-black-rose-katarina-prestige-vfx-v1.fantome",
+				"size": 3374574,
+				"sha256": "3383906fca52250bf9c6621e59f7527326818d7da7cecaf0d75a65e491adb72a"
 			}
 		}
 	]
