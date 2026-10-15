@@ -1,0 +1,17 @@
+{
+	"id": "bulgarian-announcer",
+	"name": "Bulgarian Announcer",
+	"kind": "other",
+	"creator": "badzerker",
+	"description": "A mod that Translates the Announcer in game voice by me\n\n---\n\n**Created by** [BadZerker](https://runeforge.dev/users/BadZerker)\n\n**Original:** https://runeforge.dev/mods/f68b3e36-ae7d-432e-9c8c-6abea4e15379\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/bulgarian-announcer/thumb.webp?v=719595f8",
+	"file": {
+		"version": 1,
+		"asset": "bulgarian-announcer-v1.fantome",
+		"size": 11510766,
+		"sha256": "c468ea4c32916af32be2b4ed80d06413c6a5a46a54461dcab6fc7585460f9cdf"
+	}
+}

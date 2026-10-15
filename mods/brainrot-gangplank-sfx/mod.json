@@ -1,0 +1,17 @@
+{
+	"id": "brainrot-gangplank-sfx",
+	"name": "Brainrot Gangplank SFX",
+	"kind": "sounds",
+	"creator": "lasarban",
+	"description": "List of sound sources :\n\n-today is friday in california (movie? clip)\n\n-DJ Khalid : another one\n-idubbbz : sewer food review\n-Dog of Wisdom by Joe gran (joe on youtube)\n\n-tom scream from tom and jerry\n\n-Jerma saying doy doy thing\n\n-bing bing bang?\n-cartoon splurge sfx\n-metal\\_pipe.mp3\n-scooby doo running noise\n-ayo wtf, there's no cheese?\n-1700s sea shanties\n\n-japanese guy winning gameshow yell\n-fairy wand sfx\n-o shit! a RAT!\n\n---\n\n**Created by** [lasarban](https://runeforge.dev/users/lasarban)\n\n**Original:** https://runeforge.dev/mods/f69b20a2-4fc0-445d-a671-047b0abb4fdf\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/brainrot-gangplank-sfx/thumb.webp?v=5b8997ff",
+	"file": {
+		"version": 1,
+		"asset": "brainrot-gangplank-sfx-v1.fantome",
+		"size": 36472089,
+		"sha256": "9625b88a681d0f9f2246f4d7ee643ca007323af56288ab890e52f8f8cba22fcc"
+	}
+}

@@ -83,6 +83,13 @@
 			"youtube": "https://www.youtube.com/watch?v=P4QNvAjfKxc"
 		}
 	},
+	"badzerker": {
+		"name": "BadZerker",
+		"avatar": "creators/badzerker.png?v=606925a6",
+		"links": {
+			"youtube": "https://www.youtube.com/channel/UCFGdLwUYwPw3Wyb9lLtbgbw"
+		}
+	},
 	"c-j-s": {
 		"name": "C_J_S",
 		"avatar": "creators/c-j-s.png?v=3a338fcc",
@@ -169,6 +176,13 @@
 			"youtube": "https://www.youtube.com/watch?v=ZlTIpkrUst4"
 		}
 	},
+	"lasarban": {
+		"name": "lasarban",
+		"avatar": "creators/lasarban.jpg?v=2fc916b9",
+		"links": {
+			"youtube": "https://youtu.be/4ObovYm7LGM"
+		}
+	},
 	"lolsfxamateur": {
 		"name": "LOLSFXAmateur",
 		"avatar": "creators/lolsfxamateur.jpg?v=681c49b4",
@@ -244,6 +258,12 @@
 			"x": "https://x.com/p1mek"
 		}
 	},
+	"rahabani": {
+		"name": "Rahabani",
+		"avatar": "creators/rahabani.jpg?v=56d4979a",
+		"bio": "I love doing Gragas Skins\nMy discord:\nhttps://discord.gg/QFGGQKkW",
+		"links": {}
+	},
 	"rat-departttment": {
 		"name": "rat_departttment",
 		"links": {}
@@ -251,6 +271,11 @@
 	"rengoku-kyojuro": {
 		"name": "Rengoku_Kyojuro",
 		"avatar": "creators/rengoku-kyojuro.jpg?v=e317561b",
+		"links": {}
+	},
+	"runeforgerecoveryteam": {
+		"name": "RuneforgeRecoveryTeam",
+		"avatar": "creators/runeforgerecoveryteam.jpg?v=cdcfffea",
 		"links": {}
 	},
 	"snorr": {
@@ -278,6 +303,16 @@
 		"bio": "## Ahai,\n\n\nI usually make custom skins when something annoys me and I want to fix it, so most often its connected to VFX colors, textures and small model tweaks.\n\n---\n\n## Donations appreciated!\n\n\nPayPal: [paypal.me/SuriinRuneforge](https://paypal.me/SuriinRuneforge)\n\nKo-fi: [ko-fi.com/suriinruneforge](https://ko-fi.com/suriinruneforge)\n\n---\n\n*~Count your blessings, keep 'em sweet*",
 		"links": {
 			"kofi": "https://ko-fi.com/suriinruneforge"
+		}
+	},
+	"tyre-4770": {
+		"name": "Tyre 4770",
+		"avatar": "creators/tyre-4770.png?v=207671a7",
+		"bio": "hi ! I'm Tyre 4770 or Wysteria. :) I fiddle with UI stuff mostly.\n\nI take comms for HUDs, Font Replacements, Loading Screens, and Recall Decals ! check out my ko-fi in my links !\n\npfp by x.com/feyral_",
+		"links": {
+			"kofi": "https://ko-fi.com/tyre_4770/commissions",
+			"site": "https://tyre4770.carrd.co/",
+			"x": "https://x.com/ahrifoxlovers/status/1697119260433387565"
 		}
 	},
 	"vaskier": {

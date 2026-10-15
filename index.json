@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T07:32:46.446Z",
+	"generatedAt": "2026-10-15T07:35:36.454Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -84,6 +84,13 @@
 				"kofi": "https://ko-fi.com/aurecueil",
 				"site": "https://raw.githubusercontent.com/Aurecueil/Temp/refs/heads/main/images/banner6_better.png",
 				"youtube": "https://www.youtube.com/watch?v=P4QNvAjfKxc"
+			}
+		},
+		"badzerker": {
+			"name": "BadZerker",
+			"avatar": "creators/badzerker.png?v=606925a6",
+			"links": {
+				"youtube": "https://www.youtube.com/channel/UCFGdLwUYwPw3Wyb9lLtbgbw"
 			}
 		},
 		"c-j-s": {
@@ -172,6 +179,13 @@
 				"youtube": "https://www.youtube.com/watch?v=ZlTIpkrUst4"
 			}
 		},
+		"lasarban": {
+			"name": "lasarban",
+			"avatar": "creators/lasarban.jpg?v=2fc916b9",
+			"links": {
+				"youtube": "https://youtu.be/4ObovYm7LGM"
+			}
+		},
 		"lolsfxamateur": {
 			"name": "LOLSFXAmateur",
 			"avatar": "creators/lolsfxamateur.jpg?v=681c49b4",
@@ -247,6 +261,12 @@
 				"x": "https://x.com/p1mek"
 			}
 		},
+		"rahabani": {
+			"name": "Rahabani",
+			"avatar": "creators/rahabani.jpg?v=56d4979a",
+			"bio": "I love doing Gragas Skins\nMy discord:\nhttps://discord.gg/QFGGQKkW",
+			"links": {}
+		},
 		"rat-departttment": {
 			"name": "rat_departttment",
 			"links": {}
@@ -254,6 +274,11 @@
 		"rengoku-kyojuro": {
 			"name": "Rengoku_Kyojuro",
 			"avatar": "creators/rengoku-kyojuro.jpg?v=e317561b",
+			"links": {}
+		},
+		"runeforgerecoveryteam": {
+			"name": "RuneforgeRecoveryTeam",
+			"avatar": "creators/runeforgerecoveryteam.jpg?v=cdcfffea",
 			"links": {}
 		},
 		"snorr": {
@@ -281,6 +306,16 @@
 			"bio": "## Ahai,\n\n\nI usually make custom skins when something annoys me and I want to fix it, so most often its connected to VFX colors, textures and small model tweaks.\n\n---\n\n## Donations appreciated!\n\n\nPayPal: [paypal.me/SuriinRuneforge](https://paypal.me/SuriinRuneforge)\n\nKo-fi: [ko-fi.com/suriinruneforge](https://ko-fi.com/suriinruneforge)\n\n---\n\n*~Count your blessings, keep 'em sweet*",
 			"links": {
 				"kofi": "https://ko-fi.com/suriinruneforge"
+			}
+		},
+		"tyre-4770": {
+			"name": "Tyre 4770",
+			"avatar": "creators/tyre-4770.png?v=207671a7",
+			"bio": "hi ! I'm Tyre 4770 or Wysteria. :) I fiddle with UI stuff mostly.\n\nI take comms for HUDs, Font Replacements, Loading Screens, and Recall Decals ! check out my ko-fi in my links !\n\npfp by x.com/feyral_",
+			"links": {
+				"kofi": "https://ko-fi.com/tyre_4770/commissions",
+				"site": "https://tyre4770.carrd.co/",
+				"x": "https://x.com/ahrifoxlovers/status/1697119260433387565"
 			}
 		},
 		"vaskier": {
@@ -1697,6 +1732,159 @@
 				"asset": "blue-essence-gold-v1.fantome",
 				"size": 11003,
 				"sha256": "d0f2f8a59f429402d454baeebae34ff1f7d8dcd38d4805888f330d40f6ce9891"
+			}
+		},
+		{
+			"id": "bocchi-loading-icon",
+			"name": "Bocchi Loading Icon",
+			"kind": "ui",
+			"creator": "runeforgerecoveryteam",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/bocchi-loading-icon/thumb.webp?v=02390cb4",
+			"file": {
+				"version": 1,
+				"asset": "bocchi-loading-icon-v1.fantome",
+				"size": 21466,
+				"sha256": "4f3a89da7b633e24ed6761048e6394c1956af6a082d042f8837dafe3c40c4766"
+			}
+		},
+		{
+			"id": "bolsonaro-sylas",
+			"name": "Bolsonaro Sylas",
+			"kind": "other",
+			"creator": "rahabani",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/bolsonaro-sylas/thumb.webp?v=37d583ad",
+			"file": {
+				"version": 1,
+				"asset": "bolsonaro-sylas-v1.fantome",
+				"size": 18713151,
+				"sha256": "b37455e70a5495dc8a3c6371678ec39a0973d0b86298808c70655e837fb926f2"
+			}
+		},
+		{
+			"id": "boogying-chibi-ezreal-wards",
+			"name": "Boogying Chibi Ezreal Wards",
+			"kind": "other",
+			"creator": "aropatnik",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/boogying-chibi-ezreal-wards/thumb.webp?v=0fc292ec",
+			"file": {
+				"version": 1,
+				"asset": "boogying-chibi-ezreal-wards-v1.fantome",
+				"size": 1624217,
+				"sha256": "5f9a6ef158e0146a9fc6470857e15ad8314d18cae6e8f938d03802722c6433dc"
+			}
+		},
+		{
+			"id": "brainrot-gangplank-sfx",
+			"name": "Brainrot Gangplank SFX",
+			"kind": "sounds",
+			"creator": "lasarban",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/brainrot-gangplank-sfx/thumb.webp?v=5b8997ff",
+			"file": {
+				"version": 1,
+				"asset": "brainrot-gangplank-sfx-v1.fantome",
+				"size": 36472089,
+				"sha256": "9625b88a681d0f9f2246f4d7ee643ca007323af56288ab890e52f8f8cba22fcc"
+			}
+		},
+		{
+			"id": "brazil-mordekaiser-ult",
+			"name": "Brazil Mordekaiser Ult",
+			"kind": "sounds",
+			"creator": "pico-senpai",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/brazil-mordekaiser-ult/thumb.webp?v=75cba156",
+			"file": {
+				"version": 1,
+				"asset": "brazil-mordekaiser-ult-v1.fantome",
+				"size": 4428846,
+				"sha256": "eb30adae6bb545c138b3ba111cb2c4b82067043e8ac65e260bb13cbc8c1a61bc"
+			}
+		},
+		{
+			"id": "breakpoint-hp-bars",
+			"name": "Breakpoint HP Bars",
+			"kind": "ui",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/breakpoint-hp-bars/thumb.webp?v=740a6f4e",
+			"file": {
+				"version": 1,
+				"asset": "breakpoint-hp-bars-v1.fantome",
+				"size": 574860,
+				"sha256": "738538e4fc1a99801f427bb230f2ebc3b11895d0ef1ea90c071e340a9e103ff5"
+			}
+		},
+		{
+			"id": "briar-hud",
+			"name": "Briar HUD",
+			"kind": "ui",
+			"creator": "tyre-4770",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/briar-hud/thumb.webp?v=d4acf944",
+			"file": {
+				"version": 1,
+				"asset": "briar-hud-v1.fantome",
+				"size": 6813590,
+				"sha256": "8f98aaea052717c992c3e4ab3fa0398825dd42d7e47526a9bed351bf8268e983"
+			}
+		},
+		{
+			"id": "btd6-cursor",
+			"name": "BTD6 Cursor",
+			"kind": "ui",
+			"creator": "aropatnik",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/btd6-cursor/thumb.webp?v=a9b25f74",
+			"file": {
+				"version": 1,
+				"asset": "btd6-cursor-v1.fantome",
+				"size": 59604,
+				"sha256": "f301a73b63ff8453e48c33f4e763d7715a298a08cc849249e017a4855c96af04"
+			}
+		},
+		{
+			"id": "bulgarian-announcer",
+			"name": "Bulgarian Announcer",
+			"kind": "other",
+			"creator": "badzerker",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/bulgarian-announcer/thumb.webp?v=719595f8",
+			"file": {
+				"version": 1,
+				"asset": "bulgarian-announcer-v1.fantome",
+				"size": 11510766,
+				"sha256": "c468ea4c32916af32be2b4ed80d06413c6a5a46a54461dcab6fc7585460f9cdf"
 			}
 		}
 	]

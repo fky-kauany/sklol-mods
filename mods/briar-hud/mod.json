@@ -1,0 +1,17 @@
+{
+	"id": "briar-hud",
+	"name": "Briar HUD",
+	"kind": "ui",
+	"creator": "tyre-4770",
+	"description": "## ♥ Mod Info ♥\r\n\r\n* HUD Name: Briar HUD\r\n* Author: Tyre 4770\r\n* Skin Version: 1.4\r\n* Description: A pretty HUD based off of Briar! This was a commission that has permission to be posted publicly.\r\n* If you see anything wrong, please ping me in the RuneForge server.\r\n\r\n⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦\r\n\r\nCredits for images used;\r\n\r\nScoreboard: https://www.artstation.com/leizhenbi\r\n\r\nStats Panels: unknown, did not come up on google images\r\n\r\nShop: https://www.artstation.com/artwork/8bqwgw\r\n\r\nAbility Menu & Misc Panels: https://x.com/ahrifoxlovers/status/1697119260433387565 (weibo artist, can't access weibo page)\r\n\r\nMisc Panels: https://x.com/DOVODO_/status/1700392734476083429 | https://x.com/Moondustina/status/1695178091516285047/\n\n---\n\n**Created by** [Tyre 4770](https://runeforge.dev/users/Tyre_4770)\n\n**Original:** https://runeforge.dev/mods/34fea479-88f1-4e76-97e9-502ee9078a2c\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/briar-hud/thumb.webp?v=d4acf944",
+	"file": {
+		"version": 1,
+		"asset": "briar-hud-v1.fantome",
+		"size": 6813590,
+		"sha256": "8f98aaea052717c992c3e4ab3fa0398825dd42d7e47526a9bed351bf8268e983"
+	}
+}

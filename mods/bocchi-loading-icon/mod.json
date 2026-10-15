@@ -1,0 +1,17 @@
+{
+	"id": "bocchi-loading-icon",
+	"name": "Bocchi Loading Icon",
+	"kind": "ui",
+	"creator": "runeforgerecoveryteam",
+	"description": "Note : IM NOT THE ORIGINAL AUTHOR OF THIS SKIN, I only publish it to recovery and share it with the community.\n\nIf it breaks or has problems contact me on discord @AleXD\n\n### Mod information\n\n***\n\n* Author:AriOwO\n* Working Patch 25.9\n\n### Specifications\n\n***\n\n* Modified loading screen icon\n\n---\n\n**Created by** [RuneforgeRecoveryTeam](https://runeforge.dev/users/RuneforgeRecoveryTeam)\n\n**Original:** https://runeforge.dev/mods/2444f248-ff4e-4b24-a497-f989357d6b3b\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/bocchi-loading-icon/thumb.webp?v=02390cb4",
+	"file": {
+		"version": 1,
+		"asset": "bocchi-loading-icon-v1.fantome",
+		"size": 21466,
+		"sha256": "4f3a89da7b633e24ed6761048e6394c1956af6a082d042f8837dafe3c40c4766"
+	}
+}

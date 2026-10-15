@@ -1,0 +1,17 @@
+{
+	"id": "breakpoint-hp-bars",
+	"name": "Breakpoint HP Bars",
+	"kind": "ui",
+	"creator": "aurecueil",
+	"description": "# **Skin Information**\n\nBreakpoints:\n\nWhite line: 30%, 40%, 50%\nShade without line: 60%, 70%\n\nReplaces: Champion HP bars\n\nAuthor: Aurecuei\n\nVersion: 1.0.0\n\nPatch Made: 15.23\n\n## Wanna buy me a [Coffee](https://ko-fi.com/aurecueil)? :>\n\n[![My Discord Server ^^](https://raw.githubusercontent.com/Aurecueil/Temp/refs/heads/main/images/banner6_better.png)](https://discord.gg/GETA29vZEK)\n\n\n## MISC\n\n[Tierlist of my BGM mods](https://runeforge.dev/users/Aurecueil)\n\ndc: aurecueil\n\ni DO take Commisions btw\n\n---\n\n**Created by** [aurecueil](https://runeforge.dev/users/aurecueil)\n\n**Original:** https://runeforge.dev/mods/d49f5358-6de4-465e-9eb7-df6f47c7600f\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/breakpoint-hp-bars/thumb.webp?v=740a6f4e",
+	"file": {
+		"version": 1,
+		"asset": "breakpoint-hp-bars-v1.fantome",
+		"size": 574860,
+		"sha256": "738538e4fc1a99801f427bb230f2ebc3b11895d0ef1ea90c071e340a9e103ff5"
+	}
+}
