@@ -1,0 +1,17 @@
+{
+	"id": "seashell-recall",
+	"name": "Seashell Recall",
+	"kind": "recall",
+	"creator": "tyre-4770",
+	"description": "## ♥ Mod Info ♥\n\n* Recall Name Name: SeaShell Recall\n* Author: Tyre 4770\n* Skin Version: 1.1\n\n⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦\n\n---\n\n**Created by** [Tyre 4770](https://runeforge.dev/users/Tyre_4770)\n\n**Original:** https://runeforge.dev/mods/aa0ffbb6-69e1-4eac-bbb6-4690a7981861\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/seashell-recall/thumb.webp?v=b94235e1",
+	"file": {
+		"version": 1,
+		"asset": "seashell-recall-v1.fantome",
+		"size": 74206,
+		"sha256": "dd130c90a9b6071b1b7a14ba1541d1806dab44ef65977071be1b322e1a627823"
+	}
+}

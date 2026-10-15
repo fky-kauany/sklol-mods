@@ -1,0 +1,17 @@
+{
+	"id": "samira-sonic-colors-style-announcer",
+	"name": "Samira Sonic Colors Style Announcer",
+	"kind": "announcer",
+	"creator": "goro",
+	"description": "Changes The Style Sound Effects To The QTE Announcer From Sonic Colors\n\n\n\nWorks On All Skins\n\n---\n\n**Created by** [Goro](https://runeforge.dev/users/Goro)\n\n**Original:** https://runeforge.dev/mods/687726fe-6f1e-4e89-990a-c901c99f4df4\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/samira-sonic-colors-style-announcer/thumb.webp?v=5a68bacb",
+	"file": {
+		"version": 1,
+		"asset": "samira-sonic-colors-style-announcer-v1.fantome",
+		"size": 16370319,
+		"sha256": "e46739148faeb5fc4f313eefeecc73d37e287b99a188f756f396a553495841e2"
+	}
+}

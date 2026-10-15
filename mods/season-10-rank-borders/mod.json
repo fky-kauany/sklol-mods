@@ -1,0 +1,17 @@
+{
+	"id": "season-10-rank-borders",
+	"name": "Season 10 rank borders",
+	"kind": "other",
+	"creator": "aropatnik",
+	"description": "Highly recommend you rightclick the preview image and open it in a new tab\n\n## Information\n\n**Brings back the old rank borders**\n\n**Author: Aropatnik**\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord username: aropatnik\n\nDiscord server: https://discord.gg/nctuYUq3QX\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/89c94383-acf9-477d-9814-6571e365bdd8\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/season-10-rank-borders/thumb.webp?v=457dad11",
+	"file": {
+		"version": 1,
+		"asset": "season-10-rank-borders-v1.fantome",
+		"size": 177698,
+		"sha256": "53cb0b51dab9f5810c7f5315bce18cbd300e57c9c19bb6502001b84417137c44"
+	}
+}

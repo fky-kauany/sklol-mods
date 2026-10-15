@@ -1,0 +1,17 @@
+{
+	"id": "samira-academy-dmc-announcement-v-theme",
+	"name": "Samira Academy DMC announcement V theme",
+	"kind": "sounds",
+	"creator": "angelito-exee",
+	"description": "This mod brings a complete atmospheric overhaul to Battle Academia Samira, replacing her original soundtrack and SFX with the dark, rhythmic vibes of V’s theme (\"Crimson Cloud\") from DMC 5.\n\n---\n\n**Created by** [angelito_exee](https://runeforge.dev/users/angelito_exee)\n\n**Original:** https://runeforge.dev/mods/b64b5d44-cfde-4f38-868b-c1475ab048ca\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/samira-academy-dmc-announcement-v-theme/thumb.webp?v=8c42962d",
+	"file": {
+		"version": 1,
+		"asset": "samira-academy-dmc-announcement-v-theme-v1.fantome",
+		"size": 2786600,
+		"sha256": "e5ddd216b72ab572cec988f88b9b60cfd4d6fdc1cba0db91acda6d2e576b6e71"
+	}
+}

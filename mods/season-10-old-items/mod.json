@@ -1,0 +1,17 @@
+{
+	"id": "season-10-old-items",
+	"name": "Season 10 old items",
+	"kind": "ui",
+	"creator": "yazzus",
+	"description": "this is my first mod if the mod breaks hmu on discord in the runeforge discord\n\n---\n\n**Created by** [yazzus](https://runeforge.dev/users/yazzus)\n\n**Original:** https://runeforge.dev/mods/32113a8d-5a55-4a21-a10b-5b8af3b2c216\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/season-10-old-items/thumb.webp?v=5b2c2da6",
+	"file": {
+		"version": 1,
+		"asset": "season-10-old-items-v1.fantome",
+		"size": 6677149,
+		"sha256": "6acb02771eb40824d400ad635e6b22ea14b9d65c25d47296a559a3cc17d51f5c"
+	}
+}

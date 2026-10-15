@@ -1,0 +1,17 @@
+{
+	"id": "season-1-loadingscreen",
+	"name": "Season 1 LoadingScreen",
+	"kind": "ui",
+	"creator": "xllwd1",
+	"description": "This loading screen is from Season 1; the \"100%\" indicator is merely an image and does not reflect actual loading progress. The mod also updates the old spell icons to better match the aesthetic.\r\nThe loading backgrounds for all game modes have been changed to black.\r\nThe default color is purple when there is no border.\r\n***Note: Hides runes and Summoner icons.***\n\n---\n\n**Created by** [xllwd1](https://www.divineskins.gg/xllwd1)\n\n**Original:** https://www.divineskins.gg/xllwd1/season-1-loadingscreen\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/season-1-loadingscreen/thumb.webp?v=fa6bfd18",
+	"file": {
+		"version": 1,
+		"asset": "season-1-loadingscreen-v1.fantome",
+		"size": 167049,
+		"sha256": "89099a38414aff1bf0451a44ed13b41434aec413fea87b2c6a67f074c8dac85e"
+	}
+}

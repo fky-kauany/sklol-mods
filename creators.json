@@ -65,6 +65,12 @@
 			"youtube": "https://youtu.be/gwsn8f05l7o"
 		}
 	},
+	"angelito-exee": {
+		"name": "angelito_exee",
+		"links": {
+			"youtube": "https://www.youtube.com/watch?v=X9Ma7Mmo27E"
+		}
+	},
 	"anix": {
 		"name": "Anix",
 		"avatar": "creators/anix.png?v=ba39520b",
@@ -397,6 +403,11 @@
 	"je-serai-hokage": {
 		"name": "je_serai_hokage",
 		"avatar": "creators/je-serai-hokage.webp?v=d9c3634c",
+		"links": {}
+	},
+	"johnlackland": {
+		"name": "JohnLackland",
+		"avatar": "creators/johnlackland.png?v=67551f75",
 		"links": {}
 	},
 	"juuhadg": {
@@ -897,6 +908,13 @@
 		"avatar": "creators/yasuhirro.jpg?v=872b84ad",
 		"bio": "making mods for fun",
 		"links": {}
+	},
+	"yazzus": {
+		"name": "yazzus",
+		"avatar": "creators/yazzus.png?v=4b9e90db",
+		"links": {
+			"site": "https://runeforge.dev/mods/4cc954e7-cad0-4e51-82f5-c153feee2a07"
+		}
 	},
 	"yer": {
 		"name": "yer",

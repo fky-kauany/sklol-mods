@@ -1,0 +1,17 @@
+{
+	"id": "sasuke-hud-naruto",
+	"name": "Sasuke HUD [Naruto]",
+	"kind": "ui",
+	"creator": "je-serai-hokage",
+	"description": "### Sasuke HUD\nA League of Legends HUD inspired by Sasuke Uchiha, built around glowing mauve tones: the shimmer of the Rinnegan, the aura of Susanoo, and that violet energy running through the whole interface.\n\n**Base & credits**\nBuilt on top of KataZuki’s HUD as a base. Full credit to him for the original work this skin was adapted from. Go check out his stuff too.\n\n**Notes**\nFeedback, bug reports, and suggestions are always welcome. Hope you enjoy it!\n\n---\n\n**Created by** [je_serai_hokage](https://www.divineskins.gg/je_serai_hokage)\n\n**Original:** https://www.divineskins.gg/je_serai_hokage/sasuke-hud-naruto\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/sasuke-hud-naruto/thumb.webp?v=22836b65",
+	"file": {
+		"version": 1,
+		"asset": "sasuke-hud-naruto-v1.fantome",
+		"size": 19318441,
+		"sha256": "2ba608cd885fb08e186481b49969308959334dd5e5b3dccac3f698cb69f6bf7b"
+	}
+}

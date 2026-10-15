@@ -1,0 +1,17 @@
+{
+	"id": "season-1-summoner-spell-icons",
+	"name": "Season 1 Summoner Spell Icons",
+	"kind": "icons",
+	"creator": "johnlackland",
+	"description": "I made it for nostalgia lovers like myself, have fun using it.\n\n---\n\n**Created by** [JohnLackland](https://runeforge.dev/users/JohnLackland)\n\n**Original:** https://runeforge.dev/mods/a0c82c8e-e41b-479f-b51f-f11df9318cdd\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/season-1-summoner-spell-icons/thumb.webp?v=b649e35e",
+	"file": {
+		"version": 1,
+		"asset": "season-1-summoner-spell-icons-v1.fantome",
+		"size": 24869,
+		"sha256": "f39390907a551b92f194cdeffd980d4fa0e15977ba40fd1dfbe0573264149e07"
+	}
+}
