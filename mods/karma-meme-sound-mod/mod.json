@@ -1,0 +1,17 @@
+{
+	"id": "karma-meme-sound-mod",
+	"name": "Karma meme sound mod",
+	"kind": "sounds",
+	"creator": "mouseatemyhouse",
+	"description": "A meme sound mod for Karma. Should replace the casting sounds for all of her abilities. Should work for every skin, but sounds will probably differ between each. Made for my friend Mattie.\n\n---\n\n**Created by** [mouseatemyhouse](https://runeforge.dev/users/mouseatemyhouse)\n\n**Original:** https://runeforge.dev/mods/d0368d2d-65a9-4ee4-acdc-cae99f11ed3c\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/karma-meme-sound-mod/thumb.webp?v=9cd7cb24",
+	"file": {
+		"version": 1,
+		"asset": "karma-meme-sound-mod-v1.fantome",
+		"size": 48915720,
+		"sha256": "ac3319c12cb2d1f067301258392ede6e300d1dcadddd3d344491851928a693b3"
+	}
+}

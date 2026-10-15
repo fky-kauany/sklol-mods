@@ -1,0 +1,17 @@
+{
+	"id": "killstreak-digimon-02-dna-evolution-ger-jap",
+	"name": "Killstreak - Digimon 02 DNA Evolution (Ger/Jap)",
+	"kind": "sounds",
+	"creator": "knuxsd",
+	"description": "Swaps the Killstreak sounds with the DNA Evolution Theme from Digimon Adventure 02! Enjoy!\n\ngo to RELEASES to choose from German or Japanese Version!\n\n---\n\n**Created by** [KnuxSD](https://runeforge.dev/users/KnuxSD)\n\n**Original:** https://runeforge.dev/mods/baf14166-1435-4a26-96f9-a82a0069e653\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/killstreak-digimon-02-dna-evolution-ger-jap/thumb.webp?v=984b6329",
+	"file": {
+		"version": 1,
+		"asset": "killstreak-digimon-02-dna-evolution-ger-jap-v1.fantome",
+		"size": 1333393,
+		"sha256": "f672e120d1caab0e85bbbb07753fa511a59ae9c9a8d8e572ea3d582990a8472c"
+	}
+}

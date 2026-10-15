@@ -141,6 +141,12 @@
 			"discord": "https://discord.gg/pd6dgcJaJz"
 		}
 	},
+	"celestia-mod-recovery": {
+		"name": "celestia-mod-recovery",
+		"avatar": "creators/celestia-mod-recovery.webp?v=2707ea18",
+		"bio": "Im Celestia - Official Divine Skins mascot. I do recover old skins that aren't maintained by the creators.",
+		"links": {}
+	},
 	"craq": {
 		"name": "craq",
 		"avatar": "creators/craq.jpg?v=826b9d99",
@@ -306,8 +312,19 @@
 			"youtube": "https://www.youtube.com/watch?v=_wyaHTfIDCA&lc=UgymYT19WCFfi7vhLnx4AaABAg"
 		}
 	},
+	"ikplaydebom": {
+		"name": "ikplaydebom",
+		"avatar": "creators/ikplaydebom.jpg?v=5cfb198f",
+		"bio": "Feel free to dm or @ me on discord for questions, help or if mod needs updating: Discord: ikplay \nIf you have feedback or features you would like to see also let me know. I genuinely hope you have as much fun as me playing this game! I get excited from quality of life changes and removing clutter a.k.a. making things look clean as fuck",
+		"links": {}
+	},
 	"int0xic": {
 		"name": "int0xic",
+		"links": {}
+	},
+	"je-serai-hokage": {
+		"name": "je_serai_hokage",
+		"avatar": "creators/je-serai-hokage.webp?v=d9c3634c",
 		"links": {}
 	},
 	"juuhadg": {
@@ -527,6 +544,12 @@
 			"x": "https://x.com/its_nabetse"
 		}
 	},
+	"rolorolla": {
+		"name": "RoloRolla",
+		"links": {
+			"youtube": "https://www.youtube.com/watch?v=T6hJmABIZEk"
+		}
+	},
 	"runeforgerecoveryteam": {
 		"name": "RuneforgeRecoveryTeam",
 		"avatar": "creators/runeforgerecoveryteam.jpg?v=cdcfffea",
@@ -625,6 +648,10 @@
 			"tiktok": "https://tiktok.com/@tor.lol",
 			"youtube": "https://youtu.be/IxX_QHay02M"
 		}
+	},
+	"tur290": {
+		"name": "tur290",
+		"links": {}
 	},
 	"tyre-4770": {
 		"name": "Tyre 4770",

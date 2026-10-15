@@ -1,0 +1,17 @@
+{
+	"id": "kawaii-cute-fonts",
+	"name": "Kawaii Cute Fonts",
+	"kind": "fonts",
+	"creator": "tor-lol",
+	"description": "## Kawaii Font Pack\r\n\r\n![Kawaii font showcase](https://i.postimg.cc/8cG1M7fW/kawaii-fonts-darkmode-phone-sheet-background-fixed.png)\r\n\r\nBrings a collection of cute, playful font replacements into League of Legends.\r\n\r\nChoose your favorite font version:\r\n\r\n- Mochiy Pop One\r\n- Hachi Maru Pop\r\n- DynaPuff\r\n- Cherry Bomb One\r\n\r\nClick on **Versions** to download your favorite font:\r\n\r\n![Version selection](https://i.postimg.cc/GhCKqnSy/version.png)\r\n\r\nFor matching Sakura Gold Text icons that replace gold with Sakura flowers, use:\r\n\r\n[**Sakura Gold Text**](https://www.divineskins.gg/tor.lol/sakura-gold-text)\r\n\r\nGot an idea for another Mod or UI specific Wish? Send recommendations! I’m always looking for fun new ones to make.\r\n\r\n## Support\r\n\r\nIf you enjoy the mod, consider following me on TikTok: [@tor.lol](https://www.tiktok.com/@tor.lol)\r\n\r\n**Discord:** `tor.lol`\n\n---\n\n**Created by** [tor.lol](https://www.divineskins.gg/tor.lol)\n\n**Original:** https://www.divineskins.gg/tor.lol/kawaii-cute-fonts\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/kawaii-cute-fonts/thumb.webp?v=693fdc93",
+	"file": {
+		"version": 1,
+		"asset": "kawaii-cute-fonts-v1.fantome",
+		"size": 19103565,
+		"sha256": "2b8bfdae55d0c133de58a814855e3583b356e0f67907173d3777c91678b0546b"
+	}
+}

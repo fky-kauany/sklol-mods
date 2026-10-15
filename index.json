@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T09:31:03.968Z",
+	"generatedAt": "2026-10-15T09:36:40.413Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -143,6 +143,12 @@
 			"links": {
 				"discord": "https://discord.gg/pd6dgcJaJz"
 			}
+		},
+		"celestia-mod-recovery": {
+			"name": "celestia-mod-recovery",
+			"avatar": "creators/celestia-mod-recovery.webp?v=2707ea18",
+			"bio": "Im Celestia - Official Divine Skins mascot. I do recover old skins that aren't maintained by the creators.",
+			"links": {}
 		},
 		"craq": {
 			"name": "craq",
@@ -309,8 +315,19 @@
 				"youtube": "https://www.youtube.com/watch?v=_wyaHTfIDCA&lc=UgymYT19WCFfi7vhLnx4AaABAg"
 			}
 		},
+		"ikplaydebom": {
+			"name": "ikplaydebom",
+			"avatar": "creators/ikplaydebom.jpg?v=5cfb198f",
+			"bio": "Feel free to dm or @ me on discord for questions, help or if mod needs updating: Discord: ikplay \nIf you have feedback or features you would like to see also let me know. I genuinely hope you have as much fun as me playing this game! I get excited from quality of life changes and removing clutter a.k.a. making things look clean as fuck",
+			"links": {}
+		},
 		"int0xic": {
 			"name": "int0xic",
+			"links": {}
+		},
+		"je-serai-hokage": {
+			"name": "je_serai_hokage",
+			"avatar": "creators/je-serai-hokage.webp?v=d9c3634c",
 			"links": {}
 		},
 		"juuhadg": {
@@ -530,6 +547,12 @@
 				"x": "https://x.com/its_nabetse"
 			}
 		},
+		"rolorolla": {
+			"name": "RoloRolla",
+			"links": {
+				"youtube": "https://www.youtube.com/watch?v=T6hJmABIZEk"
+			}
+		},
 		"runeforgerecoveryteam": {
 			"name": "RuneforgeRecoveryTeam",
 			"avatar": "creators/runeforgerecoveryteam.jpg?v=cdcfffea",
@@ -628,6 +651,10 @@
 				"tiktok": "https://tiktok.com/@tor.lol",
 				"youtube": "https://youtu.be/IxX_QHay02M"
 			}
+		},
+		"tur290": {
+			"name": "tur290",
+			"links": {}
 		},
 		"tyre-4770": {
 			"name": "Tyre 4770",
@@ -5837,6 +5864,176 @@
 				"asset": "jungle-pets-pokemon-gen-1-v1.fantome",
 				"size": 3019238,
 				"sha256": "6b8aab4a53a8395e890de5bec062f45e538f82eeaa520e0610501aaebe684626"
+			}
+		},
+		{
+			"id": "k-sans",
+			"name": "K'Sans",
+			"kind": "other",
+			"creator": "rolorolla",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/k-sans/thumb.webp?v=6c06aa91",
+			"file": {
+				"version": 1,
+				"asset": "k-sans-v1.fantome",
+				"size": 21927485,
+				"sha256": "5e258291a44af2fb8f37a36651301472fd9c2828d19f1ac7c520623dc89cf77a"
+			}
+		},
+		{
+			"id": "kanami-strinova-cso-announcer",
+			"name": "Kanami (Strinova) + CSO Announcer",
+			"kind": "announcer",
+			"creator": "tur290",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/kanami-strinova-cso-announcer/thumb.webp?v=37e7dc50",
+			"file": {
+				"version": 1,
+				"asset": "kanami-strinova-cso-announcer-v1.fantome",
+				"size": 7314671,
+				"sha256": "63e468c2be4dec11505702cbbb824bdc115257d46a750d93372d58b575237c55"
+			}
+		},
+		{
+			"id": "kaneki-hud-tokyo-ghoul",
+			"name": "Kaneki HUD [Tokyo Ghoul]",
+			"kind": "ui",
+			"creator": "je-serai-hokage",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/kaneki-hud-tokyo-ghoul/thumb.webp?v=dce17243",
+			"file": {
+				"version": 1,
+				"asset": "kaneki-hud-tokyo-ghoul-v1.fantome",
+				"size": 21559220,
+				"sha256": "6091580602664498b0ee670a3b02c93a1dca6c524dedd067880785bce8315b3c"
+			}
+		},
+		{
+			"id": "karma-meme-sound-mod",
+			"name": "Karma meme sound mod",
+			"kind": "sounds",
+			"creator": "mouseatemyhouse",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/karma-meme-sound-mod/thumb.webp?v=9cd7cb24",
+			"file": {
+				"version": 1,
+				"asset": "karma-meme-sound-mod-v1.fantome",
+				"size": 48915720,
+				"sha256": "ac3319c12cb2d1f067301258392ede6e300d1dcadddd3d344491851928a693b3"
+			}
+		},
+		{
+			"id": "kasane-teto-hud",
+			"name": "Kasane Teto HUD",
+			"kind": "ui",
+			"creator": "celestia-mod-recovery",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/kasane-teto-hud/thumb.webp?v=6afd9bb1",
+			"file": {
+				"version": 1,
+				"asset": "kasane-teto-hud-v1.modpkg",
+				"size": 7301177,
+				"sha256": "9fe44adb58a9c04d7e4dee8a8b8be244d766918a79770a6b9fb65e79e30f0442"
+			}
+		},
+		{
+			"id": "kawaii-cute-fonts",
+			"name": "Kawaii Cute Fonts",
+			"kind": "fonts",
+			"creator": "tor-lol",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/kawaii-cute-fonts/thumb.webp?v=693fdc93",
+			"file": {
+				"version": 1,
+				"asset": "kawaii-cute-fonts-v1.fantome",
+				"size": 19103565,
+				"sha256": "2b8bfdae55d0c133de58a814855e3583b356e0f67907173d3777c91678b0546b"
+			}
+		},
+		{
+			"id": "killfeed2theleft",
+			"name": "KillFeed2TheLeft",
+			"kind": "ui",
+			"creator": "ikplaydebom",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/killfeed2theleft/thumb.webp?v=5bac8c31",
+			"file": {
+				"version": 1,
+				"asset": "killfeed2theleft-v1.fantome",
+				"size": 12831,
+				"sha256": "90f8e4e95ef7c7fd9c8c9fcb782edce613ef13160f5fbc7e59e7d1a7ae79c016"
+			}
+		},
+		{
+			"id": "killstreak-digimon-02-dna-evolution-ger-jap",
+			"name": "Killstreak - Digimon 02 DNA Evolution (Ger/Jap)",
+			"kind": "sounds",
+			"creator": "knuxsd",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/killstreak-digimon-02-dna-evolution-ger-jap/thumb.webp?v=984b6329",
+			"file": {
+				"version": 1,
+				"asset": "killstreak-digimon-02-dna-evolution-ger-jap-v1.fantome",
+				"size": 1333393,
+				"sha256": "f672e120d1caab0e85bbbb07753fa511a59ae9c9a8d8e572ea3d582990a8472c"
+			}
+		},
+		{
+			"id": "killstreak-kickstart-my-heart",
+			"name": "Killstreak - Kickstart my Heart",
+			"kind": "sounds",
+			"creator": "knuxsd",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/killstreak-kickstart-my-heart/thumb.webp?v=0dc1bd67",
+			"file": {
+				"version": 1,
+				"asset": "killstreak-kickstart-my-heart-v1.fantome",
+				"size": 1654298,
+				"sha256": "388ddc71315953dd0b723dfabf42a3f56df82444b3fd3086e26e65413299340b"
+			}
+		},
+		{
+			"id": "killstreak-mute",
+			"name": "Killstreak Mute",
+			"kind": "sounds",
+			"creator": "aropatnik",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/killstreak-mute/thumb.webp?v=d2a98b77",
+			"file": {
+				"version": 1,
+				"asset": "killstreak-mute-v1.fantome",
+				"size": 8796,
+				"sha256": "2cb1c610a733e7736a0d1720fd2a43394f69a8db98fb71c59fd589e4fe4f16d6"
 			}
 		}
 	]

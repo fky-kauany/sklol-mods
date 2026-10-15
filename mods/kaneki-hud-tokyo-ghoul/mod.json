@@ -1,0 +1,17 @@
+{
+	"id": "kaneki-hud-tokyo-ghoul",
+	"name": "Kaneki HUD [Tokyo Ghoul]",
+	"kind": "ui",
+	"creator": "je-serai-hokage",
+	"description": "### Kaneki HUD\n\nA dark, Tokyo Ghoul-inspired HUD for League of Legends, built around Kaneki Ken's aesthetic — centipede red, deep black, and that unraveling, kagune-tinged edge running through the UI.\n\n**Base & credits**\nBuilt on top of Disco's HUD as a base — full credit to him for the original work this skin was adapted from. Go check out his stuff too.\n\n**Notes**\nFeedback, bug reports, and suggestions are always welcome. Hope you enjoy it!\n\n---\n\n**Created by** [je_serai_hokage](https://www.divineskins.gg/je_serai_hokage)\n\n**Original:** https://www.divineskins.gg/je_serai_hokage/kaneki-hud-tokyo-ghoul\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/kaneki-hud-tokyo-ghoul/thumb.webp?v=dce17243",
+	"file": {
+		"version": 1,
+		"asset": "kaneki-hud-tokyo-ghoul-v1.fantome",
+		"size": 21559220,
+		"sha256": "6091580602664498b0ee670a3b02c93a1dca6c524dedd067880785bce8315b3c"
+	}
+}

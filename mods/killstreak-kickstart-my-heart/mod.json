@@ -1,0 +1,17 @@
+{
+	"id": "killstreak-kickstart-my-heart",
+	"name": "Killstreak - Kickstart my Heart",
+	"kind": "sounds",
+	"creator": "knuxsd",
+	"description": "Killstreak Music to hype you up as you mow through the opposition - advances with each kill. Stops and resets when your streak has ended.\r\n\r\nInspired by Aurecuei's Devil Trigger Killstreaks Mod\n\n---\n\n**Created by** [KnuxSD](https://runeforge.dev/users/KnuxSD)\n\n**Original:** https://runeforge.dev/mods/e0860acb-23e7-46d4-bf9a-8c161c15cae2\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/killstreak-kickstart-my-heart/thumb.webp?v=0dc1bd67",
+	"file": {
+		"version": 1,
+		"asset": "killstreak-kickstart-my-heart-v1.fantome",
+		"size": 1654298,
+		"sha256": "388ddc71315953dd0b723dfabf42a3f56df82444b3fd3086e26e65413299340b"
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"id": "kasane-teto-hud",
+	"name": "Kasane Teto HUD",
+	"kind": "ui",
+	"creator": "celestia-mod-recovery",
+	"description": "### ? Mod Info\r\n**Type:** HUD\r\n\r\n### ? Credits\r\n**Special Thanks:** Katazuki\r\n\r\n### ? Additional Info\r\nQuestions or requests? DM me on Discord or join the Divine Skins server.\r\n\r\n\r\n*Fan-made, not affiliated with Riot Games or any other company.*\n\n---\n\n**Created by** [celestia-mod-recovery](https://www.divineskins.gg/celestia-mod-recovery)\n\n**Original:** https://www.divineskins.gg/celestia-mod-recovery/kasane-teto-hud\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/kasane-teto-hud/thumb.webp?v=6afd9bb1",
+	"file": {
+		"version": 1,
+		"asset": "kasane-teto-hud-v1.modpkg",
+		"size": 7301177,
+		"sha256": "9fe44adb58a9c04d7e4dee8a8b8be244d766918a79770a6b9fb65e79e30f0442"
+	}
+}

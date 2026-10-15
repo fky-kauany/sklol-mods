@@ -1,0 +1,17 @@
+{
+	"id": "killfeed2theleft",
+	"name": "KillFeed2TheLeft",
+	"kind": "ui",
+	"creator": "ikplaydebom",
+	"description": "**breaks for some champs;\r\ndoesnt chrash but forces league to use the default ui.wad file so could break other mods\r\n\r\nMoves the kill feed to the left of the screen instead of the right. Mirrors the image but swaps the target and killer, meaning the killer stays on the left and the victim stays on the right. Kill feed size scales with the in game minimap size setting. If you want a custom size killfeed/minimap you can message me. I personally use a bigger killfeed. For questions/suggestions discord: ikplay\n\n---\n\n**Created by** [ikplaydebom](https://runeforge.dev/users/ikplaydebom)\n\n**Original:** https://runeforge.dev/mods/4f6c0a8d-4e3a-4849-bdb2-dc3683a5aa08\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/killfeed2theleft/thumb.webp?v=5bac8c31",
+	"file": {
+		"version": 1,
+		"asset": "killfeed2theleft-v1.fantome",
+		"size": 12831,
+		"sha256": "90f8e4e95ef7c7fd9c8c9fcb782edce613ef13160f5fbc7e59e7d1a7ae79c016"
+	}
+}

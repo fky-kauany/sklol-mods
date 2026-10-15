@@ -1,0 +1,17 @@
+{
+	"id": "k-sans",
+	"name": "K'Sans",
+	"kind": "other",
+	"creator": "rolorolla",
+	"description": "**Features:**\n\n*\n  New model\tand icons\n\n* New sound effects\n\n* New voice over&#x20;\n*\n  eeeeeeeeeee\n\n---\n\n**Created by** [RoloRolla](https://runeforge.dev/users/RoloRolla)\n\n**Original:** https://runeforge.dev/mods/7d58970d-ce68-4949-8ea3-3591f79ff8f1\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/k-sans/thumb.webp?v=6c06aa91",
+	"file": {
+		"version": 1,
+		"asset": "k-sans-v1.fantome",
+		"size": 21927485,
+		"sha256": "5e258291a44af2fb8f37a36651301472fd9c2828d19f1ac7c520623dc89cf77a"
+	}
+}
