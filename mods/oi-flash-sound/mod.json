@@ -1,0 +1,17 @@
+{
+	"id": "oi-flash-sound",
+	"name": "Oi Flash Sound",
+	"kind": "sounds",
+	"creator": "pico-senpai",
+	"description": "## **MOD INFORMATION**\n\n* Author: Pico Senpai\n* Mod Version: 1.0.0\n* Modified sound: Flash Summoner's spell\n\n## **DESCRIPTION**\n\n* Replaces the flash sound by the meme \"Oi\" sound\n\n## **SOCIALS**\n\n![](https://static.wixstatic.com/media/e2a744_abb27c3529754e04ab6ad06fd9c7ab56~mv2.png/v1/fill/w_740,h_416,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e2a744_abb27c3529754e04ab6ad06fd9c7ab56~mv2.png)\n\n###\nAdd me on Discord: pico\\_senpai\n\n### My Youtube channel: [Pico Senpai](https://www.youtube.com/channel/UCAZfp8d8ZLFUurid3w2wElQ)\n\n### Support me on Patreon!: [PicoSenpai](https://www.patreon.com/PicoSenpaiSFW)\n\n---\n\n**Created by** [Pico Senpai](https://runeforge.dev/users/Pico_Senpai)\n\n**Original:** https://runeforge.dev/mods/e8babdc0-d1b4-4e6c-bdfe-79c710a4c00f\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/oi-flash-sound/thumb.webp?v=d03c54eb",
+	"file": {
+		"version": 1,
+		"asset": "oi-flash-sound-v1.fantome",
+		"size": 7184945,
+		"sha256": "733c28c57d4d3f223c95eff717acbb794a9bc0ae4dfefc9711e9c658d438d8fc"
+	}
+}

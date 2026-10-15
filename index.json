@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T10:27:53.318Z",
+	"generatedAt": "2026-10-15T10:33:30.441Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -824,6 +824,12 @@
 			"links": {
 				"youtube": "https://www.youtube.com/watch?v=u1xubr1uGcM&pp=ygUgdGZ0IGxlIGJ1bm55IGJvbmJvbiBiaXN0cm8gbXVzaWM%3D"
 			}
+		},
+		"xllwd1": {
+			"name": "xllwd1",
+			"avatar": "creators/xllwd1.webp?v=6027596d",
+			"bio": "Chinese \nI like old things.",
+			"links": {}
 		},
 		"yer": {
 			"name": "yer",
@@ -7713,6 +7719,176 @@
 				"asset": "odyssey-kayn-announcer-2-v1.fantome",
 				"size": 436409,
 				"sha256": "83073f64049d8fbf5dafd2f561973a0bf9c4a9d16df90853994fcc8963a3b789"
+			}
+		},
+		{
+			"id": "oi-flash-sound",
+			"name": "Oi Flash Sound",
+			"kind": "sounds",
+			"creator": "pico-senpai",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/oi-flash-sound/thumb.webp?v=d03c54eb",
+			"file": {
+				"version": 1,
+				"asset": "oi-flash-sound-v1.fantome",
+				"size": 7184945,
+				"sha256": "733c28c57d4d3f223c95eff717acbb794a9bc0ae4dfefc9711e9c658d438d8fc"
+			}
+		},
+		{
+			"id": "old-ability-icons-collection",
+			"name": "Old Ability Icons Collection",
+			"kind": "ui",
+			"creator": "aropatnik",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/old-ability-icons-collection/thumb.webp?v=8e8c2c9f",
+			"file": {
+				"version": 1,
+				"asset": "old-ability-icons-collection-v1.fantome",
+				"size": 1230167,
+				"sha256": "6db2fff4b577ca41e522032e81fece26b08f9b8553f2b61ce9064215564810d6"
+			}
+		},
+		{
+			"id": "old-ahri-spell-icons",
+			"name": "Old Ahri Spell Icons",
+			"kind": "icons",
+			"creator": "aropatnik",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/old-ahri-spell-icons/thumb.webp?v=b4e3f364",
+			"file": {
+				"version": 1,
+				"asset": "old-ahri-spell-icons-v1.fantome",
+				"size": 9391,
+				"sha256": "967a0227c78a670736f9db0bb854ed264e861978f31e9e78326ccbe0c35a0310"
+			}
+		},
+		{
+			"id": "old-airblade-yasuo",
+			"name": "Old Airblade Yasuo",
+			"kind": "other",
+			"creator": "konari",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/old-airblade-yasuo/thumb.webp?v=22b329c5",
+			"file": {
+				"version": 1,
+				"asset": "old-airblade-yasuo-v1.fantome",
+				"size": 85928,
+				"sha256": "c0f353a67e3cff18542f59754bd4a638f6658936e147b3794108262850ec2a76"
+			}
+		},
+		{
+			"id": "old-arena-augments-icons",
+			"name": "Old Arena Augments Icons",
+			"kind": "icons",
+			"creator": "gloomytree",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/old-arena-augments-icons/thumb.webp?v=389e824e",
+			"file": {
+				"version": 1,
+				"asset": "old-arena-augments-icons-v1.fantome",
+				"size": 840305,
+				"sha256": "11dd1fd6e0b2b71dbe1b460edd1187318dc7d1a00ca78eb6be4477e351b96b44"
+			}
+		},
+		{
+			"id": "old-caitlyn-spell-icons",
+			"name": "Old Caitlyn Spell Icons",
+			"kind": "icons",
+			"creator": "aropatnik",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/old-caitlyn-spell-icons/thumb.webp?v=6b38b122",
+			"file": {
+				"version": 1,
+				"asset": "old-caitlyn-spell-icons-v1.fantome",
+				"size": 10909,
+				"sha256": "cccb76c5783b558808df0d9801458b0c8c0aeb1cb7902c44477e955427f846ad"
+			}
+		},
+		{
+			"id": "old-damage-numbers-text-and-icons",
+			"name": "Old Damage Numbers, Text, and Icons",
+			"kind": "ui",
+			"creator": "agomsmoga",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/old-damage-numbers-text-and-icons/thumb.webp?v=3559fa1c",
+			"file": {
+				"version": 1,
+				"asset": "old-damage-numbers-text-and-icons-v1.fantome",
+				"size": 380208,
+				"sha256": "e92ec1e14125ec713c6cef43b491d484c637350b7b32400368859b1202126801"
+			}
+		},
+		{
+			"id": "old-death-vfx",
+			"name": "Old Death VFX",
+			"kind": "vfx",
+			"creator": "xllwd1",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/old-death-vfx/thumb.webp?v=0a137fb9",
+			"file": {
+				"version": 1,
+				"asset": "old-death-vfx-v1.fantome",
+				"size": 91683,
+				"sha256": "0ede615c3cb5bfbcffd134b5a8f0c7ce41a2f1d2cbfa80ac5543bd7a042a3cfa"
+			}
+		},
+		{
+			"id": "old-draktharr-is-back",
+			"name": "Old Draktharr is Back",
+			"kind": "ui",
+			"creator": "s10tiamat",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/old-draktharr-is-back/thumb.webp?v=8e4176bd",
+			"file": {
+				"version": 1,
+				"asset": "old-draktharr-is-back-v1.fantome",
+				"size": 1990725,
+				"sha256": "23a51327cd4a1cb92be7baf866641c06b220be1b4129a0303d75edb88556b9b7"
+			}
+		},
+		{
+			"id": "old-god-mordekaiser-skill-icons",
+			"name": "Old God Mordekaiser Skill Icons",
+			"kind": "ui",
+			"creator": "guvercin",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/old-god-mordekaiser-skill-icons/thumb.webp?v=21f5f442",
+			"file": {
+				"version": 1,
+				"asset": "old-god-mordekaiser-skill-icons-v1.fantome",
+				"size": 12523,
+				"sha256": "f93f9f6d43193f18ab426629fbc2baa8e05cbebc6ac73547ae8b021a55a8c6f2"
 			}
 		}
 	]

@@ -1,0 +1,17 @@
+{
+	"id": "old-ahri-spell-icons",
+	"name": "Old Ahri Spell Icons",
+	"kind": "icons",
+	"creator": "aropatnik",
+	"description": "![](https://r2-prod.runeforge.dev/mod_gallery_images%2F782e414a-9317-4a96-ad36-ee33a675c2ae%2F1734622428678_preview)\n\n## Information\n\n**Modified champion: Ahri**\n\n**Author: Aropatnik**\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/782e414a-9317-4a96-ad36-ee33a675c2ae\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/old-ahri-spell-icons/thumb.webp?v=b4e3f364",
+	"file": {
+		"version": 1,
+		"asset": "old-ahri-spell-icons-v1.fantome",
+		"size": 9391,
+		"sha256": "967a0227c78a670736f9db0bb854ed264e861978f31e9e78326ccbe0c35a0310"
+	}
+}

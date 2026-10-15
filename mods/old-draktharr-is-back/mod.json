@@ -1,0 +1,17 @@
+{
+	"id": "old-draktharr-is-back",
+	"name": "Old Draktharr is Back",
+	"kind": "ui",
+	"creator": "s10tiamat",
+	"description": "for the real goats\n\n---\n\n**Created by** [tiamat](https://runeforge.dev/users/s10tiamat)\n\n**Original:** https://runeforge.dev/mods/843a66c6-9d47-4c91-a7a6-bad778b440dc\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/old-draktharr-is-back/thumb.webp?v=8e4176bd",
+	"file": {
+		"version": 1,
+		"asset": "old-draktharr-is-back-v1.fantome",
+		"size": 1990725,
+		"sha256": "23a51327cd4a1cb92be7baf866641c06b220be1b4129a0303d75edb88556b9b7"
+	}
+}

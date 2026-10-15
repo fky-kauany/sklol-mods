@@ -1,0 +1,17 @@
+{
+	"id": "old-god-mordekaiser-skill-icons",
+	"name": "Old God Mordekaiser Skill Icons",
+	"kind": "ui",
+	"creator": "guvercin",
+	"description": "Old God Mordekaiser Skill Icons changes Mordekaiser's hud\n\nI used in game model, splash arts and I edited normal skill icons\n\nLooking for more?\n\nHere Lux version: [https://runeforge.dev/mods/26fa44b5-3b53-494d-9d57-6fe611ac3f86](https://runeforge.dev/mods/26fa44b5-3b53-494d-9d57-6fe611ac3f86)\n\nHere Aatrox version: [https://runeforge.dev/mods/761da2be-9b64-4189-9122-4a44506eab01](https://runeforge.dev/mods/761da2be-9b64-4189-9122-4a44506eab01)\n\nHere Inkshadow Yasuo version: [https://runeforge.dev/mods/21a8dc1b-41bc-4981-97f4-6ccf65b3848c](https://runeforge.dev/mods/21a8dc1b-41bc-4981-97f4-6ccf65b3848c)\n\nHere Nightbringer Yasuo version: [https://runeforge.dev/mods/f136a8f6-471e-4a04-8050-7c9c40f9ff35](https://runeforge.dev/mods/f136a8f6-471e-4a04-8050-7c9c40f9ff35)\n\nHere Jhin version: [https://www.runeforge.dev/mods/94075e99-565e-4c7f-8e6f-c03c8fc275b7](https://www.runeforge.dev/mods/94075e99-565e-4c7f-8e6f-c03c8fc275b7)\n\n---\n\n**Created by** [Güvercin](https://runeforge.dev/users/Guvercin)\n\n**Original:** https://runeforge.dev/mods/1bbc1b4d-6a79-4098-bed3-f6dc5005208e\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/old-god-mordekaiser-skill-icons/thumb.webp?v=21f5f442",
+	"file": {
+		"version": 1,
+		"asset": "old-god-mordekaiser-skill-icons-v1.fantome",
+		"size": 12523,
+		"sha256": "f93f9f6d43193f18ab426629fbc2baa8e05cbebc6ac73547ae8b021a55a8c6f2"
+	}
+}

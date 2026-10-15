@@ -1,0 +1,17 @@
+{
+	"id": "old-death-vfx",
+	"name": "Old Death VFX",
+	"kind": "vfx",
+	"creator": "xllwd1",
+	"description": "---\n\n**Created by** [xllwd1](https://www.divineskins.gg/xllwd1)\n\n**Original:** https://www.divineskins.gg/xllwd1/old-death-vfx\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/old-death-vfx/thumb.webp?v=0a137fb9",
+	"file": {
+		"version": 1,
+		"asset": "old-death-vfx-v1.fantome",
+		"size": 91683,
+		"sha256": "0ede615c3cb5bfbcffd134b5a8f0c7ce41a2f1d2cbfa80ac5543bd7a042a3cfa"
+	}
+}

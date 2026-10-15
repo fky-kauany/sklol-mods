@@ -1,0 +1,17 @@
+{
+	"id": "old-caitlyn-spell-icons",
+	"name": "Old Caitlyn Spell Icons",
+	"kind": "icons",
+	"creator": "aropatnik",
+	"description": "### *Mod variants have not yet been implemented into Runeforge v2.0. In the meantime if you wish to download the older meatball passive version please use this mediafire link:* [*https://www.mediafire.com/file/re6k8w7vttlbbbb/Caitlyn\\_old\\_spell\\_icons\\_-\\_Older\\_passive\\_icon\\_V1.0\\_by\\_Aropatnik.fantome/file*](https://www.mediafire.com/file/re6k8w7vttlbbbb/Caitlyn_old_spell_icons_-_Older_passive_icon_V1.0_by_Aropatnik.fantome/file)\n\n## Information\n\n**Modified champion: Caitlyn**\n\n**Author: Aropatnik**\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/31d85e03-33bb-429f-b405-7b4dccad84ff\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/old-caitlyn-spell-icons/thumb.webp?v=6b38b122",
+	"file": {
+		"version": 1,
+		"asset": "old-caitlyn-spell-icons-v1.fantome",
+		"size": 10909,
+		"sha256": "cccb76c5783b558808df0d9801458b0c8c0aeb1cb7902c44477e955427f846ad"
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"id": "old-arena-augments-icons",
+	"name": "Old Arena Augments Icons",
+	"kind": "icons",
+	"creator": "gloomytree",
+	"description": "Ever been depressed or sad because arena icons looks like actual shit compared to old ones ? FEAR NOT, for I am here to change that mood of yours with flashy cool old icons from early arena versions.\n\n(All newer augments not present in early versions stays unchanged)\n\n---\n\n**Created by** [Gloomy Tree](https://runeforge.dev/users/GloomyTree)\n\n**Original:** https://runeforge.dev/mods/2dc7572b-a54e-42ef-b0e1-de50dda02017\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/old-arena-augments-icons/thumb.webp?v=389e824e",
+	"file": {
+		"version": 1,
+		"asset": "old-arena-augments-icons-v1.fantome",
+		"size": 840305,
+		"sha256": "11dd1fd6e0b2b71dbe1b460edd1187318dc7d1a00ca78eb6be4477e351b96b44"
+	}
+}

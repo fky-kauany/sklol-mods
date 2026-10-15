@@ -1,0 +1,17 @@
+{
+	"id": "old-ability-icons-collection",
+	"name": "Old Ability Icons Collection",
+	"kind": "ui",
+	"creator": "aropatnik",
+	"description": "### *The download has the most recent old icons grouped together in one mod. If you want only some champions to have old abilty icons download from this mediafire link instead:* [*https://www.mediafire.com/folder/sctovaxuv46xt/Old_ability_icons*](https://www.mediafire.com/folder/sctovaxuv46xt/Old_ability_icons)*. Note that some champions have multiple variants \"Old Old\" is the older variant. Katarina had 2 haircolors on her release version so those are the Releaseblue and Releasered.*\n\n#\n\n### Information\n\nOld ability icons for 90+ champions. For some, like Malphite and Lee Sin, the old icons worked neatly with their new abilities with no modifications. For others, like Katarina and Akali, some of the icons required me to create additional versions, for example when being unable to cast (Katarina R) or when being recast (Akali E and R). For the rest, like Malzahar and Aatrox, the old icons were shuffled around in an *attempt* to fit the new abilities.\n\n**Author:** Aropatnik\n\n**Champions included:** aatrox, ahri, akali, alistar, amumu, anivia, annie, ashe, aurelion sol, blitzcrank, brand, caitlyn, cassiopeia, chogath, corki, diana, dr mundo, evelynn, ezreal, fiddlesticks, fiora, fizz, galio, gangplank, garen, gragas, graves, heimerdinger, irelia, janna, jarvan iv, jax, jayce, karma, karthus, kassadin, katarina, kayle, kennen, kogmaw, leblanc, leesin, leona, lux, malphite, malzahar, maokai, master yi, miss fortune, mordekaiser, morgana, nami, nasus, nidalee, nunu, olaf, orianna, ornn, pantheon, poppy, rammus, renekton, rengar, ryze, sejuani, shaco, shen, singed, sion, sivir, skarner, sona, soraka, swain, syndra, talon, taric, teemo, tristana, trundle, tryndamere, twisted fate, twitch, udyr, urgot, varus, vayne, viktor, vladimir, volibear, warwick, xerath, xin zhao, yorick, zac, zed, zilean, zyra\n\n#\n\n### Credits\n\nShoutout the League wiki for making it easy to get all of the images: https://wiki.leagueoflegends.com/en-us/Category:Old_champion_ability_icons\n\n#\n\n### Issues\n\nIf/When this mod breaks let me know\n\nDiscord username: aropatnik\n\nDiscord server: https://discord.gg/ue5t7tGW32\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n#\n\n### Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/f5e6b00d-af10-4d98-8464-490210deaca0\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/old-ability-icons-collection/thumb.webp?v=8e8c2c9f",
+	"file": {
+		"version": 1,
+		"asset": "old-ability-icons-collection-v1.fantome",
+		"size": 1230167,
+		"sha256": "6db2fff4b577ca41e522032e81fece26b08f9b8553f2b61ce9064215564810d6"
+	}
+}
