@@ -237,6 +237,11 @@
 		"avatar": "creators/guvercin.jpg?v=a0823de4",
 		"links": {}
 	},
+	"haigo03": {
+		"name": "haigo03",
+		"avatar": "creators/haigo03.png?v=18f609fd",
+		"links": {}
+	},
 	"horrorwolf": {
 		"name": "HorrorWolf",
 		"avatar": "creators/horrorwolf.png?v=b1e42ede",
@@ -251,6 +256,10 @@
 		"links": {
 			"youtube": "https://www.youtube.com/watch?v=_wyaHTfIDCA&lc=UgymYT19WCFfi7vhLnx4AaABAg"
 		}
+	},
+	"int0xic": {
+		"name": "int0xic",
+		"links": {}
 	},
 	"kietjojo": {
 		"name": "Kiet Jojo",
@@ -337,6 +346,12 @@
 			"youtube": "https://www.youtube.com/watch?v=xaQpat3ADvc"
 		}
 	},
+	"nightfire007": {
+		"name": "NightFire007",
+		"links": {
+			"youtube": "https://www.youtube.com/watch?v=1q_K8ZN3CaE"
+		}
+	},
 	"notcoconut": {
 		"name": "NotCoconut",
 		"avatar": "creators/notcoconut.webp?v=3212d014",
@@ -415,6 +430,12 @@
 	"runeforgerecoveryteam": {
 		"name": "RuneforgeRecoveryTeam",
 		"avatar": "creators/runeforgerecoveryteam.jpg?v=cdcfffea",
+		"links": {}
+	},
+	"s10tiamat": {
+		"name": "tiamat",
+		"avatar": "creators/s10tiamat.jpg?v=095b464f",
+		"bio": "discord: s10tiamat",
 		"links": {}
 	},
 	"snorr": {

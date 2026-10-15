@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T08:28:20.436Z",
+	"generatedAt": "2026-10-15T08:33:53.935Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -240,6 +240,11 @@
 			"avatar": "creators/guvercin.jpg?v=a0823de4",
 			"links": {}
 		},
+		"haigo03": {
+			"name": "haigo03",
+			"avatar": "creators/haigo03.png?v=18f609fd",
+			"links": {}
+		},
 		"horrorwolf": {
 			"name": "HorrorWolf",
 			"avatar": "creators/horrorwolf.png?v=b1e42ede",
@@ -254,6 +259,10 @@
 			"links": {
 				"youtube": "https://www.youtube.com/watch?v=_wyaHTfIDCA&lc=UgymYT19WCFfi7vhLnx4AaABAg"
 			}
+		},
+		"int0xic": {
+			"name": "int0xic",
+			"links": {}
 		},
 		"kietjojo": {
 			"name": "Kiet Jojo",
@@ -340,6 +349,12 @@
 				"youtube": "https://www.youtube.com/watch?v=xaQpat3ADvc"
 			}
 		},
+		"nightfire007": {
+			"name": "NightFire007",
+			"links": {
+				"youtube": "https://www.youtube.com/watch?v=1q_K8ZN3CaE"
+			}
+		},
 		"notcoconut": {
 			"name": "NotCoconut",
 			"avatar": "creators/notcoconut.webp?v=3212d014",
@@ -418,6 +433,12 @@
 		"runeforgerecoveryteam": {
 			"name": "RuneforgeRecoveryTeam",
 			"avatar": "creators/runeforgerecoveryteam.jpg?v=cdcfffea",
+			"links": {}
+		},
+		"s10tiamat": {
+			"name": "tiamat",
+			"avatar": "creators/s10tiamat.jpg?v=095b464f",
+			"bio": "discord: s10tiamat",
 			"links": {}
 		},
 		"snorr": {
@@ -3764,6 +3785,181 @@
 				"asset": "dragonslayer-kayle-chroma-vfx-v1.fantome",
 				"size": 5148457,
 				"sha256": "3515c5f673023b7e8c6d3d72c1d11e07a59373d4da614ce23b8256fa981a8c08"
+			}
+		},
+		{
+			"id": "drakthar-icon-for-voltaic-cyclosword",
+			"name": "drakthar icon for voltaic cyclosword",
+			"kind": "icons",
+			"creator": "int0xic",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/drakthar-icon-for-voltaic-cyclosword/thumb.webp?v=0196d334",
+			"file": {
+				"version": 1,
+				"asset": "drakthar-icon-for-voltaic-cyclosword-v1.fantome",
+				"size": 4520586,
+				"sha256": "2383d6f3a1b57a4299c9f54bb736f6d07551c599fe2dc4ecf48ddda6ad13370b"
+			}
+		},
+		{
+			"id": "draktharr-is-back",
+			"name": "Draktharr is Back",
+			"kind": "ui",
+			"creator": "s10tiamat",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/draktharr-is-back/thumb.webp?v=24ff7f46",
+			"file": {
+				"version": 1,
+				"asset": "draktharr-is-back-v1.fantome",
+				"size": 1990509,
+				"sha256": "1db26b467a0ea2066d55b5fa059d3c610befd82c555a60e921adb7049d5a8457"
+			}
+		},
+		{
+			"id": "draven-cursor",
+			"name": "Draven Cursor",
+			"kind": "ui",
+			"creator": "aropatnik",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/draven-cursor/thumb.webp?v=86426bbf",
+			"file": {
+				"version": 1,
+				"asset": "draven-cursor-v1.fantome",
+				"size": 68012,
+				"sha256": "4eadfe32781c3d3452c16b771088aa4bb0de7dab55709fde39b17a6f03529bc3"
+			}
+		},
+		{
+			"id": "draven-minions",
+			"name": "Draven Minions",
+			"kind": "mobs",
+			"creator": "moga",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/draven-minions/thumb.webp?v=0e03ba7c",
+			"file": {
+				"version": 1,
+				"asset": "draven-minions-v1.fantome",
+				"size": 7714493,
+				"sha256": "c65d87bea5ce836881a59d53309898f218ea174eab20d0b2bfc0309f70890a25"
+			},
+			"maps": [
+				11,
+				12,
+				35
+			]
+		},
+		{
+			"id": "dreamybull-announcer",
+			"name": "Dreamybull Announcer",
+			"kind": "announcer",
+			"creator": "haigo03",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/dreamybull-announcer/thumb.webp?v=9c5125ab",
+			"file": {
+				"version": 1,
+				"asset": "dreamybull-announcer-v1.fantome",
+				"size": 9148033,
+				"sha256": "716ace9d13969af5dce794269d460e72140c8957764290315721c649844579c8"
+			}
+		},
+		{
+			"id": "driving-in-my-car-nunu",
+			"name": "DRIVING IN MY CAR Nunu",
+			"kind": "sounds",
+			"creator": "pico-senpai",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/driving-in-my-car-nunu/thumb.webp?v=babffe09",
+			"file": {
+				"version": 1,
+				"asset": "driving-in-my-car-nunu-v1.fantome",
+				"size": 2520421,
+				"sha256": "1e20aef8ebda3c34efbf99d80a5dd248395249b5fc5343e43da14c0be7f8d3b3"
+			}
+		},
+		{
+			"id": "driving-in-my-car-sion-r-sound-effect-really-shi",
+			"name": "Driving in my car Sion R sound effect (Really shitty bc it is my first mod)",
+			"kind": "sounds",
+			"creator": "nightfire007",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/driving-in-my-car-sion-r-sound-effect-really-shi/thumb.webp?v=d300e123",
+			"file": {
+				"version": 1,
+				"asset": "driving-in-my-car-sion-r-sound-effect-really-shi-v1.fantome",
+				"size": 2997098,
+				"sha256": "8abf80233692fe8bdee95a0279810beb04655b193ea2bf855c1288084284213c"
+			}
+		},
+		{
+			"id": "duke-nukem-announcer",
+			"name": "Duke Nukem Announcer",
+			"kind": "announcer",
+			"creator": "ramu3x",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/duke-nukem-announcer/thumb.webp?v=9c6aa5b6",
+			"file": {
+				"version": 1,
+				"asset": "duke-nukem-announcer-v1.fantome",
+				"size": 9008927,
+				"sha256": "1d063a82d6c470908b6467897160908c13d67961ef9502545df37b58615dc89b"
+			}
+		},
+		{
+			"id": "duke-nukem-announcer-og",
+			"name": "Duke Nukem Announcer [OG]",
+			"kind": "announcer",
+			"creator": "zamius",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/duke-nukem-announcer-og/thumb.webp?v=f9237e92",
+			"file": {
+				"version": 1,
+				"asset": "duke-nukem-announcer-og-v1.fantome",
+				"size": 7741115,
+				"sha256": "5b8629a6c41eb9b2b1a3b5efee673839b92cd0d11882b861901f2a463f0ea478"
+			}
+		},
+		{
+			"id": "elden-ring",
+			"name": "Elden Ring",
+			"kind": "fonts",
+			"creator": "atakzlky",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/elden-ring/thumb.webp?v=0bd60ce4",
+			"file": {
+				"version": 1,
+				"asset": "elden-ring-v1.fantome",
+				"size": 60998,
+				"sha256": "21d064c411694922750ddddb01bdac0eedbb94c177c29b154961769539effa9e"
 			}
 		}
 	]

@@ -1,0 +1,17 @@
+{
+	"id": "elden-ring",
+	"name": "Elden Ring",
+	"kind": "fonts",
+	"creator": "atakzlky",
+	"description": "Elden Ring Font\n\n---\n\n**Created by** [AtaKzlky](https://www.divineskins.gg/AtaKzlky)\n\n**Original:** https://www.divineskins.gg/AtaKzlky/elden-ring-font\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/elden-ring/thumb.webp?v=0bd60ce4",
+	"file": {
+		"version": 1,
+		"asset": "elden-ring-v1.fantome",
+		"size": 60998,
+		"sha256": "21d064c411694922750ddddb01bdac0eedbb94c177c29b154961769539effa9e"
+	}
+}

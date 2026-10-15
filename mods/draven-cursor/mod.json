@@ -1,0 +1,17 @@
+{
+	"id": "draven-cursor",
+	"name": "Draven Cursor",
+	"kind": "ui",
+	"creator": "aropatnik",
+	"description": "![](https://imagedelivery.net/jSCO7XHWhtXOc_Ojz3D3xA/82dfed61-c283-47c1-dde2-7efa132c6f00/gallery)\n\n## Information\n\n**Modified cursors: Modern and Legacy**\n\n**Author: Aropatnik**\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/b7702b86-b1c2-4a73-9633-15202efdac45\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/draven-cursor/thumb.webp?v=86426bbf",
+	"file": {
+		"version": 1,
+		"asset": "draven-cursor-v1.fantome",
+		"size": 68012,
+		"sha256": "4eadfe32781c3d3452c16b771088aa4bb0de7dab55709fde39b17a6f03529bc3"
+	}
+}

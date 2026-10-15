@@ -1,0 +1,17 @@
+{
+	"id": "duke-nukem-announcer-og",
+	"name": "Duke Nukem Announcer [OG]",
+	"kind": "announcer",
+	"creator": "zamius",
+	"description": "### MOD INFORMATION\n#\n\n**Modified Sounds**: Summoners Rift's Announcer\n\n**Author**: Zamius\n\n**Mod version**: 1.0\n\n**Description**: Replaces Summoner Rift’s original announcer voice lines with Duke Nukem’s from *Duke Nukem Forever*.\n##\n**FEATURES**\n- Supports the following languages: All languages\n- Modifies announcer\n\n**CREDITS**\n- **Pico Senpai** for the inspiration and **sauronkaiser / sea-noodle / project warwick** for beta testing in addition!\n##\n*It’s time to kick ass and chew bubblegum! And I’m all out of gum...*\n\n---\n\n**Created by** [Zamius](https://runeforge.dev/users/Zamius)\n\n**Original:** https://runeforge.dev/mods/072ce8f1-1c9a-4131-92a4-7d8d96f32801\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/duke-nukem-announcer-og/thumb.webp?v=f9237e92",
+	"file": {
+		"version": 1,
+		"asset": "duke-nukem-announcer-og-v1.fantome",
+		"size": 7741115,
+		"sha256": "5b8629a6c41eb9b2b1a3b5efee673839b92cd0d11882b861901f2a463f0ea478"
+	}
+}

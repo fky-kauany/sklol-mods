@@ -1,0 +1,17 @@
+{
+	"id": "drakthar-icon-for-voltaic-cyclosword",
+	"name": "drakthar icon for voltaic cyclosword",
+	"kind": "icons",
+	"creator": "int0xic",
+	"description": "---\n\n**Created by** [int0xic](https://runeforge.dev/users/int0xic)\n\n**Original:** https://runeforge.dev/mods/5081111c-114a-4198-a686-b43e64ea2dd1\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/drakthar-icon-for-voltaic-cyclosword/thumb.webp?v=0196d334",
+	"file": {
+		"version": 1,
+		"asset": "drakthar-icon-for-voltaic-cyclosword-v1.fantome",
+		"size": 4520586,
+		"sha256": "2383d6f3a1b57a4299c9f54bb736f6d07551c599fe2dc4ecf48ddda6ad13370b"
+	}
+}

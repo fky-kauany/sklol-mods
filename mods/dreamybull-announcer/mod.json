@@ -1,0 +1,17 @@
+{
+	"id": "dreamybull-announcer",
+	"name": "Dreamybull Announcer",
+	"kind": "announcer",
+	"creator": "haigo03",
+	"description": "gooner as an announcer\r\n1.3.0 fixed some audios that were missing\n\n---\n\n**Created by** [haigo03](https://runeforge.dev/users/haigo03)\n\n**Original:** https://runeforge.dev/mods/f96c21dc-f215-4736-97df-1c94ce323f71\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/dreamybull-announcer/thumb.webp?v=9c5125ab",
+	"file": {
+		"version": 1,
+		"asset": "dreamybull-announcer-v1.fantome",
+		"size": 9148033,
+		"sha256": "716ace9d13969af5dce794269d460e72140c8957764290315721c649844579c8"
+	}
+}

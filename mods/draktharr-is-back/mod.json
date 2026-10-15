@@ -1,0 +1,17 @@
+{
+	"id": "draktharr-is-back",
+	"name": "Draktharr is Back",
+	"kind": "ui",
+	"creator": "s10tiamat",
+	"description": "we're so back\n\n---\n\n**Created by** [tiamat](https://runeforge.dev/users/s10tiamat)\n\n**Original:** https://runeforge.dev/mods/b35df5fd-d286-4a2c-a18d-6b23ba543432\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/draktharr-is-back/thumb.webp?v=24ff7f46",
+	"file": {
+		"version": 1,
+		"asset": "draktharr-is-back-v1.fantome",
+		"size": 1990509,
+		"sha256": "1db26b467a0ea2066d55b5fa059d3c610befd82c555a60e921adb7049d5a8457"
+	}
+}
