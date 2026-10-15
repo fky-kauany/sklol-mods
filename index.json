@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T08:11:51.122Z",
+	"generatedAt": "2026-10-15T08:17:04.020Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -156,6 +156,22 @@
 				"youtube": "https://youtu.be/IgJJt0ItvZk"
 			}
 		},
+		"demon": {
+			"name": "Demon",
+			"avatar": "creators/demon.jpg?v=c5c2173e",
+			"bio": "Add Me On discord If you want to commission. I do most things including Huds, vfx, Models, fonts  etc.  Discord: hellfire1752",
+			"links": {}
+		},
+		"disco": {
+			"name": "DISCO",
+			"avatar": "creators/disco.webp?v=133102a3",
+			"bio": "Contact me via discord",
+			"links": {
+				"discord": "https://discord.com/users/440418268470312961",
+				"site": "https://github.com/DISCOCX",
+				"x": "https://x.com/DISCOXZ"
+			}
+		},
 		"dithz": {
 			"name": "DithZ",
 			"avatar": "creators/dithz.png?v=bb332928",
@@ -182,6 +198,12 @@
 				"discord": "https://discord.gg/5d8T8c962W",
 				"youtube": "https://youtu.be/D6MuCDAlA9Y?si=r_OtOm_IvjIUa1zc"
 			}
+		},
+		"fantom": {
+			"name": "Fantom",
+			"avatar": "creators/fantom.jpg?v=858d5136",
+			"bio": "> # Welcome to my profile!\n> <p>Hi, I'm Fantom, a new <i>modder</i> to the <strong>RuneForge</strong> platform. Hope you have fun using my mods! Any errors, please report to the <a href=\"https://discord.com/invite/runeforge\">RuneForge Discord Server</a> and ping @fantom_thecrusader! Don't be sure I'll fix it ^^'</p>\n>\n>\n> <p>Here, have my socials:</p>\n><a href=\"https://linktr.ee/daFant0m\">My Linktree!!!1 ^w^ (I don't use half of the links there lol)</a>",
+			"links": {}
 		},
 		"frog": {
 			"name": "Frog",
@@ -236,6 +258,13 @@
 			"avatar": "creators/lasarban.jpg?v=2fc916b9",
 			"links": {
 				"youtube": "https://youtu.be/4ObovYm7LGM"
+			}
+		},
+		"leafus": {
+			"name": "Leafus",
+			"avatar": "creators/leafus.jpg?v=478ea71d",
+			"links": {
+				"youtube": "https://www.youtube.com/watch?v=PibYmujLubI"
 			}
 		},
 		"lolsfxamateur": {
@@ -3183,6 +3212,176 @@
 				"asset": "default-kassadin-ukrainian-voiceover-v1.fantome",
 				"size": 628724,
 				"sha256": "e87a568fa265c0a56726b70fb24668d857d6b2d95ee399a0479768f67a26abc4"
+			}
+		},
+		{
+			"id": "default-map-bgm",
+			"name": "Default Map BGM",
+			"kind": "sounds",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/default-map-bgm/thumb.webp?v=8d10b534",
+			"file": {
+				"version": 1,
+				"asset": "default-map-bgm-v1.fantome",
+				"size": 32350298,
+				"sha256": "6aa695ec26a1eb2d64d4b3f141ac6e36f9be03b1586680cdbaa330c01171d726"
+			}
+		},
+		{
+			"id": "default-shaco-ukrainian-voiceover",
+			"name": "Default Shaco (Ukrainian Voiceover)",
+			"kind": "sounds",
+			"creator": "craq",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/default-shaco-ukrainian-voiceover/thumb.webp?v=207c5a88",
+			"file": {
+				"version": 1,
+				"asset": "default-shaco-ukrainian-voiceover-v1.fantome",
+				"size": 750153,
+				"sha256": "92ac305966d2a9ce04eca82f09c359c650797602a80e6df48377c6cb74ac0d9a"
+			}
+		},
+		{
+			"id": "default-veigar-ukrainian-voiceover",
+			"name": "Default Veigar (Ukrainian Voiceover)",
+			"kind": "sounds",
+			"creator": "craq",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/default-veigar-ukrainian-voiceover/thumb.webp?v=550a194a",
+			"file": {
+				"version": 1,
+				"asset": "default-veigar-ukrainian-voiceover-v1.fantome",
+				"size": 738616,
+				"sha256": "ff1fbfef597a3f27f0b543cdfe81b009d94ae551bae7b134112aa247c3446c37"
+			}
+		},
+		{
+			"id": "default-viego-ukrainian-voiceover",
+			"name": "Default Viego (Ukrainian Voiceover)",
+			"kind": "sounds",
+			"creator": "craq",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/default-viego-ukrainian-voiceover/thumb.webp?v=4b04d57b",
+			"file": {
+				"version": 1,
+				"asset": "default-viego-ukrainian-voiceover-v1.fantome",
+				"size": 6360485,
+				"sha256": "30784a6f854fbebc17cae0c9b6a4c08595303d336b23ba0a3e8aaf222005cc16"
+			}
+		},
+		{
+			"id": "deltarune-bgm",
+			"name": "Deltarune BGM",
+			"kind": "sounds",
+			"creator": "leafus",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/deltarune-bgm/thumb.webp?v=9ca19d49",
+			"file": {
+				"version": 1,
+				"asset": "deltarune-bgm-v1.fantome",
+				"size": 39242081,
+				"sha256": "3e638f4e9baa91f5bc6dff9481912f6377e716f95a12f798967ed74f658e862c"
+			}
+		},
+		{
+			"id": "deltarune-chap-1-bgm",
+			"name": "DELTARUNE Chap 1 BGM",
+			"kind": "sounds",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/deltarune-chap-1-bgm/thumb.webp?v=a8fea83c",
+			"file": {
+				"version": 1,
+				"asset": "deltarune-chap-1-bgm-v1.fantome",
+				"size": 20722719,
+				"sha256": "06ef1ab07a51d09aa349606edac90a2e5909da262c845bcc41c5ef93522efe3a"
+			}
+		},
+		{
+			"id": "deltarune-undertale-sfx",
+			"name": "Deltarune / Undertale SFX",
+			"kind": "sounds",
+			"creator": "fantom",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/deltarune-undertale-sfx/thumb.webp?v=55dcf80a",
+			"file": {
+				"version": 1,
+				"asset": "deltarune-undertale-sfx-v1.fantome",
+				"size": 17182918,
+				"sha256": "96d82641b3027bf14ef836b0e189e457c04a0b9b1a4c6243ef899344be22d0e6"
+			}
+		},
+		{
+			"id": "demacia-rising-cursor",
+			"name": "DEMACIA RISING Cursor",
+			"kind": "ui",
+			"creator": "mouf",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/demacia-rising-cursor/thumb.webp?v=6d0299e1",
+			"file": {
+				"version": 1,
+				"asset": "demacia-rising-cursor-v1.fantome",
+				"size": 77313,
+				"sha256": "7c52c4edb1296b004e52af19ca1e3b037ec30feb079e62a397fea0afccabfae7"
+			}
+		},
+		{
+			"id": "demon-font",
+			"name": "Demon Font",
+			"kind": "fonts",
+			"creator": "demon",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/demon-font/thumb.webp?v=5fa3392d",
+			"file": {
+				"version": 1,
+				"asset": "demon-font-v1.fantome",
+				"size": 40836,
+				"sha256": "725e34c3a204da0b4ea6036bf33d539f903c53b70d237c633aaabcbd3690e727"
+			}
+		},
+		{
+			"id": "demonic-eclipse-hud",
+			"name": "Demonic Eclipse HUD",
+			"kind": "ui",
+			"creator": "disco",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/demonic-eclipse-hud/thumb.webp?v=cdfe1e6e",
+			"file": {
+				"version": 1,
+				"asset": "demonic-eclipse-hud-v1.modpkg",
+				"size": 6891619,
+				"sha256": "4aae5362c5dd45da367dcf069e5bf67d6088e4be4cbe4b2db94a688c7e6379de"
 			}
 		}
 	]

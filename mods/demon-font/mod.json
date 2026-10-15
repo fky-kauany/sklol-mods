@@ -1,0 +1,17 @@
+{
+	"id": "demon-font",
+	"name": "Demon Font",
+	"kind": "fonts",
+	"creator": "demon",
+	"description": "Diablo font in league\n\n---\n\n**Created by** [Demon](https://runeforge.dev/users/Demon)\n\n**Original:** https://runeforge.dev/mods/8bbf275f-05c2-4ac4-8ee7-ac290433f022\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/demon-font/thumb.webp?v=5fa3392d",
+	"file": {
+		"version": 1,
+		"asset": "demon-font-v1.fantome",
+		"size": 40836,
+		"sha256": "725e34c3a204da0b4ea6036bf33d539f903c53b70d237c633aaabcbd3690e727"
+	}
+}

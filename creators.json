@@ -153,6 +153,22 @@
 			"youtube": "https://youtu.be/IgJJt0ItvZk"
 		}
 	},
+	"demon": {
+		"name": "Demon",
+		"avatar": "creators/demon.jpg?v=c5c2173e",
+		"bio": "Add Me On discord If you want to commission. I do most things including Huds, vfx, Models, fonts  etc.  Discord: hellfire1752",
+		"links": {}
+	},
+	"disco": {
+		"name": "DISCO",
+		"avatar": "creators/disco.webp?v=133102a3",
+		"bio": "Contact me via discord",
+		"links": {
+			"discord": "https://discord.com/users/440418268470312961",
+			"site": "https://github.com/DISCOCX",
+			"x": "https://x.com/DISCOXZ"
+		}
+	},
 	"dithz": {
 		"name": "DithZ",
 		"avatar": "creators/dithz.png?v=bb332928",
@@ -179,6 +195,12 @@
 			"discord": "https://discord.gg/5d8T8c962W",
 			"youtube": "https://youtu.be/D6MuCDAlA9Y?si=r_OtOm_IvjIUa1zc"
 		}
+	},
+	"fantom": {
+		"name": "Fantom",
+		"avatar": "creators/fantom.jpg?v=858d5136",
+		"bio": "> # Welcome to my profile!\n> <p>Hi, I'm Fantom, a new <i>modder</i> to the <strong>RuneForge</strong> platform. Hope you have fun using my mods! Any errors, please report to the <a href=\"https://discord.com/invite/runeforge\">RuneForge Discord Server</a> and ping @fantom_thecrusader! Don't be sure I'll fix it ^^'</p>\n>\n>\n> <p>Here, have my socials:</p>\n><a href=\"https://linktr.ee/daFant0m\">My Linktree!!!1 ^w^ (I don't use half of the links there lol)</a>",
+		"links": {}
 	},
 	"frog": {
 		"name": "Frog",
@@ -233,6 +255,13 @@
 		"avatar": "creators/lasarban.jpg?v=2fc916b9",
 		"links": {
 			"youtube": "https://youtu.be/4ObovYm7LGM"
+		}
+	},
+	"leafus": {
+		"name": "Leafus",
+		"avatar": "creators/leafus.jpg?v=478ea71d",
+		"links": {
+			"youtube": "https://www.youtube.com/watch?v=PibYmujLubI"
 		}
 	},
 	"lolsfxamateur": {

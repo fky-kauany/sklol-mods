@@ -1,0 +1,17 @@
+{
+	"id": "deltarune-undertale-sfx",
+	"name": "Deltarune / Undertale SFX",
+	"kind": "sounds",
+	"creator": "fantom",
+	"description": "Changes some of the sound effects in-game to some of those from Undertale or Deltarune.\n\nAffects Old Music, not Updated.\n\n---\n\n**Created by** [Fantom](https://runeforge.dev/users/Fantom)\n\n**Original:** https://runeforge.dev/mods/dd8b6487-ee3f-4661-8170-37b1e86de1d4\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/deltarune-undertale-sfx/thumb.webp?v=55dcf80a",
+	"file": {
+		"version": 1,
+		"asset": "deltarune-undertale-sfx-v1.fantome",
+		"size": 17182918,
+		"sha256": "96d82641b3027bf14ef836b0e189e457c04a0b9b1a4c6243ef899344be22d0e6"
+	}
+}

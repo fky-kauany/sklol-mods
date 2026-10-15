@@ -1,0 +1,17 @@
+{
+	"id": "demacia-rising-cursor",
+	"name": "DEMACIA RISING Cursor",
+	"kind": "ui",
+	"creator": "mouf",
+	"description": "# PLEASE READ\r\n# IN GAME IT LOOKS 99% BETTER\r\n## I would recommend using the original cursor (not the legacy one) for the best experience and quality.\r\n# ----------------------------------------------------------------------------------------------\r\n# Information\r\n## I changed the red --> green, yellow --> cyan, cyan --> yellow\r\n### The color changes make the cursor easier to see during fights, especially against red enemy outlines, and the other changes improve smoothnes.\r\n### New Demacia rising cursor, game on lol client (u can get a free orb if you do the tutorial)\r\n### Modified cursors: Legacy --> better\r\n### Author: Mouf\r\n# ----------------------------------------------------------------------------------------------\r\n# My Info\r\n### Discord : 1mouf\n\n---\n\n**Created by** [Mouf](https://runeforge.dev/users/Mouf)\n\n**Original:** https://runeforge.dev/mods/4d8c384b-ddaa-40c9-bbde-eef1e00cbd47\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/demacia-rising-cursor/thumb.webp?v=6d0299e1",
+	"file": {
+		"version": 1,
+		"asset": "demacia-rising-cursor-v1.fantome",
+		"size": 77313,
+		"sha256": "7c52c4edb1296b004e52af19ca1e3b037ec30feb079e62a397fea0afccabfae7"
+	}
+}

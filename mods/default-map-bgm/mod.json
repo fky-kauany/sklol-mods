@@ -1,0 +1,17 @@
+{
+	"id": "default-map-bgm",
+	"name": "Default Map BGM",
+	"kind": "sounds",
+	"creator": "aurecueil",
+	"description": "# info for retards: this IS NOT MAP MOD, this is a music mod\r\n\r\n# **Skin Information**\r\n\r\nReplaces: UPDATED BGM with Default BGM\r\n\r\nAuthor: Aurecuei\r\n\r\nMap: Summoners Rift (11)\r\n\r\nPatch Made: 15.23\r\n\r\n## Wanna buy me a [Coffee](https://ko-fi.com/aurecueil)? :>\r\n\r\n[![My Discord Server ^^](https://raw.githubusercontent.com/Aurecueil/Temp/refs/heads/main/images/banner6_better.png)](https://discord.gg/GETA29vZEK)\r\n\r\n## MISC\r\n\r\n[Tierlist of my BGM mods](https://runeforge.dev/users/Aurecueil)\r\n\r\ndc: aurecueil\r\n\r\ni DO take Commisions btw\n\n---\n\n**Created by** [aurecueil](https://runeforge.dev/users/aurecueil)\n\n**Original:** https://runeforge.dev/mods/8d3569a2-4104-4435-a5bd-75cad755e1e3\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/default-map-bgm/thumb.webp?v=8d10b534",
+	"file": {
+		"version": 1,
+		"asset": "default-map-bgm-v1.fantome",
+		"size": 32350298,
+		"sha256": "6aa695ec26a1eb2d64d4b3f141ac6e36f9be03b1586680cdbaa330c01171d726"
+	}
+}

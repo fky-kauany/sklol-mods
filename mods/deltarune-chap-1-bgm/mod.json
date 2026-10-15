@@ -1,0 +1,17 @@
+{
+	"id": "deltarune-chap-1-bgm",
+	"name": "DELTARUNE Chap 1 BGM",
+	"kind": "sounds",
+	"creator": "aurecueil",
+	"description": "# 🎵 Track List\r\n\r\n| Event | Track |\r\n|------|------|\r\n| **Game Start (Paladin)** | [Beginnig](https://www.youtube.com/watch?v=NlrYJXWF-yQ) |\r\n| **Game Start (Mage)** | [School](https://www.youtube.com/watch?v=xbUi1uDwPAY) |\r\n| **Early Game** | [Scarlet Forest](https://www.youtube.com/watch?v=6P5iPI1FjO8) |\r\n| **Mid Game** | [Field of Hopes and Dreams](https://www.youtube.com/watch?v=9oDZ2vN9XF0) |\r\n| **Late Game** | [Card Castle](https://www.youtube.com/watch?v=tvjuTn9LZwY) + [Chaos King](https://www.youtube.com/watch?v=tPwzoZ-e664) + [THE WORLD REVOLVING](https://www.youtube.com/watch?v=Z01Tsgwe2dQ)|\r\n| **Baron Alive** | [Vs. Lancer](https://www.youtube.com/watch?v=Ce-gU8G6Vik) |\r\n| **River** | [Empty Town](https://www.youtube.com/watch?v=p8jCS2nSMmI) |\r\n| **River – Grubs** | [Quiet Autumn](https://www.youtube.com/watch?v=SWAQzCNeGWg) |\r\n| **River – Herald** |[The Door](https://www.youtube.com/watch?v=iJtIX0sQn0o) |\r\n| **River – Baron** |[The Circus](https://www.youtube.com/watch?v=qCNztya--aw) |\r\n| **Void-spawn Combat** |[Checked Dance](https://www.youtube.com/watch?v=j54JPLQWdyQ) |\r\n| **Victory** |[Don't Forget](https://www.youtube.com/watch?v=YLeid-bIRQA) |\r\n| **Defeat** | [Trash Machine](https://www.youtube.com/watch?v=imH2hItIFlk) |\r\n\r\n## ☕ Wanna buy me a [Coffee](https://ko-fi.com/aurecueil)? :> \r\n[![My Discord Server ^^](https://raw.githubusercontent.com/Aurecueil/Temp/refs/heads/main/images/banner6_better.png)](https://discord.gg/GETA29vZEK)\r\n\r\n## 📦 Misc\r\n\r\n**My BGM Mod Tierlist:**  \r\nhttps://runeforge.dev/users/Aurecueil\r\n\r\n**Discord:** `aurecueil`\r\n\r\ni DO take commision :p\n\n---\n\n**Created by** [aurecueil](https://runeforge.dev/users/aurecueil)\n\n**Original:** https://runeforge.dev/mods/df833dc0-9b7c-4463-8924-c0368a63a522\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/deltarune-chap-1-bgm/thumb.webp?v=a8fea83c",
+	"file": {
+		"version": 1,
+		"asset": "deltarune-chap-1-bgm-v1.fantome",
+		"size": 20722719,
+		"sha256": "06ef1ab07a51d09aa349606edac90a2e5909da262c845bcc41c5ef93522efe3a"
+	}
+}

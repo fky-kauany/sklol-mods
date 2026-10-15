@@ -1,0 +1,17 @@
+{
+	"id": "default-viego-ukrainian-voiceover",
+	"name": "Default Viego (Ukrainian Voiceover)",
+	"kind": "sounds",
+	"creator": "craq",
+	"description": "# Mod Information\nUkrainian voiceover for Viego. Українське озвучення для персонажа Вієго.\n\nActor: [Роман Грибовський](https://www.youtube.com/watch?v=IR3zbj1zr6Q)\n\nОзвучка у вигляді окремого моду для **CS LOL Manager**, цілком легально.\n\nПрацює з усіма скінами, які не змінюють озвучку (тобто **епік**, та нижче).\n\n> P.S. Це мій перший мод на ~20 хвилин хронометражу.\n\n---\n\n**Created by** [craq](https://runeforge.dev/users/craq)\n\n**Original:** https://runeforge.dev/mods/b09bfc92-a9d3-450c-b262-c8b4dff07519\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/default-viego-ukrainian-voiceover/thumb.webp?v=4b04d57b",
+	"file": {
+		"version": 1,
+		"asset": "default-viego-ukrainian-voiceover-v1.fantome",
+		"size": 6360485,
+		"sha256": "30784a6f854fbebc17cae0c9b6a4c08595303d336b23ba0a3e8aaf222005cc16"
+	}
+}

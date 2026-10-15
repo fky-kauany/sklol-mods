@@ -1,0 +1,17 @@
+{
+	"id": "deltarune-bgm",
+	"name": "Deltarune BGM",
+	"kind": "sounds",
+	"creator": "leafus",
+	"description": "# Deltarune BGM\r\n\r\nReplaces the default Summoners Rift soundtrack to soundtrack from Deltarune chapters 1 - 5.\r\n\r\n## In-game Soundtracks\r\n\r\n| In game stage | Soundtrack    |\r\n| ------------- | ------------- |\r\n| Game start [0 - 1:20] | [The Legend](https://www.youtube.com/watch?v=PibYmujLubI) |\r\n| Early game [1:20 - Tier 2 turret down] | [Field of hopes and dreams](https://www.youtube.com/watch?v=9oDZ2vN9XF0), [Garden of hopes and dreams](https://www.youtube.com/watch?v=MzEHcwoNlbE) |\r\n| Mid game [Tier 2 turret down - Inhibitor down] | [A CYBER'S WORLD?](https://www.youtube.com/watch?v=EM8WM9hUFO8), [WELCOME TO THE CITY](https://www.youtube.com/watch?v=uiou1f5nzlU) |\r\n| End game [Inhibitor down - The End] | [Raise up your bat](https://www.youtube.com/watch?v=85WD93lz5GU), [Hammer Of Justice](https://www.youtube.com/watch?v=tBdLO8u-0L8) |\r\n| Lose | [I'm Very Bad](https://www.youtube.com/watch?v=r34vSTUpcgs) |\r\n| Win | [Your Power](https://www.youtube.com/watch?v=YeU41eDS90A) |\r\n\r\n| In game event | Soundtrack    |\r\n| ------------- | ------------- |\r\n| River| [My castle town](https://www.youtube.com/watch?v=RKQUblO-iCs) |\r\n| Void grubs | [Vapor Buster](https://www.youtube.com/watch?v=3vh8LYSuOvA) |\r\n| Void grubs [fight] | [Ruder Buster](https://www.youtube.com/watch?v=_A8SQAQ_yRo) |\r\n| Herold | [TV WORLD](https://www.youtube.com/watch?v=DstO9slC_5U) |\r\n| Baron | [BIG SHOT](https://www.youtube.com/watch?v=V31PVkwzpEY) |\n\n---\n\n**Created by** [Leafus](https://runeforge.dev/users/Leafus)\n\n**Original:** https://runeforge.dev/mods/1c28118a-416f-439a-923d-e7692105df19\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/deltarune-bgm/thumb.webp?v=9ca19d49",
+	"file": {
+		"version": 1,
+		"asset": "deltarune-bgm-v1.fantome",
+		"size": 39242081,
+		"sha256": "3e638f4e9baa91f5bc6dff9481912f6377e716f95a12f798967ed74f658e862c"
+	}
+}

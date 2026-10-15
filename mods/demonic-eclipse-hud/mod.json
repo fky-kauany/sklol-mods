@@ -1,0 +1,17 @@
+{
+	"id": "demonic-eclipse-hud",
+	"name": "Demonic Eclipse HUD",
+	"kind": "ui",
+	"creator": "disco",
+	"description": "## Demonic Eclipse HUD\n\n### Features\n\n- **Blood-Red Vibe:** A striking color scheme dominated by deep crimsons, oppressive blacks, and fiery highlights that simulate a demonic eclipse.\n- **Cosmic Horror Design:** UI elements are twisted and sharp, with motifs evoking corrupted celestial bodies and infernal runes.\n- **Client-Side Experience:** This custom HUD is a personal visual mod visible only to you, maintaining a fair play environment.\n\n*Some of these skins use custom models made by other creators. If one is yours and you’d like credit, DM me on Discord.*\n*Divine Skins is not affiliated with or endorsed by Riot Games or League of Legends.*\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/demonic-eclipse-hud\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/demonic-eclipse-hud/thumb.webp?v=cdfe1e6e",
+	"file": {
+		"version": 1,
+		"asset": "demonic-eclipse-hud-v1.modpkg",
+		"size": 6891619,
+		"sha256": "4aae5362c5dd45da367dcf069e5bf67d6088e4be4cbe4b2db94a688c7e6379de"
+	}
+}
