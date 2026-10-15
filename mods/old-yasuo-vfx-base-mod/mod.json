@@ -1,0 +1,17 @@
+{
+	"id": "old-yasuo-vfx-base-mod",
+	"name": "Old Yasuo VFX Base Mod",
+	"kind": "other",
+	"creator": "konari",
+	"description": "## Specifications\r\n\r\n* Modified particles\r\n\r\n## Credits\r\n\r\n* Special Thanks to Reinforced Soul,Tadashiii,Caps,Yavender\r\n---\r\n💬 **Join Moonlit Night!**\r\nClick the banner below to join. Report bugs directly, and hang out with other players!\r\n\r\n[![Discord](https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/Banner2.png)](https://discord.gg/EEjd7DHj5r)\r\n---\n\n---\n\n**Created by** [Konari Lab Ch. 白夜こなり](https://runeforge.dev/users/Konari)\n\n**Original:** https://runeforge.dev/mods/eeebe09e-b838-49fb-b2ef-93cb3aa743a9\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/old-yasuo-vfx-base-mod/thumb.webp?v=c7a0051f",
+	"file": {
+		"version": 1,
+		"asset": "old-yasuo-vfx-base-mod-v1.fantome",
+		"size": 28654,
+		"sha256": "622ee117ccbfa329830cc91a016299d7bc1159a4ad4ee2a7046d29fe3a6d027c"
+	}
+}

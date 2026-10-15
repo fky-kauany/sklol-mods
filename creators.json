@@ -271,6 +271,11 @@
 			"kofi": "https://ko-fi.com/epellol"
 		}
 	},
+	"evelisk": {
+		"name": "Evelisk",
+		"avatar": "creators/evelisk.jpg?v=cb775623",
+		"links": {}
+	},
 	"exynex": {
 		"name": "Exynex",
 		"avatar": "creators/exynex.jpg?v=7ad6304a",
@@ -780,6 +785,10 @@
 			"x": "https://x.com/ahrifoxlovers/status/1697119260433387565"
 		}
 	},
+	"ubermedic7": {
+		"name": "UberMedic7",
+		"links": {}
+	},
 	"uygarexe": {
 		"name": "ExeTheGreat",
 		"avatar": "creators/uygarexe.jpg?v=8e9583aa",
@@ -794,6 +803,10 @@
 			"x": "https://x.com/Xueli_kawai",
 			"youtube": "https://www.youtube.com/watch?v=U_72cdTX9eI"
 		}
+	},
+	"venquis": {
+		"name": "Venquis",
+		"links": {}
 	},
 	"vision4rio": {
 		"name": "VISION4RIO",

@@ -1,0 +1,17 @@
+{
+	"id": "old-nidalee-vo",
+	"name": "OLD Nidalee VO",
+	"kind": "sounds",
+	"creator": "lolsfxamateur",
+	"description": "Nidalee's Old Voice-over restored PRIMAL SURGE voice lines restored History lesson: Nidalee had a cool voice lines for using primal surge, was a combo of cougar + human grunt. At some point, this spell ONLY went mute. Later on, Riot \"fixed\" it but they just copy and pasted her other spells VO onto it. Then nidalee's voice got changed entirely. This mod restores the original lines for primal surge Includes old champ lock in line and added it to \"attacking\"\r\n\r\nCosmic Huntress Nidalee old VO also restored. For Primal Surge on this skin, I tried my best to make versions that FIT into the voice modulator\n\n---\n\n**Created by** [LOLSFXAmateur](https://runeforge.dev/users/LOLSFXAmateur)\n\n**Original:** https://runeforge.dev/mods/1607ea4d-af61-486c-beac-57a8f2f03d65\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/old-nidalee-vo/thumb.webp?v=b6421d95",
+	"file": {
+		"version": 1,
+		"asset": "old-nidalee-vo-v1.fantome",
+		"size": 8190649,
+		"sha256": "33f934b6dcbf639bd5cca48473aaaf75b04ff69ad85a8eef7aeb6ae60cce20d5"
+	}
+}

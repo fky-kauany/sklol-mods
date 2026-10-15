@@ -1,0 +1,17 @@
+{
+	"id": "old-morgana-ability-icons",
+	"name": "Old Morgana Ability Icons",
+	"kind": "icons",
+	"creator": "ubermedic7",
+	"description": "Mod i used didnt actually have her old icons so i made one myself. Enjoy.\n\n---\n\n**Created by** [UberMedic7](https://runeforge.dev/users/UberMedic7)\n\n**Original:** https://runeforge.dev/mods/5cd5b72e-356f-43b1-ae85-8127cc289ffa\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/old-morgana-ability-icons/thumb.webp?v=21a8af3a",
+	"file": {
+		"version": 1,
+		"asset": "old-morgana-ability-icons-v1.fantome",
+		"size": 14588,
+		"sha256": "05c419d2fc18c653bcf2b46a8494ca7c6400aa735e9e86d9212f2111f818e3b6"
+	}
+}

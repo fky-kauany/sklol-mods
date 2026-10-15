@@ -1,0 +1,17 @@
+{
+	"id": "old-red-blue-indicators",
+	"name": "Old Red Blue Indicators",
+	"kind": "other",
+	"creator": "uygarexe",
+	"description": "Old Red & Blue Buff Indicators / Icons\n\n---\n\n**Created by** [ExeTheGreat](https://runeforge.dev/users/uygarexe)\n\n**Original:** https://runeforge.dev/mods/b487826b-f498-46b2-8d7f-a874d46f6f61\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/old-red-blue-indicators/thumb.webp?v=357980df",
+	"file": {
+		"version": 1,
+		"asset": "old-red-blue-indicators-v1.fantome",
+		"size": 366498,
+		"sha256": "ab48e00c5c1c658f4e218c0d07520e4aa4ba79d30b2dbeafe6157fc100169be1"
+	}
+}

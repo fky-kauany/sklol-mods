@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T10:39:11.637Z",
+	"generatedAt": "2026-10-15T10:44:43.408Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -273,6 +273,11 @@
 			"links": {
 				"kofi": "https://ko-fi.com/epellol"
 			}
+		},
+		"evelisk": {
+			"name": "Evelisk",
+			"avatar": "creators/evelisk.jpg?v=cb775623",
+			"links": {}
 		},
 		"exynex": {
 			"name": "Exynex",
@@ -783,6 +788,10 @@
 				"x": "https://x.com/ahrifoxlovers/status/1697119260433387565"
 			}
 		},
+		"ubermedic7": {
+			"name": "UberMedic7",
+			"links": {}
+		},
 		"uygarexe": {
 			"name": "ExeTheGreat",
 			"avatar": "creators/uygarexe.jpg?v=8e9583aa",
@@ -797,6 +806,10 @@
 				"x": "https://x.com/Xueli_kawai",
 				"youtube": "https://www.youtube.com/watch?v=U_72cdTX9eI"
 			}
+		},
+		"venquis": {
+			"name": "Venquis",
+			"links": {}
 		},
 		"vision4rio": {
 			"name": "VISION4RIO",
@@ -8085,6 +8098,176 @@
 			"maps": [
 				11
 			]
+		},
+		{
+			"id": "old-morgana-ability-icons",
+			"name": "Old Morgana Ability Icons",
+			"kind": "icons",
+			"creator": "ubermedic7",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/old-morgana-ability-icons/thumb.webp?v=21a8af3a",
+			"file": {
+				"version": 1,
+				"asset": "old-morgana-ability-icons-v1.fantome",
+				"size": 14588,
+				"sha256": "05c419d2fc18c653bcf2b46a8494ca7c6400aa735e9e86d9212f2111f818e3b6"
+			}
+		},
+		{
+			"id": "old-nidalee-vo",
+			"name": "OLD Nidalee VO",
+			"kind": "sounds",
+			"creator": "lolsfxamateur",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/old-nidalee-vo/thumb.webp?v=b6421d95",
+			"file": {
+				"version": 1,
+				"asset": "old-nidalee-vo-v1.fantome",
+				"size": 8190649,
+				"sha256": "33f934b6dcbf639bd5cca48473aaaf75b04ff69ad85a8eef7aeb6ae60cce20d5"
+			}
+		},
+		{
+			"id": "old-recall",
+			"name": "Old Recall",
+			"kind": "other",
+			"creator": "venquis",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/old-recall/thumb.webp?v=3c319972",
+			"file": {
+				"version": 1,
+				"asset": "old-recall-v1.fantome",
+				"size": 9138798,
+				"sha256": "f022d16fe7e6f6278f7a8ff252986ac81e94df82a38fdd69e1707657166e770c"
+			}
+		},
+		{
+			"id": "old-red-blue-indicators",
+			"name": "Old Red Blue Indicators",
+			"kind": "other",
+			"creator": "uygarexe",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/old-red-blue-indicators/thumb.webp?v=357980df",
+			"file": {
+				"version": 1,
+				"asset": "old-red-blue-indicators-v1.fantome",
+				"size": 366498,
+				"sha256": "ab48e00c5c1c658f4e218c0d07520e4aa4ba79d30b2dbeafe6157fc100169be1"
+			}
+		},
+		{
+			"id": "old-runes-vfx",
+			"name": "Old Runes VFX",
+			"kind": "vfx",
+			"creator": "uygarexe",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/old-runes-vfx/thumb.webp?v=104990ec",
+			"file": {
+				"version": 1,
+				"asset": "old-runes-vfx-v1.fantome",
+				"size": 1653600,
+				"sha256": "44c409b1b020ee12b420af00d8cd9e0a97817025980bb73aa9cc4d156a28a812"
+			}
+		},
+		{
+			"id": "old-wards-season-4",
+			"name": "Old Wards Season 4",
+			"kind": "other",
+			"creator": "agomsmoga",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/old-wards-season-4/thumb.webp?v=0e6d4f0a",
+			"file": {
+				"version": 1,
+				"asset": "old-wards-season-4-v1.fantome",
+				"size": 991389,
+				"sha256": "f525cafcd3824b1d856f77fbe284c7113fd5a0da3f4abb1ef563562f9952630d"
+			}
+		},
+		{
+			"id": "old-yasuo-vfx-base-mod",
+			"name": "Old Yasuo VFX Base Mod",
+			"kind": "other",
+			"creator": "konari",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/old-yasuo-vfx-base-mod/thumb.webp?v=c7a0051f",
+			"file": {
+				"version": 1,
+				"asset": "old-yasuo-vfx-base-mod-v1.fantome",
+				"size": 28654,
+				"sha256": "622ee117ccbfa329830cc91a016299d7bc1159a4ad4ee2a7046d29fe3a6d027c"
+			}
+		},
+		{
+			"id": "olditemiconsextended",
+			"name": "OldItemIconsExtended",
+			"kind": "icons",
+			"creator": "evelisk",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/olditemiconsextended/thumb.webp?v=9f69567b",
+			"file": {
+				"version": 1,
+				"asset": "olditemiconsextended-v1.fantome",
+				"size": 8273315,
+				"sha256": "08a1ed429b82a5b40eee548c5eaf03e7de4b72350fa4e8899911f647b2b41c5b"
+			}
+		},
+		{
+			"id": "onmyoji-blazing-sun-healthbar",
+			"name": "Onmyoji Blazing Sun Healthbar",
+			"kind": "ui",
+			"creator": "konari",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/onmyoji-blazing-sun-healthbar/thumb.webp?v=d42ab557",
+			"file": {
+				"version": 1,
+				"asset": "onmyoji-blazing-sun-healthbar-v1.fantome",
+				"size": 63826,
+				"sha256": "2bba4e0ca7dbbb09b99fffcc828c95a592924d7e6841a9f0a6c045106c780394"
+			}
+		},
+		{
+			"id": "original-cursor-from-red-to-green",
+			"name": "Original Cursor From Red To Green",
+			"kind": "ui",
+			"creator": "mouf",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/original-cursor-from-red-to-green/thumb.webp?v=4e42bb34",
+			"file": {
+				"version": 1,
+				"asset": "original-cursor-from-red-to-green-v1.fantome",
+				"size": 290862,
+				"sha256": "31e7ac735a648811f2078a5084d5fe0211e42e8f9475103aadab76b95afb45b6"
+			}
 		}
 	]
 }

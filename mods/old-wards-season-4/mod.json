@@ -1,0 +1,17 @@
+{
+	"id": "old-wards-season-4",
+	"name": "Old Wards Season 4",
+	"kind": "other",
+	"creator": "agomsmoga",
+	"description": "### This mod conflicts with the Old Item Icons mod! To fix this, you need to merge the files! I have it already made if you're not able to yourself.\n\n#\n\n#### Overview:\n\n* Replaces only the default Ward skin, Control Ward, and Farsight Ward. Also changes the target frame icons, shop, and item icons to their old versions, including the Oracle Lens.\n* Will do pre 3.12 wards latre.\n\n#\n\nhttps://discord.gg/gSXbEmPQCA\n\n---\n\n**Created by** [Moga](https://runeforge.dev/users/agomsMoga)\n\n**Original:** https://runeforge.dev/mods/30352006-844d-4c03-9c69-7fcb1f509bef\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/old-wards-season-4/thumb.webp?v=0e6d4f0a",
+	"file": {
+		"version": 1,
+		"asset": "old-wards-season-4-v1.fantome",
+		"size": 991389,
+		"sha256": "f525cafcd3824b1d856f77fbe284c7113fd5a0da3f4abb1ef563562f9952630d"
+	}
+}

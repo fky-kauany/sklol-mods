@@ -1,0 +1,17 @@
+{
+	"id": "olditemiconsextended",
+	"name": "OldItemIconsExtended",
+	"kind": "icons",
+	"creator": "evelisk",
+	"description": "Basically every item with its oldest version icon. For items that have no old version I reused and editing existing unused icons or created new ones of varying quality.\n\n---\n\n**Created by** [Evelisk](https://runeforge.dev/users/Evelisk)\n\n**Original:** https://runeforge.dev/mods/daa42d2a-f8b1-4d7e-913c-053e8f9e5fc3\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/olditemiconsextended/thumb.webp?v=9f69567b",
+	"file": {
+		"version": 1,
+		"asset": "olditemiconsextended-v1.fantome",
+		"size": 8273315,
+		"sha256": "08a1ed429b82a5b40eee548c5eaf03e7de4b72350fa4e8899911f647b2b41c5b"
+	}
+}

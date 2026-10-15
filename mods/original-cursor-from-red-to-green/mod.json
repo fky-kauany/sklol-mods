@@ -1,0 +1,17 @@
+{
+	"id": "original-cursor-from-red-to-green",
+	"name": "Original Cursor From Red To Green",
+	"kind": "ui",
+	"creator": "mouf",
+	"description": "# PLEASE READ\r\n# CHECK IT IN GAME \"give it a try\"\r\n# I changed the ORIGINAL (not the legacy) red --> green, green --> red\r\n# ----------------------------------------------------------------------------------------------\r\n# Information\r\n### Modified cursors: Original --> red --> green\r\n### Author: Mouf\r\n### TBH bad mod if u like it u like it i made it for myslef :D\r\n# ----------------------------------------------------------------------------------------------\r\n# My Info\r\n### Discord : 1Mouf DM\n\n---\n\n**Created by** [Mouf](https://runeforge.dev/users/Mouf)\n\n**Original:** https://runeforge.dev/mods/5b016d51-c4ed-41dc-b50e-2b4eab612630\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/original-cursor-from-red-to-green/thumb.webp?v=4e42bb34",
+	"file": {
+		"version": 1,
+		"asset": "original-cursor-from-red-to-green-v1.fantome",
+		"size": 290862,
+		"sha256": "31e7ac735a648811f2078a5084d5fe0211e42e8f9475103aadab76b95afb45b6"
+	}
+}

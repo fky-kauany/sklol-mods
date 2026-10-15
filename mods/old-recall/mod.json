@@ -1,0 +1,17 @@
+{
+	"id": "old-recall",
+	"name": "Old Recall",
+	"kind": "other",
+	"creator": "venquis",
+	"description": "The Old Recall mod contains the following:\n\n* Original Recall VFX and SFX\n* Challenger and Honor Recall VFX in the old style\n* Empowered Recall (from Baron and Mobility Boots) in the old style\n\nThe latest version of this mod is 2.0.1. [Make sure you download the latest version.](https://runeforge.dev/mods/5be81db5-5288-42b7-b9cf-26f4ac01098d/releases)\n\n---\n\n**Created by** [Venquis](https://runeforge.dev/users/Venquis)\n\n**Original:** https://runeforge.dev/mods/5be81db5-5288-42b7-b9cf-26f4ac01098d\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/old-recall/thumb.webp?v=3c319972",
+	"file": {
+		"version": 1,
+		"asset": "old-recall-v1.fantome",
+		"size": 9138798,
+		"sha256": "f022d16fe7e6f6278f7a8ff252986ac81e94df82a38fdd69e1707657166e770c"
+	}
+}
