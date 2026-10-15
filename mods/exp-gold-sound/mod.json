@@ -1,0 +1,17 @@
+{
+	"id": "exp-gold-sound",
+	"name": "Exp Gold Sound",
+	"kind": "sounds",
+	"creator": "kraken",
+	"description": "Replaces the gold sound effect when killing entities with the Minecraft exp sound effect for maximum dopamine overflow infinite cash income money hack lule\n\nDOINB RYZE HACK？英雄联盟 400 CS 24 MIN\n\n---\n\n**Created by** [海怪](https://runeforge.dev/users/KrakeN)\n\n**Original:** https://runeforge.dev/mods/7cca4498-1faf-4865-82c2-b17d8f3414cb\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/exp-gold-sound/thumb.webp?v=59bca137",
+	"file": {
+		"version": 1,
+		"asset": "exp-gold-sound-v1.fantome",
+		"size": 7759622,
+		"sha256": "59521bea8e301e90b245fae7a419542b920515041dde669a58db5999c6540aff"
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"id": "everything-goes-on-bgm-mod",
+	"name": "Everything Goes On BGM Mod",
+	"kind": "other",
+	"creator": "reoccka2133",
+	"description": "This mod changes the BGM to the various versions of Everything Goes On.\n\nNOTE: Please choose \"Use Classic Music\" from Sound Settings (either in-game or in-client settings) or the mod won't work!\n\n---\n\n**Created by** [Reoccka2133](https://runeforge.dev/users/Reoccka2133)\n\n**Original:** https://runeforge.dev/mods/0eadee79-266a-4c47-acf4-5799e2195cd7\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/everything-goes-on-bgm-mod/thumb.webp?v=26057b7b",
+	"file": {
+		"version": 1,
+		"asset": "everything-goes-on-bgm-mod-v1.fantome",
+		"size": 11435017,
+		"sha256": "991e830825037406fbc5c96a9423b938be7411fc1de5851877db7c85e6aa056a"
+	}
+}

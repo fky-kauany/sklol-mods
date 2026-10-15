@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T08:39:25.273Z",
+	"generatedAt": "2026-10-15T08:45:07.344Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -122,6 +122,13 @@
 			"name": "C_J_S",
 			"avatar": "creators/c-j-s.png?v=3a338fcc",
 			"links": {}
+		},
+		"cam": {
+			"name": "Cam",
+			"avatar": "creators/cam.jpg?v=839ba7c0",
+			"links": {
+				"discord": "https://discord.gg/pd6dgcJaJz"
+			}
 		},
 		"craq": {
 			"name": "craq",
@@ -291,6 +298,14 @@
 				"youtube": "https://www.youtube.com/watch?v=ZlTIpkrUst4"
 			}
 		},
+		"kraken": {
+			"name": "海怪",
+			"avatar": "creators/kraken.jpg?v=22fd191a",
+			"bio": "twtv/KRAKENMONS7ER",
+			"links": {
+				"youtube": "https://youtu.be/zX507jo6tGg"
+			}
+		},
 		"lasarban": {
 			"name": "lasarban",
 			"avatar": "creators/lasarban.jpg?v=2fc916b9",
@@ -427,6 +442,10 @@
 			"avatar": "creators/rengoku-kyojuro.jpg?v=e317561b",
 			"links": {}
 		},
+		"reoccka2133": {
+			"name": "Reoccka2133",
+			"links": {}
+		},
 		"rhbarber": {
 			"name": "Rhbarber",
 			"avatar": "creators/rhbarber.png?v=f2ff85b4",
@@ -472,6 +491,13 @@
 				"youtube": "https://youtu.be/EHlL1B8c4yc"
 			}
 		},
+		"streak": {
+			"name": "Streak",
+			"avatar": "creators/streak.jpg?v=ff835f92",
+			"links": {
+				"youtube": "https://www.youtube.com/watch?v=DqEyKEoe73I"
+			}
+		},
 		"suriin": {
 			"name": "Suriin",
 			"avatar": "creators/suriin.jpg?v=63398f9b",
@@ -479,6 +505,12 @@
 			"links": {
 				"kofi": "https://ko-fi.com/suriinruneforge"
 			}
+		},
+		"thoxainn": {
+			"name": "Thoxain",
+			"avatar": "creators/thoxainn.webp?v=fc91a6b5",
+			"bio": "I do my best.thats all",
+			"links": {}
 		},
 		"tor-lol": {
 			"name": "tor.lol",
@@ -4142,6 +4174,176 @@
 				"asset": "enduring-sword-talon-chroma-vfx-v1.fantome",
 				"size": 4051365,
 				"sha256": "bc5fa9abdc571e331b3c4063d3748d14aa39130aaf6ed07b9cda7da20fc8d454"
+			}
+		},
+		{
+			"id": "english-announcer",
+			"name": "English Announcer",
+			"kind": "announcer",
+			"creator": "aropatnik",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/english-announcer/thumb.webp?v=72e7199a",
+			"file": {
+				"version": 1,
+				"asset": "english-announcer-v1.fantome",
+				"size": 47829046,
+				"sha256": "1be6937107ce6d328ef391bc030e49a5996ff32fc98ea2cba909b860cf508350"
+			}
+		},
+		{
+			"id": "enough-echo-killsounds",
+			"name": "Enough Echo Killsounds",
+			"kind": "sounds",
+			"creator": "streak",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/enough-echo-killsounds/thumb.webp?v=6ef538d6",
+			"file": {
+				"version": 1,
+				"asset": "enough-echo-killsounds-v1.fantome",
+				"size": 20719684,
+				"sha256": "f21bb95f20851ce32ec8d853f66357cc652d57721b062af38886c42e38c6a15f"
+			}
+		},
+		{
+			"id": "eternal-aspect-diana-chroma-vfx",
+			"name": "Eternal Aspect Diana chroma VFX",
+			"kind": "vfx",
+			"creator": "suriin",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/eternal-aspect-diana-chroma-vfx/thumb.webp?v=1689ac4e",
+			"file": {
+				"version": 1,
+				"asset": "eternal-aspect-diana-chroma-vfx-v1.fantome",
+				"size": 21218618,
+				"sha256": "0f1a659cca3dcb07e834384262dcab833914e1b41fc8d42cc02906ba6889c523"
+			}
+		},
+		{
+			"id": "evelynn-dota-2-killstreaks-announcer",
+			"name": "Evelynn × Dota 2 Killstreaks Announcer",
+			"kind": "announcer",
+			"creator": "dear-agony",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/evelynn-dota-2-killstreaks-announcer/thumb.webp?v=e9919aa5",
+			"file": {
+				"version": 1,
+				"asset": "evelynn-dota-2-killstreaks-announcer-v1.fantome",
+				"size": 6719037,
+				"sha256": "a4d8f8fe3d7c226409ef03240dc1ad6d20a9df9589b13aa7cbe90e5305caf67f"
+			}
+		},
+		{
+			"id": "evelynn-unreal-tournament-killstreaks-announcer",
+			"name": "Evelynn × Unreal Tournament Killstreaks Announcer",
+			"kind": "announcer",
+			"creator": "dear-agony",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/evelynn-unreal-tournament-killstreaks-announcer/thumb.webp?v=48c0ac57",
+			"file": {
+				"version": 1,
+				"asset": "evelynn-unreal-tournament-killstreaks-announcer-v1.fantome",
+				"size": 6634192,
+				"sha256": "3e62215f360e4dcabf57a3feb32cedb2fc3537ee42516c257dff03e69f8f7331"
+			}
+		},
+		{
+			"id": "everything-goes-on-bgm-mod",
+			"name": "Everything Goes On BGM Mod",
+			"kind": "other",
+			"creator": "reoccka2133",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/everything-goes-on-bgm-mod/thumb.webp?v=26057b7b",
+			"file": {
+				"version": 1,
+				"asset": "everything-goes-on-bgm-mod-v1.fantome",
+				"size": 11435017,
+				"sha256": "991e830825037406fbc5c96a9423b938be7411fc1de5851877db7c85e6aa056a"
+			}
+		},
+		{
+			"id": "exp-gold-sound",
+			"name": "Exp Gold Sound",
+			"kind": "sounds",
+			"creator": "kraken",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/exp-gold-sound/thumb.webp?v=59bca137",
+			"file": {
+				"version": 1,
+				"asset": "exp-gold-sound-v1.fantome",
+				"size": 7759622,
+				"sha256": "59521bea8e301e90b245fae7a419542b920515041dde669a58db5999c6540aff"
+			}
+		},
+		{
+			"id": "f-a-n-t-a-m-e-n-t-a-l-i-t-e-m-s",
+			"name": "F a n t a m e n t a l i t e m s",
+			"kind": "ui",
+			"creator": "cam",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/f-a-n-t-a-m-e-n-t-a-l-i-t-e-m-s/thumb.webp?v=a821a901",
+			"file": {
+				"version": 1,
+				"asset": "f-a-n-t-a-m-e-n-t-a-l-i-t-e-m-s-v1.fantome",
+				"size": 1874303,
+				"sha256": "33df93d7620ff171b52da99284d0d711f13dad1bee3e34e333c1fd76f5f2bed6"
+			}
+		},
+		{
+			"id": "fbi-loading-screen",
+			"name": "FBI Loading Screen",
+			"kind": "other",
+			"creator": "thoxainn",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/fbi-loading-screen/thumb.webp?v=9a3a8715",
+			"file": {
+				"version": 1,
+				"asset": "fbi-loading-screen-v1.fantome",
+				"size": 19599167,
+				"sha256": "a92a2d30c8d864aea0ed3cd0139cf3f18be3de72b82c05568013a097f9d08073"
+			}
+		},
+		{
+			"id": "fight-club-load-screen",
+			"name": "Fight Club Load Screen",
+			"kind": "other",
+			"creator": "thoxainn",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/fight-club-load-screen/thumb.webp?v=6ab3639b",
+			"file": {
+				"version": 1,
+				"asset": "fight-club-load-screen-v1.fantome",
+				"size": 29389548,
+				"sha256": "99c59b9f8eee63deb1c23f136e69c13964d5dbff21c88b1d74433c71ed1a90a3"
 			}
 		}
 	]

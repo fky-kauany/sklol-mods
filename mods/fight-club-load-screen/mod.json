@@ -1,0 +1,17 @@
+{
+	"id": "fight-club-load-screen",
+	"name": "Fight Club Load Screen",
+	"kind": "other",
+	"creator": "thoxainn",
+	"description": "*The first rule of Fight Club is: You do not talk about Fight Club.*\n\n*The second rule of Fight Club is: You DO NOT talk about Fight Club.*\n\n*Third rule of Fight Club: Someone yells \"Stop!\", goes limp, taps out, the fight is over.*\n\n*Fourth rule: Only two guys to a fight.*\n\n*Fifth rule: One fight at a time, guys.*\n\n*Sixth rule: No shirts, no shoes.*\n\n*Seventh rule: Fights will go on as long as they have to.*\n\n*Eighth and final rule: If this is your first night at Fight Club, you have to fight.*\n\n---\n\n**Created by** [Thoxain](https://www.divineskins.gg/Thoxainn)\n\n**Original:** https://www.divineskins.gg/Thoxainn/fight-club-load-screen\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/fight-club-load-screen/thumb.webp?v=6ab3639b",
+	"file": {
+		"version": 1,
+		"asset": "fight-club-load-screen-v1.fantome",
+		"size": 29389548,
+		"sha256": "99c59b9f8eee63deb1c23f136e69c13964d5dbff21c88b1d74433c71ed1a90a3"
+	}
+}

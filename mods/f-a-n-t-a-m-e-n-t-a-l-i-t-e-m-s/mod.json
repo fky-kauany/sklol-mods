@@ -1,0 +1,17 @@
+{
+	"id": "f-a-n-t-a-m-e-n-t-a-l-i-t-e-m-s",
+	"name": "F a n t a m e n t a l i t e m s",
+	"kind": "ui",
+	"creator": "cam",
+	"description": "Fanta and Mentos items\n\n---\n\n**Created by** [Cam](https://runeforge.dev/users/Cam)\n\n**Original:** https://runeforge.dev/mods/cfd0d721-b3e3-45e3-a913-5d2c3bc1b0d2\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/f-a-n-t-a-m-e-n-t-a-l-i-t-e-m-s/thumb.webp?v=a821a901",
+	"file": {
+		"version": 1,
+		"asset": "f-a-n-t-a-m-e-n-t-a-l-i-t-e-m-s-v1.fantome",
+		"size": 1874303,
+		"sha256": "33df93d7620ff171b52da99284d0d711f13dad1bee3e34e333c1fd76f5f2bed6"
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"id": "fbi-loading-screen",
+	"name": "FBI Loading Screen",
+	"kind": "other",
+	"creator": "thoxainn",
+	"description": "**FBI OPEN THE DOOR**\n\n---\n\n**Created by** [Thoxain](https://www.divineskins.gg/Thoxainn)\n\n**Original:** https://www.divineskins.gg/Thoxainn/fbi\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/fbi-loading-screen/thumb.webp?v=9a3a8715",
+	"file": {
+		"version": 1,
+		"asset": "fbi-loading-screen-v1.fantome",
+		"size": 19599167,
+		"sha256": "a92a2d30c8d864aea0ed3cd0139cf3f18be3de72b82c05568013a097f9d08073"
+	}
+}

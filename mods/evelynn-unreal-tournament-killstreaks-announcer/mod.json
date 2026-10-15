@@ -1,0 +1,17 @@
+{
+	"id": "evelynn-unreal-tournament-killstreaks-announcer",
+	"name": "Evelynn × Unreal Tournament Killstreaks Announcer",
+	"kind": "announcer",
+	"creator": "dear-agony",
+	"description": "### Overview\r\n\r\nAlternative version of the original Evelynn announcer mod:\r\n\r\nhttps://runeforge.dev/mods/707366e7-0d1e-4590-b33f-51fd8ff23d92\r\n\r\nThis version uses the classic Unreal Tournament female announcer (\"sexy\" announcer) for multikills and killstreaks.\r\n\r\nSince the original UT files are quite old, the audio was additionally enhanced to improve depth and overall consistency.\r\n\r\n---\r\n\r\n### Unreal Tournament killstreak & multikill announcements\r\n\r\n*(original League announcements → Unreal Tournament replacements)*\r\n\r\n**Multikills**\r\n\r\n• First Blood → First Blood!  \r\n• Double Kill → Double Kill!  \r\n• Triple Kill → Multi Kill!  \r\n• Quadra Kill → Monster Kill!  \r\n• Penta Kill → Holy Shit!  \r\n\r\n**Killstreaks**\r\n\r\n• Killing Spree → Killing Spree!  \r\n• Rampage → Rampage! / Ultra Kill!  \r\n• Dominating → Dominating!  \r\n• Unstoppable → Unstoppable!  \r\n• Godlike → Godlike!  \r\n• Legendary → Wicked Sick! / Ludicrous Kill!\r\n\r\n---\r\n\r\n### Compatibility\r\n\r\nFully compatible with all game client languages.  \r\n\r\n---\r\n\r\n### Feedback\r\n\r\nIf you encounter issues, have suggestions, or want to share feedback, feel free to contact me on Discord.\r\n\r\nDiscord: **dear_agony** (Dear Agony#9179)\n\n---\n\n**Created by** [Dear_Agony](https://runeforge.dev/users/Dear_Agony)\n\n**Original:** https://runeforge.dev/mods/bac45ad7-0a97-412f-9b73-6f102cca0a72\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/evelynn-unreal-tournament-killstreaks-announcer/thumb.webp?v=48c0ac57",
+	"file": {
+		"version": 1,
+		"asset": "evelynn-unreal-tournament-killstreaks-announcer-v1.fantome",
+		"size": 6634192,
+		"sha256": "3e62215f360e4dcabf57a3feb32cedb2fc3537ee42516c257dff03e69f8f7331"
+	}
+}

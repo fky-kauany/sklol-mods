@@ -120,6 +120,13 @@
 		"avatar": "creators/c-j-s.png?v=3a338fcc",
 		"links": {}
 	},
+	"cam": {
+		"name": "Cam",
+		"avatar": "creators/cam.jpg?v=839ba7c0",
+		"links": {
+			"discord": "https://discord.gg/pd6dgcJaJz"
+		}
+	},
 	"craq": {
 		"name": "craq",
 		"avatar": "creators/craq.jpg?v=826b9d99",
@@ -288,6 +295,14 @@
 			"youtube": "https://www.youtube.com/watch?v=ZlTIpkrUst4"
 		}
 	},
+	"kraken": {
+		"name": "海怪",
+		"avatar": "creators/kraken.jpg?v=22fd191a",
+		"bio": "twtv/KRAKENMONS7ER",
+		"links": {
+			"youtube": "https://youtu.be/zX507jo6tGg"
+		}
+	},
 	"lasarban": {
 		"name": "lasarban",
 		"avatar": "creators/lasarban.jpg?v=2fc916b9",
@@ -424,6 +439,10 @@
 		"avatar": "creators/rengoku-kyojuro.jpg?v=e317561b",
 		"links": {}
 	},
+	"reoccka2133": {
+		"name": "Reoccka2133",
+		"links": {}
+	},
 	"rhbarber": {
 		"name": "Rhbarber",
 		"avatar": "creators/rhbarber.png?v=f2ff85b4",
@@ -469,6 +488,13 @@
 			"youtube": "https://youtu.be/EHlL1B8c4yc"
 		}
 	},
+	"streak": {
+		"name": "Streak",
+		"avatar": "creators/streak.jpg?v=ff835f92",
+		"links": {
+			"youtube": "https://www.youtube.com/watch?v=DqEyKEoe73I"
+		}
+	},
 	"suriin": {
 		"name": "Suriin",
 		"avatar": "creators/suriin.jpg?v=63398f9b",
@@ -476,6 +502,12 @@
 		"links": {
 			"kofi": "https://ko-fi.com/suriinruneforge"
 		}
+	},
+	"thoxainn": {
+		"name": "Thoxain",
+		"avatar": "creators/thoxainn.webp?v=fc91a6b5",
+		"bio": "I do my best.thats all",
+		"links": {}
 	},
 	"tor-lol": {
 		"name": "tor.lol",

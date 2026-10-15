@@ -1,0 +1,17 @@
+{
+	"id": "enough-echo-killsounds",
+	"name": "Enough Echo Killsounds",
+	"kind": "sounds",
+	"creator": "streak",
+	"description": "Killsound replacer\n\nAll sounds from this mod are linked to the \"Notifications and UI\" Audio track in the LoL client if you want to make adjustments go to Settings > Sounds > Notifications and UI Volume\n\nDiscord:\n@Streaku\n\n---\n\n**Created by** [Streak](https://runeforge.dev/users/Streak)\n\n**Original:** https://runeforge.dev/mods/e5681ac1-9e9a-4264-a1a7-faca2d9eab78\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/enough-echo-killsounds/thumb.webp?v=6ef538d6",
+	"file": {
+		"version": 1,
+		"asset": "enough-echo-killsounds-v1.fantome",
+		"size": 20719684,
+		"sha256": "f21bb95f20851ce32ec8d853f66357cc652d57721b062af38886c42e38c6a15f"
+	}
+}

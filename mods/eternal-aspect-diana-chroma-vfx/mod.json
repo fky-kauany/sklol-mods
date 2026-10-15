@@ -1,0 +1,17 @@
+{
+	"id": "eternal-aspect-diana-chroma-vfx",
+	"name": "Eternal Aspect Diana chroma VFX",
+	"kind": "vfx",
+	"creator": "suriin",
+	"description": "## Important info\r\n\r\nThis will clash with any custom skin that modifies Eternal Aspect Diana chromas. You must own the skin and chromas and choose one of them in champ select. If you also want to have the form transformation tweak from my other mod check out the [releases tab](https://runeforge.dev/mods/a1dab040-bc41-499f-8b4d-421f726786a1/releases).\r\n\r\n## Description\r\n\r\n**Author**: Suriin\r\n\r\n**Skin**: Eternal Aspect Diana chromas\r\n\r\n**Affects**: VFX colors\r\n\r\nAdds matching VFX to every chroma, base remains the same.\r\n\r\n\r\n## Contact\r\n\r\nIf you have any issues or questions you can message me on discord: .suriin Just make sure you are on the RuneForge server.\r\n\r\n---\r\n\r\n### You can support me on Ko-Fi [ko-fi.com/suriinruneforge](https://ko-fi.com/suriinruneforge) <3\n\n---\n\n**Created by** [Suriin](https://runeforge.dev/users/Suriin)\n\n**Original:** https://runeforge.dev/mods/a1dab040-bc41-499f-8b4d-421f726786a1\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/eternal-aspect-diana-chroma-vfx/thumb.webp?v=1689ac4e",
+	"file": {
+		"version": 1,
+		"asset": "eternal-aspect-diana-chroma-vfx-v1.fantome",
+		"size": 21218618,
+		"sha256": "0f1a659cca3dcb07e834384262dcab833914e1b41fc8d42cc02906ba6889c523"
+	}
+}
