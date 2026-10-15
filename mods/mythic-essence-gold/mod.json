@@ -1,0 +1,17 @@
+{
+	"id": "mythic-essence-gold",
+	"name": "Mythic Essence Gold",
+	"kind": "ui",
+	"creator": "yuumi",
+	"description": "Imagine you got 8+k ME for every match\n\n---\n\n**Created by** [Yuumi](https://runeforge.dev/users/yuumi)\n\n**Original:** https://runeforge.dev/mods/32b9a57b-39d7-49a0-ac96-ff39c2cfd242\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/mythic-essence-gold/thumb.webp?v=28fe1117",
+	"file": {
+		"version": 1,
+		"asset": "mythic-essence-gold-v1.fantome",
+		"size": 6975,
+		"sha256": "923daa33bba78d980b48c2e0a4e9507d255030a89fd00db0d0f9d7c67166ec0a"
+	}
+}

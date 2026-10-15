@@ -1,0 +1,17 @@
+{
+	"id": "mortem-font",
+	"name": "Mortem Font",
+	"kind": "fonts",
+	"creator": "zero",
+	"description": "---\n\n**Created by** [ZERO_](https://runeforge.dev/users/ZERO_)\n\n**Original:** https://runeforge.dev/mods/868d32dc-4a22-4a14-9a66-de6e2f4a6d16\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/mortem-font/thumb.webp?v=71719f0d",
+	"file": {
+		"version": 1,
+		"asset": "mortem-font-v1.fantome",
+		"size": 3472236,
+		"sha256": "1e841ce041f1e700b70dc3dad9156fd04dfc7baae0ec0c68c20217831dec4723"
+	}
+}

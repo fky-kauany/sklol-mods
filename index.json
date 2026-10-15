@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T10:05:02.179Z",
+	"generatedAt": "2026-10-15T10:10:59.999Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -801,6 +801,13 @@
 			"bio": "Cute Cat, Yuumi OTP, Sitting on a lot a lot of custom skins and knowledge about them. Inactive.",
 			"links": {}
 		},
+		"zahardlazy": {
+			"name": "zahardlazy",
+			"avatar": "creators/zahardlazy.jpg?v=44c6ba7b",
+			"links": {
+				"youtube": "https://youtu.be/090noWi1UHM"
+			}
+		},
 		"zamius": {
 			"name": "Zamius",
 			"avatar": "creators/zamius.jpg?v=364bc59c",
@@ -808,6 +815,11 @@
 				"discord": "https://discord.gg/pqr9bQx238",
 				"youtube": "https://www.youtube.com/watch?v=wXaLA_9a3Kk"
 			}
+		},
+		"zero": {
+			"name": "ZERO_",
+			"avatar": "creators/zero.jpg?v=34e6c0b6",
+			"links": {}
 		},
 		"zezo": {
 			"name": "ZeZo",
@@ -6979,6 +6991,179 @@
 				"asset": "mordekaiser-pentakill-sfx-v1.fantome",
 				"size": 3810453,
 				"sha256": "46cba502c5dc73ac4a42d69d3ffe09a5554109a71edbe945894983b3fab087fa"
+			}
+		},
+		{
+			"id": "morderkaiser-smooth-criminal-sfx-and-more",
+			"name": "Morderkaiser Smooth Criminal SFX and More",
+			"kind": "sounds",
+			"creator": "zahardlazy",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/morderkaiser-smooth-criminal-sfx-and-more/thumb.webp?v=19fc4023",
+			"file": {
+				"version": 1,
+				"asset": "morderkaiser-smooth-criminal-sfx-and-more-v1.fantome",
+				"size": 6219009,
+				"sha256": "dfcfda2e31668a2e2fef580967ce22b24b65bb941ed393a8769a1629ff0cc1e2"
+			}
+		},
+		{
+			"id": "morgaga-sfx",
+			"name": "Morgaga SFX",
+			"kind": "sounds",
+			"creator": "zint0s",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/morgaga-sfx/thumb.webp?v=eb74c13e",
+			"file": {
+				"version": 1,
+				"asset": "morgaga-sfx-v1.fantome",
+				"size": 24842007,
+				"sha256": "3983e5f1e8a1f03139ca5cc87c94693bc39dd23a3287b00277bee214740888ed"
+			}
+		},
+		{
+			"id": "mortem-font",
+			"name": "Mortem Font",
+			"kind": "fonts",
+			"creator": "zero",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/mortem-font/thumb.webp?v=71719f0d",
+			"file": {
+				"version": 1,
+				"asset": "mortem-font-v1.fantome",
+				"size": 3472236,
+				"sha256": "1e841ce041f1e700b70dc3dad9156fd04dfc7baae0ec0c68c20217831dec4723"
+			}
+		},
+		{
+			"id": "movement-click-arrow-recolors",
+			"name": "Movement Click Arrow Recolors",
+			"kind": "ui",
+			"creator": "aropatnik",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/movement-click-arrow-recolors/thumb.webp?v=b70cad38",
+			"file": {
+				"version": 1,
+				"asset": "movement-click-arrow-recolors-v1.fantome",
+				"size": 13384,
+				"sha256": "4286f6f93edc45839d516e52debb376dc4deab2dfcdcb8e60455fc82691e03c1"
+			}
+		},
+		{
+			"id": "mspaint-splash-art-pack",
+			"name": "MSPaint Splash Art Pack",
+			"kind": "other",
+			"creator": "1gem1",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/mspaint-splash-art-pack/thumb.webp?v=2770c0a8",
+			"file": {
+				"version": 1,
+				"asset": "mspaint-splash-art-pack-v1.modpkg",
+				"size": 8600483,
+				"sha256": "1edbb06259d746a9c5ad01080fa6c1f86eff34ea31b813785bf7c217d3c07827"
+			}
+		},
+		{
+			"id": "mystic-rift",
+			"name": "Mystic Rift",
+			"kind": "maps",
+			"creator": "disco",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/mystic-rift/thumb.webp?v=20e429e7",
+			"file": {
+				"version": 1,
+				"asset": "mystic-rift-v1.fantome",
+				"size": 197641741,
+				"sha256": "fcaf5d96dcb989bfcfb2170b8305450d08aea8a7d8a940b4acd4479dce6c6c81"
+			},
+			"maps": [
+				11
+			]
+		},
+		{
+			"id": "mythic-essence-gold",
+			"name": "Mythic Essence Gold",
+			"kind": "ui",
+			"creator": "yuumi",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/mythic-essence-gold/thumb.webp?v=28fe1117",
+			"file": {
+				"version": 1,
+				"asset": "mythic-essence-gold-v1.fantome",
+				"size": 6975,
+				"sha256": "923daa33bba78d980b48c2e0a4e9507d255030a89fd00db0d0f9d7c67166ec0a"
+			}
+		},
+		{
+			"id": "mythmaker-irelia-chroma-vfx",
+			"name": "Mythmaker Irelia chroma VFX",
+			"kind": "other",
+			"creator": "suriin",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/mythmaker-irelia-chroma-vfx/thumb.webp?v=fccd281c",
+			"file": {
+				"version": 1,
+				"asset": "mythmaker-irelia-chroma-vfx-v1.fantome",
+				"size": 26643606,
+				"sha256": "e68d2a996eca610b32094275dee1fb79b05488f195937a897ba4ac2c9b63f73c"
+			}
+		},
+		{
+			"id": "mythmaker-nami-chroma-vfx",
+			"name": "Mythmaker Nami Chroma VFX",
+			"kind": "vfx",
+			"creator": "suriin",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/mythmaker-nami-chroma-vfx/thumb.webp?v=1b7d220b",
+			"file": {
+				"version": 1,
+				"asset": "mythmaker-nami-chroma-vfx-v1.fantome",
+				"size": 21167590,
+				"sha256": "4327c4aad09021e7a905ff2a1bc189e6ab73ce421c8ce9028f0ca1dafbc8302e"
+			}
+		},
+		{
+			"id": "nami-tail-physics",
+			"name": "Nami Tail Physics",
+			"kind": "vfx",
+			"creator": "suriin",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/nami-tail-physics/thumb.webp?v=5eb83506",
+			"file": {
+				"version": 1,
+				"asset": "nami-tail-physics-v1.fantome",
+				"size": 1063334,
+				"sha256": "75c69b0a1a3d3382b1ad6a88b23abcf9ca95ce52500deb2f20d9c79c71570ac4"
 			}
 		}
 	]

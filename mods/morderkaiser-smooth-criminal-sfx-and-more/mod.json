@@ -1,0 +1,17 @@
+{
+	"id": "morderkaiser-smooth-criminal-sfx-and-more",
+	"name": "Morderkaiser Smooth Criminal SFX and More",
+	"kind": "sounds",
+	"creator": "zahardlazy",
+	"description": "---\n\n**Created by** [zahardlazy](https://runeforge.dev/users/zahardlazy)\n\n**Original:** https://runeforge.dev/mods/a160304a-736b-4649-a767-e474fb469962\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/morderkaiser-smooth-criminal-sfx-and-more/thumb.webp?v=19fc4023",
+	"file": {
+		"version": 1,
+		"asset": "morderkaiser-smooth-criminal-sfx-and-more-v1.fantome",
+		"size": 6219009,
+		"sha256": "dfcfda2e31668a2e2fef580967ce22b24b65bb941ed393a8769a1629ff0cc1e2"
+	}
+}

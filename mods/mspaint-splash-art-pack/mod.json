@@ -1,0 +1,17 @@
+{
+	"id": "mspaint-splash-art-pack",
+	"name": "MSPaint Splash Art Pack",
+	"kind": "other",
+	"creator": "1gem1",
+	"description": "## Skin modified - ALL BASE SKINS!!\r\n\r\n╰┈➤ _The idea for this mod was to make a MSPaint splash for all champs, using their base skin (until Zaahen). Yes, this is a very late april fools but oh well. I have a few friends who've helped with this collab, being;_\r\n\r\n@eetheena\r\n- sona\r\n- soraka\r\n- swain\r\n- syndra\r\n- zyra\r\n\r\n@cupwins\r\n- twisted fate\r\n\r\n@oom__9\r\n- vel'koz\r\n- tahm kench\r\n\r\n@vapourize\r\n- teemo\r\n\r\n# **➫ Any suggestions, ideas, questions or bug reports or just wanna yap?**\r\n\r\nSend it all over [**here! (my discord)**](https://discord.gg/6MTrrVbwgm)\n\n---\n\n**Created by** [1gem1](https://www.divineskins.gg/1gem1)\n\n**Original:** https://www.divineskins.gg/1gem1/mspaint-splash-art-pack\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/mspaint-splash-art-pack/thumb.webp?v=2770c0a8",
+	"file": {
+		"version": 1,
+		"asset": "mspaint-splash-art-pack-v1.modpkg",
+		"size": 8600483,
+		"sha256": "1edbb06259d746a9c5ad01080fa6c1f86eff34ea31b813785bf7c217d3c07827"
+	}
+}

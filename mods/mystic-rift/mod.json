@@ -1,0 +1,20 @@
+{
+	"id": "mystic-rift",
+	"name": "Mystic Rift",
+	"kind": "maps",
+	"creator": "disco",
+	"description": "Mystic Rift\nOriginal map artwork: Existor (2015).\nLegacy texture repair: Yoru (2.9)\nCurrent terrain compatibility repair: DISCO (3.0)\n\nThanks to [@Frog](https://www.divineskins.gg/@Frog) for adding myst VFX and [@xllwd1](https://www.divineskins.gg/@xllwd1) for providing the files.\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/mystic-rift\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/mystic-rift/thumb.webp?v=20e429e7",
+	"file": {
+		"version": 1,
+		"asset": "mystic-rift-v1.fantome",
+		"size": 197641741,
+		"sha256": "fcaf5d96dcb989bfcfb2170b8305450d08aea8a7d8a940b4acd4479dce6c6c81"
+	},
+	"maps": [
+		11
+	]
+}

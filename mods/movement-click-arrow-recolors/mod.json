@@ -1,0 +1,17 @@
+{
+	"id": "movement-click-arrow-recolors",
+	"name": "Movement Click Arrow Recolors",
+	"kind": "ui",
+	"creator": "aropatnik",
+	"description": "### *Mod variants have not yet been implemented into Runeforge v2.0. In the meantime if you wish to download other variants please use this mediafire link:* [*https://www.mediafire.com/folder/195oflecovlhn/Movement_Click_Arrows*](https://www.mediafire.com/folder/195oflecovlhn/Movement_Click_Arrows) *- By default these mods recolor all of the arrows to look the same. If you want the **move** and **attack move** to look different download another mod from the \"Attack Move Only\" folder and in CsLoL-Manager settings enable \"Suppress install conflicts\"*\n\n#\n\n### Information\n\n**Recolors the arrows (and circle) that shows up when you move**\n\n**Author: Aropatnik**\n\n#\n\n### Issues\n\nIf/When this mod breaks let me know\n\nDiscord username: aropatnik\n\nDiscord server: https://discord.gg/ue5t7tGW32\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n#\n\n### Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/b0844666-8062-4a4f-9282-d6cc47fd96ba\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/movement-click-arrow-recolors/thumb.webp?v=b70cad38",
+	"file": {
+		"version": 1,
+		"asset": "movement-click-arrow-recolors-v1.fantome",
+		"size": 13384,
+		"sha256": "4286f6f93edc45839d516e52debb376dc4deab2dfcdcb8e60455fc82691e03c1"
+	}
+}

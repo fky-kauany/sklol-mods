@@ -1,0 +1,17 @@
+{
+	"id": "morgaga-sfx",
+	"name": "Morgaga SFX",
+	"kind": "sounds",
+	"creator": "zint0s",
+	"description": "Morgaga without gaga because it's only Cardi B and Cupcakke sounds\n\n---\n\n**Created by** [Zint0s](https://runeforge.dev/users/Zint0s)\n\n**Original:** https://runeforge.dev/mods/57155dc4-843a-4299-9185-b5c4427e9a57\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/morgaga-sfx/thumb.webp?v=eb74c13e",
+	"file": {
+		"version": 1,
+		"asset": "morgaga-sfx-v1.fantome",
+		"size": 24842007,
+		"sha256": "3983e5f1e8a1f03139ca5cc87c94693bc39dd23a3287b00277bee214740888ed"
+	}
+}

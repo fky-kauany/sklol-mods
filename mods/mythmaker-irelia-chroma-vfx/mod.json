@@ -1,0 +1,17 @@
+{
+	"id": "mythmaker-irelia-chroma-vfx",
+	"name": "Mythmaker Irelia chroma VFX",
+	"kind": "other",
+	"creator": "suriin",
+	"description": "## Important info\r\n\r\nThis will clash with any custom skin that modifies Mythmaker Irelia. 1 file for all chromas. You must own the skin and chromas.\r\n\r\n## Description\r\n\r\n**Author**: Suriin\r\n\r\n**Skin**: Mythmaker Irelia\r\n\r\n**Affects**: VFX colors\r\n\r\nAdds matching VFX to every chroma, base remains the same.\r\n\r\n\r\n## Contact\r\n\r\nIf you have any issues or questions you can message me on discord: .suriin Just make sure you are on the RuneForge server.\r\n\r\n---\r\n\r\n### You can support me on Ko-Fi [ko-fi.com/suriinruneforge](https://ko-fi.com/suriinruneforge) <3\n\n---\n\n**Created by** [Suriin](https://runeforge.dev/users/Suriin)\n\n**Original:** https://runeforge.dev/mods/a70cdca0-337f-4006-80aa-bd58a908d32f\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/mythmaker-irelia-chroma-vfx/thumb.webp?v=fccd281c",
+	"file": {
+		"version": 1,
+		"asset": "mythmaker-irelia-chroma-vfx-v1.fantome",
+		"size": 26643606,
+		"sha256": "e68d2a996eca610b32094275dee1fb79b05488f195937a897ba4ac2c9b63f73c"
+	}
+}
