@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T07:51:24.334Z",
+	"generatedAt": "2026-10-15T07:54:36.362Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -130,6 +130,17 @@
 				"youtube": "https://www.youtube.com/davexfn"
 			}
 		},
+		"dear-agony": {
+			"name": "Dear_Agony",
+			"avatar": "creators/dear-agony.jpg?v=886533e5",
+			"bio": "Just making and sharing stuff I enjoy",
+			"links": {
+				"discord": "https://discord.gg/S6m5Cykwgs",
+				"kofi": "https://ko-fi.com/dear_agony",
+				"site": "https://wiki.leagueoflegends.com/en-us/Kayn/Audio#Odyssey",
+				"youtube": "https://youtu.be/WUwQAZTrJK4?si=rKoDP-_Y9TEwlTRF"
+			}
+		},
 		"dithz": {
 			"name": "DithZ",
 			"avatar": "creators/dithz.png?v=bb332928",
@@ -168,6 +179,11 @@
 			"name": "Gloomy Tree",
 			"avatar": "creators/gloomytree.jpg?v=b46ed5c2",
 			"bio": "# Cursed nostalgia blinded student\n## Discord : https://discord.gg/WK4yNZxaqk\n## DM open : gloomy_tree",
+			"links": {}
+		},
+		"guvercin": {
+			"name": "Güvercin",
+			"avatar": "creators/guvercin.jpg?v=a0823de4",
 			"links": {}
 		},
 		"horrorwolf": {
@@ -2767,6 +2783,179 @@
 				"asset": "danfor-s-simple-championship-ashe-hud-v1.fantome",
 				"size": 5164833,
 				"sha256": "a7941034cf3b10016940913fdc57b2152a09957e9cc01e38a165c43c5e78e4b4"
+			}
+		},
+		{
+			"id": "danfor-s-simple-lor-bard-hud",
+			"name": "danfoR's Simple LoR Bard HUD",
+			"kind": "ui",
+			"creator": "runeforgerecoveryteam",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/danfor-s-simple-lor-bard-hud/thumb.webp?v=fc2b3a6c",
+			"file": {
+				"version": 1,
+				"asset": "danfor-s-simple-lor-bard-hud-v1.fantome",
+				"size": 4241294,
+				"sha256": "c5deb2e7b7cc463701a69043d977961d904dd849e6ac5c80a741e25f54f68a13"
+			}
+		},
+		{
+			"id": "danfor-s-simple-winterblessed-zoe-hud",
+			"name": "danfoR's Simple Winterblessed Zoe HUD",
+			"kind": "ui",
+			"creator": "runeforgerecoveryteam",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/danfor-s-simple-winterblessed-zoe-hud/thumb.webp?v=6aa6d60d",
+			"file": {
+				"version": 1,
+				"asset": "danfor-s-simple-winterblessed-zoe-hud-v1.fantome",
+				"size": 6355719,
+				"sha256": "611f0ccf38a12c5d804af590ef91b94764797f7cc274b9353747a2ed4b46ba52"
+			}
+		},
+		{
+			"id": "dark-cosmic-diana-chroma-vfx",
+			"name": "Dark Cosmic Diana Chroma VFX",
+			"kind": "vfx",
+			"creator": "suriin",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/dark-cosmic-diana-chroma-vfx/thumb.webp?v=c07d296f",
+			"file": {
+				"version": 1,
+				"asset": "dark-cosmic-diana-chroma-vfx-v1.fantome",
+				"size": 15785355,
+				"sha256": "f64cad2d8d6e6da1e0748a21ec13d41a9e0320ac95d2374423dede8287fe6ded"
+			}
+		},
+		{
+			"id": "dark-cosmic-jhin-mythic-chroma",
+			"name": "Dark Cosmic Jhin Mythic Chroma",
+			"kind": "other",
+			"creator": "runeforgerecoveryteam",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/dark-cosmic-jhin-mythic-chroma/thumb.webp?v=ae32a05b",
+			"file": {
+				"version": 1,
+				"asset": "dark-cosmic-jhin-mythic-chroma-v1.fantome",
+				"size": 3080021,
+				"sha256": "7c83c7f8e427488f2f9f45098b7719ae6886dd5d8c0fd7649375711b6e97950f"
+			}
+		},
+		{
+			"id": "dark-cosmic-jhin-skill-icons",
+			"name": "Dark Cosmic Jhin Skill Icons",
+			"kind": "ui",
+			"creator": "guvercin",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/dark-cosmic-jhin-skill-icons/thumb.webp?v=2dc04563",
+			"file": {
+				"version": 1,
+				"asset": "dark-cosmic-jhin-skill-icons-v1.fantome",
+				"size": 14328,
+				"sha256": "1eb4474c09ec914a250f9c064d9be4ec947b4089c44f6f33642e433a6996e8bc"
+			}
+		},
+		{
+			"id": "dark-mode-hud",
+			"name": "Dark Mode HUD",
+			"kind": "ui",
+			"creator": "pimek",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/dark-mode-hud/thumb.webp?v=d0b0046d",
+			"file": {
+				"version": 1,
+				"asset": "dark-mode-hud-v1.fantome",
+				"size": 4472577,
+				"sha256": "2b24fdb31b7f50dbd40ae7447a3b5700c88c0e4c08c306c54e1c82cb8f832120"
+			}
+		},
+		{
+			"id": "dark-mode-summoner-s-rift",
+			"name": "Dark Mode Summoner's Rift",
+			"kind": "maps",
+			"creator": "pimek",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/dark-mode-summoner-s-rift/thumb.webp?v=18325d93",
+			"file": {
+				"version": 1,
+				"asset": "dark-mode-summoner-s-rift-v1.fantome",
+				"size": 151069762,
+				"sha256": "a7688a49f6efd0c984c1b8bd086226475bac925a79d67247a9e7eb491ff4c9d0"
+			},
+			"maps": [
+				11
+			]
+		},
+		{
+			"id": "dark-souls-aatrox",
+			"name": "Dark Souls Aatrox",
+			"kind": "sounds",
+			"creator": "pico-senpai",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/dark-souls-aatrox/thumb.webp?v=d437439c",
+			"file": {
+				"version": 1,
+				"asset": "dark-souls-aatrox-v1.fantome",
+				"size": 14624702,
+				"sha256": "2a53f6fc5ca248d5baf61482745f42a9d6ccc697338fbc6f05b97c87d2ee1b0b"
+			}
+		},
+		{
+			"id": "dark-star-rhaast-x-dota-2-killstreaks-announcer",
+			"name": "Dark Star Rhaast x Dota 2 Killstreaks Announcer",
+			"kind": "announcer",
+			"creator": "dear-agony",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/dark-star-rhaast-x-dota-2-killstreaks-announcer/thumb.webp?v=9fa9aaf9",
+			"file": {
+				"version": 1,
+				"asset": "dark-star-rhaast-x-dota-2-killstreaks-announcer-v1.fantome",
+				"size": 9579311,
+				"sha256": "d09828497c6159e9660293d74dff364db2d86fd60f0b3b7c8d6be72e1ecb2c54"
+			}
+		},
+		{
+			"id": "dark-star-thresh-annoucer",
+			"name": "Dark Star Thresh Annoucer",
+			"kind": "announcer",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/dark-star-thresh-annoucer/thumb.webp?v=babb28b3",
+			"file": {
+				"version": 1,
+				"asset": "dark-star-thresh-annoucer-v1.fantome",
+				"size": 11492126,
+				"sha256": "d215f1b1d10759b711045a2a51d39defea7f3c27dcb4d7a80ffdec039d0d4501"
 			}
 		}
 	]

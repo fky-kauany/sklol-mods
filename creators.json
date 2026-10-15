@@ -127,6 +127,17 @@
 			"youtube": "https://www.youtube.com/davexfn"
 		}
 	},
+	"dear-agony": {
+		"name": "Dear_Agony",
+		"avatar": "creators/dear-agony.jpg?v=886533e5",
+		"bio": "Just making and sharing stuff I enjoy",
+		"links": {
+			"discord": "https://discord.gg/S6m5Cykwgs",
+			"kofi": "https://ko-fi.com/dear_agony",
+			"site": "https://wiki.leagueoflegends.com/en-us/Kayn/Audio#Odyssey",
+			"youtube": "https://youtu.be/WUwQAZTrJK4?si=rKoDP-_Y9TEwlTRF"
+		}
+	},
 	"dithz": {
 		"name": "DithZ",
 		"avatar": "creators/dithz.png?v=bb332928",
@@ -165,6 +176,11 @@
 		"name": "Gloomy Tree",
 		"avatar": "creators/gloomytree.jpg?v=b46ed5c2",
 		"bio": "# Cursed nostalgia blinded student\n## Discord : https://discord.gg/WK4yNZxaqk\n## DM open : gloomy_tree",
+		"links": {}
+	},
+	"guvercin": {
+		"name": "Güvercin",
+		"avatar": "creators/guvercin.jpg?v=a0823de4",
 		"links": {}
 	},
 	"horrorwolf": {

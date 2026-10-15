@@ -1,0 +1,17 @@
+{
+	"id": "dark-cosmic-diana-chroma-vfx",
+	"name": "Dark Cosmic Diana Chroma VFX",
+	"kind": "vfx",
+	"creator": "suriin",
+	"description": "## Important info\r\n\r\nThis will clash with any custom skin that modifies Dark Cosmic Diana. 1 file for all chromas.\r\n\r\n## Description\r\n\r\n**Author**: Suriin\r\n\r\n**Skin**: Dark Cosmic Diana\r\n\r\n**Affects**: VFX colors\r\n\r\nAdds matching VFX colors to every chroma, base remains the same. You need to own the chroma and choose it in champ select in order to use this mod.\r\n\r\n\r\n## Contact\r\n\r\nIf you have any issues or questions you can message me on discord: .suriin Just make sure you are on the RuneForge server.\r\n\r\n---\r\n\r\n### You can support me on Ko-Fi [ko-fi.com/suriinruneforge](https://ko-fi.com/suriinruneforge) <3\n\n---\n\n**Created by** [Suriin](https://runeforge.dev/users/Suriin)\n\n**Original:** https://runeforge.dev/mods/ca7c0206-9d21-4726-8185-9fa541064e7e\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/dark-cosmic-diana-chroma-vfx/thumb.webp?v=c07d296f",
+	"file": {
+		"version": 1,
+		"asset": "dark-cosmic-diana-chroma-vfx-v1.fantome",
+		"size": 15785355,
+		"sha256": "f64cad2d8d6e6da1e0748a21ec13d41a9e0320ac95d2374423dede8287fe6ded"
+	}
+}

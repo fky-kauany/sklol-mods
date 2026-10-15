@@ -1,0 +1,17 @@
+{
+	"id": "dark-cosmic-jhin-mythic-chroma",
+	"name": "Dark Cosmic Jhin Mythic Chroma",
+	"kind": "other",
+	"creator": "runeforgerecoveryteam",
+	"description": "# YOU NEED THE DARK COSMIC SKIN TO USE THIS MOD.\n\nNote : IM NOT THE ORIGINAL AUTHOR OF THIS SKIN, I only publish it to recovery and share it with the community.\n\nAll credits for Hawkoon\n\n‎\n\nIf it breaks or has problems contact me on discord @AleXD\n\n### Mod information\n\n***\n\n* Champion: Jhin\n* Modified skin: Dark Cosmic\n* Author: Hawkoon\n* Skin Version: 2.0.0\n* Updated for Patch 25.09\n\n### Specifications\n\n***\n\n* New texture\n* New VFX\n* Modified loadingscreen\n\n### Credits\n\n***\n\n* Original Post: [https://www.reddit.com/r/leagueoflegends/comments/15to6bp/dark\\_cosmic\\_jhin\\_fanmade\\_mythic\\_chroma/?show=original](https://www.reddit.com/r/leagueoflegends/comments/15to6bp/dark_cosmic_jhin_fanmade_mythic_chroma/?show=original)\n* Youtube Channel: [https://www.youtube.com/@Hawkoon01](https://www.youtube.com/@Hawkoon01)\n\n---\n\n**Created by** [RuneforgeRecoveryTeam](https://runeforge.dev/users/RuneforgeRecoveryTeam)\n\n**Original:** https://runeforge.dev/mods/41e40f7d-5863-4471-b3a4-c5af92f59e43\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/dark-cosmic-jhin-mythic-chroma/thumb.webp?v=ae32a05b",
+	"file": {
+		"version": 1,
+		"asset": "dark-cosmic-jhin-mythic-chroma-v1.fantome",
+		"size": 3080021,
+		"sha256": "7c83c7f8e427488f2f9f45098b7719ae6886dd5d8c0fd7649375711b6e97950f"
+	}
+}

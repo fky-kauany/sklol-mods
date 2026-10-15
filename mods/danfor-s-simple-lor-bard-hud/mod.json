@@ -1,0 +1,17 @@
+{
+	"id": "danfor-s-simple-lor-bard-hud",
+	"name": "danfoR's Simple LoR Bard HUD",
+	"kind": "ui",
+	"creator": "runeforgerecoveryteam",
+	"description": "## ♥ Mod Info ♥\n\n***\n\n* HUD Name: Simple LoR Bard HUD\n* Author: danfoR\n* Skin Version: 1.2\n* **Original mod by danfoR, recovered by Tyre\\_4770**\n\n##\n\n***\n\n## ♥ CREDITS ♥\n\n***\n\n* Made with Yoru’s Simple HUD Template\n\n ⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦\n\n---\n\n**Created by** [RuneforgeRecoveryTeam](https://runeforge.dev/users/RuneforgeRecoveryTeam)\n\n**Original:** https://runeforge.dev/mods/9e620fe0-0195-4781-bc68-da445ef7bcba\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/danfor-s-simple-lor-bard-hud/thumb.webp?v=fc2b3a6c",
+	"file": {
+		"version": 1,
+		"asset": "danfor-s-simple-lor-bard-hud-v1.fantome",
+		"size": 4241294,
+		"sha256": "c5deb2e7b7cc463701a69043d977961d904dd849e6ac5c80a741e25f54f68a13"
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"id": "danfor-s-simple-winterblessed-zoe-hud",
+	"name": "danfoR's Simple Winterblessed Zoe HUD",
+	"kind": "ui",
+	"creator": "runeforgerecoveryteam",
+	"description": "## ♥ Mod Info ♥\n\n***\n\n* HUD Name: Simple Winterblessed Zoe HUD\n* Author: danfoR\n* Skin Version: 1.2\n* **Original mod by danfoR, recovered by Tyre\\_4770**\n\n##\n\n***\n\n## ♥ CREDITS ♥\n\n***\n\n* Made with Yoru’s Simple HUD Template\n\n ⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦\n\n---\n\n**Created by** [RuneforgeRecoveryTeam](https://runeforge.dev/users/RuneforgeRecoveryTeam)\n\n**Original:** https://runeforge.dev/mods/14dfd852-5abc-4c2e-a7ea-e3041b6d9661\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/danfor-s-simple-winterblessed-zoe-hud/thumb.webp?v=6aa6d60d",
+	"file": {
+		"version": 1,
+		"asset": "danfor-s-simple-winterblessed-zoe-hud-v1.fantome",
+		"size": 6355719,
+		"sha256": "611f0ccf38a12c5d804af590ef91b94764797f7cc274b9353747a2ed4b46ba52"
+	}
+}

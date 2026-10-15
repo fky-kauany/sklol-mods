@@ -1,0 +1,17 @@
+{
+	"id": "dark-mode-hud",
+	"name": "Dark Mode HUD",
+	"kind": "ui",
+	"creator": "pimek",
+	"description": "# Mod Information\r\n\r\n* Description: requested on my discord server Default HUD in Dark Mode\r\n\r\n# Features\r\n\r\n* Everything in Cozy Dark Mode so your eyes wont hurt at night\n\n---\n\n**Created by** [pimek](https://www.divineskins.gg/pimek)\n\n**Original:** https://www.divineskins.gg/pimek/dark-mode-hud\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/dark-mode-hud/thumb.webp?v=d0b0046d",
+	"file": {
+		"version": 1,
+		"asset": "dark-mode-hud-v1.fantome",
+		"size": 4472577,
+		"sha256": "2b24fdb31b7f50dbd40ae7447a3b5700c88c0e4c08c306c54e1c82cb8f832120"
+	}
+}

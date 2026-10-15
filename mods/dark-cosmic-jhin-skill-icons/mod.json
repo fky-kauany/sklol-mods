@@ -1,0 +1,17 @@
+{
+	"id": "dark-cosmic-jhin-skill-icons",
+	"name": "Dark Cosmic Jhin Skill Icons",
+	"kind": "ui",
+	"creator": "guvercin",
+	"description": "Dark Cosmic Jhin Skill Icons changes Jhin's hud\n\nI used Jhin's unused splash arts and edited them a little\n\nLooking for more?&#x20;\n\nHere Aatrox version: [https://runeforge.dev/mods/761da2be-9b64-4189-9122-4a44506eab01](https://runeforge.dev/mods/761da2be-9b64-4189-9122-4a44506eab01)\n\nHere Yasuo version: [https://runeforge.dev/mods/f136a8f6-471e-4a04-8050-7c9c40f9ff35](https://runeforge.dev/mods/f136a8f6-471e-4a04-8050-7c9c40f9ff35)\n\n---\n\n**Created by** [Güvercin](https://runeforge.dev/users/Guvercin)\n\n**Original:** https://runeforge.dev/mods/94075e99-565e-4c7f-8e6f-c03c8fc275b7\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/dark-cosmic-jhin-skill-icons/thumb.webp?v=2dc04563",
+	"file": {
+		"version": 1,
+		"asset": "dark-cosmic-jhin-skill-icons-v1.fantome",
+		"size": 14328,
+		"sha256": "1eb4474c09ec914a250f9c064d9be4ec947b4089c44f6f33642e433a6996e8bc"
+	}
+}

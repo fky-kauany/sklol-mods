@@ -1,0 +1,20 @@
+{
+	"id": "dark-mode-summoner-s-rift",
+	"name": "Dark Mode Summoner's Rift",
+	"kind": "maps",
+	"creator": "pimek",
+	"description": "# Socials\r\n\r\n***\r\n\r\n* Twitter: [https://x.com/p1mek](https://x.com/p1mek) \\[Updates on skins]\r\n\r\n# Mod Information\r\n\r\n***\r\n\r\n* Default map no custom things just dark mode\r\n\r\n# Bugs\r\n\r\n***\r\n\r\nnone\n\n---\n\n**Created by** [pimek](https://www.divineskins.gg/pimek), [daka](https://www.divineskins.gg/daka)\n\n**Original:** https://www.divineskins.gg/pimek/dark-mode-summoners-rift\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/dark-mode-summoner-s-rift/thumb.webp?v=18325d93",
+	"file": {
+		"version": 1,
+		"asset": "dark-mode-summoner-s-rift-v1.fantome",
+		"size": 151069762,
+		"sha256": "a7688a49f6efd0c984c1b8bd086226475bac925a79d67247a9e7eb491ff4c9d0"
+	},
+	"maps": [
+		11
+	]
+}
