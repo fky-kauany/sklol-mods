@@ -1,0 +1,17 @@
+{
+	"id": "lgbtq-health-bar-colors",
+	"name": "LGBTQ+ Health Bar Colors",
+	"kind": "ui",
+	"creator": "moga",
+	"description": "## !! VERY IMPORTANT !! ⇛  HOW TO CHANGE THE COLOR !!\n\n###\n\nSimply rename the filename of the file for the color you've chosen to `SpotlightHealthBarAtlas`. All colors are included in the download next to the default file, named acc their description.\n\n#### If you are struggling to swap your colors, please check the guides channel in my Disc or ping me so I can help you!\n\n#\n\n### Overview:\n\n* Default is regular pride rainbow, this will show without any edits.\n* Works alongside my [Old Heath Bars mod](https://runeforge.dev/mods/b7f4cc6d-0db5-4bd4-89e2-d08b7c819d68), as the default rainbow.\n\n[Click to see all my other totally sick mods.](https://runeforge.dev/users/Moga/mods?page=0\\&sortBy=download_count)\n\n#\n\n### Mod Information:\n\nAuthor: Moga\n\nMod Version: 15.13.1.2\n\nhttps://discord.gg/gSXbEmPQCA\n\n---\n\n**Created by** [Moga](https://runeforge.dev/users/Moga)\n\n**Original:** https://runeforge.dev/mods/b0c3a4e6-b9f4-4aa7-acc8-f9f4134232db\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/lgbtq-health-bar-colors/thumb.webp?v=26dca560",
+	"file": {
+		"version": 1,
+		"asset": "lgbtq-health-bar-colors-v1.fantome",
+		"size": 1066641,
+		"sha256": "995eb8e26b0910cfcc9cb8ea57f5eb62c5fd3e7e74ebfa58a56da237e801e750"
+	}
+}

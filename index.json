@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T09:42:27.972Z",
+	"generatedAt": "2026-10-15T09:48:02.404Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -136,6 +136,14 @@
 			"avatar": "creators/badzerker.png?v=606925a6",
 			"links": {
 				"youtube": "https://www.youtube.com/channel/UCFGdLwUYwPw3Wyb9lLtbgbw"
+			}
+		},
+		"bossa-uh": {
+			"name": "bossa_uh",
+			"avatar": "creators/bossa-uh.jpg?v=18400cc4",
+			"bio": "i made 1 mod, it took 5 hours and i am 1% less lost from when i started.",
+			"links": {
+				"youtube": "https://youtu.be/HNxZgglwKVo"
 			}
 		},
 		"c-j-s": {
@@ -351,6 +359,11 @@
 				"youtube": "https://youtu.be/AKx4pJpezpg"
 			}
 		},
+		"kayisei-exe-0": {
+			"name": "kayisei.exe#0",
+			"avatar": "creators/kayisei-exe-0.jpg?v=9c866e27",
+			"links": {}
+		},
 		"kietjojo": {
 			"name": "Kiet Jojo",
 			"avatar": "creators/kietjojo.jpg?v=7479fb00",
@@ -518,6 +531,15 @@
 				"kofi": "https://ko-fi.com/p1mek",
 				"site": "https://static.wixstatic.com/media/0e6a9e_23be4c494243409aa125310aa8fa9d8b~mv2.png/v1/fill/w_513,h_224,al_c,lg_1,q_85,enc_auto/0e6a9e_23be4c494243409aa125310aa8fa9d8b~mv2.png",
 				"x": "https://x.com/p1mek"
+			}
+		},
+		"polten": {
+			"name": "Polten",
+			"avatar": "creators/polten.jpg?v=09fa11a5",
+			"bio": "Goofy goober.",
+			"links": {
+				"site": "https://www.reddit.com/r/LeeSinMains/comments/cf5utf/guide_how_to_get_old_lee_voice_back/",
+				"youtube": "https://www.youtube.com/watch?v=6NNcJ48sNNU"
 			}
 		},
 		"ppwe": {
@@ -710,6 +732,16 @@
 			"name": "WastedWaffle",
 			"avatar": "creators/wastedwaffle.jpg?v=802af1c0",
 			"links": {}
+		},
+		"wiko": {
+			"name": "Wiko",
+			"avatar": "creators/wiko.webp?v=7b96207d",
+			"bio": "## boom whatup solowiko only here back with some custom skin action\n\nso this is my very cool and sigma profile where you can find my mods, as well as the mods that I maintain for other people\n\nI make all kinds of mods, from \"real\" custom skins to silly meme ones\n\nif you'd like me to make a mod for you, you can commission me on the [runeforge discord](https://discord.gg/runeforge) or the [divine skins discord](https://discord.gg/divineskins)\n\nimagine if ninja had a low taper fade",
+			"links": {
+				"discord": "https://discord.com/users/395209649969823744",
+				"kofi": "https://ko-fi.com/wiko2303",
+				"youtube": "https://www.youtube.com/@wikofiko"
+			}
 		},
 		"wuffsky": {
 			"name": "mikko",
@@ -6218,6 +6250,176 @@
 				"asset": "leblanc-2024-champion-and-ability-icons-v1.fantome",
 				"size": 139561,
 				"sha256": "32b0054eedb68c30bdee63f8b9c6018a55f4f15d4523968e7065ce746bbfbda2"
+			}
+		},
+		{
+			"id": "lee-sin-old-voice-mod",
+			"name": "Lee Sin Old Voice mod",
+			"kind": "sounds",
+			"creator": "polten",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/lee-sin-old-voice-mod/thumb.webp?v=4b754804",
+			"file": {
+				"version": 1,
+				"asset": "lee-sin-old-voice-mod-v1.fantome",
+				"size": 1790984,
+				"sha256": "acb053eff0afde7dd43d97f580598b3384143fd838e2d29721fa6aca9ba8851c"
+			}
+		},
+		{
+			"id": "less-annoying-to-drag-shop",
+			"name": "Less Annoying to Drag Shop",
+			"kind": "ui",
+			"creator": "moga",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/less-annoying-to-drag-shop/thumb.webp?v=570d2f20",
+			"file": {
+				"version": 1,
+				"asset": "less-annoying-to-drag-shop-v1.fantome",
+				"size": 583074,
+				"sha256": "bfb9a36bd2fcf674d663745eb455efa94b25478f106ba95d66f37944320d4b24"
+			}
+		},
+		{
+			"id": "lgbtq-health-bar-colors",
+			"name": "LGBTQ+ Health Bar Colors",
+			"kind": "ui",
+			"creator": "moga",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/lgbtq-health-bar-colors/thumb.webp?v=26dca560",
+			"file": {
+				"version": 1,
+				"asset": "lgbtq-health-bar-colors-v1.fantome",
+				"size": 1066641,
+				"sha256": "995eb8e26b0910cfcc9cb8ea57f5eb62c5fd3e7e74ebfa58a56da237e801e750"
+			}
+		},
+		{
+			"id": "lil-peep-hud",
+			"name": "Lil Peep HUD",
+			"kind": "ui",
+			"creator": "disco",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/lil-peep-hud/thumb.webp?v=0ffec4e1",
+			"file": {
+				"version": 1,
+				"asset": "lil-peep-hud-v1.modpkg",
+				"size": 5867908,
+				"sha256": "99e334bc8c4d26f46ffca9f61efbc26fa0ee322ff120e258db014f8aa6242061"
+			}
+		},
+		{
+			"id": "lillia-eep-edition",
+			"name": "Lillia EEP Edition",
+			"kind": "sounds",
+			"creator": "aropatnik",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/lillia-eep-edition/thumb.webp?v=7df96eb2",
+			"file": {
+				"version": 1,
+				"asset": "lillia-eep-edition-v1.fantome",
+				"size": 29183,
+				"sha256": "b0c054d6815e7b0a98115483ab08e4dae2afe5e9814b1cd966173e4a7c322ec0"
+			}
+		},
+		{
+			"id": "lina-announcer-expanded",
+			"name": "Lina Announcer Expanded",
+			"kind": "announcer",
+			"creator": "dear-agony",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/lina-announcer-expanded/thumb.webp?v=a2102fd8",
+			"file": {
+				"version": 1,
+				"asset": "lina-announcer-expanded-v1.fantome",
+				"size": 4961436,
+				"sha256": "184ee764bd1bb2fa516e5a48090b2306729fb478f7543acdaa65f1ba727e2690"
+			}
+		},
+		{
+			"id": "lissandra-korean-voiceover",
+			"name": "Lissandra Korean Voiceover",
+			"kind": "sounds",
+			"creator": "wiko",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/lissandra-korean-voiceover/thumb.webp?v=173a45a9",
+			"file": {
+				"version": 1,
+				"asset": "lissandra-korean-voiceover-v1.fantome",
+				"size": 11314700,
+				"sha256": "436123bd13e741f8a9a105cc7053cdf9d38929061a3f210a04e060ad0e306ae6"
+			}
+		},
+		{
+			"id": "lol-spirit-blossom-cursor",
+			"name": "LoL Spirit Blossom Cursor",
+			"kind": "ui",
+			"creator": "kayisei-exe-0",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/lol-spirit-blossom-cursor/thumb.webp?v=5251162e",
+			"file": {
+				"version": 1,
+				"asset": "lol-spirit-blossom-cursor-v1.fantome",
+				"size": 2630703,
+				"sha256": "5d22ee9ab407792329d19bf3e8fb1b0ad35397cd0611ea0841df8cf49cfa0bee"
+			}
+		},
+		{
+			"id": "lowtiergod-push-ping-replacement",
+			"name": "LowTierGod Push ping replacement",
+			"kind": "sounds",
+			"creator": "bossa-uh",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/lowtiergod-push-ping-replacement/thumb.webp?v=62adec03",
+			"file": {
+				"version": 1,
+				"asset": "lowtiergod-push-ping-replacement-v1.fantome",
+				"size": 2261649,
+				"sha256": "9c1b6b3df62f4ce9a7646feea82db08be065dbc89c1b8db458e01e9b71fe47e3"
+			}
+		},
+		{
+			"id": "lowtiergod-stormsurge",
+			"name": "LowTierGod Stormsurge",
+			"kind": "sounds",
+			"creator": "pico-senpai",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/lowtiergod-stormsurge/thumb.webp?v=5c1bffc0",
+			"file": {
+				"version": 1,
+				"asset": "lowtiergod-stormsurge-v1.fantome",
+				"size": 17718246,
+				"sha256": "db6969b3f1bfaa40040037c22be9a1856fe694ce11c938bcca082d75c8e25465"
 			}
 		}
 	]

@@ -1,0 +1,17 @@
+{
+	"id": "lee-sin-old-voice-mod",
+	"name": "Lee Sin Old Voice mod",
+	"kind": "sounds",
+	"creator": "polten",
+	"description": "Pretty straightforward, I replaced every new voice-line with the old one. I got the files from this reddit thread: https://www.reddit.com/r/LeeSinMains/comments/cf5utf/guide_how_to_get_old_lee_voice_back/\r\n\r\nThe original author has of the post was deleted unfortunately, and it`s what made me do this mod. Originally the author mentions that you would just replace the LeeSin.en_US.wad.client file in the original directory but that doesn`t work anymore (presuming it ever worked). Tried to find someone who had done this mod but there was none. I just did it myself lol.\r\n\r\nNote: I took the liberty to add more voice-lines in case of some events (that were not available before the VGU). For example: when you score a PENTAKILL Lee Sin will say \"Your will my hands\", or when you recall Lee will say \"Find your center\".\n\n---\n\n**Created by** [Polten](https://runeforge.dev/users/Polten)\n\n**Original:** https://runeforge.dev/mods/f5cb349d-7b9f-4335-b3f6-eb72dc57918e\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/lee-sin-old-voice-mod/thumb.webp?v=4b754804",
+	"file": {
+		"version": 1,
+		"asset": "lee-sin-old-voice-mod-v1.fantome",
+		"size": 1790984,
+		"sha256": "acb053eff0afde7dd43d97f580598b3384143fd838e2d29721fa6aca9ba8851c"
+	}
+}

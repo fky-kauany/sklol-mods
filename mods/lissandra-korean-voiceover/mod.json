@@ -1,0 +1,17 @@
+{
+	"id": "lissandra-korean-voiceover",
+	"name": "Lissandra Korean Voiceover",
+	"kind": "sounds",
+	"creator": "wiko",
+	"description": "### ✨ Overview\n\nHAAAAAAAARRRRGHHH\n\n#\n\n### ✨ Additional information\n\nEUGHHHH\n\n#\n\n### ✨ Features\n\n* HYAAAAAAAGHHHH\n\n---\n\n**Created by** [Wiko](https://www.divineskins.gg/Wiko)\n\n**Original:** https://www.divineskins.gg/Wiko/lissandra-korean-voiceover\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/lissandra-korean-voiceover/thumb.webp?v=173a45a9",
+	"file": {
+		"version": 1,
+		"asset": "lissandra-korean-voiceover-v1.fantome",
+		"size": 11314700,
+		"sha256": "436123bd13e741f8a9a105cc7053cdf9d38929061a3f210a04e060ad0e306ae6"
+	}
+}

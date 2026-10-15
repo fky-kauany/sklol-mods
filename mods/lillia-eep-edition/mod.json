@@ -1,0 +1,17 @@
+{
+	"id": "lillia-eep-edition",
+	"name": "Lillia EEP Edition",
+	"kind": "sounds",
+	"creator": "aropatnik",
+	"description": "Changes all voicelines to EEP!\n\n## Information\n\n**Modified champion: Lillia**\n\n**Modified skin: Default, Spirit Blossom and all other skins that share voicelines with them**\n\n**Author: Aropatnik**\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/0d23c896-07ab-4cae-a208-c3788a757107\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/lillia-eep-edition/thumb.webp?v=7df96eb2",
+	"file": {
+		"version": 1,
+		"asset": "lillia-eep-edition-v1.fantome",
+		"size": 29183,
+		"sha256": "b0c054d6815e7b0a98115483ab08e4dae2afe5e9814b1cd966173e4a7c322ec0"
+	}
+}

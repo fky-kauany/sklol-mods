@@ -1,0 +1,17 @@
+{
+	"id": "less-annoying-to-drag-shop",
+	"name": "Less Annoying to Drag Shop",
+	"kind": "ui",
+	"creator": "moga",
+	"description": "###\nJust makes the whole shop pane a valid draggable  htibox cuz its fucking annoying when u go to drag and miss the header by 0.01 microns and it doesnt grab to drag.\n\n#\n\n#### Overview:\n\n* Yes u can still click buttons on the shop\n* no it doesnt affect anything else to do w the shops functionality\n* sometimes brekas idk, it didnf for like 4 months whil iwas using it tbh so it sprolly fine.\n\n#\n\nhttps://discord.gg/gSXbEmPQCA\n\n---\n\n**Created by** [Moga](https://runeforge.dev/users/Moga)\n\n**Original:** https://runeforge.dev/mods/28f6d052-bb0f-456c-8f45-110a10dded70\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/less-annoying-to-drag-shop/thumb.webp?v=570d2f20",
+	"file": {
+		"version": 1,
+		"asset": "less-annoying-to-drag-shop-v1.fantome",
+		"size": 583074,
+		"sha256": "bfb9a36bd2fcf674d663745eb455efa94b25478f106ba95d66f37944320d4b24"
+	}
+}

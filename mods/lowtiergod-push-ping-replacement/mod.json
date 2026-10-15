@@ -1,0 +1,17 @@
+{
+	"id": "lowtiergod-push-ping-replacement",
+	"name": "LowTierGod Push ping replacement",
+	"kind": "sounds",
+	"creator": "bossa-uh",
+	"description": "Replaces the \"Push\" Ping Icon and Sound effect with Lowtiergod.\n\n\n\nThis is an Updated Version of the mod made by Eggr. His version replaced the Bait Ping that doesn't exist anymore.\n\n---\n\n**Created by** [bossa_uh](https://runeforge.dev/users/bossa_uh)\n\n**Original:** https://runeforge.dev/mods/048c3f71-2dd9-401c-b7b4-2dc63a1af91e\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/lowtiergod-push-ping-replacement/thumb.webp?v=62adec03",
+	"file": {
+		"version": 1,
+		"asset": "lowtiergod-push-ping-replacement-v1.fantome",
+		"size": 2261649,
+		"sha256": "9c1b6b3df62f4ce9a7646feea82db08be065dbc89c1b8db458e01e9b71fe47e3"
+	}
+}

@@ -135,6 +135,14 @@
 			"youtube": "https://www.youtube.com/channel/UCFGdLwUYwPw3Wyb9lLtbgbw"
 		}
 	},
+	"bossa-uh": {
+		"name": "bossa_uh",
+		"avatar": "creators/bossa-uh.jpg?v=18400cc4",
+		"bio": "i made 1 mod, it took 5 hours and i am 1% less lost from when i started.",
+		"links": {
+			"youtube": "https://youtu.be/HNxZgglwKVo"
+		}
+	},
 	"c-j-s": {
 		"name": "C_J_S",
 		"avatar": "creators/c-j-s.png?v=3a338fcc",
@@ -348,6 +356,11 @@
 			"youtube": "https://youtu.be/AKx4pJpezpg"
 		}
 	},
+	"kayisei-exe-0": {
+		"name": "kayisei.exe#0",
+		"avatar": "creators/kayisei-exe-0.jpg?v=9c866e27",
+		"links": {}
+	},
 	"kietjojo": {
 		"name": "Kiet Jojo",
 		"avatar": "creators/kietjojo.jpg?v=7479fb00",
@@ -515,6 +528,15 @@
 			"kofi": "https://ko-fi.com/p1mek",
 			"site": "https://static.wixstatic.com/media/0e6a9e_23be4c494243409aa125310aa8fa9d8b~mv2.png/v1/fill/w_513,h_224,al_c,lg_1,q_85,enc_auto/0e6a9e_23be4c494243409aa125310aa8fa9d8b~mv2.png",
 			"x": "https://x.com/p1mek"
+		}
+	},
+	"polten": {
+		"name": "Polten",
+		"avatar": "creators/polten.jpg?v=09fa11a5",
+		"bio": "Goofy goober.",
+		"links": {
+			"site": "https://www.reddit.com/r/LeeSinMains/comments/cf5utf/guide_how_to_get_old_lee_voice_back/",
+			"youtube": "https://www.youtube.com/watch?v=6NNcJ48sNNU"
 		}
 	},
 	"ppwe": {
@@ -707,6 +729,16 @@
 		"name": "WastedWaffle",
 		"avatar": "creators/wastedwaffle.jpg?v=802af1c0",
 		"links": {}
+	},
+	"wiko": {
+		"name": "Wiko",
+		"avatar": "creators/wiko.webp?v=7b96207d",
+		"bio": "## boom whatup solowiko only here back with some custom skin action\n\nso this is my very cool and sigma profile where you can find my mods, as well as the mods that I maintain for other people\n\nI make all kinds of mods, from \"real\" custom skins to silly meme ones\n\nif you'd like me to make a mod for you, you can commission me on the [runeforge discord](https://discord.gg/runeforge) or the [divine skins discord](https://discord.gg/divineskins)\n\nimagine if ninja had a low taper fade",
+		"links": {
+			"discord": "https://discord.com/users/395209649969823744",
+			"kofi": "https://ko-fi.com/wiko2303",
+			"youtube": "https://www.youtube.com/@wikofiko"
+		}
 	},
 	"wuffsky": {
 		"name": "mikko",

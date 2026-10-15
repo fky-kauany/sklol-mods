@@ -1,0 +1,17 @@
+{
+	"id": "lol-spirit-blossom-cursor",
+	"name": "LoL Spirit Blossom Cursor",
+	"kind": "ui",
+	"creator": "kayisei-exe-0",
+	"description": "⚠️ Important — Legacy Cursor Required\n\nThis mod is designed specifically for League of Legends' Legacy Cursor.\n\nTo enable it:\n\nEnter a game.\n\nOpen Settings → Interface.\n\nEnable Legacy Cursor.\n\nThe mod may not display correctly with the modern cursor enabled.\n\n\n🌸 Credits & Disclaimer\n\nThis is an unofficial, fan-made cursor modification featuring AI-assisted artwork inspired by Riot Games' Spirit Blossom universe.\n\nThis project is not affiliated with or endorsed by Riot Games.\n\n✨ What's Included\n\nThe pack replaces six in-game cursor elements:\n\nMain Cursor\n\nHover Enemy\n\nHover Friendly\n\nHover Use\n\nShop Cursor\n\nSingle Target\n\nEach cursor is designed to complement the others while preserving its original in-game purpose.\n\n🌸 Spirit Blossom Cursor Pack\n\nBring the enchanting atmosphere of Spirit Blossom to your League of Legends experience with a complete custom cursor collection.\n\n---\n\n**Created by** [kayisei.exe#0](https://runeforge.dev/users/kayisei.exe%230)\n\n**Original:** https://runeforge.dev/mods/1c637280-2da9-4133-a314-fc1e3fffde8d\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/lol-spirit-blossom-cursor/thumb.webp?v=5251162e",
+	"file": {
+		"version": 1,
+		"asset": "lol-spirit-blossom-cursor-v1.fantome",
+		"size": 2630703,
+		"sha256": "5d22ee9ab407792329d19bf3e8fb1b0ad35397cd0611ea0841df8cf49cfa0bee"
+	}
+}
