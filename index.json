@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T10:22:18.635Z",
+	"generatedAt": "2026-10-15T10:27:53.318Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -720,6 +720,13 @@
 				"kofi": "https://ko-fi.com/suriinruneforge"
 			}
 		},
+		"syaratawe": {
+			"name": "syaratawe",
+			"avatar": "creators/syaratawe.png?v=69044df2",
+			"links": {
+				"youtube": "https://youtu.be/LNMMFqBRIVk"
+			}
+		},
 		"thekillerey": {
 			"name": "TheKillerey",
 			"avatar": "creators/thekillerey.jpg?v=d50c45f5",
@@ -794,6 +801,14 @@
 			"avatar": "creators/wastedwaffle.jpg?v=802af1c0",
 			"links": {}
 		},
+		"whattheheck": {
+			"name": "WhatTheHeck",
+			"avatar": "creators/whattheheck.png?v=62fedfe3",
+			"bio": "I make skins.\nMessage me if you want I'm also whattheheck on discord.\nI hate mel.",
+			"links": {
+				"youtube": "https://www.youtube.com/watch?v=DLzxrzFCyOs"
+			}
+		},
 		"wiko": {
 			"name": "Wiko",
 			"avatar": "creators/wiko.webp?v=7b96207d",
@@ -809,6 +824,12 @@
 			"links": {
 				"youtube": "https://www.youtube.com/watch?v=u1xubr1uGcM&pp=ygUgdGZ0IGxlIGJ1bm55IGJvbmJvbiBiaXN0cm8gbXVzaWM%3D"
 			}
+		},
+		"yer": {
+			"name": "yer",
+			"avatar": "creators/yer.png?v=f0797483",
+			"bio": "i make mods sometimes",
+			"links": {}
 		},
 		"yuumi": {
 			"name": "Yuumi",
@@ -7522,6 +7543,176 @@
 				"asset": "no-honor-or-challenger-recall-v1.fantome",
 				"size": 2337626,
 				"sha256": "49b1e03799b20e973cde610c6cc063e689dabe4fe9eda738934d07bd0f6681ab"
+			}
+		},
+		{
+			"id": "no-obnoxious-spellbook-vfx",
+			"name": "No Obnoxious Spellbook VFX",
+			"kind": "vfx",
+			"creator": "moga",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/no-obnoxious-spellbook-vfx/thumb.webp?v=65bc5942",
+			"file": {
+				"version": 1,
+				"asset": "no-obnoxious-spellbook-vfx-v1.fantome",
+				"size": 25571,
+				"sha256": "252234f0a7b0b8b52607a72fac1a389df3262ad9dc84a7474108da4b549b8cb6"
+			}
+		},
+		{
+			"id": "no-target-dummy-text",
+			"name": "No Target Dummy Text",
+			"kind": "fonts",
+			"creator": "moga",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/no-target-dummy-text/thumb.webp?v=e9c47ce6",
+			"file": {
+				"version": 1,
+				"asset": "no-target-dummy-text-v1.fantome",
+				"size": 97599,
+				"sha256": "bd2275ad420b90575d34cd7adfefee8e8fd7059fd7e5c3754ae2bb0638721b80"
+			}
+		},
+		{
+			"id": "no-teemo",
+			"name": "No Teemo",
+			"kind": "other",
+			"creator": "whattheheck",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/no-teemo/thumb.webp?v=cb6c10fa",
+			"file": {
+				"version": 1,
+				"asset": "no-teemo-v1.fantome",
+				"size": 6638,
+				"sha256": "a8f0f562a3355883432c20f906de1238ee58a3d41fa7d226e465c538ba20c51a"
+			}
+		},
+		{
+			"id": "no-transform-high-noon-ashe",
+			"name": "No Transform High Noon Ashe",
+			"kind": "other",
+			"creator": "yer",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/no-transform-high-noon-ashe/thumb.webp?v=5065a0d4",
+			"file": {
+				"version": 1,
+				"asset": "no-transform-high-noon-ashe-v1.fantome",
+				"size": 26050,
+				"sha256": "f7226ab254b412cd206e5728ad4bcae8d25e9c734cacb9cf1d932497f277d454"
+			}
+		},
+		{
+			"id": "noxus-font",
+			"name": "Noxus Font",
+			"kind": "fonts",
+			"creator": "atakzlky",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/noxus-font/thumb.webp?v=79cbb12c",
+			"file": {
+				"version": 1,
+				"asset": "noxus-font-v1.fantome",
+				"size": 18240,
+				"sha256": "98b9c9ecedb0244775de4054dbb2d1217825b1e3a5e8a9d42377d66975661d80"
+			}
+		},
+		{
+			"id": "nunu-tactical-nuke-sfx",
+			"name": "Nunu Tactical Nuke SFX",
+			"kind": "sounds",
+			"creator": "aropatnik",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/nunu-tactical-nuke-sfx/thumb.webp?v=5123684a",
+			"file": {
+				"version": 1,
+				"asset": "nunu-tactical-nuke-sfx-v1.fantome",
+				"size": 2240607,
+				"sha256": "74be621eee03448824d36528c285238603b83bc7e59180bea97107a5604531e4"
+			}
+		},
+		{
+			"id": "o-kurwa-raketa-jinx-ult-sound-effect",
+			"name": "O KURWA RAKETA Jinx ULT Sound Effect",
+			"kind": "sounds",
+			"creator": "syaratawe",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/o-kurwa-raketa-jinx-ult-sound-effect/thumb.webp?v=3c7634d2",
+			"file": {
+				"version": 1,
+				"asset": "o-kurwa-raketa-jinx-ult-sound-effect-v1.fantome",
+				"size": 27236603,
+				"sha256": "20d2d9c14a4d1a15bbdc67eee5f61db230c61ced66314cd470e45cf1cdf7345a"
+			}
+		},
+		{
+			"id": "ocean-song-zeri-chroma-vfx",
+			"name": "Ocean Song Zeri chroma VFX",
+			"kind": "vfx",
+			"creator": "suriin",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/ocean-song-zeri-chroma-vfx/thumb.webp?v=b33abe3d",
+			"file": {
+				"version": 1,
+				"asset": "ocean-song-zeri-chroma-vfx-v1.fantome",
+				"size": 53175375,
+				"sha256": "96792e55b25e76727066f3088a77583f32d4112d973b92a3997db7a81e79d35d"
+			}
+		},
+		{
+			"id": "october-font",
+			"name": "October Font",
+			"kind": "fonts",
+			"creator": "tyre-4770",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/october-font/thumb.webp?v=a6954b0d",
+			"file": {
+				"version": 1,
+				"asset": "october-font-v1.fantome",
+				"size": 164633,
+				"sha256": "5d8595012322c4e2dcdc9de9a33fdb648016be4d2bcc87a963bfd39d6b4477f6"
+			}
+		},
+		{
+			"id": "odyssey-kayn-announcer-2",
+			"name": "Odyssey Kayn Announcer",
+			"kind": "announcer",
+			"creator": "leischii",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/odyssey-kayn-announcer-2/thumb.webp?v=274722a3",
+			"file": {
+				"version": 1,
+				"asset": "odyssey-kayn-announcer-2-v1.fantome",
+				"size": 436409,
+				"sha256": "83073f64049d8fbf5dafd2f561973a0bf9c4a9d16df90853994fcc8963a3b789"
 			}
 		}
 	]

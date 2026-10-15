@@ -1,0 +1,17 @@
+{
+	"id": "no-target-dummy-text",
+	"name": "No Target Dummy Text",
+	"kind": "fonts",
+	"creator": "moga",
+	"description": "### Overview:\n\n* Disables the DPS font below target dummies. This only edits any text specific to a dummy's DPS tracker, so it wont fuck over fonts elsewhere in the game. This is in a (hopefully) obscure bin, i.e., it doesn't write `floatingtext` and hopefully wont break soon.\n* Works with my [Invisible Target Dummy](https://runeforge.dev/mods/b1e00958-3fbd-4f53-ab5d-9f0838a783e0) mod.\n* Works with the [Old Damage Numbers](https://runeforge.dev/mods/72cdbd60-9782-4e81-93fa-3e9608eb3e61) mod.\n* Works with my [Old Health Bars](https://runeforge.dev/mods/b7f4cc6d-0db5-4bd4-89e2-d08b7c819d68) mod.\n* Will work with my Old Pings mod when I post it.\n\n[Click to see all my other totally sick mods.](https://runeforge.dev/users/Moga/mods?page=0\\&sortBy=download_count)\n\n#\n\nhttps://discord.gg/gSXbEmPQCA\n\n---\n\n**Created by** [Moga](https://runeforge.dev/users/Moga)\n\n**Original:** https://runeforge.dev/mods/7f743aa9-152e-41dd-b0fe-0ee6bd50731b\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/no-target-dummy-text/thumb.webp?v=e9c47ce6",
+	"file": {
+		"version": 1,
+		"asset": "no-target-dummy-text-v1.fantome",
+		"size": 97599,
+		"sha256": "bd2275ad420b90575d34cd7adfefee8e8fd7059fd7e5c3754ae2bb0638721b80"
+	}
+}

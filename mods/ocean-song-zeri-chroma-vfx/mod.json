@@ -1,0 +1,17 @@
+{
+	"id": "ocean-song-zeri-chroma-vfx",
+	"name": "Ocean Song Zeri chroma VFX",
+	"kind": "vfx",
+	"creator": "suriin",
+	"description": "## Important info\n\nThis will clash with any custom skin that modifies Ocean Song Zeri. 1 file for all chromas.\n\n## Description\n\n**Author**: Suriin\n\n**Skin**: Ocean Song Zeri\n\n**Affects**: VFX colors\n\nDone as a commission. Adds matching VFX to every chroma, base remains the same. Only 6 chromas shown in the thumbnail but all are included in the file.\n\n\n## Contact\n\nIf you have any issues or questions you can message me on discord: .suriin Just make sure you are on the RuneForge server.\n\n---\n\n### You can support me on Ko-Fi [ko-fi.com/suriinruneforge](https://ko-fi.com/suriinruneforge) <3\n\n---\n\n**Created by** [Suriin](https://runeforge.dev/users/Suriin)\n\n**Original:** https://runeforge.dev/mods/ced9269c-9bd1-4e9d-afd0-2e6295b36b2d\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/ocean-song-zeri-chroma-vfx/thumb.webp?v=b33abe3d",
+	"file": {
+		"version": 1,
+		"asset": "ocean-song-zeri-chroma-vfx-v1.fantome",
+		"size": 53175375,
+		"sha256": "96792e55b25e76727066f3088a77583f32d4112d973b92a3997db7a81e79d35d"
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"id": "noxus-font",
+	"name": "Noxus Font",
+	"kind": "fonts",
+	"creator": "atakzlky",
+	"description": "# INFO\n\n***\n\n***\n\n* **Modified Ui: Font**\n* Authors: AtaKzlky\n* Mod Version: 1.0\n\n## ADDITIONAL INFO\n\n***\n\n***\n\nIf you have any questions or request about the mod you can contact me through discord dm or the RuneForge server.\n\nDiscord : atakzlky\n\n---\n\n**Created by** [AtaKzlky](https://runeforge.dev/users/AtaKzlky)\n\n**Original:** https://runeforge.dev/mods/6e774f33-0709-4dad-a82f-8183b1d43349\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/noxus-font/thumb.webp?v=79cbb12c",
+	"file": {
+		"version": 1,
+		"asset": "noxus-font-v1.fantome",
+		"size": 18240,
+		"sha256": "98b9c9ecedb0244775de4054dbb2d1217825b1e3a5e8a9d42377d66975661d80"
+	}
+}

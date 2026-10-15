@@ -1,0 +1,17 @@
+{
+	"id": "no-obnoxious-spellbook-vfx",
+	"name": "No Obnoxious Spellbook VFX",
+	"kind": "vfx",
+	"creator": "moga",
+	"description": "### your vfx will dont anymore, ok?\n\n### OVERVIEW\n\n* ermm\n* kil\n\nMore\n[**\ncool HUD mods\n**](https://runeforge.dev/mods?search=moga&pageSize=720)\n₍^. .^₎Ⳋ\n\n#\n\nhttps://discord.gg/gSXbEmPQCA\n\n---\n\n**Created by** [Moga](https://runeforge.dev/users/Moga)\n\n**Original:** https://runeforge.dev/mods/fbda21e8-b534-4f35-aa2d-456dee7b73e3\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/no-obnoxious-spellbook-vfx/thumb.webp?v=65bc5942",
+	"file": {
+		"version": 1,
+		"asset": "no-obnoxious-spellbook-vfx-v1.fantome",
+		"size": 25571,
+		"sha256": "252234f0a7b0b8b52607a72fac1a389df3262ad9dc84a7474108da4b549b8cb6"
+	}
+}

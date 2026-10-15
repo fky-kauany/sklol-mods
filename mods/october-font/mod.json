@@ -1,0 +1,17 @@
+{
+	"id": "october-font",
+	"name": "October Font",
+	"kind": "fonts",
+	"creator": "tyre-4770",
+	"description": "## ♥ Mod Info ♥\n\n\n\n* Fonts Replaced: UI\n* Name of used Font: AaOctober\n* Author: Tyre 4770\n* Skin Version: “1.0”\n* Description: AaOctober Font for Leeg of Legos\n\n\n\n⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦\n\nMarch 7th 2024: updated for patch 14.5\n\n---\n\n**Created by** [Tyre 4770](https://runeforge.dev/users/Tyre_4770)\n\n**Original:** https://runeforge.dev/mods/d0d723b8-1156-40a3-8cde-81339da26830\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/october-font/thumb.webp?v=a6954b0d",
+	"file": {
+		"version": 1,
+		"asset": "october-font-v1.fantome",
+		"size": 164633,
+		"sha256": "5d8595012322c4e2dcdc9de9a33fdb648016be4d2bcc87a963bfd39d6b4477f6"
+	}
+}

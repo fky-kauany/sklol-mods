@@ -717,6 +717,13 @@
 			"kofi": "https://ko-fi.com/suriinruneforge"
 		}
 	},
+	"syaratawe": {
+		"name": "syaratawe",
+		"avatar": "creators/syaratawe.png?v=69044df2",
+		"links": {
+			"youtube": "https://youtu.be/LNMMFqBRIVk"
+		}
+	},
 	"thekillerey": {
 		"name": "TheKillerey",
 		"avatar": "creators/thekillerey.jpg?v=d50c45f5",
@@ -791,6 +798,14 @@
 		"avatar": "creators/wastedwaffle.jpg?v=802af1c0",
 		"links": {}
 	},
+	"whattheheck": {
+		"name": "WhatTheHeck",
+		"avatar": "creators/whattheheck.png?v=62fedfe3",
+		"bio": "I make skins.\nMessage me if you want I'm also whattheheck on discord.\nI hate mel.",
+		"links": {
+			"youtube": "https://www.youtube.com/watch?v=DLzxrzFCyOs"
+		}
+	},
 	"wiko": {
 		"name": "Wiko",
 		"avatar": "creators/wiko.webp?v=7b96207d",
@@ -806,6 +821,12 @@
 		"links": {
 			"youtube": "https://www.youtube.com/watch?v=u1xubr1uGcM&pp=ygUgdGZ0IGxlIGJ1bm55IGJvbmJvbiBiaXN0cm8gbXVzaWM%3D"
 		}
+	},
+	"yer": {
+		"name": "yer",
+		"avatar": "creators/yer.png?v=f0797483",
+		"bio": "i make mods sometimes",
+		"links": {}
 	},
 	"yuumi": {
 		"name": "Yuumi",

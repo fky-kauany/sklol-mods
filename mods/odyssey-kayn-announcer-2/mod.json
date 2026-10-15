@@ -1,0 +1,17 @@
+{
+	"id": "odyssey-kayn-announcer-2",
+	"name": "Odyssey Kayn Announcer",
+	"kind": "announcer",
+	"creator": "leischii",
+	"description": "## Mod Information\n\n###### Mode: Summoners Rift & Aram\n\n###### Author: Zelos & Leischii\n\n###### Mod version: 6.0.1\n\n###### Description: Enables Odyssey Kayn announcer on Summoners Rift & Aram.\n\n \n\n## Installation\n\nIn order for the announcer to work you will have to install the \"Base Mod\" AND one of the language addons. If your announcer is mute, you didn't install a language addon.\n\n---\n\n**Created by** [Leischii](https://runeforge.dev/users/Leischii)\n\n**Original:** https://runeforge.dev/mods/afee3669-c250-427f-b525-3e611a1fe5a6\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/odyssey-kayn-announcer-2/thumb.webp?v=274722a3",
+	"file": {
+		"version": 1,
+		"asset": "odyssey-kayn-announcer-2-v1.fantome",
+		"size": 436409,
+		"sha256": "83073f64049d8fbf5dafd2f561973a0bf9c4a9d16df90853994fcc8963a3b789"
+	}
+}

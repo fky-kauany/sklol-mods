@@ -1,0 +1,17 @@
+{
+	"id": "o-kurwa-raketa-jinx-ult-sound-effect",
+	"name": "O KURWA RAKETA Jinx ULT Sound Effect",
+	"kind": "sounds",
+	"creator": "syaratawe",
+	"description": "# About the mod\n\n1.0.0\n\n* **When casting Jinx's ULT,**  [\"O KURWA RAKETA\"](https://www.youtube.com/watch?v=Iv67KGt6IeM \"\\\"O KURWA RAKETA\\\"\") **by Saymooon starts playing \\<3**\n* ***ONLY***  **works for her default skin!**\n\n***\n\n# UPDATED!\n\n1.1.0\n\n* Now it *should*  work with every skin! I hope... I don’t have any of her skins, so I can't really test the mod, but enjoy it either way! :3\n\nHad some slight technical difficulties BUT THE MOD IS BACK! AND IT WORKS THIS TIME!!!\n\n***\n\n* If there are any issues with the mod please leave a comment under the video showcase\n\n---\n\n**Created by** [syaratawe](https://runeforge.dev/users/syaratawe)\n\n**Original:** https://runeforge.dev/mods/50bf8e97-e2be-4e2a-9eba-6cb1114bf432\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/o-kurwa-raketa-jinx-ult-sound-effect/thumb.webp?v=3c7634d2",
+	"file": {
+		"version": 1,
+		"asset": "o-kurwa-raketa-jinx-ult-sound-effect-v1.fantome",
+		"size": 27236603,
+		"sha256": "20d2d9c14a4d1a15bbdc67eee5f61db230c61ced66314cd470e45cf1cdf7345a"
+	}
+}

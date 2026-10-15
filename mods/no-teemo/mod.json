@@ -1,0 +1,17 @@
+{
+	"id": "no-teemo",
+	"name": "No Teemo",
+	"kind": "other",
+	"creator": "whattheheck",
+	"description": "Removes the dancing teemo from the 'Devil on your shoulder' Aram Mayhem Augment.\r\nYou keep the crown, and flame effects.\n\n---\n\n**Created by** [WhatTheHeck](https://runeforge.dev/users/WhatTheHeck)\n\n**Original:** https://runeforge.dev/mods/5d5b7996-a0aa-465f-9132-f98be1b7a497\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/no-teemo/thumb.webp?v=cb6c10fa",
+	"file": {
+		"version": 1,
+		"asset": "no-teemo-v1.fantome",
+		"size": 6638,
+		"sha256": "a8f0f562a3355883432c20f906de1238ee58a3d41fa7d226e465c538ba20c51a"
+	}
+}

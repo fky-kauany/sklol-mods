@@ -1,0 +1,17 @@
+{
+	"id": "nunu-tactical-nuke-sfx",
+	"name": "Nunu Tactical Nuke SFX",
+	"kind": "sounds",
+	"creator": "aropatnik",
+	"description": "Replaces W SFX with TACTICAL NUKE INCOMING WUUU A WUUUU A WUUUUU A BRBRBRBRBRBRBWWWWHHHHHH\n\n## Information\n\n**Modified champion: Nunu (the Yeti)**\n\n**Modified skin: Default and all skins that don't have their own SFX**\n\n**Author: Aropatnik**\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/70bf73eb-6005-471a-ae20-db063822be6c\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/nunu-tactical-nuke-sfx/thumb.webp?v=5123684a",
+	"file": {
+		"version": 1,
+		"asset": "nunu-tactical-nuke-sfx-v1.fantome",
+		"size": 2240607,
+		"sha256": "74be621eee03448824d36528c285238603b83bc7e59180bea97107a5604531e4"
+	}
+}

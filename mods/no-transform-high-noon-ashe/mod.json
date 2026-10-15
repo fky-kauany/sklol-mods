@@ -1,0 +1,17 @@
+{
+	"id": "no-transform-high-noon-ashe",
+	"name": "No Transform High Noon Ashe",
+	"kind": "other",
+	"creator": "yer",
+	"description": "Do you hate how High Noon Ashe loses her cape and hat after ulting? Well now you can always keep them on!\n\n---\n\n**Created by** [yer](https://runeforge.dev/users/yer)\n\n**Original:** https://runeforge.dev/mods/62ab0ae0-8ee5-443f-8bff-b66a0c5f8a0a\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/no-transform-high-noon-ashe/thumb.webp?v=5065a0d4",
+	"file": {
+		"version": 1,
+		"asset": "no-transform-high-noon-ashe-v1.fantome",
+		"size": 26050,
+		"sha256": "f7226ab254b412cd206e5728ad4bcae8d25e9c734cacb9cf1d932497f277d454"
+	}
+}
