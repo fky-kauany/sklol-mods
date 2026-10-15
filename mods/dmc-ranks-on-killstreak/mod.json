@@ -1,0 +1,17 @@
+{
+	"id": "dmc-ranks-on-killstreak",
+	"name": "DMC Ranks on Killstreak",
+	"kind": "sounds",
+	"creator": "aurecueil",
+	"description": "# **Skin Information**\n\nReplaces: Killstreaks with DMC Ranks\n\nAuthor: Aurecuei\n\nVersion: 1.0.0\n\n## Wanna buy me a [Coffee](https://ko-fi.com/aurecueil)? :>\n\n\n[![My Discord Server ^^](https://raw.githubusercontent.com/Aurecueil/Temp/refs/heads/main/images/banner6_better.png)](https://discord.gg/GETA29vZEK)\n\n\n## MISC\n\n[Tierlist of my BGM mods](https://runeforge.dev/users/Aurecueil)\n\ndc: aurecueil\n\ni DO take Commisions btw\n\n---\n\n**Created by** [aurecueil](https://runeforge.dev/users/aurecueil)\n\n**Original:** https://runeforge.dev/mods/38828382-20e9-4cde-a864-79f596150108\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/dmc-ranks-on-killstreak/thumb.webp?v=836c964d",
+	"file": {
+		"version": 1,
+		"asset": "dmc-ranks-on-killstreak-v1.fantome",
+		"size": 276417,
+		"sha256": "b58c5a54221f37a31dab314125f8f5b93e5e685eae05b1858e3eedc6f716cd19"
+	}
+}

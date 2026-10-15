@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T08:17:04.020Z",
+	"generatedAt": "2026-10-15T08:22:44.206Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -475,6 +475,13 @@
 			"links": {
 				"discord": "https://discord.gg/pqr9bQx238",
 				"youtube": "https://www.youtube.com/watch?v=wXaLA_9a3Kk"
+			}
+		},
+		"zezo": {
+			"name": "ZeZo",
+			"avatar": "creators/zezo.png?v=bc5fded3",
+			"links": {
+				"youtube": "https://www.youtube.com/watch?v=U0ET3B59FiQ"
 			}
 		},
 		"zint0s": {
@@ -3382,6 +3389,176 @@
 				"asset": "demonic-eclipse-hud-v1.modpkg",
 				"size": 6891619,
 				"sha256": "4aae5362c5dd45da367dcf069e5bf67d6088e4be4cbe4b2db94a688c7e6379de"
+			}
+		},
+		{
+			"id": "devil-trigger-killstreaks",
+			"name": "Devil Trigger Killstreaks",
+			"kind": "sounds",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/devil-trigger-killstreaks/thumb.webp?v=3c822adb",
+			"file": {
+				"version": 1,
+				"asset": "devil-trigger-killstreaks-v1.fantome",
+				"size": 3559618,
+				"sha256": "92a98d4c1630b9d97f8fd7ba137f89566defcd3c943317c3ec51331181ce6185"
+			}
+		},
+		{
+			"id": "devil-trigger-killstreaks-with-ranks-annoucer",
+			"name": "Devil Trigger Killstreaks with Ranks annoucer",
+			"kind": "sounds",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/devil-trigger-killstreaks-with-ranks-annoucer/thumb.webp?v=569947e5",
+			"file": {
+				"version": 1,
+				"asset": "devil-trigger-killstreaks-with-ranks-annoucer-v1.fantome",
+				"size": 1749663,
+				"sha256": "f726e9082e1fcc7dc53a0470a18cf33941b9c75c8a1cd4047598ee85eebe9ef3"
+			}
+		},
+		{
+			"id": "diego-brando-twisted-fate",
+			"name": "Diego Brando Twisted Fate",
+			"kind": "sounds",
+			"creator": "zezo",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/diego-brando-twisted-fate/thumb.webp?v=adaae70b",
+			"file": {
+				"version": 1,
+				"asset": "diego-brando-twisted-fate-v1.fantome",
+				"size": 2453396,
+				"sha256": "8ebb2711773fea48621435eb857b76a8c0fc3a6d031f841e2f68172b58f1a283"
+			}
+		},
+		{
+			"id": "dio-sett-sounds",
+			"name": "Dio Sett Sounds",
+			"kind": "sounds",
+			"creator": "pico-senpai",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/dio-sett-sounds/thumb.webp?v=bf6e4700",
+			"file": {
+				"version": 1,
+				"asset": "dio-sett-sounds-v1.fantome",
+				"size": 28284217,
+				"sha256": "8aa673ce625e44ef7a8d097797b01c0aa1b9188b05be675c67cc8e87b4d90ad6"
+			}
+		},
+		{
+			"id": "disable-death-recap-spectate",
+			"name": "Disable Death Recap Spectate",
+			"kind": "ui",
+			"creator": "moga",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/disable-death-recap-spectate/thumb.webp?v=f0e2f27f",
+			"file": {
+				"version": 1,
+				"asset": "disable-death-recap-spectate-v1.fantome",
+				"size": 35260,
+				"sha256": "f6bea10e469029b06be00b63717495bafb6a775f8c465ef97c4946ca94a5e295"
+			}
+		},
+		{
+			"id": "dmc-ranks-on-killstreak",
+			"name": "DMC Ranks on Killstreak",
+			"kind": "sounds",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/dmc-ranks-on-killstreak/thumb.webp?v=836c964d",
+			"file": {
+				"version": 1,
+				"asset": "dmc-ranks-on-killstreak-v1.fantome",
+				"size": 276417,
+				"sha256": "b58c5a54221f37a31dab314125f8f5b93e5e685eae05b1858e3eedc6f716cd19"
+			}
+		},
+		{
+			"id": "dmc-samira-devil-trigger",
+			"name": "DMC Samira - Devil Trigger",
+			"kind": "sounds",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/dmc-samira-devil-trigger/thumb.webp?v=e3c7bf47",
+			"file": {
+				"version": 1,
+				"asset": "dmc-samira-devil-trigger-v1.fantome",
+				"size": 37085407,
+				"sha256": "076809253384886e5559f959f11f28c215af0c8c572c24b4e4c2de118dfb80f3"
+			}
+		},
+		{
+			"id": "don-quixote-wards",
+			"name": "Don Quixote Wards",
+			"kind": "other",
+			"creator": "aropatnik",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/don-quixote-wards/thumb.webp?v=f0552538",
+			"file": {
+				"version": 1,
+				"asset": "don-quixote-wards-v1.fantome",
+				"size": 324260,
+				"sha256": "2eb676a13300b0cb909edf5374130752c32f8de1a55b2ab064aa91e75f4c4ee0"
+			}
+		},
+		{
+			"id": "doom-eternal-bgm-mix-1",
+			"name": "DOOM Eternal BGM Mix 1",
+			"kind": "sounds",
+			"creator": "zamius",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/doom-eternal-bgm-mix-1/thumb.webp?v=30448bfe",
+			"file": {
+				"version": 1,
+				"asset": "doom-eternal-bgm-mix-1-v1.fantome",
+				"size": 11710487,
+				"sha256": "e47026467658dcc2aee91dc135f5b32e7f54edf03416dd589b031d224f284b6e"
+			}
+		},
+		{
+			"id": "doom-eternal-bgm-mix-2",
+			"name": "DOOM Eternal BGM Mix 2",
+			"kind": "sounds",
+			"creator": "zamius",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/doom-eternal-bgm-mix-2/thumb.webp?v=3d4da6e0",
+			"file": {
+				"version": 1,
+				"asset": "doom-eternal-bgm-mix-2-v1.fantome",
+				"size": 12177794,
+				"sha256": "64d1da134f36f7670ec2db5f7bd0552d88a8a466c1ef9826228ebcf9899f0f52"
 			}
 		}
 	]

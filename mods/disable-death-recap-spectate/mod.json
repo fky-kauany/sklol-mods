@@ -1,0 +1,17 @@
+{
+	"id": "disable-death-recap-spectate",
+	"name": "Disable Death Recap Spectate",
+	"kind": "ui",
+	"creator": "moga",
+	"description": "### Overview:\n\n* Hides both the new spectate garbage alongside the original eyesore, aka \"Death Recap Showcase\" (press `n` to hide)\n* The damage/death breakdown stats are **NOT** removed.\n\n[Click to see all my other totally sick mods.](https://runeforge.dev/users/Moga/mods?page=0\\&sortBy=download_count)\n\n#\n\n### Mod Information:\n\nAuthor: Moga\n\nMod Version: 15.19.1.6\n\nhttps://discord.gg/gSXbEmPQCA\n\n---\n\n**Created by** [Moga](https://runeforge.dev/users/Moga)\n\n**Original:** https://runeforge.dev/mods/2d3501f6-c357-42d7-8699-4bc57976a3a1\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/disable-death-recap-spectate/thumb.webp?v=f0e2f27f",
+	"file": {
+		"version": 1,
+		"asset": "disable-death-recap-spectate-v1.fantome",
+		"size": 35260,
+		"sha256": "f6bea10e469029b06be00b63717495bafb6a775f8c465ef97c4946ca94a5e295"
+	}
+}

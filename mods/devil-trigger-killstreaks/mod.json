@@ -1,0 +1,17 @@
+{
+	"id": "devil-trigger-killstreaks",
+	"name": "Devil Trigger Killstreaks",
+	"kind": "sounds",
+	"creator": "aurecueil",
+	"description": "# **Skin Information**\n\nMusic is related to amount of time you have to get a killstreak, (except quadra --> penta, music a bit shorter than actual time you have)\n\nReplaces: Killstreaks with Devil Trigger\n\nAuthor: Aurecuei\n\nVersion: 1.0.0\n\n## Wanna buy me a [Coffee](https://ko-fi.com/aurecueil)? :>\n\n[![My Discord Server ^^](https://raw.githubusercontent.com/Aurecueil/Temp/refs/heads/main/images/banner6_better.png)](https://discord.gg/GETA29vZEK)\n\n\n## MISC\n\nOther skins in Showcase:\n\n[Blue Archive BGM](https://runeforge.dev/mods/57bc4f6e-f454-401c-8f55-7b6aa9628bbe)\nShimbacks Susie Darius\n[MEME SFX](https://runeforge.dev/mods/2273c87a-f726-4054-bd87-1e4061ba9f83)\nBreakpoint Healthbars\n[Minecraft Font](https://runeforge.dev/mods/7f035f96-c07b-4f7c-84f3-4c9314994f72)\n\n[Tierlist of my BGM mods](https://runeforge.dev/users/Aurecueil)\n\ndc: aurecueil\n\ni DO take Commisions btw\n\n---\n\n**Created by** [aurecueil](https://runeforge.dev/users/aurecueil)\n\n**Original:** https://runeforge.dev/mods/45104078-cd93-48ba-b1e2-5dde7266af9d\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/devil-trigger-killstreaks/thumb.webp?v=3c822adb",
+	"file": {
+		"version": 1,
+		"asset": "devil-trigger-killstreaks-v1.fantome",
+		"size": 3559618,
+		"sha256": "92a98d4c1630b9d97f8fd7ba137f89566defcd3c943317c3ec51331181ce6185"
+	}
+}

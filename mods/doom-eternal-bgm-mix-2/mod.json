@@ -1,0 +1,17 @@
+{
+	"id": "doom-eternal-bgm-mix-2",
+	"name": "DOOM Eternal BGM Mix 2",
+	"kind": "sounds",
+	"creator": "zamius",
+	"description": "### MOD INFORMATION\r\n##\r\n\r\n**Modified Sounds**: Summoner's Rift's background music\r\n\r\n**Author**: Zamius\r\n\r\n**Description**: Changes Summoner’s Rift Classic background music to *DOOM Eternal* game music.\r\n##\r\n**COMBO RECOMMENDATIONS**\r\n- For a better *DOOM* vibe, you can also use [DOOM Slayer Darius](https://runeforge.dev/mods/c73a20c1-4ef2-42c7-b688-ef60721d33f8)\r\n- Try also my [Mix 1](https://runeforge.dev/mods/cac6df96-bacc-4dba-9ecf-bb135a553240) for different songs if you want sometimes to get different *DOOM* vibes.\r\n##\r\n**SONGS**\r\n- (Intro) Armored Response Coalition\r\n- (Early-Mid) Metal Hell\r\n- (Late) Reclaimed Earth - Andrew Hulshult - V2\r\n##\r\n\r\n**NOTICE**\r\n\r\nYou need to select the Classic theme from the game's sound settings for this mod to work!\r\n>*The DOOM has arrived on the Summoner's Rift!*\n\n---\n\n**Created by** [Zamius](https://runeforge.dev/users/Zamius)\n\n**Original:** https://runeforge.dev/mods/06499c2b-a95b-42d5-8bf9-d196327e4744\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/doom-eternal-bgm-mix-2/thumb.webp?v=3d4da6e0",
+	"file": {
+		"version": 1,
+		"asset": "doom-eternal-bgm-mix-2-v1.fantome",
+		"size": 12177794,
+		"sha256": "64d1da134f36f7670ec2db5f7bd0552d88a8a466c1ef9826228ebcf9899f0f52"
+	}
+}

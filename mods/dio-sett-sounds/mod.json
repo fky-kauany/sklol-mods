@@ -1,0 +1,17 @@
+{
+	"id": "dio-sett-sounds",
+	"name": "Dio Sett Sounds",
+	"kind": "sounds",
+	"creator": "pico-senpai",
+	"description": "## **MOD INFORMATION**\r\n\r\n* Author: Pico Senpai\r\n* Mod Version: 1.1.0\r\n* Modified champion: Sett\r\n* Modified sound: Sett's W, R, passive sound, death sound, respawn sound, voiceover swapped to his Japanese one\r\n\r\n## **DESCRIPTION**\r\n\r\n* Sett took one of the Stone Masks before it was destroyed and became a vampire, replacing his W by \"ZA WARUDO\", his R by \"ROAD ROLLA DA\", and playing parts of Dio's theme when he respawns or when his passive procs\r\n\r\n## **SOCIALS**\r\n\r\n&#x20;                     ![](https://static.wixstatic.com/media/e2a744_abb27c3529754e04ab6ad06fd9c7ab56~mv2.png/v1/fill/w_740,h_416,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e2a744_abb27c3529754e04ab6ad06fd9c7ab56~mv2.png)\r\n\r\n### &#xA;Add me on Discord if you need anything mod related: pico\\_senpai\t\t\t\t\t&#x9;\n\n---\n\n**Created by** [Pico Senpai](https://runeforge.dev/users/Pico_Senpai)\n\n**Original:** https://runeforge.dev/mods/cb97e83e-4d6e-4750-90b9-23ef64b2b6c3\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/dio-sett-sounds/thumb.webp?v=bf6e4700",
+	"file": {
+		"version": 1,
+		"asset": "dio-sett-sounds-v1.fantome",
+		"size": 28284217,
+		"sha256": "8aa673ce625e44ef7a8d097797b01c0aa1b9188b05be675c67cc8e87b4d90ad6"
+	}
+}

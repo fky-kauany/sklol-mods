@@ -1,0 +1,17 @@
+{
+	"id": "diego-brando-twisted-fate",
+	"name": "Diego Brando Twisted Fate",
+	"kind": "sounds",
+	"creator": "zezo",
+	"description": "The skin includes multiple voicelines when walking, dying, doing any of the Ctrl's, Q, W and R. Any questions/whatever, just message me on discord: Manito.0\r\n\r\nThe voicelines are from the game JJBA Eyes of Heaven. Voice acted by Takehito Koyasu. From the 3 musics on the CTRL + 3, two of them are from the games Eyes of Heaven and All Star Battle R. The third one is Scary Monsters - David Bowie.\n\n---\n\n**Created by** [ZeZo](https://runeforge.dev/users/ZeZo)\n\n**Original:** https://runeforge.dev/mods/165feee2-c891-4df7-ac7f-aa3bc289e8ed\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/diego-brando-twisted-fate/thumb.webp?v=adaae70b",
+	"file": {
+		"version": 1,
+		"asset": "diego-brando-twisted-fate-v1.fantome",
+		"size": 2453396,
+		"sha256": "8ebb2711773fea48621435eb857b76a8c0fc3a6d031f841e2f68172b58f1a283"
+	}
+}

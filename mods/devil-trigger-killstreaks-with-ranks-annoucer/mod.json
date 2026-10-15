@@ -1,0 +1,17 @@
+{
+	"id": "devil-trigger-killstreaks-with-ranks-annoucer",
+	"name": "Devil Trigger Killstreaks with Ranks annoucer",
+	"kind": "sounds",
+	"creator": "aurecueil",
+	"description": "## Wanna buy me a [Coffee](https://ko-fi.com/aurecueil)? :>\n\n[![My Discord Server ^^](https://raw.githubusercontent.com/Aurecueil/Temp/refs/heads/main/images/banner6_better.png)](https://discord.gg/GETA29vZEK)\n\n---\n\n**Created by** [aurecueil](https://runeforge.dev/users/aurecueil)\n\n**Original:** https://runeforge.dev/mods/aaa8ec8e-136d-4bc7-8c64-2cee46ee6897\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/devil-trigger-killstreaks-with-ranks-annoucer/thumb.webp?v=569947e5",
+	"file": {
+		"version": 1,
+		"asset": "devil-trigger-killstreaks-with-ranks-annoucer-v1.fantome",
+		"size": 1749663,
+		"sha256": "f726e9082e1fcc7dc53a0470a18cf33941b9c75c8a1cd4047598ee85eebe9ef3"
+	}
+}
