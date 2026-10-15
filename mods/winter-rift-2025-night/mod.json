@@ -1,0 +1,20 @@
+{
+	"id": "winter-rift-2025-night",
+	"name": "Winter Rift 2025 - Night",
+	"kind": "maps",
+	"creator": "thekillerey",
+	"description": "Experience Summoner’s Rift during a cold and magical winter night with Winter Rift 2025 – Night.\r\n\r\nThis mod transforms the entire Rift into a snow-covered nighttime battlefield filled with frozen terrain, icy structures, festive props, glowing decorations, and deep blue lighting.\r\n\r\nThe darker atmosphere creates a calm and mysterious winter feeling, while glowing map elements and warm holiday details add contrast throughout the Rift.\n\n---\n\n**Created by** [TheKillerey](https://runeforge.dev/users/TheKillerey)\n\n**Original:** https://runeforge.dev/mods/1cb0236b-1d53-46d1-847b-df1223f378fd\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/winter-rift-2025-night/thumb.webp?v=40cdf36b",
+	"file": {
+		"version": 1,
+		"asset": "winter-rift-2025-night-v1.fantome",
+		"size": 182207238,
+		"sha256": "a4491687b08f317a5e3d49852c175b8083cf0607331baf813c31aaaf6d27e6c4"
+	},
+	"maps": [
+		11
+	]
+}

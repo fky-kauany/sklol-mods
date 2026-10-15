@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T13:43:26.911Z",
+	"generatedAt": "2026-10-15T13:45:04.837Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -13198,6 +13198,26 @@
 			}
 		},
 		{
+			"id": "winter-rift-2025-night",
+			"name": "Winter Rift 2025 - Night",
+			"kind": "maps",
+			"creator": "thekillerey",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/winter-rift-2025-night/thumb.webp?v=40cdf36b",
+			"file": {
+				"version": 1,
+				"asset": "winter-rift-2025-night-v1.fantome",
+				"size": 182207238,
+				"sha256": "a4491687b08f317a5e3d49852c175b8083cf0607331baf813c31aaaf6d27e6c4"
+			},
+			"maps": [
+				11
+			]
+		},
+		{
 			"id": "winter-rift-2025-nightcore-bgm",
 			"name": "Winter Rift 2025 Nightcore BGM",
 			"kind": "sounds",
@@ -13229,6 +13249,26 @@
 				"asset": "winter-rift-2025-season-25-version-v1.fantome",
 				"size": 157466423,
 				"sha256": "de112f09c9df58e71e640fec863c8a4d452776b251dc8340279168f060fe6d98"
+			},
+			"maps": [
+				11
+			]
+		},
+		{
+			"id": "winter-rift-2025-season-5",
+			"name": "Winter Rift 2025 - Season 5",
+			"kind": "maps",
+			"creator": "thekillerey",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/winter-rift-2025-season-5/thumb.webp?v=89a450c3",
+			"file": {
+				"version": 1,
+				"asset": "winter-rift-2025-season-5-v1.fantome",
+				"size": 234367938,
+				"sha256": "5f7cfe4d0b4f0d5b3d3f0bcbaa69a1fd772ae8066e8ff4bc7c02f6aff846875b"
 			},
 			"maps": [
 				11
