@@ -1,0 +1,17 @@
+{
+	"id": "simplifyminimap",
+	"name": "SimplifyMinimap",
+	"kind": "ui",
+	"creator": "ikplaydebom",
+	"description": "Removes minimap border and the button for toggeling jungle pathing. The notification for structure bountys on the bottom right is also removed as well as open voicechat and open settings buttons. The minimap is moved completly to the right corner.  Minimap left mode is not supported but might be if people ask for it. Text when hovering is also removed. Using thrid party apps might be a little of center.  Hope to help somebody with this. Looking for a minimap for ultrawide displays check the ultrawide mod. Still not happy with the position of the minimap? You can find a link to a tutorial on how to change it!\n\n---\n\n**Created by** [ikplaydebom](https://runeforge.dev/users/ikplaydebom)\n\n**Original:** https://runeforge.dev/mods/ec61adaf-afd4-445a-b389-49c8b21ece64\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/simplifyminimap/thumb.webp?v=39261fff",
+	"file": {
+		"version": 1,
+		"asset": "simplifyminimap-v1.fantome",
+		"size": 3225,
+		"sha256": "78bf56dacff8539ceb2608646113caf69a9629a87150b1bfafe7b51876bfa201"
+	}
+}

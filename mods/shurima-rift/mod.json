@@ -1,0 +1,20 @@
+{
+	"id": "shurima-rift",
+	"name": "Shurima Rift",
+	"kind": "maps",
+	"creator": "disco",
+	"description": "Enjoy <3\n\n[Support/Donations](https://www.divineskins.gg/support)\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/shurima-rift\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/shurima-rift/thumb.webp?v=917b3c30",
+	"file": {
+		"version": 1,
+		"asset": "shurima-rift-v1.modpkg",
+		"size": 280872419,
+		"sha256": "70b6f7969f3f6d0a5e148f83d1c51f95f5bb296806e0aeb1a5969fccb6a429ae"
+	},
+	"maps": [
+		11
+	]
+}

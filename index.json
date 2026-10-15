@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T11:35:22.218Z",
+	"generatedAt": "2026-10-15T11:41:13.966Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -9887,6 +9887,179 @@
 				"asset": "shanks-hud-v1.fantome",
 				"size": 11975487,
 				"sha256": "36a03852995c19733326ca5c4f784bfa5a5002b042fffe43fe173870c4e2e66e"
+			}
+		},
+		{
+			"id": "shinobu-hud",
+			"name": "Shinobu HUD",
+			"kind": "ui",
+			"creator": "notcoconut",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/shinobu-hud/thumb.webp?v=d4d8d6b7",
+			"file": {
+				"version": 1,
+				"asset": "shinobu-hud-v1.fantome",
+				"size": 8213380,
+				"sha256": "2ee6691d6f41ba8890b7582d9a3bf438d571690be0ed41551e428a7331a781ae"
+			}
+		},
+		{
+			"id": "shirobeats-zombies-cosmic-drive",
+			"name": "Shirobeats - Zombies (Cosmic Drive)",
+			"kind": "sounds",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/shirobeats-zombies-cosmic-drive/thumb.webp?v=7a2c3d8a",
+			"file": {
+				"version": 1,
+				"asset": "shirobeats-zombies-cosmic-drive-v1.fantome",
+				"size": 20235634,
+				"sha256": "894e32991337ecd10ef57796f78c3a9710d92944ac93e1d30e612422636ec608"
+			}
+		},
+		{
+			"id": "shitpost-twitchtv-emotes",
+			"name": "Shitpost TwitchTV Emotes",
+			"kind": "other",
+			"creator": "pico-senpai",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/shitpost-twitchtv-emotes/thumb.webp?v=114afb37",
+			"file": {
+				"version": 1,
+				"asset": "shitpost-twitchtv-emotes-v1.fantome",
+				"size": 16005739,
+				"sha256": "5df87a623fee177e81aa82a5d38dd08877b0a3445ba18c592c4bb3d4ec844582"
+			}
+		},
+		{
+			"id": "shurima-rift",
+			"name": "Shurima Rift",
+			"kind": "maps",
+			"creator": "disco",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/shurima-rift/thumb.webp?v=917b3c30",
+			"file": {
+				"version": 1,
+				"asset": "shurima-rift-v1.modpkg",
+				"size": 280872419,
+				"sha256": "70b6f7969f3f6d0a5e148f83d1c51f95f5bb296806e0aeb1a5969fccb6a429ae"
+			},
+			"maps": [
+				11
+			]
+		},
+		{
+			"id": "shut-the-fuck-up",
+			"name": "Shut the Fuck Up",
+			"kind": "sounds",
+			"creator": "moga",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/shut-the-fuck-up/thumb.webp?v=329f5674",
+			"file": {
+				"version": 1,
+				"asset": "shut-the-fuck-up-v1.fantome",
+				"size": 44710614,
+				"sha256": "d9ab19233edb81a344e2ed39e67b4039180a7e38f635e388962a63de3ff2c54e"
+			}
+		},
+		{
+			"id": "sigma-lone-wolf-warwick",
+			"name": "Sigma Lone Wolf Warwick",
+			"kind": "other",
+			"creator": "sterak",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/sigma-lone-wolf-warwick/thumb.webp?v=4de37a8e",
+			"file": {
+				"version": 1,
+				"asset": "sigma-lone-wolf-warwick-v1.fantome",
+				"size": 4251930,
+				"sha256": "cceae4001bbb4cfe0939a8b2c209eb0d601a055314b7468bda022154549ab146"
+			}
+		},
+		{
+			"id": "simple-cursor",
+			"name": "Simple Cursor",
+			"kind": "ui",
+			"creator": "aropatnik",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/simple-cursor/thumb.webp?v=a7b9435d",
+			"file": {
+				"version": 1,
+				"asset": "simple-cursor-v1.fantome",
+				"size": 13702,
+				"sha256": "9f6a75e7a53ecdf9651393509a30d86cf0631ae9c302fc6216d334c523140ecd"
+			}
+		},
+		{
+			"id": "simple-health-bar-colors",
+			"name": "Simple Health Bar Colors",
+			"kind": "ui",
+			"creator": "moga",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/simple-health-bar-colors/thumb.webp?v=bfb4ba9a",
+			"file": {
+				"version": 1,
+				"asset": "simple-health-bar-colors-v1.fantome",
+				"size": 1613667,
+				"sha256": "d7f8416d5f66a1eb047a87ea370be0635a905b165f0199927f435d834cb92117"
+			}
+		},
+		{
+			"id": "simplifyminimap",
+			"name": "SimplifyMinimap",
+			"kind": "ui",
+			"creator": "ikplaydebom",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/simplifyminimap/thumb.webp?v=39261fff",
+			"file": {
+				"version": 1,
+				"asset": "simplifyminimap-v1.fantome",
+				"size": 3225,
+				"sha256": "78bf56dacff8539ceb2608646113caf69a9629a87150b1bfafe7b51876bfa201"
+			}
+		},
+		{
+			"id": "siuuuu-garen",
+			"name": "SIUUUU Garen",
+			"kind": "sounds",
+			"creator": "pico-senpai",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/siuuuu-garen/thumb.webp?v=40055f20",
+			"file": {
+				"version": 1,
+				"asset": "siuuuu-garen-v1.fantome",
+				"size": 8495443,
+				"sha256": "252598ed2a34791d9de29ed504108f2c1ff900e91e515834b6bc1478af398721"
 			}
 		}
 	]

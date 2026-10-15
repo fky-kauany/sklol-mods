@@ -1,0 +1,17 @@
+{
+	"id": "shirobeats-zombies-cosmic-drive",
+	"name": "Shirobeats - Zombies (Cosmic Drive)",
+	"kind": "sounds",
+	"creator": "aurecueil",
+	"description": "# **Skin Information**\n\nReplaces: Cosmic Drive sound with [Zombies by DECO\\*27 (shirobeats + vshojo version)](https://www.youtube.com/watch?v=uRHTosXTebM)\n\nAuthor: Aurecuei\n\nVersion: 1.0.0\n\nPatch Made: 15.13\n\n## Wanna buy me a [Coffee](https://ko-fi.com/aurecueil)? :>\n\n\n[![My Discord Server ^^](https://raw.githubusercontent.com/Aurecueil/Temp/refs/heads/main/images/banner6_better.png)](https://discord.gg/GETA29vZEK)\n\n## MISC\n\n[Tierlist of my BGM mods](https://runeforge.dev/users/Aurecueil)\n\ndc: aurecueil\n\ni DO take Commisions btw\n\n---\n\n**Created by** [aurecueil](https://runeforge.dev/users/aurecueil)\n\n**Original:** https://runeforge.dev/mods/8ffe52f6-2867-400f-851c-43fd7a2fd94c\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/shirobeats-zombies-cosmic-drive/thumb.webp?v=7a2c3d8a",
+	"file": {
+		"version": 1,
+		"asset": "shirobeats-zombies-cosmic-drive-v1.fantome",
+		"size": 20235634,
+		"sha256": "894e32991337ecd10ef57796f78c3a9710d92944ac93e1d30e612422636ec608"
+	}
+}

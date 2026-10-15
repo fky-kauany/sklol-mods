@@ -1,0 +1,17 @@
+{
+	"id": "sigma-lone-wolf-warwick",
+	"name": "Sigma Lone Wolf Warwick",
+	"kind": "other",
+	"creator": "sterak",
+	"description": "very good 👽\n\n---\n\n**Created by** [Sterak](https://runeforge.dev/users/Sterak)\n\n**Original:** https://runeforge.dev/mods/3b69a434-c445-4721-87c7-c39891212d95\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/sigma-lone-wolf-warwick/thumb.webp?v=4de37a8e",
+	"file": {
+		"version": 1,
+		"asset": "sigma-lone-wolf-warwick-v1.fantome",
+		"size": 4251930,
+		"sha256": "cceae4001bbb4cfe0939a8b2c209eb0d601a055314b7468bda022154549ab146"
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"id": "shut-the-fuck-up",
+	"name": "Shut the Fuck Up",
+	"kind": "sounds",
+	"creator": "moga",
+	"description": "**Click To View a List of All Affected champions**\n\n- Akshan\n- Ashe\n- Aurora\n- Darius - W laugh only - DISABLED BY DEFAULT; YOU MUST UNCOMMENT HIS FILE TO ENABLE IT.\n- Ezreal\n- Gragas - W burping only.\n- Irelia\n- Janna - Screaming on her Forecast skin.\n- Kai'Sa - Panting on all skins. (Large file, not default download.)\n- Kassadin - E Available Breathing.\n- Lillia\n- Lulu\n- Lux\n- Mel\n- Milio\n- Neeko\n- Nidalee\n- Orianna - R/Death unaffected (variants included). DISABLED BY DEFAULT; MUST UNCOMMENT.\n- Qiyana\n- Rakan\n- Riven - Only the screaming on R and annoying cringe voicelines like Taunt/Dance/etc.\n- Rumble\n- Seraphine\n- Smolder\n- Teemo\n- Vi - Only screaming on Q.\n- Xayah\n- Yuumi\n- Zoe\n\n* All annoying champion voicelines are muted, aside from their generic auto-attack grunts, death sounds, and anything that isnt't an actual voiceline.\n* If you have more champs you want added, please tell me.\n* Any champ can be excluded/reincluded by just deleting their folder from the Fantome. `ASSETS\\Sounds\\Wwise2016\\SFX|VO\\en_US\\Characters\\*`\n* Kai'Sa panting is a separate download, as her voicelines are a huge files.\n\n#\n\n### Mod Information:\n\nhttps://discord.gg/gSXbEmPQCA\n\n---\n\n**Created by** [Moga](https://runeforge.dev/users/Moga)\n\n**Original:** https://runeforge.dev/mods/e6e1194f-6449-4759-86e6-93c1bcd3d11c\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/shut-the-fuck-up/thumb.webp?v=329f5674",
+	"file": {
+		"version": 1,
+		"asset": "shut-the-fuck-up-v1.fantome",
+		"size": 44710614,
+		"sha256": "d9ab19233edb81a344e2ed39e67b4039180a7e38f635e388962a63de3ff2c54e"
+	}
+}

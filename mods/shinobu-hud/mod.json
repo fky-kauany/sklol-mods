@@ -1,0 +1,17 @@
+{
+	"id": "shinobu-hud",
+	"name": "Shinobu HUD",
+	"kind": "ui",
+	"creator": "notcoconut",
+	"description": "# Shinbou Kochou (Demon Slayer) HUD\n\n---\n\n**Created by** [NotCoconut](https://www.divineskins.gg/NotCoconut)\n\n**Original:** https://www.divineskins.gg/NotCoconut/shinobu-hud\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/shinobu-hud/thumb.webp?v=d4d8d6b7",
+	"file": {
+		"version": 1,
+		"asset": "shinobu-hud-v1.fantome",
+		"size": 8213380,
+		"sha256": "2ee6691d6f41ba8890b7582d9a3bf438d571690be0ed41551e428a7331a781ae"
+	}
+}

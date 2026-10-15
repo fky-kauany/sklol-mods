@@ -1,0 +1,17 @@
+{
+	"id": "shitpost-twitchtv-emotes",
+	"name": "Shitpost TwitchTV Emotes",
+	"kind": "other",
+	"creator": "pico-senpai",
+	"description": "## **MOD INFORMATION**\n\n* Author: Pico Senpai\n* Mod Version: 1.0.1\n* Modified UI: 100+ emotes\n\n## **LIST OF EMOTES CHANGED**\n\n* I made a google doc showing all the emotes so you can find whatever you want: https://docs.google.com/spreadsheets/d/1sOI0tzv8mTzs8ZyWsbRtnoDJTA5IdEatQ3AfX1XtIGo/edit?usp=sharing\n\n## **DESCRIPTION**\n\n* This mod replaces 100+ emotes from the base game to Twitch emotes, 7TV emotes, BetterTTV emotes, and more globaly to shitpost and memes.\n* Changes some emote's sound, adding voicelines to them.\n\n## **SOCIALS**\n\n![](https://static.wixstatic.com/media/e2a744_abb27c3529754e04ab6ad06fd9c7ab56~mv2.png/v1/fill/w_740,h_416,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e2a744_abb27c3529754e04ab6ad06fd9c7ab56~mv2.png)\n\n###\nAdd me on Discord: pico\\_senpai\n\n### My Youtube channel: [Pico Senpai](https://www.youtube.com/channel/UCAZfp8d8ZLFUurid3w2wElQ)\n\n### Support me on Patreon!: [PicoSenpai](https://www.patreon.com/PicoSenpaiSFW)\n\n---\n\n**Created by** [Pico Senpai](https://runeforge.dev/users/Pico_Senpai)\n\n**Original:** https://runeforge.dev/mods/4d42e2db-09e8-44e3-9944-b44841f29af2\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/shitpost-twitchtv-emotes/thumb.webp?v=114afb37",
+	"file": {
+		"version": 1,
+		"asset": "shitpost-twitchtv-emotes-v1.fantome",
+		"size": 16005739,
+		"sha256": "5df87a623fee177e81aa82a5d38dd08877b0a3445ba18c592c4bb3d4ec844582"
+	}
+}

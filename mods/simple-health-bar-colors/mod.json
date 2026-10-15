@@ -1,0 +1,17 @@
+{
+	"id": "simple-health-bar-colors",
+	"name": "Simple Health Bar Colors",
+	"kind": "ui",
+	"creator": "moga",
+	"description": "### Overview:\n\nThis mod allows you to utilize a vastly more apparent health bar without the use of colorblind mode and it's ugly move click arrow colors.\n\n* **Simply rename the filename of the file for the color you want to** `spotlighthealthbaratlas.tex` **in the  mod to swap colors (all colors are included in the Runeforge download).**\n\n[Click to see all my other totally sick mods.](https://runeforge.dev/users/Moga/mods?page=0\\&sortBy=download_count)\n#\nAuthor: Moga\n\nMod Version: 15.9.1.2\n\nhttps://discord.gg/gSXbEmPQCA\n\n---\n\n**Created by** [Moga](https://runeforge.dev/users/Moga)\n\n**Original:** https://runeforge.dev/mods/741ade1e-b469-400f-8c30-531bd278ab18\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/simple-health-bar-colors/thumb.webp?v=bfb4ba9a",
+	"file": {
+		"version": 1,
+		"asset": "simple-health-bar-colors-v1.fantome",
+		"size": 1613667,
+		"sha256": "d7f8416d5f66a1eb047a87ea370be0635a905b165f0199927f435d834cb92117"
+	}
+}
