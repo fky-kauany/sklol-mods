@@ -1,0 +1,17 @@
+{
+	"id": "futaba-sakura-announcer-mod-sr",
+	"name": "Futaba Sakura Announcer Mod SR",
+	"kind": "announcer",
+	"creator": "snubfiber",
+	"description": "This is my first mod so sorry if its disgusting horrible. I made a mistake with the shutdown lines so it only repeats one line. I'll fix it soon, this is more of my test run. Hope you enjoy.\n\n---\n\n**Created by** [Snubfiber](https://runeforge.dev/users/Snubfiber)\n\n**Original:** https://runeforge.dev/mods/c25bb86e-d2e2-4a1e-bb2b-9480a9faec08\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/futaba-sakura-announcer-mod-sr/thumb.webp?v=dcf84c74",
+	"file": {
+		"version": 1,
+		"asset": "futaba-sakura-announcer-mod-sr-v1.fantome",
+		"size": 4967897,
+		"sha256": "c04ddd60ec295825b43353eae5a490cde70b9babf05c9c588a1ce26e63d02a79"
+	}
+}

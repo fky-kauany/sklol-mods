@@ -1,0 +1,17 @@
+{
+	"id": "french-maid-nidalee-custom-sfx",
+	"name": "French Maid Nidalee Custom SFX",
+	"kind": "sounds",
+	"creator": "lolsfxamateur",
+	"description": "Custom SFX for French Maid Nidalee. Contains versions for both OLD and LIVE VO.\n\n---\n\n**Created by** [LOLSFXAmateur](https://runeforge.dev/users/LOLSFXAmateur)\n\n**Original:** https://runeforge.dev/mods/7cd7fc85-607b-495d-97f9-0a89ca5d1d47\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/french-maid-nidalee-custom-sfx/thumb.webp?v=4882c0e5",
+	"file": {
+		"version": 1,
+		"asset": "french-maid-nidalee-custom-sfx-v1.fantome",
+		"size": 10883014,
+		"sha256": "b1c8be64dbb59090177de23c47160fc2454c9b7a65b4b8681f6e3aab5d4e0b90"
+	}
+}

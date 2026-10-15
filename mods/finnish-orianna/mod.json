@@ -1,0 +1,17 @@
+{
+	"id": "finnish-orianna",
+	"name": "Finnish Orianna",
+	"kind": "sounds",
+	"creator": "aropatnik",
+	"description": "## Information\n\n**Modified champion: Orianna**\n\n**Modified skin: Default and all that use defaults VO**\n\n**Author: Aropatnik**\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/1bde2cec-a695-45df-a212-37e2f3bdda88\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/finnish-orianna/thumb.webp?v=c49f2f27",
+	"file": {
+		"version": 1,
+		"asset": "finnish-orianna-v1.fantome",
+		"size": 489808,
+		"sha256": "519a102b5658b6809bb58613e5c0997b3c71198d0b897d6f9969312d82a71d68"
+	}
+}

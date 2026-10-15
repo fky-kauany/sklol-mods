@@ -1,0 +1,17 @@
+{
+	"id": "fiora-troll-r",
+	"name": "Fiora troll R",
+	"kind": "vfx",
+	"creator": "aropatnik",
+	"description": "## Information\n\n**Modified champion: Fiora**\n\n**Modified skins: Default, Faerie Court, Pulsefire, Prestige Lunar Beast and Dragonmancer**\n\n**Author: Aropatnik**\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/129fcc9d-221a-4c76-85d7-9e4d227e4a71\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/fiora-troll-r/thumb.webp?v=3fa44f18",
+	"file": {
+		"version": 1,
+		"asset": "fiora-troll-r-v1.fantome",
+		"size": 986089,
+		"sha256": "0f1fe6197fcff9ae1c4bc07bac4385f9672cac9e9b91cf286a06c5dc83c384e1"
+	}
+}

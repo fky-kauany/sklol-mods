@@ -1,0 +1,17 @@
+{
+	"id": "french-announcer",
+	"name": "French Announcer",
+	"kind": "announcer",
+	"creator": "aropatnik",
+	"description": "## Information\n\n**Changes the Summoners Rift, ARAM and Arena announcers to French**\n\n**The version number is the patch it was made for**\n\n**Author: Aropatnik**\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/26618d11-7ae5-4e99-9a6c-a7aaa033051c\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/french-announcer/thumb.webp?v=cd034daa",
+	"file": {
+		"version": 1,
+		"asset": "french-announcer-v1.fantome",
+		"size": 53719664,
+		"sha256": "cb7f39d5f64c91a94cb8245aba4cf1b51e2961a1b4cb7cdb313a66dc10edd6b7"
+	}
+}

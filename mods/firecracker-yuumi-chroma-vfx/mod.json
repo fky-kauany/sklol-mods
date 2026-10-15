@@ -1,0 +1,17 @@
+{
+	"id": "firecracker-yuumi-chroma-vfx",
+	"name": "Firecracker Yuumi Chroma VFX",
+	"kind": "vfx",
+	"creator": "donutvsdonut",
+	"description": "Must own champion and skin to use, will not work with other mods that affect Firecracker Yuumi\n\n---\n\n**Created by** [DonutvsDonut](https://runeforge.dev/users/DonutvsDonut)\n\n**Original:** https://runeforge.dev/mods/7e7eddc2-5126-4766-a735-7a95460751cf\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/firecracker-yuumi-chroma-vfx/thumb.webp?v=5196df67",
+	"file": {
+		"version": 1,
+		"asset": "firecracker-yuumi-chroma-vfx-v1.fantome",
+		"size": 15446636,
+		"sha256": "312326886254b835e61d220ed54e9e74692538bd0af947b3558994a157bcb3d6"
+	}
+}

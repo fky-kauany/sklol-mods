@@ -1,0 +1,17 @@
+{
+	"id": "fluttershy-font-mod",
+	"name": "Fluttershy Font Mod",
+	"kind": "ui",
+	"creator": "seiko",
+	"description": "Cute font mod for leauge\n\nFont credits to @createshaa\n\n---\n\n**Created by** [˚₊‧꒰ა Seiko ໒꒱ ‧₊˚](https://runeforge.dev/users/Seiko)\n\n**Original:** https://runeforge.dev/mods/83e4a825-3bcd-4576-a5ef-a4d1b5ba668d\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/fluttershy-font-mod/thumb.webp?v=a804eb31",
+	"file": {
+		"version": 1,
+		"asset": "fluttershy-font-mod-v1.fantome",
+		"size": 10950,
+		"sha256": "5ad75ffa904c4fadbcf48a68199fa8f265348917f70f01d4122770d402af2126"
+	}
+}

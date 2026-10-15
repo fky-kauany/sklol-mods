@@ -1,0 +1,17 @@
+{
+	"id": "gabe-newell-dota2-announcer-pack",
+	"name": "Gabe Newell DotA2 Announcer Pack",
+	"kind": "announcer",
+	"creator": "knuxsd",
+	"description": "The wise and all knowing Gabe Newell as an Announcer for Summoners Rift\n\n---\n\n**Created by** [KnuxSD](https://runeforge.dev/users/KnuxSD)\n\n**Original:** https://runeforge.dev/mods/beaf009f-0867-4488-ba01-8bfb58fb0d91\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/gabe-newell-dota2-announcer-pack/thumb.webp?v=dfaa81e6",
+	"file": {
+		"version": 1,
+		"asset": "gabe-newell-dota2-announcer-pack-v1.fantome",
+		"size": 5425421,
+		"sha256": "dfe19d9b063b37aa3ddc89299ab0431350eafb1a71dc564271f5c3665a4ef4eb"
+	}
+}

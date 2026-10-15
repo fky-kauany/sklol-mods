@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T08:45:07.344Z",
+	"generatedAt": "2026-10-15T08:50:43.855Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -467,6 +467,12 @@
 			"bio": "discord: s10tiamat",
 			"links": {}
 		},
+		"seiko": {
+			"name": "˚₊‧꒰ა Seiko ໒꒱ ‧₊˚",
+			"avatar": "creators/seiko.jpg?v=af42b5bb",
+			"bio": "making cute mods for leauge",
+			"links": {}
+		},
 		"snorr": {
 			"name": "Snorr",
 			"avatar": "creators/snorr.jpg?v=c259a759",
@@ -477,6 +483,11 @@
 		"snowyseer": {
 			"name": "SnowySeer",
 			"avatar": "creators/snowyseer.png?v=76ff9d03",
+			"links": {}
+		},
+		"snubfiber": {
+			"name": "Snubfiber",
+			"avatar": "creators/snubfiber.png?v=a20e1414",
 			"links": {}
 		},
 		"sraach": {
@@ -4344,6 +4355,176 @@
 				"asset": "fight-club-load-screen-v1.fantome",
 				"size": 29389548,
 				"sha256": "99c59b9f8eee63deb1c23f136e69c13964d5dbff21c88b1d74433c71ed1a90a3"
+			}
+		},
+		{
+			"id": "finnish-orianna",
+			"name": "Finnish Orianna",
+			"kind": "sounds",
+			"creator": "aropatnik",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/finnish-orianna/thumb.webp?v=c49f2f27",
+			"file": {
+				"version": 1,
+				"asset": "finnish-orianna-v1.fantome",
+				"size": 489808,
+				"sha256": "519a102b5658b6809bb58613e5c0997b3c71198d0b897d6f9969312d82a71d68"
+			}
+		},
+		{
+			"id": "fiora-troll-r",
+			"name": "Fiora troll R",
+			"kind": "vfx",
+			"creator": "aropatnik",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/fiora-troll-r/thumb.webp?v=3fa44f18",
+			"file": {
+				"version": 1,
+				"asset": "fiora-troll-r-v1.fantome",
+				"size": 986089,
+				"sha256": "0f1fe6197fcff9ae1c4bc07bac4385f9672cac9e9b91cf286a06c5dc83c384e1"
+			}
+		},
+		{
+			"id": "firecracker-caitlyn-chroma-vfx",
+			"name": "Firecracker Caitlyn chroma VFX",
+			"kind": "vfx",
+			"creator": "suriin",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/firecracker-caitlyn-chroma-vfx/thumb.webp?v=e5f98a81",
+			"file": {
+				"version": 1,
+				"asset": "firecracker-caitlyn-chroma-vfx-v1.fantome",
+				"size": 16391787,
+				"sha256": "84bda962f6d3f49fa45ab3fa159fe652be019d7ec5ed2704c2ab412b0e10f630"
+			}
+		},
+		{
+			"id": "firecracker-yuumi-chroma-vfx",
+			"name": "Firecracker Yuumi Chroma VFX",
+			"kind": "vfx",
+			"creator": "donutvsdonut",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/firecracker-yuumi-chroma-vfx/thumb.webp?v=5196df67",
+			"file": {
+				"version": 1,
+				"asset": "firecracker-yuumi-chroma-vfx-v1.fantome",
+				"size": 15446636,
+				"sha256": "312326886254b835e61d220ed54e9e74692538bd0af947b3558994a157bcb3d6"
+			}
+		},
+		{
+			"id": "fluttershy-font-mod",
+			"name": "Fluttershy Font Mod",
+			"kind": "ui",
+			"creator": "seiko",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/fluttershy-font-mod/thumb.webp?v=a804eb31",
+			"file": {
+				"version": 1,
+				"asset": "fluttershy-font-mod-v1.fantome",
+				"size": 10950,
+				"sha256": "5ad75ffa904c4fadbcf48a68199fa8f265348917f70f01d4122770d402af2126"
+			}
+		},
+		{
+			"id": "font-braille",
+			"name": "Font Braille",
+			"kind": "fonts",
+			"creator": "aropatnik",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/font-braille/thumb.webp?v=decd494d",
+			"file": {
+				"version": 1,
+				"asset": "font-braille-v1.fantome",
+				"size": 7031,
+				"sha256": "b5ace8b8810c794ffe8274ae84f8c89f14834d722c34d36a15054f74d0343aac"
+			}
+		},
+		{
+			"id": "french-announcer",
+			"name": "French Announcer",
+			"kind": "announcer",
+			"creator": "aropatnik",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/french-announcer/thumb.webp?v=cd034daa",
+			"file": {
+				"version": 1,
+				"asset": "french-announcer-v1.fantome",
+				"size": 53719664,
+				"sha256": "cb7f39d5f64c91a94cb8245aba4cf1b51e2961a1b4cb7cdb313a66dc10edd6b7"
+			}
+		},
+		{
+			"id": "french-maid-nidalee-custom-sfx",
+			"name": "French Maid Nidalee Custom SFX",
+			"kind": "sounds",
+			"creator": "lolsfxamateur",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/french-maid-nidalee-custom-sfx/thumb.webp?v=4882c0e5",
+			"file": {
+				"version": 1,
+				"asset": "french-maid-nidalee-custom-sfx-v1.fantome",
+				"size": 10883014,
+				"sha256": "b1c8be64dbb59090177de23c47160fc2454c9b7a65b4b8681f6e3aab5d4e0b90"
+			}
+		},
+		{
+			"id": "futaba-sakura-announcer-mod-sr",
+			"name": "Futaba Sakura Announcer Mod SR",
+			"kind": "announcer",
+			"creator": "snubfiber",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/futaba-sakura-announcer-mod-sr/thumb.webp?v=dcf84c74",
+			"file": {
+				"version": 1,
+				"asset": "futaba-sakura-announcer-mod-sr-v1.fantome",
+				"size": 4967897,
+				"sha256": "c04ddd60ec295825b43353eae5a490cde70b9babf05c9c588a1ce26e63d02a79"
+			}
+		},
+		{
+			"id": "gabe-newell-dota2-announcer-pack",
+			"name": "Gabe Newell DotA2 Announcer Pack",
+			"kind": "announcer",
+			"creator": "knuxsd",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/gabe-newell-dota2-announcer-pack/thumb.webp?v=dfaa81e6",
+			"file": {
+				"version": 1,
+				"asset": "gabe-newell-dota2-announcer-pack-v1.fantome",
+				"size": 5425421,
+				"sha256": "dfe19d9b063b37aa3ddc89299ab0431350eafb1a71dc564271f5c3665a4ef4eb"
 			}
 		}
 	]
