@@ -1,0 +1,20 @@
+{
+	"id": "magic-n-mayhem-bgm",
+	"name": "Magic n' Mayhem BGM",
+	"kind": "maps",
+	"creator": "aurecueil",
+	"description": "## ☕ Wanna buy me a [Coffee](https://ko-fi.com/aurecueil)? :> \r\n[![My Discord Server ^^](https://raw.githubusercontent.com/Aurecueil/Temp/refs/heads/main/images/banner6_better.png)](https://discord.gg/GETA29vZEK)\r\n\r\n## 📦 Misc\r\n\r\n**Discord:** `aurecueil`\r\n**Commisioned** by: `masai.3801`\r\ni **DO** take **commissions** :p\n\n---\n\n**Created by** [aurecueil](https://www.divineskins.gg/aurecueil)\n\n**Original:** https://www.divineskins.gg/aurecueil/magic-n-mayhem\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/magic-n-mayhem-bgm/thumb.webp?v=049d6f5b",
+	"file": {
+		"version": 1,
+		"asset": "magic-n-mayhem-bgm-v1.modpkg",
+		"size": 23991029,
+		"sha256": "277d7cfebef1769fcecd370b7744589a86536d562b6dc3b561005974b1d491a4"
+	},
+	"maps": [
+		11
+	]
+}

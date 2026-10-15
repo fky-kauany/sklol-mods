@@ -1,0 +1,20 @@
+{
+	"id": "merchant-aram-shopkeeper-re4",
+	"name": "Merchant ARAM shopkeeper(RE4)",
+	"kind": "maps",
+	"creator": "ceerel",
+	"description": "Whatya buying stranger??\n\nThis changes **EVERY** shopkeepers dialoug in aram on EVERY map\n\n\nWanna commision me?(@ceerel on discord)\n\n---\n\n**Created by** [ceerel](https://www.divineskins.gg/ceerel)\n\n**Original:** https://www.divineskins.gg/ceerel/merchant-aram-shopkeeperre4\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/merchant-aram-shopkeeper-re4/thumb.webp?v=05f5c6bc",
+	"file": {
+		"version": 1,
+		"asset": "merchant-aram-shopkeeper-re4-v1.fantome",
+		"size": 11547259,
+		"sha256": "5c546e063cd327f08472ffd7a4e153fef9f9060bcae4ec550cd18227ffd46348"
+	},
+	"maps": [
+		12
+	]
+}

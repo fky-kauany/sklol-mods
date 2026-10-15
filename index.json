@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T13:13:47.529Z",
+	"generatedAt": "2026-10-15T13:20:00.041Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -170,6 +170,13 @@
 			"avatar": "creators/badzerker.png?v=606925a6",
 			"links": {
 				"youtube": "https://www.youtube.com/channel/UCFGdLwUYwPw3Wyb9lLtbgbw"
+			}
+		},
+		"beeean": {
+			"name": "Beeean",
+			"avatar": "creators/beeean.jpg?v=8b2fc70f",
+			"links": {
+				"site": "https://github.com/GuiSaiUwU"
 			}
 		},
 		"berb": {
@@ -5662,6 +5669,26 @@
 			]
 		},
 		{
+			"id": "gingerbread-singed",
+			"name": "Gingerbread Singed",
+			"kind": "maps",
+			"creator": "beeean",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/gingerbread-singed/thumb.webp?v=c73a1595",
+			"file": {
+				"version": 1,
+				"asset": "gingerbread-singed-v1.fantome",
+				"size": 63531192,
+				"sha256": "a3f3f9edde675dea12638e9094c26d0f65343a7315128e734759fccec06ba71c"
+			},
+			"maps": [
+				11
+			]
+		},
+		{
 			"id": "glados-announcer",
 			"name": "GLaDOS Announcer",
 			"kind": "announcer",
@@ -6085,6 +6112,26 @@
 			}
 		},
 		{
+			"id": "hell-rift",
+			"name": "Hell Rift",
+			"kind": "maps",
+			"creator": "disco",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/hell-rift/thumb.webp?v=1ed71157",
+			"file": {
+				"version": 1,
+				"asset": "hell-rift-v1.modpkg",
+				"size": 235403179,
+				"sha256": "bb34766a6bea64424abd94cc07e168fee7861d449936b2e980f0e07ac8597da6"
+			},
+			"maps": [
+				11
+			]
+		},
+		{
 			"id": "helltaker-bgm",
 			"name": "Helltaker BGM",
 			"kind": "sounds",
@@ -6100,6 +6147,26 @@
 				"size": 17607492,
 				"sha256": "b0bd56e39e15af76bc12c9a949878ef5b31e695c0c850c54c6f30fdb05f7beaa"
 			}
+		},
+		{
+			"id": "hexed-rift",
+			"name": "Hexed Rift",
+			"kind": "maps",
+			"creator": "aropatnik",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/hexed-rift/thumb.webp?v=d830583c",
+			"file": {
+				"version": 1,
+				"asset": "hexed-rift-v1.fantome",
+				"size": 194341373,
+				"sha256": "ef3328e3246e00d0a2554cd4dde52ccefc3253599b398659b11b832f698ee74d"
+			},
+			"maps": [
+				11
+			]
 		},
 		{
 			"id": "hextech-swain-teal",
@@ -6663,6 +6730,26 @@
 			}
 		},
 		{
+			"id": "k-o-coliseum-bgm",
+			"name": "K.O. Coliseum BGM",
+			"kind": "maps",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/k-o-coliseum-bgm/thumb.webp?v=68386c60",
+			"file": {
+				"version": 1,
+				"asset": "k-o-coliseum-bgm-v1.modpkg",
+				"size": 16030476,
+				"sha256": "afe453fa16f86850d2651a8fd74b1a636fcb9527153a7219dd703195e4c8ece3"
+			},
+			"maps": [
+				11
+			]
+		},
+		{
 			"id": "k-sans",
 			"name": "K'Sans",
 			"kind": "other",
@@ -6714,6 +6801,26 @@
 			}
 		},
 		{
+			"id": "kanto-starters-jungle-pets",
+			"name": "Kanto Starters Jungle Pets",
+			"kind": "maps",
+			"creator": "frog",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/kanto-starters-jungle-pets/thumb.webp?v=8938aedc",
+			"file": {
+				"version": 1,
+				"asset": "kanto-starters-jungle-pets-v1.fantome",
+				"size": 6463504,
+				"sha256": "0c85c3faf3703feca91d4a7f34364eab0b91b3ddc736b7e6cc1ea034a44d68ef"
+			},
+			"maps": [
+				11
+			]
+		},
+		{
 			"id": "karma-meme-sound-mod",
 			"name": "Karma meme sound mod",
 			"kind": "sounds",
@@ -6763,6 +6870,26 @@
 				"size": 19103565,
 				"sha256": "2b8bfdae55d0c133de58a814855e3583b356e0f67907173d3777c91678b0546b"
 			}
+		},
+		{
+			"id": "kill-msi-flags-map-tiles-with-a-gun",
+			"name": "KILL (MSI) FLAGS/MAP TILES (With a Gun)",
+			"kind": "maps",
+			"creator": "moga",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/kill-msi-flags-map-tiles-with-a-gun/thumb.webp?v=1950089b",
+			"file": {
+				"version": 1,
+				"asset": "kill-msi-flags-map-tiles-with-a-gun-v1.fantome",
+				"size": 67022,
+				"sha256": "c3b0697d732767d5366a19221587c661d9497ea88a4d551db997d138379ab85c"
+			},
+			"maps": [
+				11
+			]
 		},
 		{
 			"id": "killfeed2theleft",
@@ -7003,6 +7130,26 @@
 			}
 		},
 		{
+			"id": "led-by-ancient-light-bgm",
+			"name": "Led by Ancient Light BGM",
+			"kind": "maps",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/led-by-ancient-light-bgm/thumb.webp?v=9f87fbfd",
+			"file": {
+				"version": 1,
+				"asset": "led-by-ancient-light-bgm-v1.modpkg",
+				"size": 52597209,
+				"sha256": "bb3a68056280bac53837b1acc0b130ebd82e99ac0e4540b2920dcd6685dbac91"
+			},
+			"maps": [
+				11
+			]
+		},
+		{
 			"id": "lee-sin-old-voice-mod",
 			"name": "Lee Sin Old Voice mod",
 			"kind": "sounds",
@@ -7139,6 +7286,26 @@
 			}
 		},
 		{
+			"id": "low-res-rift-reborn",
+			"name": "Low Res Rift Reborn",
+			"kind": "maps",
+			"creator": "aropatnik",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/low-res-rift-reborn/thumb.webp?v=c939820b",
+			"file": {
+				"version": 1,
+				"asset": "low-res-rift-reborn-v1.fantome",
+				"size": 7586,
+				"sha256": "ffbc77219fb378dbe94690ff544c341b16edf9be7fdca8e64a842fd3a9a95484"
+			},
+			"maps": [
+				11
+			]
+		},
+		{
 			"id": "lowtiergod-push-ping-replacement",
 			"name": "LowTierGod Push ping replacement",
 			"kind": "sounds",
@@ -7239,6 +7406,26 @@
 				"size": 61277,
 				"sha256": "1e3922696b55339fee9dbb4cb0418e49f473b431a18bd1663341e200be61ba41"
 			}
+		},
+		{
+			"id": "magic-n-mayhem-bgm",
+			"name": "Magic n' Mayhem BGM",
+			"kind": "maps",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/magic-n-mayhem-bgm/thumb.webp?v=049d6f5b",
+			"file": {
+				"version": 1,
+				"asset": "magic-n-mayhem-bgm-v1.modpkg",
+				"size": 23991029,
+				"sha256": "277d7cfebef1769fcecd370b7744589a86536d562b6dc3b561005974b1d491a4"
+			},
+			"maps": [
+				11
+			]
 		},
 		{
 			"id": "malphite-flipped-sideway-180-moonwalk",
@@ -7395,6 +7582,26 @@
 				"size": 18245,
 				"sha256": "66c013560a38f6c0d265514cad1bd36d82f551fa1607d675ca302b085352cc09"
 			}
+		},
+		{
+			"id": "merchant-aram-shopkeeper-re4",
+			"name": "Merchant ARAM shopkeeper(RE4)",
+			"kind": "maps",
+			"creator": "ceerel",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/merchant-aram-shopkeeper-re4/thumb.webp?v=05f5c6bc",
+			"file": {
+				"version": 1,
+				"asset": "merchant-aram-shopkeeper-re4-v1.fantome",
+				"size": 11547259,
+				"sha256": "5c546e063cd327f08472ffd7a4e153fef9f9060bcae4ec550cd18227ffd46348"
+			},
+			"maps": [
+				12
+			]
 		},
 		{
 			"id": "metal-pipe-grasp",

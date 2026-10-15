@@ -1,0 +1,20 @@
+{
+	"id": "led-by-ancient-light-bgm",
+	"name": "Led by Ancient Light BGM",
+	"kind": "maps",
+	"creator": "aurecueil",
+	"description": "# 🎵 Track List\n\n| Event | Track(s) |\n|------|------|\n| Start Game (Red Side) | [Temple of Fervor](https://www.youtube.com/watch?v=p9cXfScAtU4&list=PLnqBohRq-E8CwqPK7Hxq8ZkZUoCwZV0q5&index=9) |\n| Start Game (Blue Side) | [Embers from Chaos](https://www.youtube.com/watch?v=XW2msHlM7-0&list=PLnqBohRq-E8CwqPK7Hxq8ZkZUoCwZV0q5&index=1) |\n| Game Loop 0 (Red Side) | [Solace of Red Giant](https://www.youtube.com/watch?v=d8IZ0fDLlsA&list=PLnqBohRq-E8CwqPK7Hxq8ZkZUoCwZV0q5&index=13) |\n| Game Loop 0 (Blue Side) | [Fragments](https://www.youtube.com/watch?v=pfb26KRyHeI&list=PLnqBohRq-E8CwqPK7Hxq8ZkZUoCwZV0q5&index=5) |\n| Game Loop 1 | [Liquid Levity](https://www.youtube.com/watch?v=jOxDMpKz5VU&list=PLnqBohRq-E8CwqPK7Hxq8ZkZUoCwZV0q5&index=6) |\n| Game Loop 2 | [Ascension](https://www.youtube.com/watch?v=5OiDNc-etD0&list=PLnqBohRq-E8CwqPK7Hxq8ZkZUoCwZV0q5&index=3) |\n| Game Loop 3 | [Anchorite](https://www.youtube.com/watch?v=MfJ-rvKYCsc&list=PLnqBohRq-E8CwqPK7Hxq8ZkZUoCwZV0q5&index=2) |\n| River Loop 0 | [Kindred Void](https://www.youtube.com/watch?v=R57ohY8biE0&list=PLnqBohRq-E8CwqPK7Hxq8ZkZUoCwZV0q5&index=8) |\n| River Loop 1 | [Interrogate](https://www.youtube.com/watch?v=UkIxOGSuQeU&list=PLnqBohRq-E8CwqPK7Hxq8ZkZUoCwZV0q5&index=7) |\n| River Loop 2 | [Exigence](https://www.youtube.com/watch?v=zgrr4sW-oko&list=PLnqBohRq-E8CwqPK7Hxq8ZkZUoCwZV0q5&index=10) |\n| River Loop 3 | [Voices of Dissent](https://www.youtube.com/watch?v=e3HrOV4DVGY&list=PLnqBohRq-E8CwqPK7Hxq8ZkZUoCwZV0q5&index=4) |\n| Atakhan Fight | [Embrace](https://www.youtube.com/watch?v=seXKsJPcXmM&list=PLnqBohRq-E8CwqPK7Hxq8ZkZUoCwZV0q5&index=12) |\n| Victory | [Embrace](https://www.youtube.com/watch?v=seXKsJPcXmM&list=PLnqBohRq-E8CwqPK7Hxq8ZkZUoCwZV0q5&index=12) |\n| Defeat | [Led by Ancient Light](https://www.youtube.com/watch?v=02Tx-Vtykpk&list=PLnqBohRq-E8CwqPK7Hxq8ZkZUoCwZV0q5&index=11) |\n\n## ☕ Wanna buy me a [Coffee](https://ko-fi.com/aurecueil)? :> \n[![My Discord Server ^^](https://raw.githubusercontent.com/Aurecueil/Temp/refs/heads/main/images/banner6_better.png)](https://discord.gg/GETA29vZEK)\n\n## 📦 Misc\n\n[Tierlist of my BGM mods](https://runeforge.dev/users/Aurecueil)\n\ndc: `aurecueil`\n\ni DO take Commisions btw\n\n---\n\n**Created by** [aurecueil](https://www.divineskins.gg/aurecueil)\n\n**Original:** https://www.divineskins.gg/aurecueil/led-by-ancient-light-bgm-2\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/led-by-ancient-light-bgm/thumb.webp?v=9f87fbfd",
+	"file": {
+		"version": 1,
+		"asset": "led-by-ancient-light-bgm-v1.modpkg",
+		"size": 52597209,
+		"sha256": "bb3a68056280bac53837b1acc0b130ebd82e99ac0e4540b2920dcd6685dbac91"
+	},
+	"maps": [
+		11
+	]
+}

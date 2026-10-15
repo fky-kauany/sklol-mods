@@ -1,0 +1,20 @@
+{
+	"id": "hell-rift",
+	"name": "Hell Rift",
+	"kind": "maps",
+	"creator": "disco",
+	"description": "My first Custom Map using AI help. Enjoy <3\n\n[Donate](https://www.divineskins.gg/support)\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/hell-rift\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/hell-rift/thumb.webp?v=1ed71157",
+	"file": {
+		"version": 1,
+		"asset": "hell-rift-v1.modpkg",
+		"size": 235403179,
+		"sha256": "bb34766a6bea64424abd94cc07e168fee7861d449936b2e980f0e07ac8597da6"
+	},
+	"maps": [
+		11
+	]
+}

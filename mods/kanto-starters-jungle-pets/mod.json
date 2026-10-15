@@ -1,0 +1,20 @@
+{
+	"id": "kanto-starters-jungle-pets",
+	"name": "Kanto Starters Jungle Pets",
+	"kind": "maps",
+	"creator": "frog",
+	"description": "## Mod Distribution & Permission\nThis modification (mod) is provided to the community **free of charge** and is a fan-made creation.\nThis mod was originally created by **RoloRolla**, who has given me explicit permission to repost and distribute it.\nYou can find RoloRolla's work here:\n\n- **Discord:** unpelotudojugando\n- **YouTube:** [@RoloRolla](https://www.youtube.com/@RoloRolla)\n\n## Copyright & Legal Disclaimer\n*This modification is free to use and is a fan-made creation. All rights to the characters, names, and original concepts belong to Nintendo. This mod is not affiliated with or endorsed by Nintendo.*\n*Fan-made, not affiliated with Riot Games, Nintendo or any other company.*\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/kanto-starters-jungle-pets\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/kanto-starters-jungle-pets/thumb.webp?v=8938aedc",
+	"file": {
+		"version": 1,
+		"asset": "kanto-starters-jungle-pets-v1.fantome",
+		"size": 6463504,
+		"sha256": "0c85c3faf3703feca91d4a7f34364eab0b91b3ddc736b7e6cc1ea034a44d68ef"
+	},
+	"maps": [
+		11
+	]
+}

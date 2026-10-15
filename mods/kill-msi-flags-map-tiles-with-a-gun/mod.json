@@ -1,0 +1,20 @@
+{
+	"id": "kill-msi-flags-map-tiles-with-a-gun",
+	"name": "KILL (MSI) FLAGS/MAP TILES (With a Gun)",
+	"kind": "maps",
+	"creator": "moga",
+	"description": "now also removes the msi shit\n#### Overview:\n\n* Kills base fringe wall banners (violently)\n* Kills hanging base banners (with a gun)\n* Kills Worlds style map tiles (lawnmower)\n* Kills top lane Worlds Trophy (premeditated murder)\n\n###### If this bugs out or you have ideas for this mod, please tell me.\n\n#\n\n#### Mod Information:\n\n* Author: Moga\n\nhttps://discord.gg/gSXbEmPQCA\n\n---\n\n**Created by** [Moga](https://runeforge.dev/users/Moga)\n\n**Original:** https://runeforge.dev/mods/5983c5d4-9ad6-488b-89ff-c4b7aae4e5a3\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/kill-msi-flags-map-tiles-with-a-gun/thumb.webp?v=1950089b",
+	"file": {
+		"version": 1,
+		"asset": "kill-msi-flags-map-tiles-with-a-gun-v1.fantome",
+		"size": 67022,
+		"sha256": "c3b0697d732767d5366a19221587c661d9497ea88a4d551db997d138379ab85c"
+	},
+	"maps": [
+		11
+	]
+}

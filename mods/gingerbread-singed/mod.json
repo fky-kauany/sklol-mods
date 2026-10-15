@@ -1,0 +1,20 @@
+{
+	"id": "gingerbread-singed",
+	"name": "Gingerbread Singed",
+	"kind": "maps",
+	"creator": "beeean",
+	"description": "Lock Camera only :)\r\nCan you find 9 of this creature with lock camera under 10 minutes?!?!?\r\n\r\nHuge thanks to Guisai for porting this 3d model for me into the map :)\r\nhttps://github.com/GuiSaiUwU\r\n\r\n3D cookie model by me\r\nhttps://www.artstation.com/benwei\n\n---\n\n**Created by** [Beeean](https://runeforge.dev/users/Beeean)\n\n**Original:** https://runeforge.dev/mods/a80dbd1b-9b6e-4911-9e70-1653049a28d6\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/gingerbread-singed/thumb.webp?v=c73a1595",
+	"file": {
+		"version": 1,
+		"asset": "gingerbread-singed-v1.fantome",
+		"size": 63531192,
+		"sha256": "a3f3f9edde675dea12638e9094c26d0f65343a7315128e734759fccec06ba71c"
+	},
+	"maps": [
+		11
+	]
+}
