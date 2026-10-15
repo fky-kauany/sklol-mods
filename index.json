@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T10:33:30.441Z",
+	"generatedAt": "2026-10-15T10:39:11.637Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -326,6 +326,10 @@
 				"youtube": "https://www.youtube.com/watch?v=Quxvd7HF338"
 			}
 		},
+		"gurusz1": {
+			"name": "gurusz1",
+			"links": {}
+		},
 		"guvercin": {
 			"name": "Güvercin",
 			"avatar": "creators/guvercin.jpg?v=a0823de4",
@@ -515,6 +519,15 @@
 			"bio": "why hip hop sucks in '96",
 			"links": {
 				"youtube": "https://www.youtube.com/watch?v=xaQpat3ADvc"
+			}
+		},
+		"muhfack": {
+			"name": "muhfack",
+			"avatar": "creators/muhfack.jpg?v=0ba1b0c1",
+			"links": {
+				"discord": "https://discord.gg/runeforge",
+				"kofi": "https://ko-fi.com/muhfack",
+				"site": "https://runeforge.dev/mods/4cc954e7-cad0-4e51-82f5-c153feee2a07"
 			}
 		},
 		"nightfire007": {
@@ -769,6 +782,12 @@
 				"site": "https://tyre4770.carrd.co/",
 				"x": "https://x.com/ahrifoxlovers/status/1697119260433387565"
 			}
+		},
+		"uygarexe": {
+			"name": "ExeTheGreat",
+			"avatar": "creators/uygarexe.jpg?v=8e9583aa",
+			"bio": "Old Udyr Visual Effect / Sound Effect Developer",
+			"links": {}
 		},
 		"vaskier": {
 			"name": "Vaskier",
@@ -7890,6 +7909,182 @@
 				"size": 12523,
 				"sha256": "f93f9f6d43193f18ab426629fbc2baa8e05cbebc6ac73547ae8b021a55a8c6f2"
 			}
+		},
+		{
+			"id": "old-hecarin-splashart-and-champion-circle-square",
+			"name": "Old Hecarin Splashart and Champion Circle/Square",
+			"kind": "ui",
+			"creator": "aropatnik",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/old-hecarin-splashart-and-champion-circle-square/thumb.webp?v=b013bb4f",
+			"file": {
+				"version": 1,
+				"asset": "old-hecarin-splashart-and-champion-circle-square-v1.fantome",
+				"size": 91072,
+				"sha256": "a3f571ee00501872c800b2e373e00203072bf4c20bfa463196458230abc9e70e"
+			}
+		},
+		{
+			"id": "old-hud-icons",
+			"name": "Old HUD Icons",
+			"kind": "ui",
+			"creator": "moga",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/old-hud-icons/thumb.webp?v=8b8ebf7c",
+			"file": {
+				"version": 1,
+				"asset": "old-hud-icons-v1.fantome",
+				"size": 447992,
+				"sha256": "5907fcc2117d3898891a2082a9a35d782d68e90a6e05120456dfcfeb23b1067e"
+			}
+		},
+		{
+			"id": "old-ignite-vfx",
+			"name": "Old Ignite VFX",
+			"kind": "vfx",
+			"creator": "uygarexe",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/old-ignite-vfx/thumb.webp?v=4c3e5c36",
+			"file": {
+				"version": 1,
+				"asset": "old-ignite-vfx-v1.fantome",
+				"size": 900454,
+				"sha256": "511eec1981dc4bb75314f8713d19b71dac1dc72d5cb520f52d44e81d98877453"
+			}
+		},
+		{
+			"id": "old-item-icons",
+			"name": "Old item icons",
+			"kind": "other",
+			"creator": "gurusz1",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/old-item-icons/thumb.webp?v=012906a3",
+			"file": {
+				"version": 1,
+				"asset": "old-item-icons-v1.fantome",
+				"size": 1196791,
+				"sha256": "354398c40c456469721f454a376ed115cea08db047086cb47db0bd3fc8d9b292"
+			}
+		},
+		{
+			"id": "old-items",
+			"name": "Old Items",
+			"kind": "ui",
+			"creator": "aropatnik",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/old-items/thumb.webp?v=1b8d063d",
+			"file": {
+				"version": 1,
+				"asset": "old-items-v1.fantome",
+				"size": 4027174,
+				"sha256": "9f76b2d4da0d4831de0ab45ccd3710090e911eb8415320d56def8c882f05effe"
+			}
+		},
+		{
+			"id": "old-league-for-league-classic-old-items-old-summ",
+			"name": "Old league for league classic : Old items, Old summoner spells, Old champions hu",
+			"kind": "ui",
+			"creator": "muhfack",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/old-league-for-league-classic-old-items-old-summ/thumb.webp?v=ee967ca1",
+			"file": {
+				"version": 1,
+				"asset": "old-league-for-league-classic-old-items-old-summ-v1.fantome",
+				"size": 21762853,
+				"sha256": "ee92754e58449b7b66d5b02814d4611224c10a9eeeaf77be4c4776edd04072f3"
+			}
+		},
+		{
+			"id": "old-league-old-items-old-summoner-spells-old-cha",
+			"name": "Old League : Old items, Old summoner spells, Old champions spells / Old hud + Ol",
+			"kind": "ui",
+			"creator": "muhfack",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/old-league-old-items-old-summoner-spells-old-cha/thumb.webp?v=a9d1ac3a",
+			"file": {
+				"version": 1,
+				"asset": "old-league-old-items-old-summoner-spells-old-cha-v1.fantome",
+				"size": 50266098,
+				"sha256": "81d9351a57c724f4a9eb508baf0c46d97571f95882fa0e909939e86adfc3bf32"
+			}
+		},
+		{
+			"id": "old-mastery-vfx",
+			"name": "Old Mastery VFX",
+			"kind": "vfx",
+			"creator": "xllwd1",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/old-mastery-vfx/thumb.webp?v=b9e4b026",
+			"file": {
+				"version": 1,
+				"asset": "old-mastery-vfx-v1.fantome",
+				"size": 611665,
+				"sha256": "ab04aed7b6b6fb52c2751793c30aacf1bc94b9be17a80b6f1f3b3329d4a14708"
+			}
+		},
+		{
+			"id": "old-minions-day-version",
+			"name": "Old Minions - Day Version",
+			"kind": "maps",
+			"creator": "thekillerey",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/old-minions-day-version/thumb.webp?v=f946ae47",
+			"file": {
+				"version": 1,
+				"asset": "old-minions-day-version-v1.fantome",
+				"size": 4486067,
+				"sha256": "ab259fb1a18cffadc30680f399398af0daf48cb945c1f0e870e1e6243fdd2746"
+			},
+			"maps": [
+				11
+			]
+		},
+		{
+			"id": "old-minions-night-version",
+			"name": "Old Minions - Night Version",
+			"kind": "mobs",
+			"creator": "thekillerey",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/old-minions-night-version/thumb.webp?v=f946ae47",
+			"file": {
+				"version": 1,
+				"asset": "old-minions-night-version-v1.fantome",
+				"size": 4200532,
+				"sha256": "1a4e6c6cbfccbf11152be02762f3f865ff83bdd8b5baa716c74d4b4387294cf6"
+			},
+			"maps": [
+				11
+			]
 		}
 	]
 }

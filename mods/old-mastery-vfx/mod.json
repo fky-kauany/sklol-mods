@@ -1,0 +1,17 @@
+{
+	"id": "old-mastery-vfx",
+	"name": "Old Mastery VFX",
+	"kind": "vfx",
+	"creator": "xllwd1",
+	"description": "Fixed the legacy Mastery particle files; since they contain Globalbin data, they must be updated for every version.\n\n---\n\n**Created by** [xllwd1](https://www.divineskins.gg/xllwd1)\n\n**Original:** https://www.divineskins.gg/xllwd1/old-mastery-vfx\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/old-mastery-vfx/thumb.webp?v=b9e4b026",
+	"file": {
+		"version": 1,
+		"asset": "old-mastery-vfx-v1.fantome",
+		"size": 611665,
+		"sha256": "ab04aed7b6b6fb52c2751793c30aacf1bc94b9be17a80b6f1f3b3329d4a14708"
+	}
+}

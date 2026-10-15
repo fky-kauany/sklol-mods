@@ -1,0 +1,17 @@
+{
+	"id": "old-hecarin-splashart-and-champion-circle-square",
+	"name": "Old Hecarin Splashart and Champion Circle/Square",
+	"kind": "ui",
+	"creator": "aropatnik",
+	"description": "## Information\n\n**Modified champion: Hecarim**\n\n**Modified skin: Default**\n\n**Author: Aropatnik**\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/eed61a63-5239-40de-a0b0-cd9f3b42d697\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/old-hecarin-splashart-and-champion-circle-square/thumb.webp?v=b013bb4f",
+	"file": {
+		"version": 1,
+		"asset": "old-hecarin-splashart-and-champion-circle-square-v1.fantome",
+		"size": 91072,
+		"sha256": "a3f571ee00501872c800b2e373e00203072bf4c20bfa463196458230abc9e70e"
+	}
+}

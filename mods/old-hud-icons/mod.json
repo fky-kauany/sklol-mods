@@ -1,0 +1,17 @@
+{
+	"id": "old-hud-icons",
+	"name": "Old HUD Icons",
+	"kind": "ui",
+	"creator": "moga",
+	"description": "### Overview:\n\nLooks better with the [Smaller Icons Mod](https://runeforge.dev/mods/8420b558-f892-4b7b-828a-54e62cddfd48) due to Newton's 4th Law that states: Modern, Plastic, Flat = BAD.\n\n* Icons are changed on the minimap, scoreboard, and objective timer.\n* Replaced Atakhan icon with an old and recolored objective icon.\n* Slightly adjusted Med/Low tower HP in order to be more apparent.\n\n[Click to see all my other totally sick mods.](https://runeforge.dev/users/Moga/mods?page=0\\&sortBy=download_count)\n\n#\n\n### Mod Information:\n\nAuthor: Moga\n\nhttps://discord.gg/gSXbEmPQCA\n\n---\n\n**Created by** [Moga](https://runeforge.dev/users/Moga)\n\n**Original:** https://runeforge.dev/mods/1c8a3657-cb29-476d-bbca-ecb5e3c43172\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/old-hud-icons/thumb.webp?v=8b8ebf7c",
+	"file": {
+		"version": 1,
+		"asset": "old-hud-icons-v1.fantome",
+		"size": 447992,
+		"sha256": "5907fcc2117d3898891a2082a9a35d782d68e90a6e05120456dfcfeb23b1067e"
+	}
+}

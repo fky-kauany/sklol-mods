@@ -1,0 +1,17 @@
+{
+	"id": "old-item-icons",
+	"name": "Old item icons",
+	"kind": "other",
+	"creator": "gurusz1",
+	"description": "Old item icons from season 10 or before!\r\n\r\n\r\n\r\nWorking again as of season 16\n\n---\n\n**Created by** [gurusz1](https://runeforge.dev/users/gurusz1)\n\n**Original:** https://runeforge.dev/mods/a2360a85-a81e-4c8f-8d7c-122cc3b51aec\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/old-item-icons/thumb.webp?v=012906a3",
+	"file": {
+		"version": 1,
+		"asset": "old-item-icons-v1.fantome",
+		"size": 1196791,
+		"sha256": "354398c40c456469721f454a376ed115cea08db047086cb47db0bd3fc8d9b292"
+	}
+}

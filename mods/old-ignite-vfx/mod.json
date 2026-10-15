@@ -1,0 +1,17 @@
+{
+	"id": "old-ignite-vfx",
+	"name": "Old Ignite VFX",
+	"kind": "vfx",
+	"creator": "uygarexe",
+	"description": "Old Ignite VFX\n\n---\n\n**Created by** [ExeTheGreat](https://runeforge.dev/users/uygarexe)\n\n**Original:** https://runeforge.dev/mods/62d53711-d975-457b-be5a-0528ba9fef15\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/old-ignite-vfx/thumb.webp?v=4c3e5c36",
+	"file": {
+		"version": 1,
+		"asset": "old-ignite-vfx-v1.fantome",
+		"size": 900454,
+		"sha256": "511eec1981dc4bb75314f8713d19b71dac1dc72d5cb520f52d44e81d98877453"
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"id": "old-minions-day-version",
+	"name": "Old Minions - Day Version",
+	"kind": "maps",
+	"creator": "thekillerey",
+	"description": "# Old Minions\r\n\r\n## Patches:\r\n\r\n[](https://github.com/TheKillerey/Old-Summoners-Rift-V2#loads-for-riots-patch-1424---china-should-also-work-including-practice-tool)\r\n\r\nPlease check your csmanager if there are some other issues. If you have ingame crashes report it on my Discord.\r\n\r\n## Features:\r\n\r\n[](https://github.com/TheKillerey/Old-Summoners-Rift-V2#features)\r\n\r\n* **Classic Minions**: Experience the Old Minions with all its classic textures, including fully working skins, old particles and team support.\r\n* **Day**: This mod includes day version to fit the other maps versions of Old Rift. Now seperated since people don't read the description often.\r\n\r\n## Compatibility:\r\n\r\n[](https://github.com/TheKillerey/Old-Summoners-Rift-V2#compatibility)\r\n\r\n* Works with the latest version of League of Legends 25.S1.2+\r\n* Tested on various system configurations.\r\n\r\n## Known Issues:\r\n\r\n[](https://github.com/TheKillerey/Old-Summoners-Rift-V2#known-issues)\r\n\r\n* No issues found!\r\n\r\n## Credits:\r\n\r\n[](https://github.com/TheKillerey/Old-Summoners-Rift-V2#credits)\r\n\r\n* **TheKillerey** - Fully updating and fixing the old minions to the latest version.\r\n* **aryasdemise** - Creation of the first assets.\n\n---\n\n**Created by** [TheKillerey](https://runeforge.dev/users/TheKillerey)\n\n**Original:** https://runeforge.dev/mods/ee91eb56-f455-43d0-ac23-58096aaced50\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/old-minions-day-version/thumb.webp?v=f946ae47",
+	"file": {
+		"version": 1,
+		"asset": "old-minions-day-version-v1.fantome",
+		"size": 4486067,
+		"sha256": "ab259fb1a18cffadc30680f399398af0daf48cb945c1f0e870e1e6243fdd2746"
+	},
+	"maps": [
+		11
+	]
+}

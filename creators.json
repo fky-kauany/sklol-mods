@@ -323,6 +323,10 @@
 			"youtube": "https://www.youtube.com/watch?v=Quxvd7HF338"
 		}
 	},
+	"gurusz1": {
+		"name": "gurusz1",
+		"links": {}
+	},
 	"guvercin": {
 		"name": "Güvercin",
 		"avatar": "creators/guvercin.jpg?v=a0823de4",
@@ -512,6 +516,15 @@
 		"bio": "why hip hop sucks in '96",
 		"links": {
 			"youtube": "https://www.youtube.com/watch?v=xaQpat3ADvc"
+		}
+	},
+	"muhfack": {
+		"name": "muhfack",
+		"avatar": "creators/muhfack.jpg?v=0ba1b0c1",
+		"links": {
+			"discord": "https://discord.gg/runeforge",
+			"kofi": "https://ko-fi.com/muhfack",
+			"site": "https://runeforge.dev/mods/4cc954e7-cad0-4e51-82f5-c153feee2a07"
 		}
 	},
 	"nightfire007": {
@@ -766,6 +779,12 @@
 			"site": "https://tyre4770.carrd.co/",
 			"x": "https://x.com/ahrifoxlovers/status/1697119260433387565"
 		}
+	},
+	"uygarexe": {
+		"name": "ExeTheGreat",
+		"avatar": "creators/uygarexe.jpg?v=8e9583aa",
+		"bio": "Old Udyr Visual Effect / Sound Effect Developer",
+		"links": {}
 	},
 	"vaskier": {
 		"name": "Vaskier",
