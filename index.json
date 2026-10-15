@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T09:59:19.264Z",
+	"generatedAt": "2026-10-15T10:05:02.179Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -335,6 +335,12 @@
 			"avatar": "creators/haigo03.png?v=18f609fd",
 			"links": {}
 		},
+		"hoolofist": {
+			"name": "Hoolofist",
+			"avatar": "creators/hoolofist.jpg?v=4aaed9b1",
+			"bio": "Noob mod creator, solely SFX",
+			"links": {}
+		},
 		"horrorwolf": {
 			"name": "HorrorWolf",
 			"avatar": "creators/horrorwolf.png?v=b1e42ede",
@@ -609,6 +615,17 @@
 			"name": "RoloRolla",
 			"links": {
 				"youtube": "https://www.youtube.com/watch?v=T6hJmABIZEk"
+			}
+		},
+		"rubenirpg": {
+			"name": "RubenIRPG",
+			"avatar": "creators/rubenirpg.png?v=463c2595",
+			"bio": "Im a Streamer and just a FAN of League.",
+			"links": {
+				"instagram": "https://www.instagram.com/ruben_irpg/?next=%2F",
+				"site": "https://streamlabs.com/ruben_irpg/tip",
+				"tiktok": "https://www.tiktok.com/@ruben_irpg?_t=ZG-8sk7jkCgHUf&_r=1",
+				"youtube": "https://www.youtube.com/@RubenIRPG"
 			}
 		},
 		"runeforgerecoveryteam": {
@@ -6792,6 +6809,176 @@
 				"asset": "minecraft-gold-text-v1.fantome",
 				"size": 685,
 				"sha256": "d9ce2ee1c6f2f2a3d5655c9a69008a3114a9cd57b9b6e39157d3e4d7eb99f06a"
+			}
+		},
+		{
+			"id": "minecraft-gold-text-extended",
+			"name": "Minecraft Gold Text - EXTENDED",
+			"kind": "ui",
+			"creator": "tor-lol",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/minecraft-gold-text-extended/thumb.webp?v=6caba127",
+			"file": {
+				"version": 1,
+				"asset": "minecraft-gold-text-extended-v1.fantome",
+				"size": 4261,
+				"sha256": "4426c3b7a2c437499cc3a11cdd6db1e5afdfca98908f7a70d30cabf9f5c92258"
+			}
+		},
+		{
+			"id": "minecraft-sound-effects-bgm",
+			"name": "Minecraft Sound Effects & BGM",
+			"kind": "sounds",
+			"creator": "goro",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/minecraft-sound-effects-bgm/thumb.webp?v=679b570a",
+			"file": {
+				"version": 1,
+				"asset": "minecraft-sound-effects-bgm-v1.fantome",
+				"size": 22896987,
+				"sha256": "968bdeceee8ec5674111576cc3d0c8d134a10cb65ca528aaa71267687401bcdb"
+			}
+		},
+		{
+			"id": "minecraft-yone",
+			"name": "Minecraft Yone",
+			"kind": "other",
+			"creator": "rahabani",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/minecraft-yone/thumb.webp?v=c72ab02c",
+			"file": {
+				"version": 1,
+				"asset": "minecraft-yone-v1.fantome",
+				"size": 3377533,
+				"sha256": "64d4062dd2c5705ef1028ab319accfe4885eaadc58936580a5d11d27423ee9a4"
+			}
+		},
+		{
+			"id": "minecraftia-font",
+			"name": "Minecraftia Font",
+			"kind": "fonts",
+			"creator": "atakzlky",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/minecraftia-font/thumb.webp?v=1378bd85",
+			"file": {
+				"version": 1,
+				"asset": "minecraftia-font-v1.fantome",
+				"size": 19340,
+				"sha256": "7bed3123883a7cb02f350e120366043d4aa3322d50505f8cd31e50c61395e24a"
+			}
+		},
+		{
+			"id": "minecraftxp-dragon-flash-z-sfx",
+			"name": "MinecraftXP & Dragon Flash Z SFX",
+			"kind": "sounds",
+			"creator": "rubenirpg",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/minecraftxp-dragon-flash-z-sfx/thumb.webp?v=c51469a2",
+			"file": {
+				"version": 1,
+				"asset": "minecraftxp-dragon-flash-z-sfx-v1.fantome",
+				"size": 8126250,
+				"sha256": "8b44fd31a0e5b0bd246ef7d31bcbe4e66989e0127d7f358a71a06b27c65e9a0f"
+			}
+		},
+		{
+			"id": "mini-heart-font",
+			"name": "Mini Heart Font",
+			"kind": "fonts",
+			"creator": "tyre-4770",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/mini-heart-font/thumb.webp?v=d4d0f9f1",
+			"file": {
+				"version": 1,
+				"asset": "mini-heart-font-v1.fantome",
+				"size": 115239,
+				"sha256": "f0b8cbf6ee8bed7685f32d0200469a43b34fb9ea6f65c70f50f92113a7f1ca61"
+			}
+		},
+		{
+			"id": "minimalist-font",
+			"name": "Minimalist Font",
+			"kind": "fonts",
+			"creator": "atakzlky",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/minimalist-font/thumb.webp?v=c3b8d871",
+			"file": {
+				"version": 1,
+				"asset": "minimalist-font-v1.fantome",
+				"size": 26331,
+				"sha256": "638ac2b400acfc5e1d531974dfa2c8cd55fa161f202890b431de3f023dcf334b"
+			}
+		},
+		{
+			"id": "mita-hud",
+			"name": "Mita HUD",
+			"kind": "ui",
+			"creator": "disco",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/mita-hud/thumb.webp?v=7bb1f674",
+			"file": {
+				"version": 1,
+				"asset": "mita-hud-v1.modpkg",
+				"size": 5966636,
+				"sha256": "eab272d042c75104fc5f889f8714fd7abcec7eeeea6159f41a325644d7db1ffe"
+			}
+		},
+		{
+			"id": "mizisua-scoreboard-alien-stage",
+			"name": "MiziSua Scoreboard - Alien Stage",
+			"kind": "ui",
+			"creator": "awhremi",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/mizisua-scoreboard-alien-stage/thumb.webp?v=9bad35d4",
+			"file": {
+				"version": 1,
+				"asset": "mizisua-scoreboard-alien-stage-v1.fantome",
+				"size": 251370,
+				"sha256": "d08d35dc3677a41229608e8008a4159728ce4aa77ba3191adfaf69572062ad81"
+			}
+		},
+		{
+			"id": "mordekaiser-pentakill-sfx",
+			"name": "Mordekaiser Pentakill SFX",
+			"kind": "sounds",
+			"creator": "hoolofist",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/mordekaiser-pentakill-sfx/thumb.webp?v=eee4396f",
+			"file": {
+				"version": 1,
+				"asset": "mordekaiser-pentakill-sfx-v1.fantome",
+				"size": 3810453,
+				"sha256": "46cba502c5dc73ac4a42d69d3ffe09a5554109a71edbe945894983b3fab087fa"
 			}
 		}
 	]

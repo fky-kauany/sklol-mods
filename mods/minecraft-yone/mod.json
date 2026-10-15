@@ -1,0 +1,17 @@
+{
+	"id": "minecraft-yone",
+	"name": "Minecraft Yone",
+	"kind": "other",
+	"creator": "rahabani",
+	"description": "Just a model swap.\nthanks to BUD for the splashart\nadd me on dc if helps is needed : Rahabani\n\\===============================\nupdate 7/9/2025 1.0.1 game was crashing when using E\nupdate 30/07/2025 1.0.2 Broken textures patch 15.15\n\n---\n\n**Created by** [Rahabani](https://runeforge.dev/users/Rahabani)\n\n**Original:** https://runeforge.dev/mods/6a09d76f-83a7-4e8d-9c66-ef4d1442b8c6\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/minecraft-yone/thumb.webp?v=c72ab02c",
+	"file": {
+		"version": 1,
+		"asset": "minecraft-yone-v1.fantome",
+		"size": 3377533,
+		"sha256": "64d4062dd2c5705ef1028ab319accfe4885eaadc58936580a5d11d27423ee9a4"
+	}
+}

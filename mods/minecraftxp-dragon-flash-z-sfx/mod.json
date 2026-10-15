@@ -1,0 +1,17 @@
+{
+	"id": "minecraftxp-dragon-flash-z-sfx",
+	"name": "MinecraftXP & Dragon Flash Z SFX",
+	"kind": "sounds",
+	"creator": "rubenirpg",
+	"description": "*This is a first version; and a FUSION of 2 Incompatible MODS in 1. That's why is so special 😘*\r\n\r\n### 💜  If you are enjoying the MOD give your love to it 💜  \r\n#### 🙌🙏Don't forget🙏🙌\r\n\r\n---\r\n\r\n#### *·* USE TLK Launcher: https://github.com/LeagueToolkit/ltk-manager\r\n\r\n---\r\n\r\n**IS FREE USE / FREE EDITABLE**\r\n\r\n- Dragon Flash Z:\r\nhttps://runeforge.dev/mods/4d213215-0c80-43fd-a411-b4290734c3a1\r\n\r\n- Exp_Orb - Gold Sound:\r\nhttps://runeforge.dev/mods/7cca4498-1faf-4865-82c2-b17d8f3414cb\r\n\r\n---\r\n\r\nCREDITS: _**Pico Senpai, 海怪 & RubenIRPG**_ - FREE FOR FANS\n\n---\n\n**Created by** [RubenIRPG](https://runeforge.dev/users/RubenIRPG)\n\n**Original:** https://runeforge.dev/mods/25613b2b-2aa0-4e64-bfe2-d89d40ce98cc\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/minecraftxp-dragon-flash-z-sfx/thumb.webp?v=c51469a2",
+	"file": {
+		"version": 1,
+		"asset": "minecraftxp-dragon-flash-z-sfx-v1.fantome",
+		"size": 8126250,
+		"sha256": "8b44fd31a0e5b0bd246ef7d31bcbe4e66989e0127d7f358a71a06b27c65e9a0f"
+	}
+}

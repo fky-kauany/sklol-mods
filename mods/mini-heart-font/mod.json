@@ -1,0 +1,17 @@
+{
+	"id": "mini-heart-font",
+	"name": "Mini Heart Font",
+	"kind": "fonts",
+	"creator": "tyre-4770",
+	"description": "⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦\r\n\r\nA font replacement for league, perfect to use alongside my Valentine's Heart Recall !\r\n\r\n⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦\n\n---\n\n**Created by** [Tyre 4770](https://runeforge.dev/users/Tyre_4770)\n\n**Original:** https://runeforge.dev/mods/5abc68e1-0986-447d-90f2-7939023b1c99\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/mini-heart-font/thumb.webp?v=d4d0f9f1",
+	"file": {
+		"version": 1,
+		"asset": "mini-heart-font-v1.fantome",
+		"size": 115239,
+		"sha256": "f0b8cbf6ee8bed7685f32d0200469a43b34fb9ea6f65c70f50f92113a7f1ca61"
+	}
+}

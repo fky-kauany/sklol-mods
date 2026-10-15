@@ -1,0 +1,17 @@
+{
+	"id": "mordekaiser-pentakill-sfx",
+	"name": "Mordekaiser Pentakill SFX",
+	"kind": "sounds",
+	"creator": "hoolofist",
+	"description": "Replaces Morde Passive,W,R with pentakill music. FOR DEFAULT SKIN.\r\nMight do it for Pentakill skins in the future when i get time for it.\n\n---\n\n**Created by** [Hoolofist](https://runeforge.dev/users/Hoolofist)\n\n**Original:** https://runeforge.dev/mods/ebae22a5-9676-4743-b12f-96623a16960e\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/mordekaiser-pentakill-sfx/thumb.webp?v=eee4396f",
+	"file": {
+		"version": 1,
+		"asset": "mordekaiser-pentakill-sfx-v1.fantome",
+		"size": 3810453,
+		"sha256": "46cba502c5dc73ac4a42d69d3ffe09a5554109a71edbe945894983b3fab087fa"
+	}
+}

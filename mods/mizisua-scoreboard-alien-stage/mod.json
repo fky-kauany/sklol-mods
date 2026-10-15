@@ -1,0 +1,17 @@
+{
+	"id": "mizisua-scoreboard-alien-stage",
+	"name": "MiziSua Scoreboard - Alien Stage",
+	"kind": "ui",
+	"creator": "awhremi",
+	"description": "For the scoreboard ..\r\n\r\nCharacters: Mizi and Sua from Alien Stage\r\n\r\nVersion: 1.0.0\r\n\r\nIf anything send me a message on discord: rremedy\n\n---\n\n**Created by** [remedy](https://runeforge.dev/users/awhremi)\n\n**Original:** https://runeforge.dev/mods/e3d231cc-8f6b-489a-9321-5fcac52254f0\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/mizisua-scoreboard-alien-stage/thumb.webp?v=9bad35d4",
+	"file": {
+		"version": 1,
+		"asset": "mizisua-scoreboard-alien-stage-v1.fantome",
+		"size": 251370,
+		"sha256": "d08d35dc3677a41229608e8008a4159728ce4aa77ba3191adfaf69572062ad81"
+	}
+}

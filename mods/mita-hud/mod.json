@@ -1,0 +1,17 @@
+{
+	"id": "mita-hud",
+	"name": "Mita HUD",
+	"kind": "ui",
+	"creator": "disco",
+	"description": "## Mita HUD\n\n### Features\n\n- **Misty Red Aesthetic:** A unique color palette combining deep reds and blacks with a soft, misty glow for an ominous feel.\n- **Aggressive Design:** Sharp, angular frames and UI elements that give the interface an aggressive and powerful look.\n- **Client-Side Only:** This custom HUD is a personal modification visible only to you, ensuring it doesn't affect other players.\n\n*Some of these skins use custom models made by other creators. If one is yours and you’d like credit, DM me on Discord.*\n*Divine Skins is not affiliated with or endorsed by Riot Games or League of Legends.*\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/mita-hud\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/mita-hud/thumb.webp?v=7bb1f674",
+	"file": {
+		"version": 1,
+		"asset": "mita-hud-v1.modpkg",
+		"size": 5966636,
+		"sha256": "eab272d042c75104fc5f889f8714fd7abcec7eeeea6159f41a325644d7db1ffe"
+	}
+}

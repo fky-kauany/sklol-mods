@@ -1,0 +1,17 @@
+{
+	"id": "minecraft-sound-effects-bgm",
+	"name": "Minecraft Sound Effects & BGM",
+	"kind": "sounds",
+	"creator": "goro",
+	"description": "Changes The Following Sounds:\n\n* Ignite\n* Flash\n* Recall\n* Exhaust\n* Heal\n* Smite\n* Item Shop\n* Gold Gain\n* Level  Up\n\n&#x20;\n\nChanges The Background Music To:\n\n* Early Game - Wet Hands\n* Mid Game - Minecraft\n* Late Game - Sweden\n\n---\n\n**Created by** [Goro](https://runeforge.dev/users/Goro)\n\n**Original:** https://runeforge.dev/mods/8cd86aea-39b0-4073-a139-5c5a80fd9c37\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/minecraft-sound-effects-bgm/thumb.webp?v=679b570a",
+	"file": {
+		"version": 1,
+		"asset": "minecraft-sound-effects-bgm-v1.fantome",
+		"size": 22896987,
+		"sha256": "968bdeceee8ec5674111576cc3d0c8d134a10cb65ca528aaa71267687401bcdb"
+	}
+}
