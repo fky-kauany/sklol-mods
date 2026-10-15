@@ -1,0 +1,17 @@
+{
+	"id": "project-yasuo-red",
+	"name": "PROJECT: Yasuo - Red",
+	"kind": "other",
+	"creator": "1gem1",
+	"description": "## Skin modified -  PROJECT: Yasuo\r\n\r\n╰┈➤ _The idea for this mod was to make PROJECT Yasuo Red entirely, along with VFX_\r\n\r\n\r\n\r\n _Please remember to disable any other custom skin for this champ to avoid major bugs !!_\r\n\r\n\r\n# **➫ Any suggestions, ideas, questions or bug reports?**\r\n\r\nSend them over [**here**](https://1gem1.straw.page/customskinsquestions), or message me on discord (1gem1), or here is [**more info**](https://1gem1.straw.page/) for anything else!\r\n\r\n###### _Originally Created as a Commission <3_\n\n---\n\n**Created by** [1gem1rachel](https://runeforge.dev/users/1gem1)\n\n**Original:** https://runeforge.dev/mods/6c342593-a395-4d5b-ae63-509b32f1ee25\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/project-yasuo-red/thumb.webp?v=4b2d91dd",
+	"file": {
+		"version": 1,
+		"asset": "project-yasuo-red-v1.fantome",
+		"size": 1224040,
+		"sha256": "803b53edfef16c4de2ebb69b8e14f53ce5f80974b8ae4ecc51f65cb7b48a53da"
+	}
+}

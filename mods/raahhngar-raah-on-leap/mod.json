@@ -1,0 +1,17 @@
+{
+	"id": "raahhngar-raah-on-leap",
+	"name": "RAAHHngar (RAAH on leap)",
+	"kind": "sounds",
+	"creator": "shrimpback",
+	"description": "what else do you want me to say\n\n---\n\n**Created by** [ShrimpBack](https://runeforge.dev/users/ShrimpBack)\n\n**Original:** https://runeforge.dev/mods/e61566b1-ff45-4287-a134-73dcba0d8521\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/raahhngar-raah-on-leap/thumb.webp?v=f3902b06",
+	"file": {
+		"version": 1,
+		"asset": "raahhngar-raah-on-leap-v1.fantome",
+		"size": 2891689,
+		"sha256": "3d56bbbfda571075650a8cb102a06afec18ec3e70269f22ae47ca4ffc31bc9c8"
+	}
+}

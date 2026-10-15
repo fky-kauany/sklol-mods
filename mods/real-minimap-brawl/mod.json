@@ -1,0 +1,17 @@
+{
+	"id": "real-minimap-brawl",
+	"name": "Real Minimap [Brawl]",
+	"kind": "ui",
+	"creator": "agomsmoga",
+	"description": "### Overview\n\n* Reskins the minimap to look like a topdown view of the **Brawl** map.\n\nPlease report bugs.\n\n#\n\nhttps://discord.gg/gSXbEmPQCA\n\n---\n\n**Created by** [Moga](https://runeforge.dev/users/agomsMoga)\n\n**Original:** https://runeforge.dev/mods/0077981a-03dd-4071-9e99-d940c470942c\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/real-minimap-brawl/thumb.webp?v=f0bb9c0a",
+	"file": {
+		"version": 1,
+		"asset": "real-minimap-brawl-v1.fantome",
+		"size": 9063609,
+		"sha256": "fd4fdcad4574016a04ca9a3f9b29cfd265cb9af314d5e03b9c0f1613602f18b2"
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"id": "pulsefire-ekko-custom-vo",
+	"name": "Pulsefire Ekko Custom VO",
+	"kind": "sounds",
+	"creator": "voiceshowcase",
+	"description": "Replaces Ekko's base VO with entirely new Pulsefire themed lines. Also features Pulsefire Ezreal.\n\n\n\nCredits:\n\nEkko: Noah Keawekane\nEzreal: Ali Gohar\nRenata Glasc/Sultry voice: Sara Dunham\nJinx: Pearl Vox\nWriter: RoyalEnigma\n\n---\n\n**Created by** [VoiceShowcase](https://runeforge.dev/users/VoiceShowcase)\n\n**Original:** https://runeforge.dev/mods/e0e760a2-0f01-4425-bdf4-4e511abba8e8\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/pulsefire-ekko-custom-vo/thumb.webp?v=e2d2b4ff",
+	"file": {
+		"version": 1,
+		"asset": "pulsefire-ekko-custom-vo-v1.fantome",
+		"size": 9121301,
+		"sha256": "5f3a5b7851d944ae82372aecba13dfba0d4411d28d48b9135772f9bcad81c0fd"
+	}
+}

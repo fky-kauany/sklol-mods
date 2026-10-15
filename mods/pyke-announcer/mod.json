@@ -1,0 +1,17 @@
+{
+	"id": "pyke-announcer",
+	"name": "Pyke Announcer",
+	"kind": "announcer",
+	"creator": "leischii",
+	"description": "## Mod Information\n\n###### Mode: Summoners Rift & Aram\n\n###### Author: Leischii\n\n###### Mod version: 2.0.1\n\n###### Description: Enables Pyke announcer on Summoners Rift and Aram. There is also an alternative version including the Bilgewater background music.\n\n######\n\n## Installation\n\nTo use this mod you have download 1 of the two files:\nEither \"Pyke Announcer\" OR \"Pyke Announcer + Music\"\nDo NOT use them in combination, you will get conflicts!\n\n---\n\n**Created by** [Leischii](https://runeforge.dev/users/Leischii)\n\n**Original:** https://runeforge.dev/mods/00353c4b-c238-439f-8144-65b55518dfa0\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/pyke-announcer/thumb.webp?v=3ba87d8b",
+	"file": {
+		"version": 1,
+		"asset": "pyke-announcer-v1.fantome",
+		"size": 132072358,
+		"sha256": "24853d9f45be4620570c33e675fc89a8ecc5abd9340354787e62e10f6059b0b8"
+	}
+}

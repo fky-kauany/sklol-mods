@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T11:01:43.102Z",
+	"generatedAt": "2026-10-15T11:07:23.328Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -8797,6 +8797,176 @@
 				"asset": "project-vayne-gold-v1.fantome",
 				"size": 1216790,
 				"sha256": "c49e33f812d7c04bcbc4a130d06a9d1ef1e12a9743942e2411a450daedb74846"
+			}
+		},
+		{
+			"id": "project-vayne-red",
+			"name": "PROJECT Vayne - Red",
+			"kind": "other",
+			"creator": "1gem1",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/project-vayne-red/thumb.webp?v=b28cd24d",
+			"file": {
+				"version": 1,
+				"asset": "project-vayne-red-v1.fantome",
+				"size": 1322862,
+				"sha256": "65a302bdcfa66e09c7e4a0d309fbc2a776ddc18077d760f1f2eea787b73c7171"
+			}
+		},
+		{
+			"id": "project-yasuo-red",
+			"name": "PROJECT: Yasuo - Red",
+			"kind": "other",
+			"creator": "1gem1",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/project-yasuo-red/thumb.webp?v=4b2d91dd",
+			"file": {
+				"version": 1,
+				"asset": "project-yasuo-red-v1.fantome",
+				"size": 1224040,
+				"sha256": "803b53edfef16c4de2ebb69b8e14f53ce5f80974b8ae4ecc51f65cb7b48a53da"
+			}
+		},
+		{
+			"id": "psy-ops-killstreak",
+			"name": "Psy Ops Killstreak",
+			"kind": "sounds",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/psy-ops-killstreak/thumb.webp?v=426b503e",
+			"file": {
+				"version": 1,
+				"asset": "psy-ops-killstreak-v1.fantome",
+				"size": 409862,
+				"sha256": "66c1d0e10fb24ee7a908a9159d9f8ff23eb72d60a977aaeb367e4948408e9b0b"
+			}
+		},
+		{
+			"id": "pulsefire-ekko-custom-vo",
+			"name": "Pulsefire Ekko Custom VO",
+			"kind": "sounds",
+			"creator": "voiceshowcase",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/pulsefire-ekko-custom-vo/thumb.webp?v=e2d2b4ff",
+			"file": {
+				"version": 1,
+				"asset": "pulsefire-ekko-custom-vo-v1.fantome",
+				"size": 9121301,
+				"sha256": "5f3a5b7851d944ae82372aecba13dfba0d4411d28d48b9135772f9bcad81c0fd"
+			}
+		},
+		{
+			"id": "pyke-announcer",
+			"name": "Pyke Announcer",
+			"kind": "announcer",
+			"creator": "leischii",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/pyke-announcer/thumb.webp?v=3ba87d8b",
+			"file": {
+				"version": 1,
+				"asset": "pyke-announcer-v1.fantome",
+				"size": 132072358,
+				"sha256": "24853d9f45be4620570c33e675fc89a8ecc5abd9340354787e62e10f6059b0b8"
+			}
+		},
+		{
+			"id": "qiyana-minaj",
+			"name": "Qiyana Minaj",
+			"kind": "sounds",
+			"creator": "zint0s",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/qiyana-minaj/thumb.webp?v=546791a2",
+			"file": {
+				"version": 1,
+				"asset": "qiyana-minaj-v1.fantome",
+				"size": 9163127,
+				"sha256": "b3e698d5322ac5c0ebaa844c4e353a05ae2a261f11dd4273c9c65697b2186681"
+			}
+		},
+		{
+			"id": "queen-of-pain-announcer-dota-2-killstreaks",
+			"name": "Queen of Pain Announcer × Dota 2 Killstreaks",
+			"kind": "announcer",
+			"creator": "dear-agony",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/queen-of-pain-announcer-dota-2-killstreaks/thumb.webp?v=96ce574f",
+			"file": {
+				"version": 1,
+				"asset": "queen-of-pain-announcer-dota-2-killstreaks-v1.fantome",
+				"size": 6188264,
+				"sha256": "c9050eeb6c6683d7961693b9532a8af1cece356342b1a6de8dceab26e9c69947"
+			}
+		},
+		{
+			"id": "raahhngar-raah-on-leap",
+			"name": "RAAHHngar (RAAH on leap)",
+			"kind": "sounds",
+			"creator": "shrimpback",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/raahhngar-raah-on-leap/thumb.webp?v=f3902b06",
+			"file": {
+				"version": 1,
+				"asset": "raahhngar-raah-on-leap-v1.fantome",
+				"size": 2891689,
+				"sha256": "3d56bbbfda571075650a8cb102a06afec18ec3e70269f22ae47ca4ffc31bc9c8"
+			}
+		},
+		{
+			"id": "ramlethal-annoucer-recovery",
+			"name": "Ramlethal Annoucer (Recovery)",
+			"kind": "announcer",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/ramlethal-annoucer-recovery/thumb.webp?v=60a39dcc",
+			"file": {
+				"version": 1,
+				"asset": "ramlethal-annoucer-recovery-v1.fantome",
+				"size": 6428595,
+				"sha256": "9a8c3e1b20ee65d880d724de5fd705e6a25f954becdde4096090b49e345b0758"
+			}
+		},
+		{
+			"id": "real-minimap-brawl",
+			"name": "Real Minimap [Brawl]",
+			"kind": "ui",
+			"creator": "agomsmoga",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/real-minimap-brawl/thumb.webp?v=f0bb9c0a",
+			"file": {
+				"version": 1,
+				"asset": "real-minimap-brawl-v1.fantome",
+				"size": 9063609,
+				"sha256": "fd4fdcad4574016a04ca9a3f9b29cfd265cb9af314d5e03b9c0f1613602f18b2"
 			}
 		}
 	]

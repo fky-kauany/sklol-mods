@@ -1,0 +1,17 @@
+{
+	"id": "qiyana-minaj",
+	"name": "Qiyana Minaj",
+	"kind": "sounds",
+	"creator": "zint0s",
+	"description": "Nicki Minaj's cues instead of the basic sounds of Qiana's skills\n(It only works with the True damage skin.)\n\n---\n\n**Created by** [Zint0s](https://runeforge.dev/users/Zint0s)\n\n**Original:** https://runeforge.dev/mods/83db37fc-8e12-4d85-9103-1bae5807e9d5\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/qiyana-minaj/thumb.webp?v=546791a2",
+	"file": {
+		"version": 1,
+		"asset": "qiyana-minaj-v1.fantome",
+		"size": 9163127,
+		"sha256": "b3e698d5322ac5c0ebaa844c4e353a05ae2a261f11dd4273c9c65697b2186681"
+	}
+}
