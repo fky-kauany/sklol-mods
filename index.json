@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T13:07:51.736Z",
+	"generatedAt": "2026-10-15T13:13:47.529Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -3253,6 +3253,26 @@
 			]
 		},
 		{
+			"id": "classic-rift-original-lights",
+			"name": "Classic Rift - Original Lights",
+			"kind": "maps",
+			"creator": "thekillerey",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/classic-rift-original-lights/thumb.webp?v=ad17e352",
+			"file": {
+				"version": 1,
+				"asset": "classic-rift-original-lights-v1.fantome",
+				"size": 27343136,
+				"sha256": "0789d6fe8b92f0ab4b757e71b1d7866b948d966698b3bbbb3370630d02df6a54"
+			},
+			"maps": [
+				453
+			]
+		},
+		{
 			"id": "coffin-of-andy-and-leyley-bgm",
 			"name": "Coffin of Andy and Leyley BGM",
 			"kind": "sounds",
@@ -3594,6 +3614,26 @@
 				"size": 8677847,
 				"sha256": "0712ee46a04ec0b2e2156d6070eeb3fce9cca0c5f96849ed35d41fc82003175b"
 			}
+		},
+		{
+			"id": "cursed-rift",
+			"name": "Cursed Rift",
+			"kind": "maps",
+			"creator": "aropatnik",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/cursed-rift/thumb.webp?v=74ec3037",
+			"file": {
+				"version": 1,
+				"asset": "cursed-rift-v1.fantome",
+				"size": 195057341,
+				"sha256": "a2a481fae7646e7d7bafc64fd5f9609cb9297cbd7794365b1890a2cab00ebe1a"
+			},
+			"maps": [
+				11
+			]
 		},
 		{
 			"id": "cute-cat-ears-champion-icon",
@@ -4092,6 +4132,26 @@
 			}
 		},
 		{
+			"id": "default-summoner-rift",
+			"name": "Default Summoner Rift",
+			"kind": "maps",
+			"creator": "thekillerey",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/default-summoner-rift/thumb.webp?v=1f1d6bdb",
+			"file": {
+				"version": 1,
+				"asset": "default-summoner-rift-v1.fantome",
+				"size": 30938584,
+				"sha256": "4c91b40977254ac6e4461c8ff18e769433be8054c192922b9d2c3123c9adb968"
+			},
+			"maps": [
+				11
+			]
+		},
+		{
 			"id": "default-veigar-ukrainian-voiceover",
 			"name": "Default Veigar (Ukrainian Voiceover)",
 			"kind": "sounds",
@@ -4347,6 +4407,26 @@
 			}
 		},
 		{
+			"id": "dominion-bgm",
+			"name": "Dominion BGM",
+			"kind": "maps",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/dominion-bgm/thumb.webp?v=6c001d13",
+			"file": {
+				"version": 1,
+				"asset": "dominion-bgm-v1.fantome",
+				"size": 33888585,
+				"sha256": "41fc2eccb2c612b419a4907c12da00013688965427360685b6914ebc760fd8bb"
+			},
+			"maps": [
+				11
+			]
+		},
+		{
 			"id": "don-quixote-wards",
 			"name": "Don Quixote Wards",
 			"kind": "other",
@@ -4415,6 +4495,26 @@
 			}
 		},
 		{
+			"id": "dota-2-cavernite-lane-creeps",
+			"name": "Dota 2 Cavernite Lane Creeps",
+			"kind": "maps",
+			"creator": "dear-agony",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/dota-2-cavernite-lane-creeps/thumb.webp?v=702cf572",
+			"file": {
+				"version": 1,
+				"asset": "dota-2-cavernite-lane-creeps-v1.fantome",
+				"size": 6573620,
+				"sha256": "7a2a12d8a0985c92a5e97deb90e0547a65288ab856ebf719b17bea19bb315279"
+			},
+			"maps": [
+				11
+			]
+		},
+		{
 			"id": "dota-2-default-announcer",
 			"name": "DOTA 2 Default Announcer",
 			"kind": "announcer",
@@ -4430,6 +4530,26 @@
 				"size": 6221661,
 				"sha256": "854b27f47441a61d81faf1e7266729413f3f40f70979b0942184ba948ad33263"
 			}
+		},
+		{
+			"id": "dota-2-lane-creeps",
+			"name": "Dota 2 Lane Creeps",
+			"kind": "maps",
+			"creator": "dear-agony",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/dota-2-lane-creeps/thumb.webp?v=7e7f65d9",
+			"file": {
+				"version": 1,
+				"asset": "dota-2-lane-creeps-v1.fantome",
+				"size": 6382973,
+				"sha256": "de6cbc128288162dc94d0f747753f075ce4ae4a154c95205f809149006e7cc49"
+			},
+			"maps": [
+				11
+			]
 		},
 		{
 			"id": "dota2-cave-johnson-announcer-pack",
@@ -4695,6 +4815,46 @@
 				"size": 2997098,
 				"sha256": "8abf80233692fe8bdee95a0279810beb04655b193ea2bf855c1288084284213c"
 			}
+		},
+		{
+			"id": "drututt-nexus-finisher",
+			"name": "Drututt Nexus Finisher",
+			"kind": "maps",
+			"creator": "sauronkaiser",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/drututt-nexus-finisher/thumb.webp?v=6a47af31",
+			"file": {
+				"version": 1,
+				"asset": "drututt-nexus-finisher-v1.fantome",
+				"size": 2290953,
+				"sha256": "95cadf73e9d351a63555c616689979c06812764688dc427b274340d4e07b627f"
+			},
+			"maps": [
+				11
+			]
+		},
+		{
+			"id": "dry-rift",
+			"name": "Dry Rift",
+			"kind": "maps",
+			"creator": "zero",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/dry-rift/thumb.webp?v=16a3e41c",
+			"file": {
+				"version": 1,
+				"asset": "dry-rift-v1.fantome",
+				"size": 103230593,
+				"sha256": "8ccd5826549c781af499c4accc3ddf2cb09627a253fa03df09db55b6b5fbc867"
+			},
+			"maps": [
+				11
+			]
 		},
 		{
 			"id": "duke-nukem-announcer",
@@ -5173,6 +5333,26 @@
 			}
 		},
 		{
+			"id": "fog-of-war",
+			"name": "FOG of war",
+			"kind": "maps",
+			"creator": "yuumi",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/fog-of-war/thumb.webp?v=4faa43c1",
+			"file": {
+				"version": 1,
+				"asset": "fog-of-war-v1.fantome",
+				"size": 864,
+				"sha256": "50ef0131396950494719308025a9f0c07f0044fefe56023ef61970968cbc1fe1"
+			},
+			"maps": [
+				11
+			]
+		},
+		{
 			"id": "font-braille",
 			"name": "Font Braille",
 			"kind": "fonts",
@@ -5460,6 +5640,26 @@
 				"size": 6472148,
 				"sha256": "4a9166fe97f34a28eb569e5c51764942f7dbc31c8c460a8b1808daed355fd9f8"
 			}
+		},
+		{
+			"id": "ghast-nexus-finisher",
+			"name": "Ghast Nexus Finisher",
+			"kind": "maps",
+			"creator": "sauronkaiser",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/ghast-nexus-finisher/thumb.webp?v=43f6d1d6",
+			"file": {
+				"version": 1,
+				"asset": "ghast-nexus-finisher-v1.fantome",
+				"size": 1369059,
+				"sha256": "b5347bfd8cbe1b53fa312e65d458eb6de2dcc2de69629eee189e4312193eb30e"
+			},
+			"maps": [
+				11
+			]
 		},
 		{
 			"id": "glados-announcer",

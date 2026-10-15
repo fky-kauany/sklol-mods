@@ -1,0 +1,20 @@
+{
+	"id": "fog-of-war",
+	"name": "FOG of war",
+	"kind": "maps",
+	"creator": "yuumi",
+	"description": "The fog is coming.\nThe fog is coming.\nThe fog is coming.\nThe fog is coming.\nThe fog is coming.\nThe fog is coming.\nThe fog is coming.\nThe fog is coming.\nThe fog is coming.\nThe fog is coming.\nThe fog is coming.\nThe fog is coming.\nThe fog is coming.\n\n---\n\n**Created by** [Yuumi](https://runeforge.dev/users/yuumi)\n\n**Original:** https://runeforge.dev/mods/de12da9e-cde4-4f0c-a2e4-6e3304d81fc7\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/fog-of-war/thumb.webp?v=4faa43c1",
+	"file": {
+		"version": 1,
+		"asset": "fog-of-war-v1.fantome",
+		"size": 864,
+		"sha256": "50ef0131396950494719308025a9f0c07f0044fefe56023ef61970968cbc1fe1"
+	},
+	"maps": [
+		11
+	]
+}

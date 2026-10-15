@@ -1,0 +1,20 @@
+{
+	"id": "cursed-rift",
+	"name": "Cursed Rift",
+	"kind": "maps",
+	"creator": "aropatnik",
+	"description": "### Information\n\nRecolors the map by swapping color channels. Which means if Riot decides that the map isn't green anymore the preview images will be off. You have been warned.\n\n**Author:** Aropatnik\n\n#\n\n### Issues\n\nIf/When this mod breaks let me know\n\nDiscord username: aropatnik\n\nDiscord server: https://discord.gg/nctuYUq3QX\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n#\n\n### Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/93e302de-7bf5-455b-a6c6-f2034d0f1a5a\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/cursed-rift/thumb.webp?v=74ec3037",
+	"file": {
+		"version": 1,
+		"asset": "cursed-rift-v1.fantome",
+		"size": 195057341,
+		"sha256": "a2a481fae7646e7d7bafc64fd5f9609cb9297cbd7794365b1890a2cab00ebe1a"
+	},
+	"maps": [
+		11
+	]
+}

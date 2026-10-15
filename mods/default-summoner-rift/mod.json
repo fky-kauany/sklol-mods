@@ -1,0 +1,20 @@
+{
+	"id": "default-summoner-rift",
+	"name": "Default Summoner Rift",
+	"kind": "maps",
+	"creator": "thekillerey",
+	"description": "This mod changes the current Winter Rift 2025 map to the default map.\r\nNote: No mapforcer mod is needed. It works alone with itself.\n\n---\n\n**Created by** [TheKillerey](https://runeforge.dev/users/TheKillerey)\n\n**Original:** https://runeforge.dev/mods/5256a367-ffe3-48d9-853f-a736d1eb2f3d\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/default-summoner-rift/thumb.webp?v=1f1d6bdb",
+	"file": {
+		"version": 1,
+		"asset": "default-summoner-rift-v1.fantome",
+		"size": 30938584,
+		"sha256": "4c91b40977254ac6e4461c8ff18e769433be8054c192922b9d2c3123c9adb968"
+	},
+	"maps": [
+		11
+	]
+}

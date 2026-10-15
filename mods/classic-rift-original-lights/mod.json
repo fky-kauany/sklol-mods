@@ -1,0 +1,20 @@
+{
+	"id": "classic-rift-original-lights",
+	"name": "Classic Rift - Original Lights",
+	"kind": "maps",
+	"creator": "thekillerey",
+	"description": "Classic Rift – Original Lights replaces the current lightmaps with lighting that closely matches the original Classic Summoner’s Rift.\r\n\r\nThis improves the brightness, shadows, colors, and overall atmosphere of the map, restoring the intended classic appearance while keeping the original map assets unchanged. The result is a brighter, more natural-looking Rift that feels much closer to the original version.\n\n---\n\n**Created by** [TheKillerey](https://runeforge.dev/users/TheKillerey)\n\n**Original:** https://runeforge.dev/mods/c490697b-d810-4365-ab4e-5af0dce3b470\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/classic-rift-original-lights/thumb.webp?v=ad17e352",
+	"file": {
+		"version": 1,
+		"asset": "classic-rift-original-lights-v1.fantome",
+		"size": 27343136,
+		"sha256": "0789d6fe8b92f0ab4b757e71b1d7866b948d966698b3bbbb3370630d02df6a54"
+	},
+	"maps": [
+		453
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"id": "dominion-bgm",
+	"name": "Dominion BGM",
+	"kind": "maps",
+	"creator": "aurecueil",
+	"description": "## ☕ Wanna buy me a [Coffee](https://ko-fi.com/aurecueil)? :> \r\n[![My Discord Server ^^](https://raw.githubusercontent.com/Aurecueil/Temp/refs/heads/main/images/banner6_better.png)](https://discord.gg/GETA29vZEK)\r\n\r\n## 📦 Misc\r\n\r\n**Discord:** `aurecueil`\r\n**Commisioned** by: `masai.3801`\r\ni **DO** take **commissions** :p\n\n---\n\n**Created by** [aurecueil](https://www.divineskins.gg/aurecueil)\n\n**Original:** https://www.divineskins.gg/aurecueil/dominion-bgm-2\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/dominion-bgm/thumb.webp?v=6c001d13",
+	"file": {
+		"version": 1,
+		"asset": "dominion-bgm-v1.fantome",
+		"size": 33888585,
+		"sha256": "41fc2eccb2c612b419a4907c12da00013688965427360685b6914ebc760fd8bb"
+	},
+	"maps": [
+		11
+	]
+}

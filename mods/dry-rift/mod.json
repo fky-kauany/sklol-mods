@@ -1,0 +1,20 @@
+{
+	"id": "dry-rift",
+	"name": "Dry Rift",
+	"kind": "maps",
+	"creator": "zero",
+	"description": "> **Note:** The bushes appear green in the preview screenshots, but this has already been fixed in-game to match the map's current color palette\r\n\r\nDry Rift is a complete map texture rework for Summoner's Rift designed to eliminate visual noise and deliver a clean, arid battlefield. By neutralizing the dominant green channel across terrain, rocks, foliage, and ambient structures, this mod creates a warm, balanced environment where champions, abilities, and visual effects stand out instantly.\n\n---\n\n**Created by** [ZERO_](https://runeforge.dev/users/ZERO_)\n\n**Original:** https://runeforge.dev/mods/907e2adb-dd66-48f2-b10d-20e64847307c\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/dry-rift/thumb.webp?v=16a3e41c",
+	"file": {
+		"version": 1,
+		"asset": "dry-rift-v1.fantome",
+		"size": 103230593,
+		"sha256": "8ccd5826549c781af499c4accc3ddf2cb09627a253fa03df09db55b6b5fbc867"
+	},
+	"maps": [
+		11
+	]
+}

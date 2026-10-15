@@ -1,0 +1,20 @@
+{
+	"id": "ghast-nexus-finisher",
+	"name": "Ghast Nexus Finisher",
+	"kind": "maps",
+	"creator": "sauronkaiser",
+	"description": "Note: The sound of this animation seems to be linked with the \"Ambiental Sounds\" setting in your game; the animation will be muted if you have this setting at 0 or muted.\n\nCredits:\n\nModel made by me in Blockbench\n\nAnimation made by me\n\nSounds from Minecraft\n\nDisclaimer: Take in mind that Nexus Finishers are a new type of mod discovered recently, and given all the changes Riot makes to maps, I can't ensure they are stable. You can check if they cause any trouble by looking at replays (go to the moment the game ends and check the animation of the nexus being destroyed)\n\n---\n\n**Created by** [Sauronkaiser](https://runeforge.dev/users/Sauronkaiser)\n\n**Original:** https://runeforge.dev/mods/0096afda-01bd-44d1-834a-83fc773f3e26\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/ghast-nexus-finisher/thumb.webp?v=43f6d1d6",
+	"file": {
+		"version": 1,
+		"asset": "ghast-nexus-finisher-v1.fantome",
+		"size": 1369059,
+		"sha256": "b5347bfd8cbe1b53fa312e65d458eb6de2dcc2de69629eee189e4312193eb30e"
+	},
+	"maps": [
+		11
+	]
+}

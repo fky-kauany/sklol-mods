@@ -1,0 +1,20 @@
+{
+	"id": "dota-2-lane-creeps",
+	"name": "Dota 2 Lane Creeps",
+	"kind": "maps",
+	"creator": "dear-agony",
+	"description": "> **NOTE:** This mod only works with the base map (SR / Modern). It is not recommended to use this mod in Classic mode, as it will cause the game to crash.\r\n\r\n### Overview\r\n\r\nA complete visual replacement of League of Legends lane minions with Dota 2 lane creeps.\r\n\r\n### Assets\r\n\r\nAll minions have been replaced with their Dota 2 lane creep counterparts.\r\n\r\nThe Super Minion has been replaced with the Hulk creep, since Dota 2 has no direct Super Minion equivalent.\r\n\r\nThe textures were adjusted to include lighting and shadows that better match League's visual style.\r\n\r\n### Animations\r\n\r\nThe creeps use their original animations, including attack, movement, idle, death, and other animations. The animations were selected based on personal preference. \r\n\r\nAll buff bones have also been transferred.\r\n\r\n### Model Scale\r\n\r\nThe model sizes were increased compared to the original minion models:\r\n\r\n* Melee: +14.9%\r\n* Ranged: +9.2%\r\n* Siege: +2.7% *(Red)* / −8.1% *(Blue, adjusted to match the same size)*\r\n* Super: +14.3%\r\n\r\n### Unit Icons\r\n\r\nEach minion has its own original Dota 2 icon displayed when selecting the unit. *(Super Minions use a custom icon)*\r\n\r\n### Compatibility\r\n\r\nWorks on Summoner’s Rift. *(Modern)*\r\n\r\n### Credits\r\n\r\nAll Dota 2 assets used in this mod are property of Valve Corporation. \r\n\r\nThis mod was created for entertainment purposes only.\r\n\r\n### Known Issues\r\n\r\n*There are minor visual discrepancies with the Baron buff VFX. This only affects the Ranged Minion and Siege Minion, specifically the Ground Buff, Staff and Barrel buffs.*\r\n\r\n*Game crashes in Classic mode due to missing hashes.*\r\n\r\n### Feedback\r\n\r\nIf you encounter issues, have suggestions, or want to share feedback, feel free to contact me on Discord\r\n\r\nDiscord: **dear_agony** (Dear Agony#9179)\n\n---\n\n**Created by** [Dear_Agony](https://runeforge.dev/users/Dear_Agony)\n\n**Original:** https://runeforge.dev/mods/ec753ec0-385c-4bac-a4b5-7894c03ee303\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/dota-2-lane-creeps/thumb.webp?v=7e7f65d9",
+	"file": {
+		"version": 1,
+		"asset": "dota-2-lane-creeps-v1.fantome",
+		"size": 6382973,
+		"sha256": "de6cbc128288162dc94d0f747753f075ce4ae4a154c95205f809149006e7cc49"
+	},
+	"maps": [
+		11
+	]
+}

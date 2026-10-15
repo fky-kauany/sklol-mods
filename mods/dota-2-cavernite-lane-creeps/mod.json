@@ -1,0 +1,20 @@
+{
+	"id": "dota-2-cavernite-lane-creeps",
+	"name": "Dota 2 Cavernite Lane Creeps",
+	"kind": "maps",
+	"creator": "dear-agony",
+	"description": "> **NOTE:** This mod only works with the base map (SR / Modern). It is not recommended to use this mod in Classic mode, as it will cause the game to crash.\r\n\r\n### Overview\r\n\r\nAn alternative version of my custom Dota 2 Lane Creeps mod based on the Cavernite Creeps from The International 2018\r\n\r\nYou can also preview the original [Dota 2 Lane Creeps](https://runeforge.dev/mods/ec753ec0-385c-4bac-a4b5-7894c03ee303) mod\r\n\r\n---\r\n\r\n### Differences\r\n\r\nReplaced Melee and Ranged minions on both sides\r\n\r\n---\r\n\r\n### Credits\r\n\r\nAll Dota 2 assets used in this mod are property of Valve Corporation\r\n\r\nThis mod was created for entertainment purposes only\r\n\r\n---\r\n\r\n### Feedback\r\n\r\nIf you encounter issues, have suggestions, or want to share feedback, feel free to contact me on Discord\r\n\r\nDiscord: **dear_agony** (Dear Agony#9179)\n\n---\n\n**Created by** [Dear_Agony](https://runeforge.dev/users/Dear_Agony)\n\n**Original:** https://runeforge.dev/mods/e62c00c5-811a-4f47-8d23-0a6363b96d7e\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/dota-2-cavernite-lane-creeps/thumb.webp?v=702cf572",
+	"file": {
+		"version": 1,
+		"asset": "dota-2-cavernite-lane-creeps-v1.fantome",
+		"size": 6573620,
+		"sha256": "7a2a12d8a0985c92a5e97deb90e0547a65288ab856ebf719b17bea19bb315279"
+	},
+	"maps": [
+		11
+	]
+}
