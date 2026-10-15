@@ -1,0 +1,17 @@
+{
+	"id": "spirit-blossom-lillia-hud-v1-1-2",
+	"name": "Spirit Blossom Lillia HUD V1.1.2",
+	"kind": "ui",
+	"creator": "bober",
+	"description": "I couldn't find the mod on runeforge so i decided to add it myself.\r\nI don't own the mod and i am not the one who made it.\n\n---\n\n**Created by** [Bober](https://runeforge.dev/users/Bober)\n\n**Original:** https://runeforge.dev/mods/aee901a9-3cd9-46cc-92d0-9be8adf21552\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/spirit-blossom-lillia-hud-v1-1-2/thumb.webp?v=78b7a889",
+	"file": {
+		"version": 1,
+		"asset": "spirit-blossom-lillia-hud-v1-1-2-v1.fantome",
+		"size": 3741170,
+		"sha256": "c4586c3289547eb12d8d1b4a850b6e33f891a5422a1b3ceb29335e15b2299ea8"
+	}
+}

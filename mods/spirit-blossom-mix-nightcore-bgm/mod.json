@@ -1,0 +1,17 @@
+{
+	"id": "spirit-blossom-mix-nightcore-bgm",
+	"name": "Spirit Blossom Mix Nightcore BGM",
+	"kind": "sounds",
+	"creator": "aurecueil",
+	"description": "## ☕ Wanna buy me a [Coffee](https://ko-fi.com/aurecueil)? :> \n[![My Discord Server ^^](https://raw.githubusercontent.com/Aurecueil/Temp/refs/heads/main/images/banner6_better.png)](https://discord.gg/GETA29vZEK)\n## 📦 Misc\ndc: `aurecueil`\n\ni DO take Commisions btw\n\n---\n\n**Created by** [aurecueil](https://www.divineskins.gg/aurecueil)\n\n**Original:** https://www.divineskins.gg/aurecueil/spirit-blossom-mix-nightcore-bgm\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/spirit-blossom-mix-nightcore-bgm/thumb.webp?v=a30c8a25",
+	"file": {
+		"version": 1,
+		"asset": "spirit-blossom-mix-nightcore-bgm-v1.modpkg",
+		"size": 36585439,
+		"sha256": "52aa3fe43af510a6631882ab66423acf5f8abd392bc133d0ec0898f98dd4f804"
+	}
+}

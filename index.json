@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T11:52:27.621Z",
+	"generatedAt": "2026-10-15T11:58:35.788Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -161,6 +161,11 @@
 			"links": {
 				"youtube": "https://youtu.be/YTT6gDQ9gBk"
 			}
+		},
+		"bober": {
+			"name": "Bober",
+			"avatar": "creators/bober.jpg?v=ed6fda17",
+			"links": {}
 		},
 		"bossa-uh": {
 			"name": "bossa_uh",
@@ -10416,6 +10421,179 @@
 				"asset": "spirit-blossom-akana-nightcore-bgm-v1.modpkg",
 				"size": 26516497,
 				"sha256": "42202f2106ae4c70d3ba200ee81da19532ab4bebfcd00a00977a97961a9307a0"
+			}
+		},
+		{
+			"id": "spirit-blossom-bgm-for-moga-map",
+			"name": "Spirit Blossom BGM for MOGA Map",
+			"kind": "other",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/spirit-blossom-bgm-for-moga-map/thumb.webp?v=815cfca4",
+			"file": {
+				"version": 1,
+				"asset": "spirit-blossom-bgm-for-moga-map-v1.fantome",
+				"size": 25548665,
+				"sha256": "7bd2e89a8576656a1bbe9b22442787b7aa0b4d7a859269b21aaf9e1bfd149c70"
+			}
+		},
+		{
+			"id": "spirit-blossom-irelia-chroma-vfx",
+			"name": "Spirit Blossom Irelia chroma VFX",
+			"kind": "other",
+			"creator": "suriin",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/spirit-blossom-irelia-chroma-vfx/thumb.webp?v=a1c1dfe5",
+			"file": {
+				"version": 1,
+				"asset": "spirit-blossom-irelia-chroma-vfx-v1.fantome",
+				"size": 25885895,
+				"sha256": "e79b47d8d32c99ea8c574fff7aaec74c2d4595f205e15001d985278af5bfdf84"
+			}
+		},
+		{
+			"id": "spirit-blossom-kanmei-nightcore-bgm",
+			"name": "Spirit Blossom Kanmei Nightcore BGM",
+			"kind": "sounds",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/spirit-blossom-kanmei-nightcore-bgm/thumb.webp?v=09e1d95e",
+			"file": {
+				"version": 1,
+				"asset": "spirit-blossom-kanmei-nightcore-bgm-v1.modpkg",
+				"size": 27154393,
+				"sha256": "eb753ca3be5eb9e9f6c46043903124aa370a8f3721041dd31a929698c3bb9a23"
+			}
+		},
+		{
+			"id": "spirit-blossom-kindred-chroma-vfx",
+			"name": "Spirit Blossom Kindred chroma VFX",
+			"kind": "vfx",
+			"creator": "suriin",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/spirit-blossom-kindred-chroma-vfx/thumb.webp?v=254777da",
+			"file": {
+				"version": 1,
+				"asset": "spirit-blossom-kindred-chroma-vfx-v1.fantome",
+				"size": 11442318,
+				"sha256": "333b985026d48fead9f59fb2354d745e5409222503213f2b5c99ec5cee2dda3a"
+			}
+		},
+		{
+			"id": "spirit-blossom-lillia-hud-v1-1-2",
+			"name": "Spirit Blossom Lillia HUD V1.1.2",
+			"kind": "ui",
+			"creator": "bober",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/spirit-blossom-lillia-hud-v1-1-2/thumb.webp?v=78b7a889",
+			"file": {
+				"version": 1,
+				"asset": "spirit-blossom-lillia-hud-v1-1-2-v1.fantome",
+				"size": 3741170,
+				"sha256": "c4586c3289547eb12d8d1b4a850b6e33f891a5422a1b3ceb29335e15b2299ea8"
+			}
+		},
+		{
+			"id": "spirit-blossom-mix-nightcore-bgm",
+			"name": "Spirit Blossom Mix Nightcore BGM",
+			"kind": "sounds",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/spirit-blossom-mix-nightcore-bgm/thumb.webp?v=a30c8a25",
+			"file": {
+				"version": 1,
+				"asset": "spirit-blossom-mix-nightcore-bgm-v1.modpkg",
+				"size": 36585439,
+				"sha256": "52aa3fe43af510a6631882ab66423acf5f8abd392bc133d0ec0898f98dd4f804"
+			}
+		},
+		{
+			"id": "spirit-blossom-rift",
+			"name": "Spirit Blossom Rift",
+			"kind": "maps",
+			"creator": "frog",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/spirit-blossom-rift/thumb.webp?v=919df5b8",
+			"file": {
+				"version": 1,
+				"asset": "spirit-blossom-rift-v1.fantome",
+				"size": 315675901,
+				"sha256": "126aa7b21a992cb3e2a04e1dcf825151210a647e5a2030137238b29a9af2417b"
+			},
+			"maps": [
+				11
+			]
+		},
+		{
+			"id": "spirit-blossom-riven-icons",
+			"name": "Spirit Blossom Riven Icons",
+			"kind": "icons",
+			"creator": "mouseatemyhouse",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/spirit-blossom-riven-icons/thumb.webp?v=438ee647",
+			"file": {
+				"version": 1,
+				"asset": "spirit-blossom-riven-icons-v1.fantome",
+				"size": 17253,
+				"sha256": "fe8b1e96a8e56efde62dd370260877b9b81583782e52bc04834cf5beb529d086"
+			}
+		},
+		{
+			"id": "spirit-guard-udyr-old-music-on-spells",
+			"name": "Spirit Guard Udyr [old music on spells]",
+			"kind": "sounds",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/spirit-guard-udyr-old-music-on-spells/thumb.webp?v=0bf1611d",
+			"file": {
+				"version": 1,
+				"asset": "spirit-guard-udyr-old-music-on-spells-v1.fantome",
+				"size": 58070188,
+				"sha256": "561e5c70259b50f3a679eb90d9a5cbeeeceb8831faf51af71882ab772522d66a"
+			}
+		},
+		{
+			"id": "standing-here-i-realize-master-yi",
+			"name": "STANDING HERE I REALIZE Master Yi",
+			"kind": "sounds",
+			"creator": "pico-senpai",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/standing-here-i-realize-master-yi/thumb.webp?v=72c8783d",
+			"file": {
+				"version": 1,
+				"asset": "standing-here-i-realize-master-yi-v1.fantome",
+				"size": 12502718,
+				"sha256": "2adc0f9554dc64fd1d5dfe06899f588ddd2e496538d49446926963f2dd4339f1"
 			}
 		}
 	]

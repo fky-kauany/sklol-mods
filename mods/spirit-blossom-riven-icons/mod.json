@@ -1,0 +1,17 @@
+{
+	"id": "spirit-blossom-riven-icons",
+	"name": "Spirit Blossom Riven Icons",
+	"kind": "icons",
+	"creator": "mouseatemyhouse",
+	"description": "Replaces Riven's ability icons with purple versions. Intended for use with the Spirit Blossom skin, but will replace every skins' icons. Made for my friend Mattie.\n\n---\n\n**Created by** [mouseatemyhouse](https://runeforge.dev/users/mouseatemyhouse)\n\n**Original:** https://runeforge.dev/mods/0cb08363-c9dd-47f9-81b8-9746ef8e6ca9\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/spirit-blossom-riven-icons/thumb.webp?v=438ee647",
+	"file": {
+		"version": 1,
+		"asset": "spirit-blossom-riven-icons-v1.fantome",
+		"size": 17253,
+		"sha256": "fe8b1e96a8e56efde62dd370260877b9b81583782e52bc04834cf5beb529d086"
+	}
+}
