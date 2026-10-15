@@ -1,0 +1,17 @@
+{
+	"id": "summoner-spells-icons-yassified",
+	"name": "summoner spells icons yassified",
+	"kind": "other",
+	"creator": "lumin",
+	"description": "when your balls are hanging low\r\nand they wobble to the floo\r\nand you tie  them in a knot\r\nor a into a bow\r\ndo they clank when you walk?\r\ndo they jingle when you talk?\r\nwhat a sound. bouncing all around....\n\n---\n\n**Created by** [Lumin](https://runeforge.dev/users/Lumin)\n\n**Original:** https://runeforge.dev/mods/33ffb386-9d5c-4adf-9b1f-37e0a39dce77\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/summoner-spells-icons-yassified/thumb.webp?v=c0cdb69f",
+	"file": {
+		"version": 1,
+		"asset": "summoner-spells-icons-yassified-v1.fantome",
+		"size": 22240,
+		"sha256": "2aab7fcb6e752995d4cbf82c2d6fe39de565420d481ee8c7a4e0b06bcd21ba76"
+	}
+}

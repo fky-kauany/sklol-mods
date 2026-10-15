@@ -1,0 +1,17 @@
+{
+	"id": "teemo-target-dummies",
+	"name": "Teemo Target Dummies",
+	"kind": "other",
+	"creator": "agomsmoga",
+	"description": "### If you'd like some random misc character or Chibi as a dummy, just ask and I'll make it.\n\n#### Overview\n\n* Teemo Target Dummies\n* Affects both Friendly and Enemy target dummies\n\n[Click to see all my other totally sick mods.](https://runeforge.dev/users/Moga/mods?page=0\\&sortBy=download_count)\n\n#\n\n### Mod Information:\n\nAuthor: Moga\n\nhttps://discord.gg/gSXbEmPQCA\n\n---\n\n**Created by** [Moga](https://runeforge.dev/users/agomsMoga)\n\n**Original:** https://runeforge.dev/mods/0788413e-9b73-46c0-9538-18f8ce90c87a\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/teemo-target-dummies/thumb.webp?v=e331028b",
+	"file": {
+		"version": 1,
+		"asset": "teemo-target-dummies-v1.fantome",
+		"size": 8144167,
+		"sha256": "7ec591253bbcffe5e9d06d988aa4e2c50128d2dd9c63ab1948797a6cd5af2b81"
+	}
+}

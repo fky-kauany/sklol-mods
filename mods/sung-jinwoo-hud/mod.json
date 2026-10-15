@@ -1,0 +1,17 @@
+{
+	"id": "sung-jinwoo-hud",
+	"name": "Sung Jinwoo HUD",
+	"kind": "ui",
+	"creator": "disco",
+	"description": "## Sungjinwoo HUD\n\n### Features\n\n- **Shadow Monarch Palette:** A complete UI reskin featuring deep blacks and signature electric blues, inspired by Sung Jin-Woo's mana and shadow soldiers.\n- **Total Immersion:** Replaces the entire default in-game HUD, including your health/mana bars, minimap frame, and ability icons.\n- **Universal Mod:** This is a UI modification that works universally, regardless of the champion you are playing.\n\n*Some of these skins use custom models made by other creators. If one is yours and you’d like credit, DM me on Discord.*\n*Divine Skins is not affiliated with or endorsed by Riot Games or League of Legends.*\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/sung-jinwoo-hud\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/sung-jinwoo-hud/thumb.webp?v=4ff53d3c",
+	"file": {
+		"version": 1,
+		"asset": "sung-jinwoo-hud-v1.fantome",
+		"size": 10348252,
+		"sha256": "e18fe8a2879b78fe93df515cf753082d0b23c17403790cc91bda989af00d7d4a"
+	}
+}

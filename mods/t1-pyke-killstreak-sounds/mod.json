@@ -1,0 +1,17 @@
+{
+	"id": "t1-pyke-killstreak-sounds",
+	"name": "T1 Pyke Killstreak Sounds",
+	"kind": "sounds",
+	"creator": "lilbradly",
+	"description": "Replaces Single, Double, Triple, Quadra, Pentakill sounds with T1 pyke R Killsounds\n\n---\n\n**Created by** [LilBradly#8428](https://runeforge.dev/users/LilBradly)\n\n**Original:** https://runeforge.dev/mods/9321b8c4-cc64-46c1-a1b5-db99d693dea4\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/t1-pyke-killstreak-sounds/thumb.webp?v=d3eceb6e",
+	"file": {
+		"version": 1,
+		"asset": "t1-pyke-killstreak-sounds-v1.fantome",
+		"size": 631506,
+		"sha256": "f71a575c378a7a46b84f4da3a70745c5a58fd51e49a43c5a70de02846d009387"
+	}
+}

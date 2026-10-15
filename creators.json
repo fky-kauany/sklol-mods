@@ -409,6 +409,11 @@
 			"youtube": "https://youtu.be/ydc0mBWXIcE"
 		}
 	},
+	"haeror": {
+		"name": "Haeror",
+		"avatar": "creators/haeror.jpg?v=aec30b85",
+		"links": {}
+	},
 	"haigo03": {
 		"name": "haigo03",
 		"avatar": "creators/haigo03.png?v=18f609fd",
@@ -426,6 +431,10 @@
 		"links": {
 			"youtube": "https://youtu.be/AqBGlsua8UM"
 		}
+	},
+	"hugosda": {
+		"name": "hugosda",
+		"links": {}
 	},
 	"hungryweasel": {
 		"name": "HungryWeasel",

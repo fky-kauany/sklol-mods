@@ -1,0 +1,17 @@
+{
+	"id": "taric-sfx",
+	"name": "Taric sfx",
+	"kind": "sounds",
+	"creator": "zint0s",
+	"description": "Cupcakke sounds instead of the basic Taric skill sounds (Basic skin + Pool Party)\n\n---\n\n**Created by** [Zint0s](https://runeforge.dev/users/Zint0s)\n\n**Original:** https://runeforge.dev/mods/0a77d3e1-37f1-49d3-9d07-1d2d5ad529b1\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/taric-sfx/thumb.webp?v=20e6df85",
+	"file": {
+		"version": 1,
+		"asset": "taric-sfx-v1.fantome",
+		"size": 27398823,
+		"sha256": "6212d25b726c3be458b5076af3507e6df1435a7d13f5e3d950bae76c81ed9de6"
+	}
+}

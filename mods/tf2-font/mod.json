@@ -1,0 +1,17 @@
+{
+	"id": "tf2-font",
+	"name": "TF2 Font",
+	"kind": "fonts",
+	"creator": "agomsmoga",
+	"description": "### Overview:\n\n* Technically replaces all fonts including Chinese/Japanese/etc, with the TF2 font, but this font doesn't actually include every character for those languages (or any), so if you play on a locale that uses non-ASCII characters, then it'll show blank boxes instead.\n* Has bold variants included.\n\n#\n\n### Mod Information:\n\n* Author: Moga\n\nhttps://discord.gg/gSXbEmPQCA\n\n---\n\n**Created by** [Moga](https://runeforge.dev/users/agomsMoga)\n\n**Original:** https://runeforge.dev/mods/a9bc790f-a06e-4a01-9883-8d03a8095fca\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/tf2-font/thumb.webp?v=b397b225",
+	"file": {
+		"version": 1,
+		"asset": "tf2-font-v1.fantome",
+		"size": 43775,
+		"sha256": "39af7b2fb43a4267c7060776035413c22a3697db3f14f993e24467a9886f14f1"
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"id": "superthinfont",
+	"name": "SuperThinFont",
+	"kind": "fonts",
+	"creator": "haeror",
+	"description": "# Overview:\n\n***\n\nReplaces the latin languages font by an extra thin one (kind of the korean League font)\n\n## Mod Information:\n\n***\n\n* Author: Haeror\n* Discord: \\_haeror\\_\n* Mod Version: 1.0\n\n---\n\n**Created by** [Haeror](https://runeforge.dev/users/Haeror)\n\n**Original:** https://runeforge.dev/mods/5b3d480c-aaef-4709-809b-3ebffde555ca\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/superthinfont/thumb.webp?v=998f8e27",
+	"file": {
+		"version": 1,
+		"asset": "superthinfont-v1.fantome",
+		"size": 222294,
+		"sha256": "403300eedbc65727b0aeb8c18e3d427dec6d1954e611298ab7a8c1c7ac175bd7"
+	}
+}

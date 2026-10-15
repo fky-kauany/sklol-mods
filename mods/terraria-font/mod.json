@@ -1,0 +1,17 @@
+{
+	"id": "terraria-font",
+	"name": "Terraria font",
+	"kind": "fonts",
+	"creator": "hugosda",
+	"description": "---\n\n**Created by** [hugosda](https://runeforge.dev/users/hugosda)\n\n**Original:** https://runeforge.dev/mods/6e724f52-bdd3-40f3-a6b2-e31458937bf5\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/terraria-font/thumb.webp?v=c6914aa6",
+	"file": {
+		"version": 1,
+		"asset": "terraria-font-v1.fantome",
+		"size": 30431,
+		"sha256": "99abb7e265748685ef6f3c8a27ee7d3a3bba2e526caf4b22bb0b11394509423c"
+	}
+}

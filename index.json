@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T12:09:58.152Z",
+	"generatedAt": "2026-10-15T12:15:32.626Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -412,6 +412,11 @@
 				"youtube": "https://youtu.be/ydc0mBWXIcE"
 			}
 		},
+		"haeror": {
+			"name": "Haeror",
+			"avatar": "creators/haeror.jpg?v=aec30b85",
+			"links": {}
+		},
 		"haigo03": {
 			"name": "haigo03",
 			"avatar": "creators/haigo03.png?v=18f609fd",
@@ -429,6 +434,10 @@
 			"links": {
 				"youtube": "https://youtu.be/AqBGlsua8UM"
 			}
+		},
+		"hugosda": {
+			"name": "hugosda",
+			"links": {}
 		},
 		"hungryweasel": {
 			"name": "HungryWeasel",
@@ -10947,6 +10956,176 @@
 				"asset": "summoner-spell-icon-tweaks-v1.fantome",
 				"size": 6764,
 				"sha256": "fcb5277ea358f6e3591e857804135aad18de3639b2fe8c6a25604e475935c4af"
+			}
+		},
+		{
+			"id": "summoner-spells-icons-yassified",
+			"name": "summoner spells icons yassified",
+			"kind": "other",
+			"creator": "lumin",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/summoner-spells-icons-yassified/thumb.webp?v=c0cdb69f",
+			"file": {
+				"version": 1,
+				"asset": "summoner-spells-icons-yassified-v1.fantome",
+				"size": 22240,
+				"sha256": "2aab7fcb6e752995d4cbf82c2d6fe39de565420d481ee8c7a4e0b06bcd21ba76"
+			}
+		},
+		{
+			"id": "sun-eater-kayle-chroma-vfx",
+			"name": "Sun Eater Kayle chroma VFX",
+			"kind": "vfx",
+			"creator": "suriin",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/sun-eater-kayle-chroma-vfx/thumb.webp?v=8a619761",
+			"file": {
+				"version": 1,
+				"asset": "sun-eater-kayle-chroma-vfx-v1.fantome",
+				"size": 23329712,
+				"sha256": "6692a0765ad0b338cc11fbd43b3b6c566835b26a2ea3c7bd697f825768ce0d5f"
+			}
+		},
+		{
+			"id": "sung-jinwoo-hud",
+			"name": "Sung Jinwoo HUD",
+			"kind": "ui",
+			"creator": "disco",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/sung-jinwoo-hud/thumb.webp?v=4ff53d3c",
+			"file": {
+				"version": 1,
+				"asset": "sung-jinwoo-hud-v1.fantome",
+				"size": 10348252,
+				"sha256": "e18fe8a2879b78fe93df515cf753082d0b23c17403790cc91bda989af00d7d4a"
+			}
+		},
+		{
+			"id": "super-challenger-recall",
+			"name": "Super Challenger Recall",
+			"kind": "recall",
+			"creator": "xllwd1",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/super-challenger-recall/thumb.webp?v=d4782057",
+			"file": {
+				"version": 1,
+				"asset": "super-challenger-recall-v1.fantome",
+				"size": 1773742,
+				"sha256": "1ba910186c5e35cc2e1d7b4eb87cb7fb71a47ae47b8c1501d7699c996977b34b"
+			}
+		},
+		{
+			"id": "superthinfont",
+			"name": "SuperThinFont",
+			"kind": "fonts",
+			"creator": "haeror",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/superthinfont/thumb.webp?v=998f8e27",
+			"file": {
+				"version": 1,
+				"asset": "superthinfont-v1.fantome",
+				"size": 222294,
+				"sha256": "403300eedbc65727b0aeb8c18e3d427dec6d1954e611298ab7a8c1c7ac175bd7"
+			}
+		},
+		{
+			"id": "t1-pyke-killstreak-sounds",
+			"name": "T1 Pyke Killstreak Sounds",
+			"kind": "sounds",
+			"creator": "lilbradly",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/t1-pyke-killstreak-sounds/thumb.webp?v=d3eceb6e",
+			"file": {
+				"version": 1,
+				"asset": "t1-pyke-killstreak-sounds-v1.fantome",
+				"size": 631506,
+				"sha256": "f71a575c378a7a46b84f4da3a70745c5a58fd51e49a43c5a70de02846d009387"
+			}
+		},
+		{
+			"id": "taric-sfx",
+			"name": "Taric sfx",
+			"kind": "sounds",
+			"creator": "zint0s",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/taric-sfx/thumb.webp?v=20e6df85",
+			"file": {
+				"version": 1,
+				"asset": "taric-sfx-v1.fantome",
+				"size": 27398823,
+				"sha256": "6212d25b726c3be458b5076af3507e6df1435a7d13f5e3d950bae76c81ed9de6"
+			}
+		},
+		{
+			"id": "teemo-target-dummies",
+			"name": "Teemo Target Dummies",
+			"kind": "other",
+			"creator": "agomsmoga",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/teemo-target-dummies/thumb.webp?v=e331028b",
+			"file": {
+				"version": 1,
+				"asset": "teemo-target-dummies-v1.fantome",
+				"size": 8144167,
+				"sha256": "7ec591253bbcffe5e9d06d988aa4e2c50128d2dd9c63ab1948797a6cd5af2b81"
+			}
+		},
+		{
+			"id": "terraria-font",
+			"name": "Terraria font",
+			"kind": "fonts",
+			"creator": "hugosda",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/terraria-font/thumb.webp?v=c6914aa6",
+			"file": {
+				"version": 1,
+				"asset": "terraria-font-v1.fantome",
+				"size": 30431,
+				"sha256": "99abb7e265748685ef6f3c8a27ee7d3a3bba2e526caf4b22bb0b11394509423c"
+			}
+		},
+		{
+			"id": "tf2-font",
+			"name": "TF2 Font",
+			"kind": "fonts",
+			"creator": "agomsmoga",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/tf2-font/thumb.webp?v=b397b225",
+			"file": {
+				"version": 1,
+				"asset": "tf2-font-v1.fantome",
+				"size": 43775,
+				"sha256": "39af7b2fb43a4267c7060776035413c22a3697db3f14f993e24467a9886f14f1"
 			}
 		}
 	]
