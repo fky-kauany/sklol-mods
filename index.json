@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T07:35:36.454Z",
+	"generatedAt": "2026-10-15T07:35:50.711Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -1885,6 +1885,23 @@
 				"asset": "bulgarian-announcer-v1.fantome",
 				"size": 11510766,
 				"sha256": "c468ea4c32916af32be2b4ed80d06413c6a5a46a54461dcab6fc7585460f9cdf"
+			}
+		},
+		{
+			"id": "bury-the-light-killstreaks",
+			"name": "Bury the Light Killstreaks",
+			"kind": "sounds",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/bury-the-light-killstreaks/thumb.webp?v=187e5a22",
+			"file": {
+				"version": 1,
+				"asset": "bury-the-light-killstreaks-v1.fantome",
+				"size": 1977533,
+				"sha256": "3c252896a3f969906a5b9321bb614df5f7a97869068ab6f3254ab8908eee611a"
 			}
 		}
 	]
