@@ -1,0 +1,17 @@
+{
+	"id": "no-honor",
+	"name": "No Honor",
+	"kind": "other",
+	"creator": "frogcs",
+	"description": "Disables HONOR recall\n\n---\n\n**Created by** [FrogCs](https://runeforge.dev/users/FrogCs)\n\n**Original:** https://runeforge.dev/mods/b350c63e-5be5-4722-9b08-9ba1c2d1e461\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/no-honor/thumb.webp?v=2d3a96ba",
+	"file": {
+		"version": 1,
+		"asset": "no-honor-v1.fantome",
+		"size": 313832,
+		"sha256": "628afd65a45137fd1da0680ac64bc660554c4b1a2bf68e5e1534fa84117e90e9"
+	}
+}

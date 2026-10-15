@@ -1,0 +1,17 @@
+{
+	"id": "no-ff-automatic-no-vote",
+	"name": "NO FF (Automatic No Vote)",
+	"kind": "other",
+	"creator": "moga",
+	"description": "###\n\nThis mod might need an update\nevery patch, which will be posted on patch day.\n\nAlso, the alternate versions are in my\n[Disc](https://discord.gg/2GFwjnkerC) now.\nI am tired of updating each link individually.\n\n[Click this text for the chat addon (removes the FF related lines from the chat box)](https://runeforge.dev/mods/c16583db-97c4-4958-8140-5108c2d349ea)\n\n#\n\n#### Overview:\n\n* Automatically vote no.\n* Remove the surrender button from the escape menu.\n* Removes the FF popup altogether.\n\n#\n\nhttps://discord.gg/gSXbEmPQCA\n\n---\n\n**Created by** [Moga](https://runeforge.dev/users/Moga)\n\n**Original:** https://runeforge.dev/mods/0a916009-769d-4838-86e4-b268affce300\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/no-ff-automatic-no-vote/thumb.webp?v=c0191ef2",
+	"file": {
+		"version": 1,
+		"asset": "no-ff-automatic-no-vote-v1.fantome",
+		"size": 58968,
+		"sha256": "6ebfe6592ca1079bb83065c003f96aa191b74cc77689eb726b8eb60e85655af4"
+	}
+}

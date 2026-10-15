@@ -1,0 +1,17 @@
+{
+	"id": "no-clash-banners",
+	"name": "No Clash Banners",
+	"kind": "other",
+	"creator": "moga",
+	"description": "-\n\n### Overview:\n\n### **Removes all of the annoying+ugly flags they like to scatter around and pollute the map with.**\n\n- **If i missed something or u see some other random shit that this mod shd be removing, then tell me plz so i can add it.****This (might?) break a little often, idk really, it's probably fine, but if it does i'll just remake it to not break as much hopefully.**\n\nhttps://discord.gg/gSXbEmPQCA\n\n---\n\n**Created by** [Moga](https://runeforge.dev/users/Moga)\n\n**Original:** https://runeforge.dev/mods/138c9c95-0b87-4554-b0a2-17715a1283e2\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/no-clash-banners/thumb.webp?v=5123cd6e",
+	"file": {
+		"version": 1,
+		"asset": "no-clash-banners-v1.fantome",
+		"size": 2776940,
+		"sha256": "aa16cdffd045e94943f7051cdbb2f5877c44445a9a8ffedaac10c45854fb6a63"
+	}
+}

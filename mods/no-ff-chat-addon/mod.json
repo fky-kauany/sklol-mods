@@ -1,0 +1,17 @@
+{
+	"id": "no-ff-chat-addon",
+	"name": "No FF [Chat Addon]",
+	"kind": "ui",
+	"creator": "moga",
+	"description": "-\n\n###\nThere is a required update for this EVERY PATCH because the StringTable always changes, and will probably crash randomly.\n\n###\n[Click this text for the actual NO FF mod (automatic no vote).](https://runeforge.dev/mods/0a916009-769d-4838-86e4-b268affce300/releases)\n\n### Overview:\n\n**Removes all of the annoying-as-shit message lines, like \"A surrender vote has been started!\" and all of that type of nonsense, from your chat box.**\n\n- **IF YOU HAVE ANY SUGGESTIONS FOR THIS MOD, PLEASE TELL ME!**\n- To reiterate, it will almost certainly need an update each patch, which I'll post, but it may crash mid-game if it does crash.\n\nhttps://discord.gg/gSXbEmPQCA\n\n---\n\n**Created by** [Moga](https://runeforge.dev/users/Moga)\n\n**Original:** https://runeforge.dev/mods/c16583db-97c4-4958-8140-5108c2d349ea\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/no-ff-chat-addon/thumb.webp?v=d61109f7",
+	"file": {
+		"version": 1,
+		"asset": "no-ff-chat-addon-v1.fantome",
+		"size": 5530367,
+		"sha256": "f74b5fb821711bf157b558f17aa5d1c559ad0727546c8325615543d62c1633fd"
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"id": "no-homeguard-trails",
+	"name": "No Homeguard Trails",
+	"kind": "other",
+	"creator": "agomsmoga",
+	"description": "### Overview:\n\n* All default homeguard particle effects removed.\n* This does not include extraordinary trails such as Samira Soul Fighter, although maybe in the future I will remove them as well.\n* This edits a somewhat volatile bin, so keep in mind this will very likely need an update at some point. I will have it made, you just need to redownload it.\n\nTell me of any extra homeguards for specific skins if you want me to remove them so I can add it to the mod.\n\n### Mod Information:\n\nAuthor: Moga\n\n[Click to see all my other totally sick mods.](https://runeforge.dev/users/Moga/mods?page=0\\&sortBy=download_count)\n\nAuthor: Moga\n\nhttps://discord.gg/gSXbEmPQCA\n\n---\n\n**Created by** [Moga](https://runeforge.dev/users/agomsMoga)\n\n**Original:** https://runeforge.dev/mods/8192efa8-d7a1-49e4-b8fc-7203c050357a\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/no-homeguard-trails/thumb.webp?v=23b1597a",
+	"file": {
+		"version": 1,
+		"asset": "no-homeguard-trails-v1.fantome",
+		"size": 629092,
+		"sha256": "b1b0a02a12ec2fb54de42427db818e873ae684c64c9cca233694f7e55c681a06"
+	}
+}

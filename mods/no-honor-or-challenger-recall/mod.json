@@ -1,0 +1,17 @@
+{
+	"id": "no-honor-or-challenger-recall",
+	"name": "No Honor or Challenger Recall",
+	"kind": "other",
+	"creator": "moga",
+	"description": "##\nNo Funny Recalls\n\n### Overview:\n\n- Disables Honor and Challenger Recall VFX.\n- Should work in all game modes. SR - ARAM - BRAWL\n\nPlease report bugs\n\nhttps://discord.gg/gSXbEmPQCA\n\n---\n\n**Created by** [Moga](https://runeforge.dev/users/Moga)\n\n**Original:** https://runeforge.dev/mods/3b32ede0-95ee-4600-ab79-73a3635eed05\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/no-honor-or-challenger-recall/thumb.webp?v=dae2b756",
+	"file": {
+		"version": 1,
+		"asset": "no-honor-or-challenger-recall-v1.fantome",
+		"size": 2337626,
+		"sha256": "49b1e03799b20e973cde610c6cc063e689dabe4fe9eda738934d07bd0f6681ab"
+	}
+}

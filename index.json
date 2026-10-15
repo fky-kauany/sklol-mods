@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T10:16:49.414Z",
+	"generatedAt": "2026-10-15T10:22:18.635Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -301,6 +301,11 @@
 			"links": {
 				"youtube": "https://www.youtube.com/@NotAFriendlyFrog"
 			}
+		},
+		"frogcs": {
+			"name": "FrogCs",
+			"avatar": "creators/frogcs.png?v=466b347e",
+			"links": {}
 		},
 		"gabe": {
 			"name": "Gabe",
@@ -7347,6 +7352,176 @@
 				"asset": "niilo22-aram-announcer-v1.fantome",
 				"size": 127676000,
 				"sha256": "b711047e934972d2b28a1fe077162e70e81cc880f1085c1c0021de2fda6ff4a5"
+			}
+		},
+		{
+			"id": "no-ability-cooldown-sound",
+			"name": "No Ability Cooldown Sound",
+			"kind": "other",
+			"creator": "pico-senpai",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/no-ability-cooldown-sound/thumb.webp?v=4f64c8d7",
+			"file": {
+				"version": 1,
+				"asset": "no-ability-cooldown-sound-v1.fantome",
+				"size": 1446817,
+				"sha256": "718ad728692952d710cdb55a23c812b05d089f7bc4ad57d1da83a6f62f74518a"
+			}
+		},
+		{
+			"id": "no-blue-homeguard",
+			"name": "No Blue Homeguard",
+			"kind": "other",
+			"creator": "agomsmoga",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/no-blue-homeguard/thumb.webp?v=87125e6d",
+			"file": {
+				"version": 1,
+				"asset": "no-blue-homeguard-v1.fantome",
+				"size": 726062,
+				"sha256": "59ebdd252b06117cf6275feb216f618f40cc9bc5dd3b6d6b92c06f79d20595fd"
+			}
+		},
+		{
+			"id": "no-clash-banners",
+			"name": "No Clash Banners",
+			"kind": "other",
+			"creator": "moga",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/no-clash-banners/thumb.webp?v=5123cd6e",
+			"file": {
+				"version": 1,
+				"asset": "no-clash-banners-v1.fantome",
+				"size": 2776940,
+				"sha256": "aa16cdffd045e94943f7051cdbb2f5877c44445a9a8ffedaac10c45854fb6a63"
+			}
+		},
+		{
+			"id": "no-cringe-watermarks-vietnam-korea",
+			"name": "No Cringe Watermarks (Vietnam/Korea)",
+			"kind": "ui",
+			"creator": "moga",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/no-cringe-watermarks-vietnam-korea/thumb.webp?v=7d3dfa3d",
+			"file": {
+				"version": 1,
+				"asset": "no-cringe-watermarks-vietnam-korea-v1.fantome",
+				"size": 1052183,
+				"sha256": "ef96770fccadc4a59b93dc7a3251b47721194c10b8dc8cfc727d85f88537f128"
+			}
+		},
+		{
+			"id": "no-crystals-mod",
+			"name": "No Crystals Mod",
+			"kind": "other",
+			"creator": "p1mek",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/no-crystals-mod/thumb.webp?v=34e9c7aa",
+			"file": {
+				"version": 1,
+				"asset": "no-crystals-mod-v1.fantome",
+				"size": 950,
+				"sha256": "626428c3ecbce125cdb3ba61851a578f659b250793f0361be7ba0af32c5d786c"
+			}
+		},
+		{
+			"id": "no-ff-automatic-no-vote",
+			"name": "NO FF (Automatic No Vote)",
+			"kind": "other",
+			"creator": "moga",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/no-ff-automatic-no-vote/thumb.webp?v=c0191ef2",
+			"file": {
+				"version": 1,
+				"asset": "no-ff-automatic-no-vote-v1.fantome",
+				"size": 58968,
+				"sha256": "6ebfe6592ca1079bb83065c003f96aa191b74cc77689eb726b8eb60e85655af4"
+			}
+		},
+		{
+			"id": "no-ff-chat-addon",
+			"name": "No FF [Chat Addon]",
+			"kind": "ui",
+			"creator": "moga",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/no-ff-chat-addon/thumb.webp?v=d61109f7",
+			"file": {
+				"version": 1,
+				"asset": "no-ff-chat-addon-v1.fantome",
+				"size": 5530367,
+				"sha256": "f74b5fb821711bf157b558f17aa5d1c559ad0727546c8325615543d62c1633fd"
+			}
+		},
+		{
+			"id": "no-homeguard-trails",
+			"name": "No Homeguard Trails",
+			"kind": "other",
+			"creator": "agomsmoga",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/no-homeguard-trails/thumb.webp?v=23b1597a",
+			"file": {
+				"version": 1,
+				"asset": "no-homeguard-trails-v1.fantome",
+				"size": 629092,
+				"sha256": "b1b0a02a12ec2fb54de42427db818e873ae684c64c9cca233694f7e55c681a06"
+			}
+		},
+		{
+			"id": "no-honor",
+			"name": "No Honor",
+			"kind": "other",
+			"creator": "frogcs",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/no-honor/thumb.webp?v=2d3a96ba",
+			"file": {
+				"version": 1,
+				"asset": "no-honor-v1.fantome",
+				"size": 313832,
+				"sha256": "628afd65a45137fd1da0680ac64bc660554c4b1a2bf68e5e1534fa84117e90e9"
+			}
+		},
+		{
+			"id": "no-honor-or-challenger-recall",
+			"name": "No Honor or Challenger Recall",
+			"kind": "other",
+			"creator": "moga",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/no-honor-or-challenger-recall/thumb.webp?v=dae2b756",
+			"file": {
+				"version": 1,
+				"asset": "no-honor-or-challenger-recall-v1.fantome",
+				"size": 2337626,
+				"sha256": "49b1e03799b20e973cde610c6cc063e689dabe4fe9eda738934d07bd0f6681ab"
 			}
 		}
 	]

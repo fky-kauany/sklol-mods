@@ -299,6 +299,11 @@
 			"youtube": "https://www.youtube.com/@NotAFriendlyFrog"
 		}
 	},
+	"frogcs": {
+		"name": "FrogCs",
+		"avatar": "creators/frogcs.png?v=466b347e",
+		"links": {}
+	},
 	"gabe": {
 		"name": "Gabe",
 		"avatar": "creators/gabe.png?v=35003fa4",

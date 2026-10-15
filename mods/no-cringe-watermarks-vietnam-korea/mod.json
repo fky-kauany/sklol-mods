@@ -1,0 +1,17 @@
+{
+	"id": "no-cringe-watermarks-vietnam-korea",
+	"name": "No Cringe Watermarks (Vietnam/Korea)",
+	"kind": "ui",
+	"creator": "moga",
+	"description": "### Last tested on 15.21, (I am not from Vietnam), so if there is a  bug plz tell me!\n\n### Also check out my [Pengu](https://github.com/PenguLoader/PenguLoader) client mod if you'd like to remove the VN watermark from the bottom right of the client.\n\n#\n\n### OVERVIEW\n\n* Removes Vietnam watermark from the Loading Screen.\n* Removes Vietnam watermark from the Target Frame. **Including replay!**\n* Removes Korean watermark from the Settings panel for no reason other than completion's sake.\n\nClick to see more\n[**\ncool HUD mods\n**](https://runeforge.dev/mods?search=moga&pageSize=720)\n₍^. .^₎Ⳋ\n\n![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/256px-Flag_of_Vietnam.svg.png)\n\nhttps://discord.gg/gSXbEmPQCA\n\n---\n\n**Created by** [Moga](https://runeforge.dev/users/Moga)\n\n**Original:** https://runeforge.dev/mods/d28027bb-8bdf-415e-843c-636e7b4933d8\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/no-cringe-watermarks-vietnam-korea/thumb.webp?v=7d3dfa3d",
+	"file": {
+		"version": 1,
+		"asset": "no-cringe-watermarks-vietnam-korea-v1.fantome",
+		"size": 1052183,
+		"sha256": "ef96770fccadc4a59b93dc7a3251b47721194c10b8dc8cfc727d85f88537f128"
+	}
+}

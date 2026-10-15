@@ -1,0 +1,17 @@
+{
+	"id": "no-crystals-mod",
+	"name": "No Crystals Mod",
+	"kind": "other",
+	"creator": "p1mek",
+	"description": "# Socials\r\n\r\n***\r\n\r\n* Twitter: [https://x.com/p1mek](https://x.com/p1mek) \\[Updates on skins]\r\n\r\n# Mod Information\r\n\r\n***\r\n* Mod For: Loadingscreen\r\n\r\n# Features\r\n\r\n- Removes Challenge Crystals from loadingscreen\r\n\r\n\r\n# ![](https://i.imgur.com/zG4D49K.png)\r\n\r\n# Bugs\r\n\r\n***\r\n\r\nno bugs yet\n\n---\n\n**Created by** [p1mek](https://runeforge.dev/users/p1mek)\n\n**Original:** https://runeforge.dev/mods/4d20082a-cd7b-4171-ad50-287521ce37dd\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/no-crystals-mod/thumb.webp?v=34e9c7aa",
+	"file": {
+		"version": 1,
+		"asset": "no-crystals-mod-v1.fantome",
+		"size": 950,
+		"sha256": "626428c3ecbce125cdb3ba61851a578f659b250793f0361be7ba0af32c5d786c"
+	}
+}
