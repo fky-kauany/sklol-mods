@@ -1,0 +1,17 @@
+{
+	"id": "arena-dummies-as-training-dummy",
+	"name": "Arena Dummies as Training Dummy",
+	"kind": "other",
+	"creator": "p1mek",
+	"description": "# Socials\r\n\r\n***\r\n\r\n* Twitter: [https://x.com/p1mek](https://x.com/p1mek) \\[Updates on skins]\r\n\r\n# Mod Information\r\n\r\n***\r\n* Mod For: Training Dummy\r\n* Arena Dummies ported to practice tool\n\n---\n\n**Created by** [p1mek](https://runeforge.dev/users/p1mek)\n\n**Original:** https://runeforge.dev/mods/e803bdad-ce0d-4852-b786-b9031d6bc6ff\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/arena-dummies-as-training-dummy/thumb.webp?v=ac9446bf",
+	"file": {
+		"version": 1,
+		"asset": "arena-dummies-as-training-dummy-v1.fantome",
+		"size": 6070676,
+		"sha256": "b7cd2504afc8d7e7661f8b3238dcbe9f685ab6360c6da6838891db3c4b116570"
+	}
+}

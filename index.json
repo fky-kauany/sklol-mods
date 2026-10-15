@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T07:20:34.981Z",
+	"generatedAt": "2026-10-15T07:23:36.678Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -51,11 +51,30 @@
 				"youtube": "https://www.youtube.com/@AropatnikCustoms"
 			}
 		},
+		"arting": {
+			"name": "arting",
+			"avatar": "creators/arting.png?v=5ba91e0b",
+			"bio": "my discord: artist._.\n\ntwitch (i never really stream lol) twitch.tv/im_an_artist_",
+			"links": {
+				"youtube": "https://www.youtube.com/watch?v=7w3iSBs-4zc"
+			}
+		},
 		"atakzlky": {
 			"name": "AtaKzlky",
 			"avatar": "creators/atakzlky.jpg?v=be4d94a3",
 			"bio": "I wanna live in Japan",
 			"links": {}
+		},
+		"aurecueil": {
+			"name": "aurecueil",
+			"avatar": "creators/aurecueil.jpg?v=af065620",
+			"bio": "## Wanna buy me a [Coffee](https://ko-fi.com/aurecueil)? :>\n\n<a href=\"https://discord.gg/GETA29vZEK\" target=\"_blank\" rel=\"noopener noreferrer\" title=\"Join my Discord\">\n  <img\n    src=\"https://raw.githubusercontent.com/Aurecueil/Temp/refs/heads/main/images/banner6.png\"\n    alt=\"My Discord Server ^^\"\n    width=\"999\"\n  />\n</a>\n\n<br><br><br>\n<br><br><br>\n# Tierlist of my BGM mods\n\n### S tier\n- [Stellar Blade BGM](https://runeforge.dev/mods/ee07351f-0f6b-4613-838a-f46bdfc73ee7)\n- [Led by Ancient Ligh",
+			"links": {
+				"discord": "https://discord.gg/By542VtEwN",
+				"kofi": "https://ko-fi.com/aurecueil",
+				"site": "https://raw.githubusercontent.com/Aurecueil/Temp/refs/heads/main/images/banner6_better.png",
+				"youtube": "https://www.youtube.com/watch?v=P4QNvAjfKxc"
+			}
 		},
 		"cyanidepillz": {
 			"name": "CyanidePillz",
@@ -74,6 +93,15 @@
 			"avatar": "creators/donutvsdonut.jpg?v=86a1c710",
 			"links": {}
 		},
+		"el0menati": {
+			"name": "El0mEnati",
+			"avatar": "creators/el0menati.jpg?v=5015674a",
+			"bio": "Heyo,\nwelcome to my mod page!\nI'm a really small Modder and just Mod games time to time to match my comfort.\nHope youll enjoy any of my Mods!\nIf you have any issue please contact me on twitter.",
+			"links": {
+				"site": "https://runeforge.dev/mods/f3106833-590f-46fa-a2d7-650e0b766788",
+				"x": "https://x.com/EnatiEl0m"
+			}
+		},
 		"el7oot": {
 			"name": "EL7OOT",
 			"avatar": "creators/el7oot.png?v=f6ba6458",
@@ -81,6 +109,12 @@
 				"discord": "https://discord.gg/5d8T8c962W",
 				"youtube": "https://youtu.be/D6MuCDAlA9Y?si=r_OtOm_IvjIUa1zc"
 			}
+		},
+		"gloomytree": {
+			"name": "Gloomy Tree",
+			"avatar": "creators/gloomytree.jpg?v=b46ed5c2",
+			"bio": "# Cursed nostalgia blinded student\n## Discord : https://discord.gg/WK4yNZxaqk\n## DM open : gloomy_tree",
+			"links": {}
 		},
 		"horrorwolf": {
 			"name": "HorrorWolf",
@@ -133,6 +167,18 @@
 			"avatar": "creators/notcoconut.webp?v=3212d014",
 			"bio": "discord: clarityandwings",
 			"links": {}
+		},
+		"p1mek": {
+			"name": "p1mek",
+			"bio": "# discord.gg/hexrtbrxenchromas",
+			"links": {
+				"discord": "https://discord.gg/hexrtbrxenchromas",
+				"kofi": "https://ko-fi.com/pimek",
+				"site": "https://www.paypal.com/paypalme/p1mek",
+				"tiktok": "https://www.tiktok.com/@p1mek",
+				"twitch": "https://twitch.tv/pimek532",
+				"x": "https://x.com/p1mek"
+			}
 		},
 		"pico-senpai": {
 			"name": "Pico Senpai",
@@ -899,6 +945,176 @@
 				"asset": "arcane-voicelines-for-caitlyn-v1.fantome",
 				"size": 6209246,
 				"sha256": "b678124c6ea94186b0c957b0881b5cef0ee9b3bfc796a6c3397e3146e5ab6dd1"
+			}
+		},
+		{
+			"id": "are-you-sure-thumbs-up",
+			"name": "'Are you sure?' Thumbs up",
+			"kind": "other",
+			"creator": "aropatnik",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/are-you-sure-thumbs-up/thumb.webp?v=73c57823",
+			"file": {
+				"version": 1,
+				"asset": "are-you-sure-thumbs-up-v1.fantome",
+				"size": 24589,
+				"sha256": "2990345027ca11c61485025a2f91edfd7bcbbb6f5c8cc32e686d47e1cb319f0b"
+			}
+		},
+		{
+			"id": "arena-dummies-as-training-dummy",
+			"name": "Arena Dummies as Training Dummy",
+			"kind": "other",
+			"creator": "p1mek",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/arena-dummies-as-training-dummy/thumb.webp?v=ac9446bf",
+			"file": {
+				"version": 1,
+				"asset": "arena-dummies-as-training-dummy-v1.fantome",
+				"size": 6070676,
+				"sha256": "b7cd2504afc8d7e7661f8b3238dcbe9f685ab6360c6da6838891db3c4b116570"
+			}
+		},
+		{
+			"id": "arena-soul-fighter-bgm",
+			"name": "Arena Soul Fighter BGM",
+			"kind": "sounds",
+			"creator": "gloomytree",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/arena-soul-fighter-bgm/thumb.webp?v=fcf9ff82",
+			"file": {
+				"version": 1,
+				"asset": "arena-soul-fighter-bgm-v1.fantome",
+				"size": 12464895,
+				"sha256": "f46621d2c3d59c8b3e8effa3cde0a6829c18d190dff84f849341a128b74dcd83"
+			}
+		},
+		{
+			"id": "aris-zaahen-blue-archive",
+			"name": "Aris Zaahen (Blue Archive)",
+			"kind": "other",
+			"creator": "archlyris",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/aris-zaahen-blue-archive/thumb.webp?v=235e84a8",
+			"file": {
+				"version": 1,
+				"asset": "aris-zaahen-blue-archive-v1.fantome",
+				"size": 18306231,
+				"sha256": "c0d3f04bf25a2172f83bf556dfb597a788c3136523e9ce0581318fb6e1193e9a"
+			}
+		},
+		{
+			"id": "arisu-announcer-recovery",
+			"name": "Arisu Announcer (Recovery)",
+			"kind": "announcer",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/arisu-announcer-recovery/thumb.webp?v=54745c29",
+			"file": {
+				"version": 1,
+				"asset": "arisu-announcer-recovery-v1.fantome",
+				"size": 3794034,
+				"sha256": "84611c1a0c6afe86e19e3c4b06e534ab83ec2e0ebcf9a86a04beab27b83f4ec7"
+			}
+		},
+		{
+			"id": "ashen-knight-pyke-ability-icons-v1-by-el0menati",
+			"name": "Ashen knight Pyke Ability Icons V1 by El0mEnati",
+			"kind": "ui",
+			"creator": "el0menati",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/ashen-knight-pyke-ability-icons-v1-by-el0menati/thumb.webp?v=ba13a2d5",
+			"file": {
+				"version": 1,
+				"asset": "ashen-knight-pyke-ability-icons-v1-by-el0menati-v1.fantome",
+				"size": 2810666,
+				"sha256": "259ebebfe9e2dab6377fed45b3d5c4c63457247346a20927ddfcf1f9cf893f4f"
+			}
+		},
+		{
+			"id": "ashen-pyke-killstreak",
+			"name": "Ashen Pyke Killstreak",
+			"kind": "sounds",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/ashen-pyke-killstreak/thumb.webp?v=a34016c5",
+			"file": {
+				"version": 1,
+				"asset": "ashen-pyke-killstreak-v1.fantome",
+				"size": 410507,
+				"sha256": "1513409151044112cc15356e4cf7b919ee36e80fa700b86b82dcc7883b754330"
+			}
+		},
+		{
+			"id": "aughhhh-flash-sound",
+			"name": "AUGHHHH Flash sound",
+			"kind": "sounds",
+			"creator": "pico-senpai",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/aughhhh-flash-sound/thumb.webp?v=4a3a8be5",
+			"file": {
+				"version": 1,
+				"asset": "aughhhh-flash-sound-v1.fantome",
+				"size": 7218283,
+				"sha256": "b3e5f73676714bf465521e40c7ced4b36a278ca7adf7ba3695e83b9c05825789"
+			}
+		},
+		{
+			"id": "aurelion-with-orbiting-rammuses",
+			"name": "Aurelion with Orbiting Rammuses",
+			"kind": "vfx",
+			"creator": "aropatnik",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/aurelion-with-orbiting-rammuses/thumb.webp?v=2931e59e",
+			"file": {
+				"version": 1,
+				"asset": "aurelion-with-orbiting-rammuses-v1.fantome",
+				"size": 250056,
+				"sha256": "aaa4c701b7fbae1c564f5b9ca5c04156c8fdc139cec04b85c15d743fe72d1bc2"
+			}
+		},
+		{
+			"id": "awoo-cat-flash",
+			"name": "awoo cat flash",
+			"kind": "sounds",
+			"creator": "arting",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/awoo-cat-flash/thumb.webp?v=61e79579",
+			"file": {
+				"version": 1,
+				"asset": "awoo-cat-flash-v1.fantome",
+				"size": 7084720,
+				"sha256": "c083844cf594adb7b4fab5d13e0b05ceca9e28a29f05bbdc25268b423c2e930f"
 			}
 		}
 	]

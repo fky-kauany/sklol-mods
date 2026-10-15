@@ -1,0 +1,17 @@
+{
+	"id": "arena-soul-fighter-bgm",
+	"name": "Arena Soul Fighter BGM",
+	"kind": "sounds",
+	"creator": "gloomytree",
+	"description": "Replaces the music and most of Arena sound effects by those from the Soul Fighter Event.\r\n\r\nGreatly inspired by the now non updated mod from @Boia, this version aims to pursue their work.\r\nSpecial Thanks to @Aurecueil for their great insights regarding technical aspects of sound modding. As well as the welcoming community of Community Dragon who helped me just as much.\r\n\r\n(Updated to latest version of the game)\r\n\r\nKNOWN ISSUES :\r\n\r\nMusic is sometimes too low, cut-off or not playing, I'm currently working on solving this problem but I'm lacking the technical proficiency to do so ATM. But hey, work in progress :P\r\n\r\nDM me for further requests/inquiries or to assist technically at @gloomy_tree on Discord.\n\n---\n\n**Created by** [Gloomy Tree](https://runeforge.dev/users/GloomyTree)\n\n**Original:** https://runeforge.dev/mods/b8f9644c-fc12-4bac-b984-640c23d4ff17\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/arena-soul-fighter-bgm/thumb.webp?v=fcf9ff82",
+	"file": {
+		"version": 1,
+		"asset": "arena-soul-fighter-bgm-v1.fantome",
+		"size": 12464895,
+		"sha256": "f46621d2c3d59c8b3e8effa3cde0a6829c18d190dff84f849341a128b74dcd83"
+	}
+}

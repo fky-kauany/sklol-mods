@@ -1,0 +1,17 @@
+{
+	"id": "ashen-knight-pyke-ability-icons-v1-by-el0menati",
+	"name": "Ashen knight Pyke Ability Icons V1 by El0mEnati",
+	"kind": "ui",
+	"creator": "el0menati",
+	"description": "Replaces Pyke’s ability icons with visuals inspired by the Ashen Knight aesthetic.\n\nThis mod updates all ability icons to better match the darker, gothic tone of the Ashen Knight skin, creating a more cohesive and immersive in-game experience.\n\nChanges\nUpdated Q, W, E, and R icons\nRedesigned to fit Ashen Knight’s muted, dark, and spectral theme\nClean, readable visuals that stay true to gameplay clarity\nNotes\nIcons were created using AI-assisted tools and refined for in-game use\n\nA simple visual upgrade for players who want Pyke’s abilities to match his Ashen Knight look.\n\n---\n\n**Created by** [El0mEnati](https://runeforge.dev/users/El0mEnati)\n\n**Original:** https://runeforge.dev/mods/4bf9092e-e4a3-47fc-8b4b-6028d90db9d8\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/ashen-knight-pyke-ability-icons-v1-by-el0menati/thumb.webp?v=ba13a2d5",
+	"file": {
+		"version": 1,
+		"asset": "ashen-knight-pyke-ability-icons-v1-by-el0menati-v1.fantome",
+		"size": 2810666,
+		"sha256": "259ebebfe9e2dab6377fed45b3d5c4c63457247346a20927ddfcf1f9cf893f4f"
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"id": "aurelion-with-orbiting-rammuses",
+	"name": "Aurelion with Orbiting Rammuses",
+	"kind": "vfx",
+	"creator": "aropatnik",
+	"description": "## Information\n\n**Modified champion: Aurelion Sol**\n\n**Modified skin: Default**\n\n**Author: Aropatnik**\n\n**Features:**\n\n* Rammuses\n* Rammuses\n* Rammuses\n* Rammuses\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/9efb323c-3e5b-4f9e-a99b-ab976404580c\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/aurelion-with-orbiting-rammuses/thumb.webp?v=2931e59e",
+	"file": {
+		"version": 1,
+		"asset": "aurelion-with-orbiting-rammuses-v1.fantome",
+		"size": 250056,
+		"sha256": "aaa4c701b7fbae1c564f5b9ca5c04156c8fdc139cec04b85c15d743fe72d1bc2"
+	}
+}

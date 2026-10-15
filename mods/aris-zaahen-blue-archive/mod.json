@@ -1,0 +1,17 @@
+{
+	"id": "aris-zaahen-blue-archive",
+	"name": "Aris Zaahen (Blue Archive)",
+	"kind": "other",
+	"creator": "archlyris",
+	"description": "author is lazy and wish to not write anything.\n\n---\n\n**Created by** [archlyris](https://runeforge.dev/users/archlyris)\n\n**Original:** https://runeforge.dev/mods/a11742c8-a052-4731-b68c-73111b50abe4\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/aris-zaahen-blue-archive/thumb.webp?v=235e84a8",
+	"file": {
+		"version": 1,
+		"asset": "aris-zaahen-blue-archive-v1.fantome",
+		"size": 18306231,
+		"sha256": "c0d3f04bf25a2172f83bf556dfb597a788c3136523e9ce0581318fb6e1193e9a"
+	}
+}

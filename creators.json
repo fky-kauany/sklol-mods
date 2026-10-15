@@ -48,11 +48,30 @@
 			"youtube": "https://www.youtube.com/@AropatnikCustoms"
 		}
 	},
+	"arting": {
+		"name": "arting",
+		"avatar": "creators/arting.png?v=5ba91e0b",
+		"bio": "my discord: artist._.\n\ntwitch (i never really stream lol) twitch.tv/im_an_artist_",
+		"links": {
+			"youtube": "https://www.youtube.com/watch?v=7w3iSBs-4zc"
+		}
+	},
 	"atakzlky": {
 		"name": "AtaKzlky",
 		"avatar": "creators/atakzlky.jpg?v=be4d94a3",
 		"bio": "I wanna live in Japan",
 		"links": {}
+	},
+	"aurecueil": {
+		"name": "aurecueil",
+		"avatar": "creators/aurecueil.jpg?v=af065620",
+		"bio": "## Wanna buy me a [Coffee](https://ko-fi.com/aurecueil)? :>\n\n<a href=\"https://discord.gg/GETA29vZEK\" target=\"_blank\" rel=\"noopener noreferrer\" title=\"Join my Discord\">\n  <img\n    src=\"https://raw.githubusercontent.com/Aurecueil/Temp/refs/heads/main/images/banner6.png\"\n    alt=\"My Discord Server ^^\"\n    width=\"999\"\n  />\n</a>\n\n<br><br><br>\n<br><br><br>\n# Tierlist of my BGM mods\n\n### S tier\n- [Stellar Blade BGM](https://runeforge.dev/mods/ee07351f-0f6b-4613-838a-f46bdfc73ee7)\n- [Led by Ancient Ligh",
+		"links": {
+			"discord": "https://discord.gg/By542VtEwN",
+			"kofi": "https://ko-fi.com/aurecueil",
+			"site": "https://raw.githubusercontent.com/Aurecueil/Temp/refs/heads/main/images/banner6_better.png",
+			"youtube": "https://www.youtube.com/watch?v=P4QNvAjfKxc"
+		}
 	},
 	"cyanidepillz": {
 		"name": "CyanidePillz",
@@ -71,6 +90,15 @@
 		"avatar": "creators/donutvsdonut.jpg?v=86a1c710",
 		"links": {}
 	},
+	"el0menati": {
+		"name": "El0mEnati",
+		"avatar": "creators/el0menati.jpg?v=5015674a",
+		"bio": "Heyo,\nwelcome to my mod page!\nI'm a really small Modder and just Mod games time to time to match my comfort.\nHope youll enjoy any of my Mods!\nIf you have any issue please contact me on twitter.",
+		"links": {
+			"site": "https://runeforge.dev/mods/f3106833-590f-46fa-a2d7-650e0b766788",
+			"x": "https://x.com/EnatiEl0m"
+		}
+	},
 	"el7oot": {
 		"name": "EL7OOT",
 		"avatar": "creators/el7oot.png?v=f6ba6458",
@@ -78,6 +106,12 @@
 			"discord": "https://discord.gg/5d8T8c962W",
 			"youtube": "https://youtu.be/D6MuCDAlA9Y?si=r_OtOm_IvjIUa1zc"
 		}
+	},
+	"gloomytree": {
+		"name": "Gloomy Tree",
+		"avatar": "creators/gloomytree.jpg?v=b46ed5c2",
+		"bio": "# Cursed nostalgia blinded student\n## Discord : https://discord.gg/WK4yNZxaqk\n## DM open : gloomy_tree",
+		"links": {}
 	},
 	"horrorwolf": {
 		"name": "HorrorWolf",
@@ -130,6 +164,18 @@
 		"avatar": "creators/notcoconut.webp?v=3212d014",
 		"bio": "discord: clarityandwings",
 		"links": {}
+	},
+	"p1mek": {
+		"name": "p1mek",
+		"bio": "# discord.gg/hexrtbrxenchromas",
+		"links": {
+			"discord": "https://discord.gg/hexrtbrxenchromas",
+			"kofi": "https://ko-fi.com/pimek",
+			"site": "https://www.paypal.com/paypalme/p1mek",
+			"tiktok": "https://www.tiktok.com/@p1mek",
+			"twitch": "https://twitch.tv/pimek532",
+			"x": "https://x.com/p1mek"
+		}
 	},
 	"pico-senpai": {
 		"name": "Pico Senpai",

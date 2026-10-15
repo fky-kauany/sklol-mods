@@ -1,0 +1,17 @@
+{
+	"id": "ashen-pyke-killstreak",
+	"name": "Ashen Pyke Killstreak",
+	"kind": "sounds",
+	"creator": "aurecueil",
+	"description": "# **Skin Information**\n\nReplaces: Killstreaks with Ashen Pyke ULT Music\n\nAuthor: Aurecuei\n\nVersion: 1.0.0\n\n## Wanna buy me a [Coffee](https://ko-fi.com/aurecueil)? :>\n\n\n[![My Discord Server ^^](https://raw.githubusercontent.com/Aurecueil/Temp/refs/heads/main/images/banner6_better.png)](https://discord.gg/GETA29vZEK)\n\n\n## MISC\n\n[Tierlist of my BGM mods](https://runeforge.dev/users/Aurecueil)\n\ndc: aurecueil\n\ni DO take Commisions btw\n\n---\n\n**Created by** [aurecueil](https://runeforge.dev/users/aurecueil)\n\n**Original:** https://runeforge.dev/mods/79b6cb86-1955-42fd-abdb-dfb1a85c3158\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/ashen-pyke-killstreak/thumb.webp?v=a34016c5",
+	"file": {
+		"version": 1,
+		"asset": "ashen-pyke-killstreak-v1.fantome",
+		"size": 410507,
+		"sha256": "1513409151044112cc15356e4cf7b919ee36e80fa700b86b82dcc7883b754330"
+	}
+}

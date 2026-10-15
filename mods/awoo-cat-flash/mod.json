@@ -1,0 +1,17 @@
+{
+	"id": "awoo-cat-flash",
+	"name": "awoo cat flash",
+	"kind": "sounds",
+	"creator": "arting",
+	"description": "###### This mod replaces flash with awoo cat sound\n\n\n\n\n\n###### discord: artist.\\_.\n\n---\n\n**Created by** [arting](https://runeforge.dev/users/arting)\n\n**Original:** https://runeforge.dev/mods/a27b8daf-bd6b-4a24-86c4-ca33afd05a7b\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/awoo-cat-flash/thumb.webp?v=61e79579",
+	"file": {
+		"version": 1,
+		"asset": "awoo-cat-flash-v1.fantome",
+		"size": 7084720,
+		"sha256": "c083844cf594adb7b4fab5d13e0b05ceca9e28a29f05bbdc25268b423c2e930f"
+	}
+}
