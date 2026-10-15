@@ -1,0 +1,17 @@
+{
+	"id": "empyrian-pyke-killstreak",
+	"name": "Empyrian Pyke Killstreak",
+	"kind": "sounds",
+	"creator": "aurecueil",
+	"description": "# **Skin Information**\n\nReplaces: Killstreaks with Empyrian Pyke ULT Music\n\nAuthor: Aurecuei\n\nVersion: 1.0.0\n\n## Wanna buy me a [Coffee](https://ko-fi.com/aurecueil)? :>\n\n\n[![My Discord Server ^^](https://raw.githubusercontent.com/Aurecueil/Temp/refs/heads/main/images/banner6_better.png)](https://discord.gg/GETA29vZEK)\n\n\n## MISC\n\n[Tierlist of my BGM mods](https://runeforge.dev/users/Aurecueil)\n\ndc: aurecueil\n\ni DO take Commisions btw\n\n---\n\n**Created by** [aurecueil](https://runeforge.dev/users/aurecueil)\n\n**Original:** https://runeforge.dev/mods/e22f502b-4f7f-46c3-9620-b8930b76480b\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/empyrian-pyke-killstreak/thumb.webp?v=e0b73468",
+	"file": {
+		"version": 1,
+		"asset": "empyrian-pyke-killstreak-v1.fantome",
+		"size": 507332,
+		"sha256": "58e849fa3d0a8bf688cb50b0d9233709d1ca1a09fcbaffbaf676afe3eb3a2b4e"
+	}
+}

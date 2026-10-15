@@ -1,0 +1,17 @@
+{
+	"id": "elysia-cursor-honkai-impact-3",
+	"name": "Elysia cursor (Honkai Impact 3)",
+	"kind": "ui",
+	"creator": "archlyris",
+	"description": "---\n\n**Created by** [archlyris](https://runeforge.dev/users/archlyris)\n\n**Original:** https://runeforge.dev/mods/b134254b-862f-450c-bd37-17742506db9a\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/elysia-cursor-honkai-impact-3/thumb.webp?v=d7c2f6ab",
+	"file": {
+		"version": 1,
+		"asset": "elysia-cursor-honkai-impact-3-v1.fantome",
+		"size": 851604,
+		"sha256": "aa37253e9f89271d038c7a82dabb38ca4157c20e1acd1eea7958472b7db2cdcd"
+	}
+}

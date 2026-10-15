@@ -1,0 +1,17 @@
+{
+	"id": "end-game-text-ez-noobs-bg-5-pigs",
+	"name": "End Game Text - EZ Noobs / BG 5 Pigs",
+	"kind": "ui",
+	"creator": "sraach",
+	"description": "* Changes endgame text \"VICTORY\" to \"EZ NOOBS\" and \"DEFEAT\" to \"BG 5 PIGS\" or \"Despair image\" (see releases)\n* Version: 1.1.0\n* (Keep client open during game for it to not close instantly after game)\n\n---\n\n**Created by** [Sraach](https://runeforge.dev/users/Sraach)\n\n**Original:** https://runeforge.dev/mods/6c695349-dcef-445d-bd8d-032625919876\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/end-game-text-ez-noobs-bg-5-pigs/thumb.webp?v=acab6d78",
+	"file": {
+		"version": 1,
+		"asset": "end-game-text-ez-noobs-bg-5-pigs-v1.fantome",
+		"size": 69030,
+		"sha256": "116dd6db596a59ee63bd65e0230ed55d295032e9be1f8af2eea043cfec6dcba6"
+	}
+}

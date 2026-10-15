@@ -232,6 +232,13 @@
 		"bio": "# Cursed nostalgia blinded student\n## Discord : https://discord.gg/WK4yNZxaqk\n## DM open : gloomy_tree",
 		"links": {}
 	},
+	"goro": {
+		"name": "Goro",
+		"avatar": "creators/goro.jpg?v=6bc0a30e",
+		"links": {
+			"youtube": "https://www.youtube.com/watch?v=Quxvd7HF338"
+		}
+	},
 	"guvercin": {
 		"name": "Güvercin",
 		"avatar": "creators/guvercin.jpg?v=a0823de4",
@@ -448,6 +455,11 @@
 	"snowyseer": {
 		"name": "SnowySeer",
 		"avatar": "creators/snowyseer.png?v=76ff9d03",
+		"links": {}
+	},
+	"sraach": {
+		"name": "Sraach",
+		"avatar": "creators/sraach.png?v=2933556c",
 		"links": {}
 	},
 	"sterak": {

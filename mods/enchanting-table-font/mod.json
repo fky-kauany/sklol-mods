@@ -1,0 +1,17 @@
+{
+	"id": "enchanting-table-font",
+	"name": "Enchanting Table Font",
+	"kind": "fonts",
+	"creator": "pico-senpai",
+	"description": "## **MOD INFORMATION**\n\n* Author: Pico Senpai\n* Mod Version: 1.0.0\n* Modified UI: Font\n\n## **DESCRIPTION**\n\n* Replaces all of the text in the game by the Enchanting Table font from Minecraft, now because you can't read anything, you can't even see what your toxic teammates say to you, no need to thank me :)\n\n## **SOCIALS**\n\n![](https://static.wixstatic.com/media/e2a744_abb27c3529754e04ab6ad06fd9c7ab56~mv2.png/v1/fill/w_740,h_416,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e2a744_abb27c3529754e04ab6ad06fd9c7ab56~mv2.png)\n\n###\nAdd me on Discord: pico\\_senpai\n\n### My Youtube channel: [Pico Senpai](https://www.youtube.com/channel/UCAZfp8d8ZLFUurid3w2wElQ)\n\n### Support me on Patreon!: [PicoSenpai](https://www.patreon.com/PicoSenpaiSFW)\n\n---\n\n**Created by** [Pico Senpai](https://runeforge.dev/users/Pico_Senpai)\n\n**Original:** https://runeforge.dev/mods/f7d8fdda-8dcc-44cb-afc0-88b0f6364f4c\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/enchanting-table-font/thumb.webp?v=fccc5563",
+	"file": {
+		"version": 1,
+		"asset": "enchanting-table-font-v1.fantome",
+		"size": 3746,
+		"sha256": "43434b23ec5da25fb5dc8c51181db5a5f94b5a421050a73eb2b5e65a8695967a"
+	}
+}

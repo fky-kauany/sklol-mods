@@ -1,0 +1,17 @@
+{
+	"id": "ender-flash",
+	"name": "Ender Flash",
+	"kind": "sounds",
+	"creator": "goro",
+	"description": "Changes The Flash Sound Effect To The Enderman Teleport From Minecraft\n\n---\n\n**Created by** [Goro](https://runeforge.dev/users/Goro)\n\n**Original:** https://runeforge.dev/mods/b37236fd-4d31-46b6-9a9d-020a5528b78f\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/ender-flash/thumb.webp?v=71f192db",
+	"file": {
+		"version": 1,
+		"asset": "ender-flash-v1.fantome",
+		"size": 6675952,
+		"sha256": "78b9f5b2ed8989b3a0ea8c12fb8473c4b92a1bc0141828b92293f66ae64baed7"
+	}
+}

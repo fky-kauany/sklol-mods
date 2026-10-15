@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T08:33:53.935Z",
+	"generatedAt": "2026-10-15T08:39:25.273Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -235,6 +235,13 @@
 			"bio": "# Cursed nostalgia blinded student\n## Discord : https://discord.gg/WK4yNZxaqk\n## DM open : gloomy_tree",
 			"links": {}
 		},
+		"goro": {
+			"name": "Goro",
+			"avatar": "creators/goro.jpg?v=6bc0a30e",
+			"links": {
+				"youtube": "https://www.youtube.com/watch?v=Quxvd7HF338"
+			}
+		},
 		"guvercin": {
 			"name": "Güvercin",
 			"avatar": "creators/guvercin.jpg?v=a0823de4",
@@ -451,6 +458,11 @@
 		"snowyseer": {
 			"name": "SnowySeer",
 			"avatar": "creators/snowyseer.png?v=76ff9d03",
+			"links": {}
+		},
+		"sraach": {
+			"name": "Sraach",
+			"avatar": "creators/sraach.png?v=2933556c",
 			"links": {}
 		},
 		"sterak": {
@@ -3960,6 +3972,176 @@
 				"asset": "elden-ring-v1.fantome",
 				"size": 60998,
 				"sha256": "21d064c411694922750ddddb01bdac0eedbb94c177c29b154961769539effa9e"
+			}
+		},
+		{
+			"id": "elysia-cursor-honkai-impact-3",
+			"name": "Elysia cursor (Honkai Impact 3)",
+			"kind": "ui",
+			"creator": "archlyris",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/elysia-cursor-honkai-impact-3/thumb.webp?v=d7c2f6ab",
+			"file": {
+				"version": 1,
+				"asset": "elysia-cursor-honkai-impact-3-v1.fantome",
+				"size": 851604,
+				"sha256": "aa37253e9f89271d038c7a82dabb38ca4157c20e1acd1eea7958472b7db2cdcd"
+			}
+		},
+		{
+			"id": "emerald-gains-emerald-gold",
+			"name": "Emerald Gains (Emerald Gold)",
+			"kind": "ui",
+			"creator": "runeforgerecoveryteam",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/emerald-gains-emerald-gold/thumb.webp?v=2c3170dc",
+			"file": {
+				"version": 1,
+				"asset": "emerald-gains-emerald-gold-v1.fantome",
+				"size": 4383,
+				"sha256": "51b6b8226396eea0c8c9347bd59687def3c467e2381d0abbc7bcfee424d159cc"
+			}
+		},
+		{
+			"id": "emilia-hud",
+			"name": "Emilia HUD",
+			"kind": "ui",
+			"creator": "disco",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/emilia-hud/thumb.webp?v=5a9b7d2c",
+			"file": {
+				"version": 1,
+				"asset": "emilia-hud-v1.modpkg",
+				"size": 7016158,
+				"sha256": "ee24edd40ebd24632d51cfebbddc2ab60b42b86eb621ea6aab58af4b7b7c11be"
+			}
+		},
+		{
+			"id": "empyrean-mythmaker-dark-cosmic-jhin-announcer-be",
+			"name": "Empyrean × Mythmaker × Dark Cosmic Jhin Announcer (Beta)",
+			"kind": "announcer",
+			"creator": "dear-agony",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/empyrean-mythmaker-dark-cosmic-jhin-announcer-be/thumb.webp?v=6cfaaa04",
+			"file": {
+				"version": 1,
+				"asset": "empyrean-mythmaker-dark-cosmic-jhin-announcer-be-v1.fantome",
+				"size": 7300690,
+				"sha256": "f33b96024801b9e6875bb8943b057050dcdbc0d359314871631cf8bcbf52049f"
+			}
+		},
+		{
+			"id": "empyrian-pyke-killstreak",
+			"name": "Empyrian Pyke Killstreak",
+			"kind": "sounds",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/empyrian-pyke-killstreak/thumb.webp?v=e0b73468",
+			"file": {
+				"version": 1,
+				"asset": "empyrian-pyke-killstreak-v1.fantome",
+				"size": 507332,
+				"sha256": "58e849fa3d0a8bf688cb50b0d9233709d1ca1a09fcbaffbaf676afe3eb3a2b4e"
+			}
+		},
+		{
+			"id": "en-full-sg-ahri-announcer",
+			"name": "EN FULL SG Ahri Announcer",
+			"kind": "announcer",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/en-full-sg-ahri-announcer/thumb.webp?v=2ceca030",
+			"file": {
+				"version": 1,
+				"asset": "en-full-sg-ahri-announcer-v1.fantome",
+				"size": 9935392,
+				"sha256": "4e4875eceef9c550ec93a4bcab3419ed2549772a802073d63d721c293d3fab51"
+			}
+		},
+		{
+			"id": "enchanting-table-font",
+			"name": "Enchanting Table Font",
+			"kind": "fonts",
+			"creator": "pico-senpai",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/enchanting-table-font/thumb.webp?v=fccc5563",
+			"file": {
+				"version": 1,
+				"asset": "enchanting-table-font-v1.fantome",
+				"size": 3746,
+				"sha256": "43434b23ec5da25fb5dc8c51181db5a5f94b5a421050a73eb2b5e65a8695967a"
+			}
+		},
+		{
+			"id": "end-game-text-ez-noobs-bg-5-pigs",
+			"name": "End Game Text - EZ Noobs / BG 5 Pigs",
+			"kind": "ui",
+			"creator": "sraach",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/end-game-text-ez-noobs-bg-5-pigs/thumb.webp?v=acab6d78",
+			"file": {
+				"version": 1,
+				"asset": "end-game-text-ez-noobs-bg-5-pigs-v1.fantome",
+				"size": 69030,
+				"sha256": "116dd6db596a59ee63bd65e0230ed55d295032e9be1f8af2eea043cfec6dcba6"
+			}
+		},
+		{
+			"id": "ender-flash",
+			"name": "Ender Flash",
+			"kind": "sounds",
+			"creator": "goro",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/ender-flash/thumb.webp?v=71f192db",
+			"file": {
+				"version": 1,
+				"asset": "ender-flash-v1.fantome",
+				"size": 6675952,
+				"sha256": "78b9f5b2ed8989b3a0ea8c12fb8473c4b92a1bc0141828b92293f66ae64baed7"
+			}
+		},
+		{
+			"id": "enduring-sword-talon-chroma-vfx",
+			"name": "Enduring Sword Talon chroma VFX",
+			"kind": "other",
+			"creator": "suriin",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/enduring-sword-talon-chroma-vfx/thumb.webp?v=b2cedbcf",
+			"file": {
+				"version": 1,
+				"asset": "enduring-sword-talon-chroma-vfx-v1.fantome",
+				"size": 4051365,
+				"sha256": "bc5fa9abdc571e331b3c4063d3748d14aa39130aaf6ed07b9cda7da20fc8d454"
 			}
 		}
 	]

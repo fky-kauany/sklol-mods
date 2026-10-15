@@ -1,0 +1,17 @@
+{
+	"id": "emerald-gains-emerald-gold",
+	"name": "Emerald Gains (Emerald Gold)",
+	"kind": "ui",
+	"creator": "runeforgerecoveryteam",
+	"description": "# Skin Info:\r\n\r\nType: UI\r\n\r\n‎\r\n\r\nOriginal Author :Vita\r\n\r\n‎\r\n\r\nRecovered by: Yuumi\r\n\r\n‎\r\n\r\nMod version: 1.0\r\n\r\nNote : I am not the original author of this skin, I only publish it to recovery and share it with the community.\r\n\r\n‎\r\n\r\n‎\r\n\r\nIf it breaks or has problems contact me on discord: @fbsyuumi\n\n---\n\n**Created by** [RuneforgeRecoveryTeam](https://runeforge.dev/users/RuneforgeRecoveryTeam)\n\n**Original:** https://runeforge.dev/mods/ee151274-ab9f-4549-983c-526fd2ceddbd\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/emerald-gains-emerald-gold/thumb.webp?v=2c3170dc",
+	"file": {
+		"version": 1,
+		"asset": "emerald-gains-emerald-gold-v1.fantome",
+		"size": 4383,
+		"sha256": "51b6b8226396eea0c8c9347bd59687def3c467e2381d0abbc7bcfee424d159cc"
+	}
+}

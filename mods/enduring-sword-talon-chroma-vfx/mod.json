@@ -1,0 +1,17 @@
+{
+	"id": "enduring-sword-talon-chroma-vfx",
+	"name": "Enduring Sword Talon chroma VFX",
+	"kind": "other",
+	"creator": "suriin",
+	"description": "## Important info\r\n\r\nThis will clash with any custom skin that modifies Enduring Sword Talon. 1 file for all chromas. You must own the skin and chromas.\r\n\r\n## Description\r\n\r\n**Author**: Suriin\r\n\r\n**Skin**: Enduring Sword Talon\r\n\r\n**Affects**: VFX colors\r\n\r\nAdds matching VFX to every chroma, base remains the same.\r\n\r\n\r\n## Contact\r\n\r\nIf you have any issues or questions you can message me on discord: .suriin Just make sure you are on the RuneForge server.\r\n\r\n---\r\n\r\n### You can support me on Ko-Fi [ko-fi.com/suriinruneforge](https://ko-fi.com/suriinruneforge) <3\n\n---\n\n**Created by** [Suriin](https://runeforge.dev/users/Suriin)\n\n**Original:** https://runeforge.dev/mods/c62c8f18-4071-4852-affb-af8e7fa4651f\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/enduring-sword-talon-chroma-vfx/thumb.webp?v=b2cedbcf",
+	"file": {
+		"version": 1,
+		"asset": "enduring-sword-talon-chroma-vfx-v1.fantome",
+		"size": 4051365,
+		"sha256": "bc5fa9abdc571e331b3c4063d3748d14aa39130aaf6ed07b9cda7da20fc8d454"
+	}
+}
