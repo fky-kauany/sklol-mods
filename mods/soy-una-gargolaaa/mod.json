@@ -1,0 +1,17 @@
+{
+	"id": "soy-una-gargolaaa",
+	"name": "Soy una gargolaaa",
+	"kind": "sounds",
+	"creator": "exynex",
+	"description": "Changes Galio's ult landing sound for the song \"Soy una gargola\".\n\n---\n\n**Created by** [Exynex](https://runeforge.dev/users/Exynex)\n\n**Original:** https://runeforge.dev/mods/c48f1a02-026b-4aff-b1dd-3940e86389c1\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/soy-una-gargolaaa/thumb.webp?v=0b598fb8",
+	"file": {
+		"version": 1,
+		"asset": "soy-una-gargolaaa-v1.fantome",
+		"size": 1266208,
+		"sha256": "e6c471a88a820980a01a5095cd15ae01570763b0d6a5293bbe1748aa9cfe076d"
+	}
+}

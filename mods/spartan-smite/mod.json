@@ -1,0 +1,17 @@
+{
+	"id": "spartan-smite",
+	"name": "Spartan Smite",
+	"kind": "sounds",
+	"creator": "el7oot",
+	"description": "* ### changes the smite sound to \"plainsundaee_\" STRIKE WITHOUT WARNING\r\n\r\n* ### credits:\r\n### Thanks to https://runeforge.dev/users/Mouf/mods for the idea\r\n\r\n### The guy himself: https://www.youtube.com/@plainsundaee/featured\r\n\r\n### If the mod broke or if anyone has any suggestions, feel free to DM me at: mahmoud\\_ali\n\n---\n\n**Created by** [EL7OOT](https://runeforge.dev/users/EL7OOT)\n\n**Original:** https://runeforge.dev/mods/64375844-a617-471c-80bd-305d2c4e99fc\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/spartan-smite/thumb.webp?v=49c85654",
+	"file": {
+		"version": 1,
+		"asset": "spartan-smite-v1.fantome",
+		"size": 8144259,
+		"sha256": "dde8e6a34d462c3acc40b3cff71a908703f898af99d18fd8acdcfc76a5fa8561"
+	}
+}

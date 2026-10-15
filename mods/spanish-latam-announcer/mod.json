@@ -1,0 +1,17 @@
+{
+	"id": "spanish-latam-announcer",
+	"name": "Spanish LATAM Announcer",
+	"kind": "announcer",
+	"creator": "aropatnik",
+	"description": "## Information\n\n**Changes the Summoners Rift, ARAM and Arena announcers to Spanish LATAM**\n\n**The version number is the patch it was made for**\n\n**Author: Aropatnik**\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/16180152-0176-4b5a-90e9-15d681167b25\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/spanish-latam-announcer/thumb.webp?v=3644c9e8",
+	"file": {
+		"version": 1,
+		"asset": "spanish-latam-announcer-v1.fantome",
+		"size": 59515708,
+		"sha256": "5804a7997cbd7fc69de73353b93432b709c8d7626aaafd2599216d497dc20141"
+	}
+}

@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T11:46:46.549Z",
+	"generatedAt": "2026-10-15T11:52:27.621Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -285,6 +285,14 @@
 			"name": "DonutvsDonut",
 			"avatar": "creators/donutvsdonut.jpg?v=86a1c710",
 			"links": {}
+		},
+		"duduzzz": {
+			"name": "DuDuZZz",
+			"avatar": "creators/duduzzz.jpg?v=ce19fa23",
+			"bio": "Samira lover <3",
+			"links": {
+				"youtube": "https://youtu.be/DV67PqcfGe0"
+			}
 		},
 		"el0menati": {
 			"name": "El0mEnati",
@@ -10238,6 +10246,176 @@
 				"asset": "soul-fighter-lux-skill-icons-v1.fantome",
 				"size": 10382,
 				"sha256": "7657e22b181d6b4afd73edf994e6036cd0f34fdf588450c5420edc9e90a09256"
+			}
+		},
+		{
+			"id": "soul-fighter-samira-dmc-style-and-sounds",
+			"name": "Soul Fighter Samira DMC style and sounds",
+			"kind": "sounds",
+			"creator": "duduzzz",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/soul-fighter-samira-dmc-style-and-sounds/thumb.webp?v=36afd054",
+			"file": {
+				"version": 1,
+				"asset": "soul-fighter-samira-dmc-style-and-sounds-v1.fantome",
+				"size": 3709384,
+				"sha256": "ac40a85733fa0c0b8386bb8f93ef100243df1be070198a4aa8d98d1ccec63536"
+			}
+		},
+		{
+			"id": "soy-una-gargolaaa",
+			"name": "Soy una gargolaaa",
+			"kind": "sounds",
+			"creator": "exynex",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/soy-una-gargolaaa/thumb.webp?v=0b598fb8",
+			"file": {
+				"version": 1,
+				"asset": "soy-una-gargolaaa-v1.fantome",
+				"size": 1266208,
+				"sha256": "e6c471a88a820980a01a5095cd15ae01570763b0d6a5293bbe1748aa9cfe076d"
+			}
+		},
+		{
+			"id": "spanish-latam-announcer",
+			"name": "Spanish LATAM Announcer",
+			"kind": "announcer",
+			"creator": "aropatnik",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/spanish-latam-announcer/thumb.webp?v=3644c9e8",
+			"file": {
+				"version": 1,
+				"asset": "spanish-latam-announcer-v1.fantome",
+				"size": 59515708,
+				"sha256": "5804a7997cbd7fc69de73353b93432b709c8d7626aaafd2599216d497dc20141"
+			}
+		},
+		{
+			"id": "spanish-spain-announcer",
+			"name": "Spanish Spain Announcer",
+			"kind": "announcer",
+			"creator": "aropatnik",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/spanish-spain-announcer/thumb.webp?v=5797bf98",
+			"file": {
+				"version": 1,
+				"asset": "spanish-spain-announcer-v1.fantome",
+				"size": 61123915,
+				"sha256": "edd8acf7586f41886665b4befa4ddbebbb392c7fbed78a3ee220fbea7ba4b122"
+			}
+		},
+		{
+			"id": "spartan-smite",
+			"name": "Spartan Smite",
+			"kind": "sounds",
+			"creator": "el7oot",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/spartan-smite/thumb.webp?v=49c85654",
+			"file": {
+				"version": 1,
+				"asset": "spartan-smite-v1.fantome",
+				"size": 8144259,
+				"sha256": "dde8e6a34d462c3acc40b3cff71a908703f898af99d18fd8acdcfc76a5fa8561"
+			}
+		},
+		{
+			"id": "speaki-cuayo-summoner-spells",
+			"name": "좋아요 Speaki cuayo summoner spells",
+			"kind": "other",
+			"creator": "archlyris",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/speaki-cuayo-summoner-spells/thumb.webp?v=da2842fe",
+			"file": {
+				"version": 1,
+				"asset": "speaki-cuayo-summoner-spells-v1.fantome",
+				"size": 9666875,
+				"sha256": "3b3262c7c24e094ed55cf0001179a921fca1ed2a4c0cad28a353e98e9527a0c8"
+			}
+		},
+		{
+			"id": "speed-please-recall",
+			"name": "SPEED PLEASE Recall",
+			"kind": "recall",
+			"creator": "wiko",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/speed-please-recall/thumb.webp?v=03ce39c5",
+			"file": {
+				"version": 1,
+				"asset": "speed-please-recall-v1.fantome",
+				"size": 6946874,
+				"sha256": "51baa53fcc2a02f8c00e5a4be13db8ccbcba5bc37485c6eca277c14dd57419d1"
+			}
+		},
+		{
+			"id": "spinning-chibi-katarina-wards",
+			"name": "Spinning Chibi Katarina Wards",
+			"kind": "other",
+			"creator": "aropatnik",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/spinning-chibi-katarina-wards/thumb.webp?v=e67f34ac",
+			"file": {
+				"version": 1,
+				"asset": "spinning-chibi-katarina-wards-v1.fantome",
+				"size": 1157682,
+				"sha256": "a144ef0d610bec00f352ff87f06a50c68d59236b0b250c6d04286f4ec323b3d6"
+			}
+		},
+		{
+			"id": "spinning-thai-water-buffalo-vessel-1000-bce-targ",
+			"name": "Spinning Thai Water Buffalo Vessel 1000 BCE Target Dummy",
+			"kind": "other",
+			"creator": "yuumi",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/spinning-thai-water-buffalo-vessel-1000-bce-targ/thumb.webp?v=ebfa5383",
+			"file": {
+				"version": 1,
+				"asset": "spinning-thai-water-buffalo-vessel-1000-bce-targ-v1.fantome",
+				"size": 3088826,
+				"sha256": "3f04e267da2309e55e7ef5848a8315c3fc1df562f96a85864e7ef614c5be3e27"
+			}
+		},
+		{
+			"id": "spirit-blossom-akana-nightcore-bgm",
+			"name": "Spirit Blossom Akana Nightcore BGM",
+			"kind": "sounds",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/spirit-blossom-akana-nightcore-bgm/thumb.webp?v=db57677f",
+			"file": {
+				"version": 1,
+				"asset": "spirit-blossom-akana-nightcore-bgm-v1.modpkg",
+				"size": 26516497,
+				"sha256": "42202f2106ae4c70d3ba200ee81da19532ab4bebfcd00a00977a97961a9307a0"
 			}
 		}
 	]

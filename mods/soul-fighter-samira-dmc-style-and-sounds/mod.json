@@ -1,0 +1,17 @@
+{
+	"id": "soul-fighter-samira-dmc-style-and-sounds",
+	"name": "Soul Fighter Samira DMC style and sounds",
+	"kind": "sounds",
+	"creator": "duduzzz",
+	"description": "***\n\n### **Mod info:**\n\n* Author: DuDuZZz\n* Champion: Samira\n* Modified skin: Soul Fighter Samira\n* Mod version: 1.0.0\n\n***\n\n### Features:\n\n* Devil May Cry 5 style announcer sounds (Smokin' Sexy Style!!!!)\n* Bury the Light starts playing when you make penta kill\n* Devil May Cry 5 style icons \n* New loading screen\n\n***\n\n### I was looking for a mod that changes Soul Fighter Samira sounds to DMC sounds and then i found a cool mod by DomingoDeRammus then i got inspired to make my own version with some extra features. This is my first mod btw, hope you like it :)&#xA;&#xA;If you want to report any issues feel free to DM me on Discord: duduzzz\\_\n\n---\n\n**Created by** [DuDuZZz](https://runeforge.dev/users/DuDuZZz)\n\n**Original:** https://runeforge.dev/mods/b8e5d4b9-9e1e-4d03-a062-051720cebd74\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/soul-fighter-samira-dmc-style-and-sounds/thumb.webp?v=36afd054",
+	"file": {
+		"version": 1,
+		"asset": "soul-fighter-samira-dmc-style-and-sounds-v1.fantome",
+		"size": 3709384,
+		"sha256": "ac40a85733fa0c0b8386bb8f93ef100243df1be070198a4aa8d98d1ccec63536"
+	}
+}

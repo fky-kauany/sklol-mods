@@ -1,0 +1,17 @@
+{
+	"id": "speaki-cuayo-summoner-spells",
+	"name": "좋아요 Speaki cuayo summoner spells",
+	"kind": "other",
+	"creator": "archlyris",
+	"description": "Replacing all summoner spells with speaki sound from trickal chibigo\n\n---\n\n**Created by** [archlyris](https://runeforge.dev/users/archlyris)\n\n**Original:** https://runeforge.dev/mods/45ff90df-7a1e-481c-8f8e-5315d2d42bc6\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/speaki-cuayo-summoner-spells/thumb.webp?v=da2842fe",
+	"file": {
+		"version": 1,
+		"asset": "speaki-cuayo-summoner-spells-v1.fantome",
+		"size": 9666875,
+		"sha256": "3b3262c7c24e094ed55cf0001179a921fca1ed2a4c0cad28a353e98e9527a0c8"
+	}
+}

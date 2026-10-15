@@ -1,0 +1,17 @@
+{
+	"id": "spinning-chibi-katarina-wards",
+	"name": "Spinning Chibi Katarina Wards",
+	"kind": "other",
+	"creator": "aropatnik",
+	"description": "# Pick the default ward skin in champ select!\n\n## Information\n\n**Modified La Creatura: Wards**\n\n**Modified skin: Default**\n\n**Author: Aropatnik**\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/84d130da-ef67-4dfb-8de2-402e7c75edb4\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/spinning-chibi-katarina-wards/thumb.webp?v=e67f34ac",
+	"file": {
+		"version": 1,
+		"asset": "spinning-chibi-katarina-wards-v1.fantome",
+		"size": 1157682,
+		"sha256": "a144ef0d610bec00f352ff87f06a50c68d59236b0b250c6d04286f4ec323b3d6"
+	}
+}
