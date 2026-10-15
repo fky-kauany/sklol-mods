@@ -1,0 +1,17 @@
+{
+	"id": "zy0xxx-cryptblooming",
+	"name": "Zy0xxx Cryptblooming",
+	"kind": "sounds",
+	"creator": "wiko",
+	"description": "### ✨ Overview\n\nThis mod replaces the Cryptbloom sound effect with Zy0xxx saying \"OH MY GOD I'M BLOOMING\"\n\n\n#\n\n### ✨ Credits\n\n- Credits to konradosj (join [his Discord](https://discord.gg/AbJr22cCZG/ \"konradosj Super Server invite link\")!) and LxVer\n- Shoutout to [Zy0xxx](https://twitch.tv/Zy0xxx/ \"twitch tv zy0xxx\")\n\n---\n\n**Created by** [Wiko](https://www.divineskins.gg/Wiko), [konradosj](https://www.divineskins.gg/konradosj)\n\n**Original:** https://www.divineskins.gg/Wiko/zy0xxx-cryptblooming\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/zy0xxx-cryptblooming/thumb.webp?v=4a027c5c",
+	"file": {
+		"version": 1,
+		"asset": "zy0xxx-cryptblooming-v1.fantome",
+		"size": 10209392,
+		"sha256": "389879332c60e0017724ed22b1f871b7b589f90eb81b94a31ece1f88473f303f"
+	}
+}

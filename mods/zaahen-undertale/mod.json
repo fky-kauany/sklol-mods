@@ -1,0 +1,17 @@
+{
+	"id": "zaahen-undertale",
+	"name": "Zaahen undertale",
+	"kind": "other",
+	"creator": "eadysugardaddy",
+	"description": "Source song:https://www.youtube.com/watch?v=5qajT8lS2ok\r\n\r\nHis revive plays Finale, and Megalovania when fully stacked\n\n---\n\n**Created by** [eadysugardaddy](https://runeforge.dev/users/eadysugardaddy)\n\n**Original:** https://runeforge.dev/mods/b3c5fa1a-e88a-48d1-a3bb-6b627c79d6bc\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/zaahen-undertale/thumb.webp?v=6c3b9dc8",
+	"file": {
+		"version": 1,
+		"asset": "zaahen-undertale-v1.fantome",
+		"size": 5380986,
+		"sha256": "493908d2379a95b742b8b4cab0a107605ded4da9edc409b6c1b1ec9b66f24835"
+	}
+}

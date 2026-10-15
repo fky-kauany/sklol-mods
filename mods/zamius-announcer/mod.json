@@ -1,0 +1,17 @@
+{
+	"id": "zamius-announcer",
+	"name": "Zamius Announcer",
+	"kind": "announcer",
+	"creator": "zamius",
+	"description": "### MOD INFORMATION\n##\n**Modified Sounds**: Summoners Rift's Announcer\n\n**Author**: Zamius\n\n**Mod version**: 1.0\n\n**Description**: Replaces SR’s original announcer voice lines with mine. This is also my first announcer mod. :D\n##\n**FEATURES**\n- Supports the following languages: All languages\n- Modifies announcer\n- Available with both **English** and **Finnish** voice lines\n\n**CREDITS**\n- Project Warwick and Kristy for voice line creation.\n- TrynaGetMenace for being the FIRST EDITION BETA TESTER ;D\n\n---\n\n**Created by** [Zamius](https://runeforge.dev/users/Zamius)\n\n**Original:** https://runeforge.dev/mods/15320967-e73f-490e-bbb8-c6c88c256284\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/zamius-announcer/thumb.webp?v=2cdecbdd",
+	"file": {
+		"version": 1,
+		"asset": "zamius-announcer-v1.fantome",
+		"size": 12345160,
+		"sha256": "848f1689db555aa91a6f3b8e1304392b92b6e5a0e083b33645aa6a2b8c112ca5"
+	}
+}

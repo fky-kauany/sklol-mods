@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T12:55:36.965Z",
+	"generatedAt": "2026-10-15T13:01:13.499Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -337,6 +337,13 @@
 			"bio": "Samira lover <3",
 			"links": {
 				"youtube": "https://youtu.be/DV67PqcfGe0"
+			}
+		},
+		"eadysugardaddy": {
+			"name": "eadysugardaddy",
+			"avatar": "creators/eadysugardaddy.jpg?v=5b06f819",
+			"links": {
+				"youtube": "https://www.youtube.com/watch?v=5qajT8lS2ok"
 			}
 		},
 		"el0menati": {
@@ -12386,6 +12393,176 @@
 				"asset": "your-junglers-essential-aka-lol-dances-on-you-mi-v1.fantome",
 				"size": 36661337,
 				"sha256": "d7eab352dbf3e4a943e6882544bfc99a9d4b2b9262df590bba7ba66510286a28"
+			}
+		},
+		{
+			"id": "yuumui",
+			"name": "YuumUI",
+			"kind": "other",
+			"creator": "yuumi",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/yuumui/thumb.webp?v=f9add0a2",
+			"file": {
+				"version": 1,
+				"asset": "yuumui-v1.fantome",
+				"size": 53279,
+				"sha256": "00f8a552b740965cb3db23c5d7e2f11184ec417908bdf1f65c1accf31b79143a"
+			}
+		},
+		{
+			"id": "za-warudo-bard",
+			"name": "ZA WARUDO Bard",
+			"kind": "sounds",
+			"creator": "pico-senpai",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/za-warudo-bard/thumb.webp?v=5259a05e",
+			"file": {
+				"version": 1,
+				"asset": "za-warudo-bard-v1.fantome",
+				"size": 6874634,
+				"sha256": "5b563d0a953a759d871440b8db00814be89faf236c69ac9fdf620083312bc733"
+			}
+		},
+		{
+			"id": "zaahen-undertale",
+			"name": "Zaahen undertale",
+			"kind": "other",
+			"creator": "eadysugardaddy",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/zaahen-undertale/thumb.webp?v=6c3b9dc8",
+			"file": {
+				"version": 1,
+				"asset": "zaahen-undertale-v1.fantome",
+				"size": 5380986,
+				"sha256": "493908d2379a95b742b8b4cab0a107605ded4da9edc409b6c1b1ec9b66f24835"
+			}
+		},
+		{
+			"id": "zamius-announcer",
+			"name": "Zamius Announcer",
+			"kind": "announcer",
+			"creator": "zamius",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/zamius-announcer/thumb.webp?v=2cdecbdd",
+			"file": {
+				"version": 1,
+				"asset": "zamius-announcer-v1.fantome",
+				"size": 12345160,
+				"sha256": "848f1689db555aa91a6f3b8e1304392b92b6e5a0e083b33645aa6a2b8c112ca5"
+			}
+		},
+		{
+			"id": "zeitnot",
+			"name": "Zeitnot.",
+			"kind": "other",
+			"creator": "thoxainn",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/zeitnot/thumb.webp?v=625ba4f7",
+			"file": {
+				"version": 1,
+				"asset": "zeitnot-v1.fantome",
+				"size": 24704785,
+				"sha256": "7a3439c9a18a68e83fa8c7735270e4dfa4664a9db4c4182d994d2701f9dae08b"
+			}
+		},
+		{
+			"id": "zhonyas-vine-boom-sfx",
+			"name": "Zhonyas Vine Boom SFX",
+			"kind": "sounds",
+			"creator": "aropatnik",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/zhonyas-vine-boom-sfx/thumb.webp?v=197521a9",
+			"file": {
+				"version": 1,
+				"asset": "zhonyas-vine-boom-sfx-v1.fantome",
+				"size": 10005477,
+				"sha256": "bd36dc62119c123f9cd6cdbef405dfd0474b7f944d2e89d9742d058cbb34c192"
+			}
+		},
+		{
+			"id": "zminimap-on-top",
+			"name": "zMinimap On Top",
+			"kind": "ui",
+			"creator": "moga",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/zminimap-on-top/thumb.webp?v=70bec40b",
+			"file": {
+				"version": 1,
+				"asset": "zminimap-on-top-v1.fantome",
+				"size": 95532,
+				"sha256": "349d3eca314acf030aa5ab9e7128ce4f9bd8f2bbe5a391b100144b8db16d6e4e"
+			}
+		},
+		{
+			"id": "zultrawide-accessibility-21-9",
+			"name": "zUltrawide Accessibility (21:9)",
+			"kind": "ui",
+			"creator": "moga",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/zultrawide-accessibility-21-9/thumb.webp?v=0d3d55b4",
+			"file": {
+				"version": 1,
+				"asset": "zultrawide-accessibility-21-9-v1.fantome",
+				"size": 730081,
+				"sha256": "37afb75f23d28e44dcd5d50281b037b4e9ad17ee0c7b4241daddd823a4437078"
+			}
+		},
+		{
+			"id": "zultrawide-accessibility-32-9",
+			"name": "zUltrawide Accessibility (32:9)",
+			"kind": "ui",
+			"creator": "moga",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/zultrawide-accessibility-32-9/thumb.webp?v=208d78f8",
+			"file": {
+				"version": 1,
+				"asset": "zultrawide-accessibility-32-9-v1.fantome",
+				"size": 731864,
+				"sha256": "61955e9a1f51f33d6431c3b904381be2b6103a37e68ecf7e4f931128db1642e3"
+			}
+		},
+		{
+			"id": "zy0xxx-cryptblooming",
+			"name": "Zy0xxx Cryptblooming",
+			"kind": "sounds",
+			"creator": "wiko",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/zy0xxx-cryptblooming/thumb.webp?v=4a027c5c",
+			"file": {
+				"version": 1,
+				"asset": "zy0xxx-cryptblooming-v1.fantome",
+				"size": 10209392,
+				"sha256": "389879332c60e0017724ed22b1f871b7b589f90eb81b94a31ece1f88473f303f"
 			}
 		}
 	]

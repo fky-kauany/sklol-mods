@@ -1,0 +1,17 @@
+{
+	"id": "za-warudo-bard",
+	"name": "ZA WARUDO Bard",
+	"kind": "sounds",
+	"creator": "pico-senpai",
+	"description": "## **MOD INFORMATION**\r\n\r\n* Author: Pico Senpai\r\n* Mod Version: 1.0.0\r\n* Modified champion: Bard\r\n* Modified sound: Bard's ultimate cast and landing\r\n\r\n## **DESCRIPTION**\r\n\r\n* Bard screams \"ZA WARUDO\" from Jojo's whenever he ults, playing the time stop sound as the ult touches the ground\r\n\r\n## **SOCIALS**\r\n\r\n&#x20;                     ![](https://static.wixstatic.com/media/e2a744_abb27c3529754e04ab6ad06fd9c7ab56~mv2.png/v1/fill/w_740,h_416,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e2a744_abb27c3529754e04ab6ad06fd9c7ab56~mv2.png)\r\n\r\n### &#xA;Add me on Discord if you need anything mod related: pico\\_senpai\t\t\t\t\t&#x9;\n\n---\n\n**Created by** [Pico Senpai](https://runeforge.dev/users/Pico_Senpai)\n\n**Original:** https://runeforge.dev/mods/104704f0-8515-41e8-bc9f-46632ddad93b\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/za-warudo-bard/thumb.webp?v=5259a05e",
+	"file": {
+		"version": 1,
+		"asset": "za-warudo-bard-v1.fantome",
+		"size": 6874634,
+		"sha256": "5b563d0a953a759d871440b8db00814be89faf236c69ac9fdf620083312bc733"
+	}
+}

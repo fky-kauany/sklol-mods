@@ -1,0 +1,17 @@
+{
+	"id": "zeitnot",
+	"name": "Zeitnot.",
+	"kind": "other",
+	"creator": "thoxainn",
+	"description": "BABAĞ\n\n---\n\n**Created by** [Thoxain](https://www.divineskins.gg/Thoxainn)\n\n**Original:** https://www.divineskins.gg/Thoxainn/zeitnot\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/zeitnot/thumb.webp?v=625ba4f7",
+	"file": {
+		"version": 1,
+		"asset": "zeitnot-v1.fantome",
+		"size": 24704785,
+		"sha256": "7a3439c9a18a68e83fa8c7735270e4dfa4664a9db4c4182d994d2701f9dae08b"
+	}
+}

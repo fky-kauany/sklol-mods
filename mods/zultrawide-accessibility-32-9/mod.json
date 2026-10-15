@@ -1,0 +1,17 @@
+{
+	"id": "zultrawide-accessibility-32-9",
+	"name": "zUltrawide Accessibility (32:9)",
+	"kind": "ui",
+	"creator": "moga",
+	"description": "CLICK ME to View the Prview\n\nhttps://i.imgur.com/FiO4Eac.jpeg\n\n16:9 Comparison\n\nhttps://i.imgur.com/s0Wooup.png\n\n### Overview\n\nRiot, as many game companies do, choose to ignore the ultrawide community and make playing games on the superior ratio very annoying, and sometimes unplayable at all.\n\nThis mod shifts HUD elements into their default positions on a 16:9 monitor, even while using a 21:9 or 32:9 resolution. This means if you overlay a 16:9 display's HUD, the HUD will be line up and appear the same. (See the above images.) This also retains proper HUD scaling.\n\n**Please tell me if there are frames that need to be moved (probably Arena).**\n\nList of Modified Frames\n\n- **[Target Frame]** --  Moved inward and texture edited to appear normal outside of the corner.\n- **[Enemy Respawn Timers]** --  (Includes flipped/left side) moved inward.\n- **[Minimap]** --  Moved inward. Textures edited to appear normal outside of the corner.\n- **[Team Frames]** --  (Includes flipped/left side) moved inward.\n- **[Game Header (Score/KDA)]** --  Moved inward and textures edited to appear more normal now that it's outside of the corner.\n- **[Surrender Popup]** --  Moved inward.\n- **[Objective Vote]** --  Moved inward.\n- **[Kill Callouts]** --  Unchanged on 21:9, not worth their space. Moved in on 32:9 though.\n\nhttps://runeforge.dev/mods/238558cf-0827-4fc7-b1bf-908986101b7e\n\nhttps://discord.gg/gSXbEmPQCA\n\n---\n\n**Created by** [Moga](https://runeforge.dev/users/Moga)\n\n**Original:** https://runeforge.dev/mods/58a09e4e-2b5c-4575-a0e2-c33cd7166b4b\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/zultrawide-accessibility-32-9/thumb.webp?v=208d78f8",
+	"file": {
+		"version": 1,
+		"asset": "zultrawide-accessibility-32-9-v1.fantome",
+		"size": 731864,
+		"sha256": "61955e9a1f51f33d6431c3b904381be2b6103a37e68ecf7e4f931128db1642e3"
+	}
+}

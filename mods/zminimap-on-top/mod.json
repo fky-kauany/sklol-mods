@@ -1,0 +1,17 @@
+{
+	"id": "zminimap-on-top",
+	"name": "zMinimap On Top",
+	"kind": "ui",
+	"creator": "moga",
+	"description": "Map scale, pings, minimap movement, and camera control all work. Please let me know of any bugs with this mod! Or if you have mod ideas, feel free to let me know in my\n[Discord](https://discord.gg/gSXbEmPQCA)\nor RF.\n\n**- OVERVIEW**\n\n- Works with my\n[Weakaura HUD](https://runeforge.dev/mods/fbd82c69-1d3f-4d8c-8063-e9acf9a9feca)\nmod.\n\n- Top left or top right is controlled by your in-game left/right minimap setting.\n- Top left is likely most natural for people previously adjusted to CS or other shooters' minimaps.\n- However, putting it top right is lowkey some ass, tactically. It's sorta the worst of both worlds on red and blue, but I did it anyway because customization is always good for someone who might prefer it.\n\n**- NOTES**\n\n- The filename you drag into CSLOL needs to stay as `Z-Top Minimap` if you use either my other mods so it'll overwrite and take prio.\n- Removes Vietnam watermark.\n- Top right KDA/Score/Timer bar is now bottom right. (For both minimap orientations.)\n- The target frame is now bottom left.\n- Team/enemy party frames are now bottom left/right; and will change respect to your in-game map settings.\n- Removed [settings, voice chat, camera lock, and jungle path buttons](https://imgur.com/a/nDW0e3N) because literally zero people in the history of the known universe have even once attempted to utilize these buttons.\n- Also removed that [ping button](https://imgur.com/a/nDW0e3N) because it exists for some reason?\n- Shifted kill callouts down slightly to avoid overlap in case of top right map combined with HUD scale `> 60`.\n- Right side map has a MAX of `88` Map scale until it will overlap kill callouts.\n- Left side map has a MAX of `70` HUD scale until the 2nd row of target frame buffs will overlap the team frames, `95` if only 1 buff row exists.\n\nhttps://discord.gg/gSXbEmPQCA\n\n---\n\n**Created by** [Moga](https://runeforge.dev/users/Moga)\n\n**Original:** https://runeforge.dev/mods/1fde87b9-cbe7-4860-884f-2efac9019ac5\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/zminimap-on-top/thumb.webp?v=70bec40b",
+	"file": {
+		"version": 1,
+		"asset": "zminimap-on-top-v1.fantome",
+		"size": 95532,
+		"sha256": "349d3eca314acf030aa5ab9e7128ce4f9bd8f2bbe5a391b100144b8db16d6e4e"
+	}
+}

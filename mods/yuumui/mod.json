@@ -1,0 +1,17 @@
+{
+	"id": "yuumui",
+	"name": "YuumUI",
+	"kind": "other",
+	"creator": "yuumi",
+	"description": "Replaces the \"Attached to by Yuumi\" minimap icon by a cuter one. My first ever mod.\n\n---\n\n**Created by** [Yuumi](https://runeforge.dev/users/yuumi)\n\n**Original:** https://runeforge.dev/mods/ca3c8ff0-6fcf-425f-b3d3-890be91d6d14\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/yuumui/thumb.webp?v=f9add0a2",
+	"file": {
+		"version": 1,
+		"asset": "yuumui-v1.fantome",
+		"size": 53279,
+		"sha256": "00f8a552b740965cb3db23c5d7e2f11184ec417908bdf1f65c1accf31b79143a"
+	}
+}
