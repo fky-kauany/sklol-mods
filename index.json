@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T11:29:48.813Z",
+	"generatedAt": "2026-10-15T11:35:22.218Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -141,6 +141,14 @@
 			"bio": "hi!! i am a noob mod i don't know what im doing i don't know a lot of things \nIF SOMETHING IS BROKEN discord: rremedy",
 			"links": {}
 		},
+		"azerkan67": {
+			"name": "azerkan67",
+			"bio": "Ping me on dc @azerkan67 /\n\ncommi or issues",
+			"links": {
+				"kofi": "https://ko-fi.com/azerkan",
+				"youtube": "https://www.youtube.com/c/Xazerkan67X/"
+			}
+		},
 		"badzerker": {
 			"name": "BadZerker",
 			"avatar": "creators/badzerker.png?v=606925a6",
@@ -264,6 +272,14 @@
 			"name": "DithZ",
 			"avatar": "creators/dithz.png?v=bb332928",
 			"links": {}
+		},
+		"domingoderammus": {
+			"name": "DomingoDeRammus",
+			"avatar": "creators/domingoderammus.png?v=98d319a2",
+			"bio": "Making easy mods for homies and everybody",
+			"links": {
+				"youtube": "https://youtu.be/ty13AhWpplM?si=1vUD4qCUEeOHHVF2"
+			}
 		},
 		"donutvsdonut": {
 			"name": "DonutvsDonut",
@@ -393,6 +409,14 @@
 				"youtube": "https://www.youtube.com/watch?v=_wyaHTfIDCA&lc=UgymYT19WCFfi7vhLnx4AaABAg"
 			}
 		},
+		"hyperios": {
+			"name": "HYPERIOS",
+			"avatar": "creators/hyperios.jpg?v=e505628c",
+			"bio": "Sett OTP and I like creating custom skins for Sett.\n- Consider donating to my ko-fi! https://ko-fi.com/hyperios 🧡",
+			"links": {
+				"discord": "https://discord.com/users/820637038252392479"
+			}
+		},
 		"ikplaydebom": {
 			"name": "ikplaydebom",
 			"avatar": "creators/ikplaydebom.jpg?v=5cfb198f",
@@ -457,6 +481,13 @@
 			"name": "Laby",
 			"avatar": "creators/laby.jpg?v=5b598c0b",
 			"links": {}
+		},
+		"lamboucp": {
+			"name": "lamboUCP",
+			"avatar": "creators/lamboucp.jpg?v=beaf6644",
+			"links": {
+				"youtube": "https://youtu.be/3eLcthDzFSQ"
+			}
 		},
 		"lasarban": {
 			"name": "lasarban",
@@ -9686,6 +9717,176 @@
 				"asset": "season-3-hud-v1.fantome",
 				"size": 4252289,
 				"sha256": "408f75ccf1f2c416a3748082fb8738e2ec9fd6b77e5ec00ecacf8bd6b1083fb3"
+			}
+		},
+		{
+			"id": "season-3-ranked-borders",
+			"name": "Season 3 Ranked Borders",
+			"kind": "ui",
+			"creator": "aropatnik",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/season-3-ranked-borders/thumb.webp?v=12960388",
+			"file": {
+				"version": 1,
+				"asset": "season-3-ranked-borders-v1.fantome",
+				"size": 239346,
+				"sha256": "7c6947ad80846e6a54a38e81f48782bbd832086518fd41387fd7bbc7241a9976"
+			}
+		},
+		{
+			"id": "season-4-recall",
+			"name": "Season 4 Recall",
+			"kind": "recall",
+			"creator": "venquis",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/season-4-recall/thumb.webp?v=54ced314",
+			"file": {
+				"version": 1,
+				"asset": "season-4-recall-v1.fantome",
+				"size": 7345706,
+				"sha256": "0d37c0a638eabda9548ee2259af4c1ba4556b63933d6f1282db17364797881a1"
+			}
+		},
+		{
+			"id": "season-8-loadingscreen",
+			"name": "Season 8 LoadingScreen",
+			"kind": "ui",
+			"creator": "xllwd1",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/season-8-loadingscreen/thumb.webp?v=5c926218",
+			"file": {
+				"version": 1,
+				"asset": "season-8-loadingscreen-v1.fantome",
+				"size": 1651522,
+				"sha256": "462de0139cfa54e041feb239db8f72d73cd8a461ebb60e897e12ebbf2509e6bf"
+			}
+		},
+		{
+			"id": "sentinel-graves-chroma-vfx",
+			"name": "Sentinel Graves Chroma VFX",
+			"kind": "vfx",
+			"creator": "donutvsdonut",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/sentinel-graves-chroma-vfx/thumb.webp?v=d1039d3a",
+			"file": {
+				"version": 1,
+				"asset": "sentinel-graves-chroma-vfx-v1.fantome",
+				"size": 10292198,
+				"sha256": "77a058f6733f79b49ab2d89d51926cbea84a63d3cb6b59e70b823f1f31b9cdc5"
+			}
+		},
+		{
+			"id": "sett-john-cena-sound",
+			"name": "Sett John Cena sound",
+			"kind": "sounds",
+			"creator": "lamboucp",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/sett-john-cena-sound/thumb.webp?v=f20931be",
+			"file": {
+				"version": 1,
+				"asset": "sett-john-cena-sound-v1.fantome",
+				"size": 1242305,
+				"sha256": "b6a396d395665b0d0bc41f4a6437e9e9291198688bd02a666b0e437506fc3099"
+			}
+		},
+		{
+			"id": "settkaiser",
+			"name": "Settkaiser",
+			"kind": "other",
+			"creator": "hyperios",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/settkaiser/thumb.webp?v=905ec8a5",
+			"file": {
+				"version": 1,
+				"asset": "settkaiser-v1.fantome",
+				"size": 5068779,
+				"sha256": "b04cb1ff1c5f1e55b23a85e1951ae4bb1e8678f53c8b9d1b3c266cba7c38bf99"
+			}
+		},
+		{
+			"id": "sf-pyke-killstreak",
+			"name": "SF Pyke Killstreak",
+			"kind": "sounds",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/sf-pyke-killstreak/thumb.webp?v=6c4794f9",
+			"file": {
+				"version": 1,
+				"asset": "sf-pyke-killstreak-v1.fantome",
+				"size": 525185,
+				"sha256": "a9fad9160e38a40fcf6e2c1fde7eae3fd34e3d70660956f538105dcacbd97c88"
+			}
+		},
+		{
+			"id": "sf-samira-dmc-sounds",
+			"name": "SF Samira DMC Sounds",
+			"kind": "sounds",
+			"creator": "domingoderammus",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/sf-samira-dmc-sounds/thumb.webp?v=15c447d5",
+			"file": {
+				"version": 1,
+				"asset": "sf-samira-dmc-sounds-v1.fantome",
+				"size": 5575683,
+				"sha256": "bcf164b8328adad8cd466701ba5f5a4b43d5d923c6fee7b83a50650e8fb47ff9"
+			}
+		},
+		{
+			"id": "shalltear-hud",
+			"name": "Shalltear HUD",
+			"kind": "ui",
+			"creator": "disco",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/shalltear-hud/thumb.webp?v=274a1980",
+			"file": {
+				"version": 1,
+				"asset": "shalltear-hud-v1.modpkg",
+				"size": 5359977,
+				"sha256": "3510e8cfae89ad41f60b03a3cf69d60b9174c6eaf027db98fd6827e051e69c65"
+			}
+		},
+		{
+			"id": "shanks-hud",
+			"name": "Shanks HUD",
+			"kind": "ui",
+			"creator": "azerkan67",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/shanks-hud/thumb.webp?v=00626bed",
+			"file": {
+				"version": 1,
+				"asset": "shanks-hud-v1.fantome",
+				"size": 11975487,
+				"sha256": "36a03852995c19733326ca5c4f784bfa5a5002b042fffe43fe173870c4e2e66e"
 			}
 		}
 	]

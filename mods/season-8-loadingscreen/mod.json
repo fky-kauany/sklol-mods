@@ -1,0 +1,17 @@
+{
+	"id": "season-8-loadingscreen",
+	"name": "Season 8 LoadingScreen",
+	"kind": "ui",
+	"creator": "xllwd1",
+	"description": "The default color is blue when there is no border.\n\n---\n\n**Created by** [xllwd1](https://www.divineskins.gg/xllwd1)\n\n**Original:** https://www.divineskins.gg/xllwd1/season-8-loadingscreen\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/season-8-loadingscreen/thumb.webp?v=5c926218",
+	"file": {
+		"version": 1,
+		"asset": "season-8-loadingscreen-v1.fantome",
+		"size": 1651522,
+		"sha256": "462de0139cfa54e041feb239db8f72d73cd8a461ebb60e897e12ebbf2509e6bf"
+	}
+}

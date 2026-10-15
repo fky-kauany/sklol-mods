@@ -1,0 +1,17 @@
+{
+	"id": "sf-pyke-killstreak",
+	"name": "SF Pyke Killstreak",
+	"kind": "sounds",
+	"creator": "aurecueil",
+	"description": "# **Skin Information**\n\nReplaces: Killstreaks with Soul Fighter Pyke ULT Music\n\nAuthor: Aurecuei\n\nVersion: 1.0.0\n\n## Wanna buy me a [Coffee](https://ko-fi.com/aurecueil)? :>\n\n\n[![My Discord Server ^^](https://raw.githubusercontent.com/Aurecueil/Temp/refs/heads/main/images/banner6_better.png)](https://discord.gg/GETA29vZEK)\n\n\n## MISC\n\n[Tierlist of my BGM mods](https://runeforge.dev/users/Aurecueil)\n\ndc: aurecueil\n\ni DO take Commisions btw\n\n---\n\n**Created by** [aurecueil](https://runeforge.dev/users/aurecueil)\n\n**Original:** https://runeforge.dev/mods/25120b04-fe93-4cab-821d-388eb4edc719\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/sf-pyke-killstreak/thumb.webp?v=6c4794f9",
+	"file": {
+		"version": 1,
+		"asset": "sf-pyke-killstreak-v1.fantome",
+		"size": 525185,
+		"sha256": "a9fad9160e38a40fcf6e2c1fde7eae3fd34e3d70660956f538105dcacbd97c88"
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"id": "sett-john-cena-sound",
+	"name": "Sett John Cena sound",
+	"kind": "sounds",
+	"creator": "lamboucp",
+	"description": "---\n\n**Created by** [lamboUCP](https://runeforge.dev/users/lamboUCP)\n\n**Original:** https://runeforge.dev/mods/b7b8009b-619f-4e20-af78-478c2859bda8\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/sett-john-cena-sound/thumb.webp?v=f20931be",
+	"file": {
+		"version": 1,
+		"asset": "sett-john-cena-sound-v1.fantome",
+		"size": 1242305,
+		"sha256": "b6a396d395665b0d0bc41f4a6437e9e9291198688bd02a666b0e437506fc3099"
+	}
+}

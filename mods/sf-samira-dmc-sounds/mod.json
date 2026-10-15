@@ -1,0 +1,17 @@
+{
+	"id": "sf-samira-dmc-sounds",
+	"name": "SF Samira DMC Sounds",
+	"kind": "sounds",
+	"creator": "domingoderammus",
+	"description": "Adds DMC5 style announcer to passive, devil trigger on ult and pentakill. Optional with modified dance version for fun. Planning to make this on base and other skins too. Inspiration from [https://www.youtube.com/@RoloRolla](https://www.youtube.com/@RoloRolla)\n\n[Dance preview](https://youtu.be/pygm8lehKNg?si=-tEJJzqv0kUmoKaB \"Dance preview\")\n\n---\n\n**Created by** [DomingoDeRammus](https://runeforge.dev/users/DomingoDeRammus)\n\n**Original:** https://runeforge.dev/mods/291acb6e-68ef-411f-b6fa-f316b4e37e96\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/sf-samira-dmc-sounds/thumb.webp?v=15c447d5",
+	"file": {
+		"version": 1,
+		"asset": "sf-samira-dmc-sounds-v1.fantome",
+		"size": 5575683,
+		"sha256": "bcf164b8328adad8cd466701ba5f5a4b43d5d923c6fee7b83a50650e8fb47ff9"
+	}
+}

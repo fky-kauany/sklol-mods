@@ -1,0 +1,17 @@
+{
+	"id": "settkaiser",
+	"name": "Settkaiser",
+	"kind": "other",
+	"creator": "hyperios",
+	"description": "---\n\n**Created by** [HYPERIOS](https://runeforge.dev/users/HYPERIOS)\n\n**Original:** https://runeforge.dev/mods/52bd142d-5679-4c5e-9854-a49998b98e99\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/settkaiser/thumb.webp?v=905ec8a5",
+	"file": {
+		"version": 1,
+		"asset": "settkaiser-v1.fantome",
+		"size": 5068779,
+		"sha256": "b04cb1ff1c5f1e55b23a85e1951ae4bb1e8678f53c8b9d1b3c266cba7c38bf99"
+	}
+}

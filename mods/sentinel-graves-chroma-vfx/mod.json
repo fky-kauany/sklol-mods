@@ -1,0 +1,17 @@
+{
+	"id": "sentinel-graves-chroma-vfx",
+	"name": "Sentinel Graves Chroma VFX",
+	"kind": "vfx",
+	"creator": "donutvsdonut",
+	"description": "Affected Skin: Sentinel Graves. Changes: Recolors particle effects to match in color to his various chromas\n\n---\n\n**Created by** [DonutvsDonut](https://runeforge.dev/users/DonutvsDonut)\n\n**Original:** https://runeforge.dev/mods/a809b5d9-5ecd-4c10-9dd1-8676bf5882ee\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/sentinel-graves-chroma-vfx/thumb.webp?v=d1039d3a",
+	"file": {
+		"version": 1,
+		"asset": "sentinel-graves-chroma-vfx-v1.fantome",
+		"size": 10292198,
+		"sha256": "77a058f6733f79b49ab2d89d51926cbea84a63d3cb6b59e70b823f1f31b9cdc5"
+	}
+}

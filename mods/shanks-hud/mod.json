@@ -1,0 +1,17 @@
+{
+	"id": "shanks-hud",
+	"name": "Shanks HUD",
+	"kind": "ui",
+	"creator": "azerkan67",
+	"description": "SHANKS HUD\n=\n\n### 🩷Like the mod ?\n\n❤️‍🔥Help me on more projects at [ko-fi\n](https://ko-fi.com/azerkan)\n\nFan-made, not affiliated with Riot Games or any other company.\n\n---\n\n**Created by** [azerkan67](https://www.divineskins.gg/azerkan67)\n\n**Original:** https://www.divineskins.gg/azerkan67/shanks-hud\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/shanks-hud/thumb.webp?v=00626bed",
+	"file": {
+		"version": 1,
+		"asset": "shanks-hud-v1.fantome",
+		"size": 11975487,
+		"sha256": "36a03852995c19733326ca5c4f784bfa5a5002b042fffe43fe173870c4e2e66e"
+	}
+}

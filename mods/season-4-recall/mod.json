@@ -1,0 +1,17 @@
+{
+	"id": "season-4-recall",
+	"name": "Season 4 Recall",
+	"kind": "recall",
+	"creator": "venquis",
+	"description": "This mod restores the Season 4 Recall VFX. This mod currently only replaces the regular Recall on Summoner's Rift.\n\n\n\n![Preview](https://i.ibb.co/1GXtmJRh/S4-Recall-Preview.gif)\n\n\n\n*The mod includes the old Recall sound as it was updated during Season 4. To revert back to the updated (current) sound, go to Edit this mod -> Files -> Delete Common.wad.client.*\n\n---\n\n**Created by** [Venquis](https://runeforge.dev/users/Venquis)\n\n**Original:** https://runeforge.dev/mods/ceca6cac-f64b-4daa-94cc-a24a81165366\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/season-4-recall/thumb.webp?v=54ced314",
+	"file": {
+		"version": 1,
+		"asset": "season-4-recall-v1.fantome",
+		"size": 7345706,
+		"sha256": "0d37c0a638eabda9548ee2259af4c1ba4556b63933d6f1282db17364797881a1"
+	}
+}
