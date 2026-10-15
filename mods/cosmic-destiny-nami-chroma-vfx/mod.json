@@ -1,0 +1,17 @@
+{
+	"id": "cosmic-destiny-nami-chroma-vfx",
+	"name": "Cosmic Destiny Nami chroma VFX",
+	"kind": "vfx",
+	"creator": "suriin",
+	"description": "## Important info\r\n\r\nThis will clash with any custom skin that modifies Cosmic Destiny Nami chromas. You must own the skin and chromas and choose one of them in champ select. \r\n\r\nThis includes tail physics on chromas. If you also want tail physics on base cosmic destiny skin download my [other mod](https://runeforge.dev/mods/7f93ac26-6630-46b9-ad6c-6da150b22101/releases) and make it load before this one.\r\n\r\n## Description\r\n\r\n**Author**: Suriin\r\n\r\n**Skin**: Cosmic Destiny Nami chromas\r\n\r\n**Affects**: VFX colors\r\n\r\nAdds matching VFX to every chroma, base remains the same.\r\n\r\n\r\n## Contact\r\n\r\nIf you have any issues or questions you can message me on discord: .suriin Just make sure you are on the RuneForge server.\r\n\r\n---\r\n\r\n### You can support me on Ko-Fi [ko-fi.com/suriinruneforge](https://ko-fi.com/suriinruneforge) <3\n\n---\n\n**Created by** [Suriin](https://runeforge.dev/users/Suriin)\n\n**Original:** https://runeforge.dev/mods/1db7652d-1c2c-45fc-857a-65f25ff0fd8e\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/cosmic-destiny-nami-chroma-vfx/thumb.webp?v=fbd1f4eb",
+	"file": {
+		"version": 1,
+		"asset": "cosmic-destiny-nami-chroma-vfx-v1.fantome",
+		"size": 12908727,
+		"sha256": "178a852b9f03fd058776f5a9d0bd6e106716166103ffda5a66937ddf4fe5dd48"
+	}
+}

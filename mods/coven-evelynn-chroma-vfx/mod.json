@@ -1,0 +1,17 @@
+{
+	"id": "coven-evelynn-chroma-vfx",
+	"name": "Coven Evelynn chroma VFX",
+	"kind": "other",
+	"creator": "suriin",
+	"description": "## Important info\r\n\r\nNow there is only 1 file to download, works for all chromas.\r\n\r\n## Description\r\n\r\n**Author**: Suriin\r\n\r\n**Skin**: Coven Evelynn\r\n\r\n**Affects**: VFX colors, loading screen border\r\n\r\nI changed the particles to make them match the chosen chroma. I also tweaked the loading screen border so it matches the colors of Coven Eve's splash art because it bugged me.\r\n\r\n---\r\n\r\n\r\n## Contact\r\n\r\nIf you have any issues or questions you can message me on discord: .suriin Just make sure you are on the RuneForge server.\r\n\r\n---\r\n\r\n### You can support me on Ko-Fi [ko-fi.com/suriinruneforge](https://ko-fi.com/suriinruneforge) <3\n\n---\n\n**Created by** [Suriin](https://runeforge.dev/users/Suriin)\n\n**Original:** https://runeforge.dev/mods/3205a794-cbc9-4711-b6eb-7355e018dd52\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/coven-evelynn-chroma-vfx/thumb.webp?v=2ffc9f21",
+	"file": {
+		"version": 1,
+		"asset": "coven-evelynn-chroma-vfx-v1.fantome",
+		"size": 24055569,
+		"sha256": "05fb3e9c534df513fc08d2f3604ac27ba4f98db3d958da3bdac89c345a1e6f39"
+	}
+}

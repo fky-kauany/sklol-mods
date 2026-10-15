@@ -1,0 +1,17 @@
+{
+	"id": "cosmic-queen-ashe-chroma-vfx",
+	"name": "Cosmic Queen Ashe - Chroma VFX",
+	"kind": "vfx",
+	"creator": "1gem1",
+	"description": "## Skin modified - Cosmic Queen Ashe Chromas\n╰┈➤ _The idea for this mod was to give the Cosmic Queen Ashe chromas matching VFX._\n\n\n _Please remember to disable any other custom skin for this champ to avoid major bugs !!_\n\n\n# **➫ Any suggestions, ideas, questions or bug reports?**\n\nSend them over [**here! (my discord)**](https://discord.gg/6MTrrVbwgm)\n\n---\n\n**Created by** [1gem1rachel](https://runeforge.dev/users/1gem1)\n\n**Original:** https://runeforge.dev/mods/744d7953-51ad-4223-a343-b933e47d1092\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/cosmic-queen-ashe-chroma-vfx/thumb.webp?v=cb289000",
+	"file": {
+		"version": 1,
+		"asset": "cosmic-queen-ashe-chroma-vfx-v1.fantome",
+		"size": 11548393,
+		"sha256": "6d1c69ea77b777a7b3af80c613f46c007450a1b2cf7d87f3986239478636199d"
+	}
+}

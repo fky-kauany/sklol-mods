@@ -1,0 +1,17 @@
+{
+	"id": "cosmic-matriarch-bel-veth-chroma-vfx",
+	"name": "Cosmic Matriarch Bel'Veth Chroma VFX",
+	"kind": "vfx",
+	"creator": "donutvsdonut",
+	"description": "Affects skin: Cosmic Matriarch Bel'Veth. Does not affect base skin, will not work with other mods that change Cosmic Matriarch Bel'Veth\n\n---\n\n**Created by** [DonutvsDonut](https://runeforge.dev/users/DonutvsDonut)\n\n**Original:** https://runeforge.dev/mods/b83ab88d-8c6b-4dbe-80b9-c31fc984e984\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/cosmic-matriarch-bel-veth-chroma-vfx/thumb.webp?v=b9c6d017",
+	"file": {
+		"version": 1,
+		"asset": "cosmic-matriarch-bel-veth-chroma-vfx-v1.fantome",
+		"size": 12913869,
+		"sha256": "5d5c3d1453dc185c7043189aec0f0e3eb7b3960285db98c4e2738bf4a517e4a4"
+	}
+}

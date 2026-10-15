@@ -1,0 +1,17 @@
+{
+	"id": "cool-health-bar-colors",
+	"name": "Cool Health Bar Colors",
+	"kind": "ui",
+	"creator": "moga",
+	"description": "## !! VERY IMPORTANT !! ⇛  HOW TO CHANGE THE COLOR !!\n\n###\n\nSimply rename the filename of the file for the color you've chosen to `SpotlightHealthBarAtlas`. All colors are included in the download next to the default file, named according to their description.\n\n#\n\nKEY\n\n### If all you want is practical clarity, use the one labeled `SpotlightHealthBarAtlas s_WHITE.tex` (Default).\n\n- g_ : Gradient style (The ones you see on the left + right side of the thumbnail).\n- s_ : Solid colors, from my other version of this mod [https://imgur.com/a/l0L1WDt](https://imgur.com/a/l0L1WDt)\n- z_ : Duplicate set of bars ***without*** the \"glass\" or vertical fade effect that give the 3D look.\n- _light : The single color fades (middle of the thumbnail).\n- BlueRed : Starts left blue and fades right into red.\n\nOVERVIEW\n\n### If all you want is practical clarity, use the one labeled `SpotlightHealthBarAtlas s_WHITE.tex` (Default).\n\n- This mod features various (~30) 2-3 color gradient health bars that allow for a considerably more apparent health bar; without the use of colorblind mode's weird desaturated  move click arrows and ugly yellow health bar.\n- The default color is just the white one.\n- There are 5-6 gradients excluded from the thumbnail. These are still on the key image though\n- Note: The red, blue, purple, or silver solid color bars are especially disadvantageous in that they make it difficult to discern between enemies, teammates, magic shields, or regular shields, respectively. Other colors such as grey or darker green may be otherwise bad as they lack contrast in general.\n- The best colors for clarity are the solid white or any of the pinks. Most of the gradients can stand out enough, regardless of their composition, excluding the dimmer shades and the blue ones.\n\n[Click to see all my other totally sick mods.](https://runeforge.dev/users/Moga/mods?page=0\\&sortBy=download_count)\n\n#\n\n### Mod Information:\n\n* Author: Moga\n\n* Mod Version: 15.13.1.5\n\nhttps://discord.gg/gSXbEmPQCA\n\n---\n\n**Created by** [Moga](https://runeforge.dev/users/Moga)\n\n**Original:** https://runeforge.dev/mods/7c4a096c-7ffb-4933-b3d8-a145db7784ff\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/cool-health-bar-colors/thumb.webp?v=8d59aa6c",
+	"file": {
+		"version": 1,
+		"asset": "cool-health-bar-colors-v1.fantome",
+		"size": 4839147,
+		"sha256": "4852f1ea1264d2d2651887ee697c1153e9f61b9df7603e86c65fa830904285de"
+	}
+}

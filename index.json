@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T07:45:24.180Z",
+	"generatedAt": "2026-10-15T07:48:16.384Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -206,6 +206,12 @@
 			"links": {
 				"youtube": "https://youtu.be/-1U1M-EuoN0"
 			}
+		},
+		"lumin": {
+			"name": "Lumin",
+			"avatar": "creators/lumin.jpg?v=77c4af3f",
+			"bio": "i do not respond positively to requests of assistance",
+			"links": {}
 		},
 		"matthewchasm": {
 			"name": "MatthewChasm",
@@ -2392,6 +2398,176 @@
 				"asset": "comic-sans-all-a-font-v1.fantome",
 				"size": 182085,
 				"sha256": "d303543faeece2ac3bdfcdd2a05368a90dda491be0eab1e2ad1c48982e2733ac"
+			}
+		},
+		{
+			"id": "comic-sans-font",
+			"name": "Comic Sans Font",
+			"kind": "fonts",
+			"creator": "atakzlky",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/comic-sans-font/thumb.webp?v=c742933a",
+			"file": {
+				"version": 1,
+				"asset": "comic-sans-font-v1.fantome",
+				"size": 87671,
+				"sha256": "cf02c6f58f51bb471bdfba4b5642fe5475e309052689d663709189ee841dd62c"
+			}
+		},
+		{
+			"id": "cool-health-bar-colors",
+			"name": "Cool Health Bar Colors",
+			"kind": "ui",
+			"creator": "moga",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/cool-health-bar-colors/thumb.webp?v=8d59aa6c",
+			"file": {
+				"version": 1,
+				"asset": "cool-health-bar-colors-v1.fantome",
+				"size": 4839147,
+				"sha256": "4852f1ea1264d2d2651887ee697c1153e9f61b9df7603e86c65fa830904285de"
+			}
+		},
+		{
+			"id": "cosmic-destiny-nami-chroma-vfx",
+			"name": "Cosmic Destiny Nami chroma VFX",
+			"kind": "vfx",
+			"creator": "suriin",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/cosmic-destiny-nami-chroma-vfx/thumb.webp?v=fbd1f4eb",
+			"file": {
+				"version": 1,
+				"asset": "cosmic-destiny-nami-chroma-vfx-v1.fantome",
+				"size": 12908727,
+				"sha256": "178a852b9f03fd058776f5a9d0bd6e106716166103ffda5a66937ddf4fe5dd48"
+			}
+		},
+		{
+			"id": "cosmic-lux-pink",
+			"name": "Cosmic Lux - Pink",
+			"kind": "other",
+			"creator": "1gem1",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/cosmic-lux-pink/thumb.webp?v=e54c69c9",
+			"file": {
+				"version": 1,
+				"asset": "cosmic-lux-pink-v1.fantome",
+				"size": 2642069,
+				"sha256": "8b6945bcb128fc3ba48e1ce0186842c015ed4615459959f5440301bc6b372060"
+			}
+		},
+		{
+			"id": "cosmic-matriarch-bel-veth-chroma-vfx",
+			"name": "Cosmic Matriarch Bel'Veth Chroma VFX",
+			"kind": "vfx",
+			"creator": "donutvsdonut",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/cosmic-matriarch-bel-veth-chroma-vfx/thumb.webp?v=b9c6d017",
+			"file": {
+				"version": 1,
+				"asset": "cosmic-matriarch-bel-veth-chroma-vfx-v1.fantome",
+				"size": 12913869,
+				"sha256": "5d5c3d1453dc185c7043189aec0f0e3eb7b3960285db98c4e2738bf4a517e4a4"
+			}
+		},
+		{
+			"id": "cosmic-queen-ashe-chroma-vfx",
+			"name": "Cosmic Queen Ashe - Chroma VFX",
+			"kind": "vfx",
+			"creator": "1gem1",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/cosmic-queen-ashe-chroma-vfx/thumb.webp?v=cb289000",
+			"file": {
+				"version": 1,
+				"asset": "cosmic-queen-ashe-chroma-vfx-v1.fantome",
+				"size": 11548393,
+				"sha256": "6d1c69ea77b777a7b3af80c613f46c007450a1b2cf7d87f3986239478636199d"
+			}
+		},
+		{
+			"id": "cosmic-reaver-kassadin-purple",
+			"name": "Cosmic Reaver Kassadin - Purple",
+			"kind": "other",
+			"creator": "1gem1",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/cosmic-reaver-kassadin-purple/thumb.webp?v=af79f4a0",
+			"file": {
+				"version": 1,
+				"asset": "cosmic-reaver-kassadin-purple-v1.fantome",
+				"size": 2307555,
+				"sha256": "cda1f9e16b343be40396156813177c917b5765744167666f4cf8fb3a91982f10"
+			}
+		},
+		{
+			"id": "cosmic-recall",
+			"name": "Cosmic Recall",
+			"kind": "recall",
+			"creator": "frog",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/cosmic-recall/thumb.webp?v=dc84eeeb",
+			"file": {
+				"version": 1,
+				"asset": "cosmic-recall-v1.fantome",
+				"size": 4565859,
+				"sha256": "1219b8f1fa01c194c240e6ddd23877ef9f76dfea3366e1642706b9e26e68c3ec"
+			}
+		},
+		{
+			"id": "coven-evelynn-chroma-vfx",
+			"name": "Coven Evelynn chroma VFX",
+			"kind": "other",
+			"creator": "suriin",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/coven-evelynn-chroma-vfx/thumb.webp?v=2ffc9f21",
+			"file": {
+				"version": 1,
+				"asset": "coven-evelynn-chroma-vfx-v1.fantome",
+				"size": 24055569,
+				"sha256": "05fb3e9c534df513fc08d2f3604ac27ba4f98db3d958da3bdac89c345a1e6f39"
+			}
+		},
+		{
+			"id": "crunchy-bebe-rexha-turrets",
+			"name": "crunchy bebe rexha turrets",
+			"kind": "other",
+			"creator": "lumin",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/crunchy-bebe-rexha-turrets/thumb.webp?v=a70b19cf",
+			"file": {
+				"version": 1,
+				"asset": "crunchy-bebe-rexha-turrets-v1.fantome",
+				"size": 5076410,
+				"sha256": "5288b18e65e63b0189e3c9897cbe96e3fc346fa5c8febee5c6c78e5611ae4598"
 			}
 		}
 	]
