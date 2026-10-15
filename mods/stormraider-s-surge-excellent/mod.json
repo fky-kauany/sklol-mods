@@ -1,0 +1,17 @@
+{
+	"id": "stormraider-s-surge-excellent",
+	"name": "Stormraider's Surge EXCELLENT",
+	"kind": "sounds",
+	"creator": "desertmote",
+	"description": "ᘛ⁐̤ᕐᐷ\n\n---\n\n**Created by** [desert mouse](https://runeforge.dev/users/desertmote)\n\n**Original:** https://runeforge.dev/mods/d23fd35e-5cb6-411c-801e-5c8e7ab57874\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/stormraider-s-surge-excellent/thumb.webp?v=bffb64f0",
+	"file": {
+		"version": 1,
+		"asset": "stormraider-s-surge-excellent-v1.fantome",
+		"size": 85646272,
+		"sha256": "9109e0dd2ef806b79149ba25d47b2e5f2794575c32a7461a862040246ac04dce"
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"id": "sugar-rush-braum-custom-vo",
+	"name": "Sugar Rush Braum Custom VO",
+	"kind": "sounds",
+	"creator": "voiceshowcase",
+	"description": "Description: Replaces Braum's base VO with entirely new Sugar Rush themed lines\n\nCredits\n\nVoice: Tyler Pasquarella\n\nWriter: RoyalEnigma\n\nBraum Consultant: Darkxandxtwisty\n\n---\n\n**Created by** [VoiceShowcase](https://runeforge.dev/users/VoiceShowcase)\n\n**Original:** https://runeforge.dev/mods/291c42c6-e492-4229-a93d-c95e5d2f1bcb\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/sugar-rush-braum-custom-vo/thumb.webp?v=bfdde8e5",
+	"file": {
+		"version": 1,
+		"asset": "sugar-rush-braum-custom-vo-v1.fantome",
+		"size": 4940723,
+		"sha256": "38a4bf18606c4badc933ddebe48b3819a809d04b369dc15679da3a9950c3f17d"
+	}
+}

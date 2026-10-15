@@ -1,0 +1,17 @@
+{
+	"id": "summoner-spell-icon-tweaks",
+	"name": "Summoner Spell Icon Tweaks",
+	"kind": "icons",
+	"creator": "aropatnik",
+	"description": "## Information\n\n**Tweaked Ignite, Flash and Exhaust colors to be more like the previous ones**\n\n**Author: Aropatnik**\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/780aab51-37cb-4e21-86ba-218c238f9d7b\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/summoner-spell-icon-tweaks/thumb.webp?v=19e7ebbb",
+	"file": {
+		"version": 1,
+		"asset": "summoner-spell-icon-tweaks-v1.fantome",
+		"size": 6764,
+		"sha256": "fcb5277ea358f6e3591e857804135aad18de3639b2fe8c6a25604e475935c4af"
+	}
+}

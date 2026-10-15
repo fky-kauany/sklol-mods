@@ -1,0 +1,17 @@
+{
+	"id": "storm-dragon-lee-sin-chroma-vfx-both-for-old-and",
+	"name": "Storm Dragon Lee Sin chroma VFX (both for old and new hair model)",
+	"kind": "other",
+	"creator": "suriin",
+	"description": "# For old model chromas download [the second version](https://runeforge.dev/mods/74ab7236-2d51-4c1b-9c40-10b43e807b28/releases)\n\n## Important info\n\nThis will clash with any custom skin that modifies Storm Dragon Lee Sin. Now only 1 file for all chromas.\n\n## Description\n\n**Author**: Suriin\n\n**Skin**: Storm Dragon Lee Sin\n\n**Affects**: VFX colors\n\nDone as a commission. Adds matching VFX to every chroma except the Sapphire one, because that would change the particles from blue to blue.\n\n---\n\nVersions\n\n- 2.0.0 - All chromas - new model\n- 1.0.0 - All chromas - old model\n\n---\n\n## Contact\n\nIf you have any issues or questions you can message me on discord: .suriin Just make sure you are on the RuneForge server.\n\n---\n\n### You can support me on Ko-Fi [ko-fi.com/suriinruneforge](https://ko-fi.com/suriinruneforge) <3\n\n---\n\n**Created by** [Suriin](https://runeforge.dev/users/Suriin)\n\n**Original:** https://runeforge.dev/mods/74ab7236-2d51-4c1b-9c40-10b43e807b28\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/storm-dragon-lee-sin-chroma-vfx-both-for-old-and/thumb.webp?v=24457104",
+	"file": {
+		"version": 1,
+		"asset": "storm-dragon-lee-sin-chroma-vfx-both-for-old-and-v1.fantome",
+		"size": 40657745,
+		"sha256": "557226c522405dc1c00cde9a788f62251c728618e7e7cf373ac224c48fa32f69"
+	}
+}

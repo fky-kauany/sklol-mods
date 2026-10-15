@@ -1,0 +1,17 @@
+{
+	"id": "strawberry-cake-cursor",
+	"name": "strawberry cake cursor",
+	"kind": "ui",
+	"creator": "kitty",
+	"description": "**use legacy cursor 4 the cake**\n\n---\n\n**Created by** [kitty](https://runeforge.dev/users/kitty)\n\n**Original:** https://runeforge.dev/mods/51debd74-5e4c-4a6a-ae35-daf6c925080e\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/strawberry-cake-cursor/thumb.webp?v=d35f9b1f",
+	"file": {
+		"version": 1,
+		"asset": "strawberry-cake-cursor-v1.fantome",
+		"size": 12009,
+		"sha256": "24f415d02e42b619cfc04cb05a302c48f54676b9aa699c2e56b47a3184942f27"
+	}
+}

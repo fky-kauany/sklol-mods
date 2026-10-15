@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T12:04:14.862Z",
+	"generatedAt": "2026-10-15T12:09:58.152Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -263,6 +263,14 @@
 			"bio": "Add Me On discord If you want to commission. I do most things including Huds, vfx, Models, fonts  etc.  Discord: hellfire1752",
 			"links": {}
 		},
+		"desertmote": {
+			"name": "desert mouse",
+			"avatar": "creators/desertmote.png?v=6e73793a",
+			"bio": "*squeak*",
+			"links": {
+				"youtube": "https://youtu.be/95AUstIp_wo"
+			}
+		},
 		"disco": {
 			"name": "DISCO",
 			"avatar": "creators/disco.webp?v=133102a3",
@@ -473,6 +481,11 @@
 		"kietjojo": {
 			"name": "Kiet Jojo",
 			"avatar": "creators/kietjojo.jpg?v=7479fb00",
+			"links": {}
+		},
+		"kitty": {
+			"name": "kitty",
+			"avatar": "creators/kitty.jpg?v=4e86d47e",
 			"links": {}
 		},
 		"knuxsd": {
@@ -10764,6 +10777,176 @@
 				"asset": "star-guardian-zoe-voiceover-by-tricolorstar-v1.fantome",
 				"size": 16718525,
 				"sha256": "ae8ec1a8e3ce194310f187187fead9eaf05b00949ffa1a749f8604b5f2cede21"
+			}
+		},
+		{
+			"id": "steam-happy-thumbs-up",
+			"name": "Steam happy thumbs up",
+			"kind": "other",
+			"creator": "ceerel",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/steam-happy-thumbs-up/thumb.webp?v=f80d97ea",
+			"file": {
+				"version": 1,
+				"asset": "steam-happy-thumbs-up-v1.fantome",
+				"size": 15921,
+				"sha256": "38449451c512fdbcd605bfb208235b14462c9e79b15943a7289c92f06f29c79a"
+			}
+		},
+		{
+			"id": "storm-dragon-lee-sin-chroma-vfx-both-for-old-and",
+			"name": "Storm Dragon Lee Sin chroma VFX (both for old and new hair model)",
+			"kind": "other",
+			"creator": "suriin",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/storm-dragon-lee-sin-chroma-vfx-both-for-old-and/thumb.webp?v=24457104",
+			"file": {
+				"version": 1,
+				"asset": "storm-dragon-lee-sin-chroma-vfx-both-for-old-and-v1.fantome",
+				"size": 40657745,
+				"sha256": "557226c522405dc1c00cde9a788f62251c728618e7e7cf373ac224c48fa32f69"
+			}
+		},
+		{
+			"id": "stormraider-s-surge-excellent",
+			"name": "Stormraider's Surge EXCELLENT",
+			"kind": "sounds",
+			"creator": "desertmote",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/stormraider-s-surge-excellent/thumb.webp?v=bffb64f0",
+			"file": {
+				"version": 1,
+				"asset": "stormraider-s-surge-excellent-v1.fantome",
+				"size": 85646272,
+				"sha256": "9109e0dd2ef806b79149ba25d47b2e5f2794575c32a7461a862040246ac04dce"
+			}
+		},
+		{
+			"id": "strawberry-cake-cursor",
+			"name": "strawberry cake cursor",
+			"kind": "ui",
+			"creator": "kitty",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/strawberry-cake-cursor/thumb.webp?v=d35f9b1f",
+			"file": {
+				"version": 1,
+				"asset": "strawberry-cake-cursor-v1.fantome",
+				"size": 12009,
+				"sha256": "24f415d02e42b619cfc04cb05a302c48f54676b9aa699c2e56b47a3184942f27"
+			}
+		},
+		{
+			"id": "strawberry-chocolate-font",
+			"name": "Strawberry Chocolate Font",
+			"kind": "other",
+			"creator": "tyre-4770",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/strawberry-chocolate-font/thumb.webp?v=a68dcfd9",
+			"file": {
+				"version": 1,
+				"asset": "strawberry-chocolate-font-v1.fantome",
+				"size": 70845,
+				"sha256": "b6bedc899eafa64bb28fdad964b41d4c6841158be8b6da01da38f976f4b267d3"
+			}
+		},
+		{
+			"id": "strawberry-hud",
+			"name": "strawberry hud",
+			"kind": "ui",
+			"creator": "kitty",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/strawberry-hud/thumb.webp?v=b6852b58",
+			"file": {
+				"version": 1,
+				"asset": "strawberry-hud-v1.fantome",
+				"size": 54826646,
+				"sha256": "91ab273137839bfc8b064d6d4854d4bef3861a95b80eafa532d17eedb4d669ec"
+			}
+		},
+		{
+			"id": "subhuman-aatrox",
+			"name": "Subhuman Aatrox",
+			"kind": "sounds",
+			"creator": "pico-senpai",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/subhuman-aatrox/thumb.webp?v=b2ff6278",
+			"file": {
+				"version": 1,
+				"asset": "subhuman-aatrox-v1.fantome",
+				"size": 12768579,
+				"sha256": "a43ff48dacf1a2320e7451d206c4bee8d36158d3f634a20078840b0bd2a9399c"
+			}
+		},
+		{
+			"id": "sugar-rush-braum-custom-vo",
+			"name": "Sugar Rush Braum Custom VO",
+			"kind": "sounds",
+			"creator": "voiceshowcase",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/sugar-rush-braum-custom-vo/thumb.webp?v=bfdde8e5",
+			"file": {
+				"version": 1,
+				"asset": "sugar-rush-braum-custom-vo-v1.fantome",
+				"size": 4940723,
+				"sha256": "38a4bf18606c4badc933ddebe48b3819a809d04b369dc15679da3a9950c3f17d"
+			}
+		},
+		{
+			"id": "suicide-boys-hud",
+			"name": "Suicide Boys HUD",
+			"kind": "ui",
+			"creator": "celestia-mod-recovery",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/suicide-boys-hud/thumb.webp?v=6f0c5c54",
+			"file": {
+				"version": 1,
+				"asset": "suicide-boys-hud-v1.modpkg",
+				"size": 6532073,
+				"sha256": "fac73ad894e15480a04b13ee9890060dac899e3c681f1c4c409b854d6ae02397"
+			}
+		},
+		{
+			"id": "summoner-spell-icon-tweaks",
+			"name": "Summoner Spell Icon Tweaks",
+			"kind": "icons",
+			"creator": "aropatnik",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/summoner-spell-icon-tweaks/thumb.webp?v=19e7ebbb",
+			"file": {
+				"version": 1,
+				"asset": "summoner-spell-icon-tweaks-v1.fantome",
+				"size": 6764,
+				"sha256": "fcb5277ea358f6e3591e857804135aad18de3639b2fe8c6a25604e475935c4af"
 			}
 		}
 	]

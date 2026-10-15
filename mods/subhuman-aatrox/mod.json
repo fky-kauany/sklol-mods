@@ -1,0 +1,17 @@
+{
+	"id": "subhuman-aatrox",
+	"name": "Subhuman Aatrox",
+	"kind": "sounds",
+	"creator": "pico-senpai",
+	"description": "## **MOD INFORMATION**\n\n* Author: Pico Senpai\n* Mod Version: 1.0.1\n* Modified champion: Aatrox\n* Modified sound: Aatrox's ultimate\n\n## **DESCRIPTION**\n\n* Aatrox became a subhuman, since huh well you know he's like an ascended god or something trapped in a sword? Well anyways now when he ults the song \"Subhuman\" from Devil May Cry 5 plays for the entire duration of his ult, and again whenever he kills someone during ult.\n\n## **SOCIALS**\n\n![](https://static.wixstatic.com/media/e2a744_abb27c3529754e04ab6ad06fd9c7ab56~mv2.png/v1/fill/w_740,h_416,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e2a744_abb27c3529754e04ab6ad06fd9c7ab56~mv2.png)\n\n###\nAdd me on Discord: pico\\_senpai\n\n### My Youtube channel: [Pico Senpai](https://www.youtube.com/channel/UCAZfp8d8ZLFUurid3w2wElQ)\n\n### Support me on Patreon!: [PicoSenpai](https://www.patreon.com/PicoSenpaiSFW)\n\n---\n\n**Created by** [Pico Senpai](https://runeforge.dev/users/Pico_Senpai)\n\n**Original:** https://runeforge.dev/mods/fa06178b-1193-44bf-bdf7-26344bb29f1d\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/subhuman-aatrox/thumb.webp?v=b2ff6278",
+	"file": {
+		"version": 1,
+		"asset": "subhuman-aatrox-v1.fantome",
+		"size": 12768579,
+		"sha256": "a43ff48dacf1a2320e7451d206c4bee8d36158d3f634a20078840b0bd2a9399c"
+	}
+}

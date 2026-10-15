@@ -1,0 +1,17 @@
+{
+	"id": "strawberry-hud",
+	"name": "strawberry hud",
+	"kind": "ui",
+	"creator": "kitty",
+	"description": "if u use celestial do not clean the mod or else it will turn purple. purple=grape hud\r\n\r\nfeatures: loading screen, shop, options, font and hud\n\n---\n\n**Created by** [kitty](https://runeforge.dev/users/kitty)\n\n**Original:** https://runeforge.dev/mods/dcaeeb94-bb8a-4e0c-9777-cbe68632cd64\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/strawberry-hud/thumb.webp?v=b6852b58",
+	"file": {
+		"version": 1,
+		"asset": "strawberry-hud-v1.fantome",
+		"size": 54826646,
+		"sha256": "91ab273137839bfc8b064d6d4854d4bef3861a95b80eafa532d17eedb4d669ec"
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"id": "strawberry-chocolate-font",
+	"name": "Strawberry Chocolate Font",
+	"kind": "other",
+	"creator": "tyre-4770",
+	"description": "# ♥ Mod Info ♥\n\n\n\n* Fonts Replaced: UI\n* Name of used Font: Strawberry Chocolate\n* Author: Tyre 4770\n* Skin Version: “1.0”\n* Description: Strawberry Chocolate Font for Leeg of Legos\n\n\n⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦\n\nMarch 7th 2024: updated for patch 14.5\n\n---\n\n**Created by** [Tyre 4770](https://runeforge.dev/users/Tyre_4770)\n\n**Original:** https://runeforge.dev/mods/66ceb77e-ef17-489f-bb49-2ae6e2caf1e2\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/strawberry-chocolate-font/thumb.webp?v=a68dcfd9",
+	"file": {
+		"version": 1,
+		"asset": "strawberry-chocolate-font-v1.fantome",
+		"size": 70845,
+		"sha256": "b6bedc899eafa64bb28fdad964b41d4c6841158be8b6da01da38f976f4b267d3"
+	}
+}

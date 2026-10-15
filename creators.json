@@ -260,6 +260,14 @@
 		"bio": "Add Me On discord If you want to commission. I do most things including Huds, vfx, Models, fonts  etc.  Discord: hellfire1752",
 		"links": {}
 	},
+	"desertmote": {
+		"name": "desert mouse",
+		"avatar": "creators/desertmote.png?v=6e73793a",
+		"bio": "*squeak*",
+		"links": {
+			"youtube": "https://youtu.be/95AUstIp_wo"
+		}
+	},
 	"disco": {
 		"name": "DISCO",
 		"avatar": "creators/disco.webp?v=133102a3",
@@ -470,6 +478,11 @@
 	"kietjojo": {
 		"name": "Kiet Jojo",
 		"avatar": "creators/kietjojo.jpg?v=7479fb00",
+		"links": {}
+	},
+	"kitty": {
+		"name": "kitty",
+		"avatar": "creators/kitty.jpg?v=4e86d47e",
 		"links": {}
 	},
 	"knuxsd": {

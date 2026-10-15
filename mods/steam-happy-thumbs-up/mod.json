@@ -1,0 +1,17 @@
+{
+	"id": "steam-happy-thumbs-up",
+	"name": "Steam happy thumbs up",
+	"kind": "other",
+	"creator": "ceerel",
+	"description": "---\n\n**Created by** [ceerel](https://runeforge.dev/users/ceerel)\n\n**Original:** https://runeforge.dev/mods/74df846a-1179-4e8d-8e49-e3e1e5fb83e0\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/steam-happy-thumbs-up/thumb.webp?v=f80d97ea",
+	"file": {
+		"version": 1,
+		"asset": "steam-happy-thumbs-up-v1.fantome",
+		"size": 15921,
+		"sha256": "38449451c512fdbcd605bfb208235b14462c9e79b15943a7289c92f06f29c79a"
+	}
+}
