@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T10:44:43.408Z",
+	"generatedAt": "2026-10-15T10:50:30.651Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -140,6 +140,12 @@
 			"avatar": "creators/badzerker.png?v=606925a6",
 			"links": {
 				"youtube": "https://www.youtube.com/channel/UCFGdLwUYwPw3Wyb9lLtbgbw"
+			}
+		},
+		"berb": {
+			"name": "Berb",
+			"links": {
+				"youtube": "https://youtu.be/YTT6gDQ9gBk"
 			}
 		},
 		"bossa-uh": {
@@ -861,6 +867,12 @@
 			"name": "xllwd1",
 			"avatar": "creators/xllwd1.webp?v=6027596d",
 			"bio": "Chinese \nI like old things.",
+			"links": {}
+		},
+		"yasuhirro": {
+			"name": "Yasuhiro",
+			"avatar": "creators/yasuhirro.jpg?v=872b84ad",
+			"bio": "making mods for fun",
 			"links": {}
 		},
 		"yer": {
@@ -8267,6 +8279,176 @@
 				"asset": "original-cursor-from-red-to-green-v1.fantome",
 				"size": 290862,
 				"sha256": "31e7ac735a648811f2078a5084d5fe0211e42e8f9475103aadab76b95afb45b6"
+			}
+		},
+		{
+			"id": "overwatch-killstreak",
+			"name": "Overwatch killstreak",
+			"kind": "other",
+			"creator": "el7oot",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/overwatch-killstreak/thumb.webp?v=a3ec956f",
+			"file": {
+				"version": 1,
+				"asset": "overwatch-killstreak-v1.fantome",
+				"size": 6061312,
+				"sha256": "6ce47438898309f0ec307e74e184338a6b52dbb74dadf82f85d987ec736c0378"
+			}
+		},
+		{
+			"id": "panky-aha-aha-braha-flash-sound",
+			"name": "Panky aha aha braha flash sound",
+			"kind": "sounds",
+			"creator": "403",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/panky-aha-aha-braha-flash-sound/thumb.webp?v=d60435fa",
+			"file": {
+				"version": 1,
+				"asset": "panky-aha-aha-braha-flash-sound-v1.fantome",
+				"size": 7774579,
+				"sha256": "0be5dcf4aae60c14cb526bc5437f5228cacad5ba902113ebfe05adc3cd02ed57"
+			}
+		},
+		{
+			"id": "pantheon-theme-on-r",
+			"name": "Pantheon Theme on R",
+			"kind": "sounds",
+			"creator": "berb",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/pantheon-theme-on-r/thumb.webp?v=0844ccae",
+			"file": {
+				"version": 1,
+				"asset": "pantheon-theme-on-r-v1.fantome",
+				"size": 4708035,
+				"sha256": "9b55e49ab41724e56785c1b2cd44bc8c58cffe80416eb2ee693a46d772df9113"
+			}
+		},
+		{
+			"id": "patch-13-18-spell-icon-update-revert",
+			"name": "Patch 13.18 spell icon update revert",
+			"kind": "ui",
+			"creator": "aropatnik",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/patch-13-18-spell-icon-update-revert/thumb.webp?v=c5aee00d",
+			"file": {
+				"version": 1,
+				"asset": "patch-13-18-spell-icon-update-revert-v1.fantome",
+				"size": 163527,
+				"sha256": "a428aee1b01691a508def39ef8e1dd41d7e61b857c838dbbd4fe3aa21e29bf7b"
+			}
+		},
+		{
+			"id": "patrick-bateman-hud",
+			"name": "Patrick Bateman HUD",
+			"kind": "ui",
+			"creator": "disco",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/patrick-bateman-hud/thumb.webp?v=c7f8b789",
+			"file": {
+				"version": 1,
+				"asset": "patrick-bateman-hud-v1.modpkg",
+				"size": 2648381,
+				"sha256": "34292c4900b4ee93432f1a832ab8d402f8ea9c24cea8f27ca2e7ff5d3364a40e"
+			}
+		},
+		{
+			"id": "payday-2-jacket-annoucer",
+			"name": "Payday 2 Jacket Annoucer",
+			"kind": "announcer",
+			"creator": "runeforgerecoveryteam",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/payday-2-jacket-annoucer/thumb.webp?v=d4b6cd61",
+			"file": {
+				"version": 1,
+				"asset": "payday-2-jacket-annoucer-v1.fantome",
+				"size": 6860124,
+				"sha256": "e7c2e3368ad309ee39acc70a5872802195acfb0274d351b41b9d1f10210f5bea"
+			}
+		},
+		{
+			"id": "persona-3-bgm",
+			"name": "Persona 3 BGM",
+			"kind": "sounds",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/persona-3-bgm/thumb.webp?v=c6783d5b",
+			"file": {
+				"version": 1,
+				"asset": "persona-3-bgm-v1.fantome",
+				"size": 166382085,
+				"sha256": "43abd0b50fb80ffab86a2f4b5ccadfb33879afe34d3efde60ab57f4cf0551ca0"
+			}
+		},
+		{
+			"id": "persona-3-reload-animated-loadscreen",
+			"name": "Persona 3 Reload Animated Loadscreen",
+			"kind": "other",
+			"creator": "yasuhirro",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/persona-3-reload-animated-loadscreen/thumb.webp?v=82357aff",
+			"file": {
+				"version": 1,
+				"asset": "persona-3-reload-animated-loadscreen-v1.fantome",
+				"size": 21050086,
+				"sha256": "22b174877727c290483d5de66a651a4c535727a4bec6a71fee12bd468d900e0b"
+			}
+		},
+		{
+			"id": "pharaoh-nidalee-custom-sfx",
+			"name": "Pharaoh Nidalee Custom SFX",
+			"kind": "sounds",
+			"creator": "lolsfxamateur",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/pharaoh-nidalee-custom-sfx/thumb.webp?v=314666bc",
+			"file": {
+				"version": 1,
+				"asset": "pharaoh-nidalee-custom-sfx-v1.fantome",
+				"size": 10515127,
+				"sha256": "ca76d3705418b2c79aa48fe041b4d838c9fb63c05ada4e9d7d33912a5e3f1768"
+			}
+		},
+		{
+			"id": "phreak-kobe-announcer-pack",
+			"name": "Phreak & Kobe Announcer Pack",
+			"kind": "announcer",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/phreak-kobe-announcer-pack/thumb.webp?v=01638c3d",
+			"file": {
+				"version": 1,
+				"asset": "phreak-kobe-announcer-pack-v1.fantome",
+				"size": 5094882,
+				"sha256": "ce0fbe584a206c1d58895e1b71b35eeef3bce0f5c58df8eeddd43e0a6ba8c4ba"
 			}
 		}
 	]

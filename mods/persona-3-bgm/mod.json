@@ -1,0 +1,17 @@
+{
+	"id": "persona-3-bgm",
+	"name": "Persona 3 BGM",
+	"kind": "sounds",
+	"creator": "aurecueil",
+	"description": "# 🎵 Track List\r\n\r\n| Event | Track(s) |\r\n|------|------|\r\n| Game Start (Blue Side) | Full Moon Full Life + alter + Deep Breath Deep Breath + It's Going Down Now |\r\n| Game Start (Red Side) | Memories of You + Burn My Dread + It's Going Down Now |\r\n| Early Game | Iwatodai Dorm + Color Your Night + During the Exam |\r\n| Mid Game | Unavoidable Battle + The Meaning of Armbands + Tanaka's Amazing Commodities |\r\n| Late Game | Mass Destruction + Mass Destruction -Reload- + Master of Shadow + Battle Hymn of the Soul |\r\n| Baron Alive | When The Moon's Reaching Out Stars + Aria of the Soul + It's Going Down Now |\r\n| River | Want To Be Close + Peace + I Will Protect You |\r\n| River - Grubbies | Troubled + Fearful Experience |\r\n| River - Herald | This Mysterious Feeling + Basement |\r\n| River - Baron | Tartarus_0d01 + Tartarus_0d02 + Tartarus_0d03 + Tartarus_0d04 + Tartarus_0d05 + Tartarus_0d06 + Calamity |\r\n| Dragon River Early | Memories of the City + Memories of the Academy + I Will Protect You |\r\n| Dragon River Mid | Memories from 10 Years Ago -Confrontation- + Nyx + Enduring Bonds |\r\n| Dragon River Late | What Lies in the Darkness |\r\n| Jungle Early | Paulownia Mall + Joy + Afternoon Break |\r\n| Jungle Mid | Everyone loves 1989 + Changing Seasons |\r\n| Jungle Late | Shadow + Deep Mentality + Burn My Dread |\r\n| Jungle Very Late | Living With Determination + Living With Determination -Iwato Dormitory Arrange- + Afternoon Break |\r\n| Grubbies Combat | Crisis |\r\n| Herald Combat | Strength of Heart |\r\n| Baron Combat | Master of Tartarus |\r\n| Victory | The Path Is Open |\r\n| Defeat | The Path Was Closed |\r\n\r\n## ☕ Wanna buy me a [Coffee](https://ko-fi.com/aurecueil)? :> \r\n[![My Discord Server ^^](https://raw.githubusercontent.com/Aurecueil/Temp/refs/heads/main/images/banner6_better.png)](https://discord.gg/GETA29vZEK)\r\n\r\n## 📦 Misc\r\n\r\n[Tierlist of my BGM mods](https://runeforge.dev/users/Aurecueil)\r\n\r\n## 📦 Misc\r\n\r\n**Discord:** `aurecueil`\r\n\r\n**Commisioned** by: `huanlol34`\r\n\r\ni **DO** take **commissions** :p\n\n---\n\n**Created by** [aurecueil](https://runeforge.dev/users/aurecueil)\n\n**Original:** https://runeforge.dev/mods/a263fe5b-a940-452b-a101-20ade721b142\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/persona-3-bgm/thumb.webp?v=c6783d5b",
+	"file": {
+		"version": 1,
+		"asset": "persona-3-bgm-v1.fantome",
+		"size": 166382085,
+		"sha256": "43abd0b50fb80ffab86a2f4b5ccadfb33879afe34d3efde60ab57f4cf0551ca0"
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"id": "pantheon-theme-on-r",
+	"name": "Pantheon Theme on R",
+	"kind": "sounds",
+	"creator": "berb",
+	"description": "Was a bit frustrated there was no updated version of mods like this, so I made one myself.\r\n\r\nSince I made this for myself, the song plays for 40 seconds once you land which might be a bit much for some people.\r\n\r\nIf enough people want it, I can make a shorter version.\r\n\r\nCurrently only works on these skins:\r\n- Default\r\n- Chosen of the Wolf\r\n\r\nWill probably update it for more skins and make it sound better later.\n\n---\n\n**Created by** [Berb](https://runeforge.dev/users/Berb)\n\n**Original:** https://runeforge.dev/mods/cb1ebaab-4012-4df7-be8e-3b5345ff6b68\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/pantheon-theme-on-r/thumb.webp?v=0844ccae",
+	"file": {
+		"version": 1,
+		"asset": "pantheon-theme-on-r-v1.fantome",
+		"size": 4708035,
+		"sha256": "9b55e49ab41724e56785c1b2cd44bc8c58cffe80416eb2ee693a46d772df9113"
+	}
+}

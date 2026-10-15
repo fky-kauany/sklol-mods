@@ -1,0 +1,17 @@
+{
+	"id": "pharaoh-nidalee-custom-sfx",
+	"name": "Pharaoh Nidalee Custom SFX",
+	"kind": "sounds",
+	"creator": "lolsfxamateur",
+	"description": "Custom SFX for Pharaoh Nidalee. Contains version with live VO and old VO.\r\nUsing this mod will overwrite SFX for all skins that use the base SFX. In other words, these SFX will play even using a different skin such as French Maid Nidalee.\r\nhttps://www.youtube.com/watch?v=LkVVgCxfMic\n\n---\n\n**Created by** [LOLSFXAmateur](https://runeforge.dev/users/LOLSFXAmateur)\n\n**Original:** https://runeforge.dev/mods/d99596ca-8321-4561-b96a-d2fb1d3776ca\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/pharaoh-nidalee-custom-sfx/thumb.webp?v=314666bc",
+	"file": {
+		"version": 1,
+		"asset": "pharaoh-nidalee-custom-sfx-v1.fantome",
+		"size": 10515127,
+		"sha256": "ca76d3705418b2c79aa48fe041b4d838c9fb63c05ada4e9d7d33912a5e3f1768"
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"id": "overwatch-killstreak",
+	"name": "Overwatch killstreak",
+	"kind": "other",
+	"creator": "el7oot",
+	"description": "* ### Changes killstreak to Overwatch killstreak sounds\r\n\r\n### There are 2 versions:\r\n\r\n* # first one WITH the announcer\r\n* # Second one WITHOUT the announcer\r\n\r\n### If the mod broke or if anyone has any suggestions, feel free to DM me at: mahmoud\\_ali\n\n---\n\n**Created by** [EL7OOT](https://runeforge.dev/users/EL7OOT)\n\n**Original:** https://runeforge.dev/mods/9783dedb-a302-4707-a1d0-e29eb56ba000\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/overwatch-killstreak/thumb.webp?v=a3ec956f",
+	"file": {
+		"version": 1,
+		"asset": "overwatch-killstreak-v1.fantome",
+		"size": 6061312,
+		"sha256": "6ce47438898309f0ec307e74e184338a6b52dbb74dadf82f85d987ec736c0378"
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"id": "panky-aha-aha-braha-flash-sound",
+	"name": "Panky aha aha braha flash sound",
+	"kind": "sounds",
+	"creator": "403",
+	"description": "---\n\n**Created by** [403](https://runeforge.dev/users/403)\n\n**Original:** https://runeforge.dev/mods/779b1bc9-152e-4e90-91ff-2e3f7ad028da\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/panky-aha-aha-braha-flash-sound/thumb.webp?v=d60435fa",
+	"file": {
+		"version": 1,
+		"asset": "panky-aha-aha-braha-flash-sound-v1.fantome",
+		"size": 7774579,
+		"sha256": "0be5dcf4aae60c14cb526bc5437f5228cacad5ba902113ebfe05adc3cd02ed57"
+	}
+}

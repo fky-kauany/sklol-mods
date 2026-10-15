@@ -1,0 +1,17 @@
+{
+	"id": "persona-3-reload-animated-loadscreen",
+	"name": "Persona 3 Reload Animated Loadscreen",
+	"kind": "other",
+	"creator": "yasuhirro",
+	"description": "Just a re-upload of my first mod of LOL\n\n---\n\n**Created by** [Yasuhiro](https://runeforge.dev/users/yasuhirro)\n\n**Original:** https://runeforge.dev/mods/ce14fb68-0324-4f05-9d04-853971f6d33c\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/persona-3-reload-animated-loadscreen/thumb.webp?v=82357aff",
+	"file": {
+		"version": 1,
+		"asset": "persona-3-reload-animated-loadscreen-v1.fantome",
+		"size": 21050086,
+		"sha256": "22b174877727c290483d5de66a651a4c535727a4bec6a71fee12bd468d900e0b"
+	}
+}

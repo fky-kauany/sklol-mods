@@ -139,6 +139,12 @@
 			"youtube": "https://www.youtube.com/channel/UCFGdLwUYwPw3Wyb9lLtbgbw"
 		}
 	},
+	"berb": {
+		"name": "Berb",
+		"links": {
+			"youtube": "https://youtu.be/YTT6gDQ9gBk"
+		}
+	},
 	"bossa-uh": {
 		"name": "bossa_uh",
 		"avatar": "creators/bossa-uh.jpg?v=18400cc4",
@@ -858,6 +864,12 @@
 		"name": "xllwd1",
 		"avatar": "creators/xllwd1.webp?v=6027596d",
 		"bio": "Chinese \nI like old things.",
+		"links": {}
+	},
+	"yasuhirro": {
+		"name": "Yasuhiro",
+		"avatar": "creators/yasuhirro.jpg?v=872b84ad",
+		"bio": "making mods for fun",
 		"links": {}
 	},
 	"yer": {

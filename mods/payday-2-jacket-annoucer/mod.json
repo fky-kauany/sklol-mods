@@ -1,0 +1,17 @@
+{
+	"id": "payday-2-jacket-annoucer",
+	"name": "Payday 2 Jacket Annoucer",
+	"kind": "announcer",
+	"creator": "runeforgerecoveryteam",
+	"description": "Note : IM NOT THE ORIGINAL AUTHOR OF THIS SKIN, I only publish it to recovery and share it with the community.\n\nAll credits for GPortakal\n\n\n\nIf it breaks or has problems contact me on discord @aurecueil\n\n### Mod information\n\n* Modifies: SR Annoucer\n* Author: GPortakal\n* Mod version: 1.1\n* Updated for Patch 25.14\n* Missing: First Blood Line\n\n---\n\n**Created by** [RuneforgeRecoveryTeam](https://runeforge.dev/users/RuneforgeRecoveryTeam)\n\n**Original:** https://runeforge.dev/mods/5cd6bcdd-7e6a-417e-8191-b5e204984767\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/payday-2-jacket-annoucer/thumb.webp?v=d4b6cd61",
+	"file": {
+		"version": 1,
+		"asset": "payday-2-jacket-annoucer-v1.fantome",
+		"size": 6860124,
+		"sha256": "e7c2e3368ad309ee39acc70a5872802195acfb0274d351b41b9d1f10210f5bea"
+	}
+}
