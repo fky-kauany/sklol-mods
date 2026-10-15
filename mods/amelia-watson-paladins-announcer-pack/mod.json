@@ -1,0 +1,17 @@
+{
+	"id": "amelia-watson-paladins-announcer-pack",
+	"name": "Amelia Watson (Paladins) Announcer Pack",
+	"kind": "announcer",
+	"creator": "konari",
+	"description": "## Mod information\n\n* Modified Sounds: Announcer VO\n* Original Author: **Periett**\n* Re-Uploaded by: The Melancholy Of Slime\n\n## Specifications\n\n* Supports the following languages: All Client Languages.\n* Modifies announcer\n\n## Disclaimer\n\nI am not the original author of this announcer pack , I only updated it so it works again as a custom announcer for League of Legends.The original author is **Periett**, who you can find here on [Youtube](https://www.youtube.com/@periett913)\n\nIf the original author wants this announcer pack to be taken down, I will take it down again.You can contact me here: Victorious9216\n---\n💬 **Join Moonlit Night!**\nClick the banner below to join. Report bugs directly, and hang out with other players!\n\n[![Discord](https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/Banner2.png)](https://discord.gg/EEjd7DHj5r)\n---\n\n---\n\n**Created by** [Konari Lab Ch. 白夜こなり](https://runeforge.dev/users/Konari)\n\n**Original:** https://runeforge.dev/mods/fcaf1256-97c6-48f1-a437-c42609c36ebc\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/amelia-watson-paladins-announcer-pack/thumb.webp?v=ccb0c5b3",
+	"file": {
+		"version": 1,
+		"asset": "amelia-watson-paladins-announcer-pack-v1.fantome",
+		"size": 6396194,
+		"sha256": "7ac0f15918f5b033bb15456a18e640f6d81fa71d8d0643cb410765f920f09849"
+	}
+}

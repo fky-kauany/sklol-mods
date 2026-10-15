@@ -1,0 +1,17 @@
+{
+	"id": "always-speaki-recall",
+	"name": "Always Speaki Recall",
+	"kind": "recall",
+	"creator": "archlyris",
+	"description": "Trickcal Speaki drops down, then spins around on recall.\n\n---\n\n**Created by** [archlyris](https://runeforge.dev/users/archlyris)\n\n**Original:** https://runeforge.dev/mods/5aa7f9c8-8607-4e14-abda-0b7ca31cf875\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/always-speaki-recall/thumb.webp?v=e0fa9a06",
+	"file": {
+		"version": 1,
+		"asset": "always-speaki-recall-v1.fantome",
+		"size": 8010071,
+		"sha256": "8bc5dd2678c69dafcd47f757a2d7bb7426863ffa1ca6fac45462c9b91574abd8"
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"id": "always-yuumi-border",
+	"name": "ALWAYS Yuumi Border",
+	"kind": "ui",
+	"creator": "agomsmoga",
+	"description": "#### Meow:\n\n* This writes the bin under `LoLFloatingInfoBars` so it may overwrite or be overwritten by an HP Bar related mod.\n\n[Click to see all my other totally sick mods.](https://runeforge.dev/mods?search=moga&pageSize=720)\n\n#\n\n#### Mod Information:\n\nAuthor: Moga\n\nMod Version: 15.18.1.1\n\nhttps://discord.gg/gSXbEmPQCA\n\n---\n\n**Created by** [Moga](https://runeforge.dev/users/agomsMoga)\n\n**Original:** https://runeforge.dev/mods/6ce5d095-1139-4478-9c5f-0c3d3bb77b0f\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/always-yuumi-border/thumb.webp?v=f64775ea",
+	"file": {
+		"version": 1,
+		"asset": "always-yuumi-border-v1.fantome",
+		"size": 20666,
+		"sha256": "fb8b7f9973d77f47e32e8e3ea5d540f66d69a49e880eb2b12f08403b249b79b9"
+	}
+}

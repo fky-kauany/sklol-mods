@@ -1,0 +1,17 @@
+{
+	"id": "akshan-take-the-l",
+	"name": "Akshan Take the L",
+	"kind": "other",
+	"creator": "el7oot",
+	"description": "### Info:\n\n#### Champion: Akshan\n\nChanges Akshan's CTRL+2 to \"Take the L\" dance from Fortnite\n\nWorks on ALL SKINS\n\n---\n\n**Created by** [EL7OOT](https://runeforge.dev/users/EL7OOT)\n\n**Original:** https://runeforge.dev/mods/f51b4f11-8b86-4de0-b49e-4fc2644e6b6b\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/akshan-take-the-l/thumb.webp?v=f4116fd5",
+	"file": {
+		"version": 1,
+		"asset": "akshan-take-the-l-v1.fantome",
+		"size": 53263134,
+		"sha256": "048e718752f96540432b2bef7137ee2351991be0cb888e0e4da661e29c08853e"
+	}
+}

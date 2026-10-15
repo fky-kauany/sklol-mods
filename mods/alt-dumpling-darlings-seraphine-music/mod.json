@@ -1,0 +1,17 @@
+{
+	"id": "alt-dumpling-darlings-seraphine-music",
+	"name": "alt dumpling darlings seraphine music",
+	"kind": "sounds",
+	"creator": "wuffsky",
+	"description": "replaces dumpling darlings seraphine's passive music with the levels 1-6 planning and combat music from the TFT cafe cuties arena\n\n---\n\n**Created by** [mikko](https://runeforge.dev/users/wuffsky)\n\n**Original:** https://runeforge.dev/mods/17664d8f-a5b5-4eed-ac56-5f1444bdd4c8\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/alt-dumpling-darlings-seraphine-music/thumb.webp?v=14a1cf96",
+	"file": {
+		"version": 1,
+		"asset": "alt-dumpling-darlings-seraphine-music-v1.fantome",
+		"size": 14933991,
+		"sha256": "c4a7f8f06ee68a9571d54cf3ca711ca05e72ed61e43114a0e886cd92b617f083"
+	}
+}

@@ -1,11 +1,20 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T07:14:16.711Z",
+	"generatedAt": "2026-10-15T07:17:24.685Z",
 	"creators": {
 		"403": {
 			"name": "403",
 			"links": {
 				"discord": "https://discord.gg/403"
+			}
+		},
+		"agomsmoga": {
+			"name": "Moga",
+			"avatar": "creators/agomsmoga.png?v=b18a379a",
+			"bio": "<a href=\"https://discord.gg/gSXbEmPQCA\"> <img src=\"https://i.imgur.com/vV5RqTA.png\" style=\"width: 780; height: 670px; display: inline-block; vertical-align: middle;\"> </a>\n\nMain Moga here: https://runeforge.dev/users/Moga",
+			"links": {
+				"discord": "https://discord.gg/HEjuFmbm6g",
+				"site": "https://runeforge.dev/users/Moga"
 			}
 		},
 		"ahrisko": {
@@ -21,6 +30,15 @@
 			"avatar": "creators/algicci.jpg?v=49e2249b",
 			"links": {
 				"youtube": "https://youtu.be/gwsn8f05l7o"
+			}
+		},
+		"archlyris": {
+			"name": "archlyris",
+			"bio": "how cool can this spin\n\n![https://discord.com/invite/yaByNwaxsP](https://runeforge.dev/cdn-cgi/image/width=360,height=360,quality=85,format=webp,fit=cover/https://r2-images-prod.runeforge.dev/9e272c3e-9b49-4f25-b285-ad1fb47e656d.gif)\n\nmy server https://discord.com/invite/yaByNwaxsP\nfriend server https://discord.gg/EEjd7DHj5r",
+			"links": {
+				"discord": "https://discord.gg/yaByNwaxsP",
+				"x": "https://x.com/archlyris",
+				"youtube": "https://www.youtube.com/@ascila"
 			}
 		},
 		"aropatnik": {
@@ -43,6 +61,14 @@
 			"avatar": "creators/donutvsdonut.jpg?v=86a1c710",
 			"links": {}
 		},
+		"el7oot": {
+			"name": "EL7OOT",
+			"avatar": "creators/el7oot.png?v=f6ba6458",
+			"links": {
+				"discord": "https://discord.gg/5d8T8c962W",
+				"youtube": "https://youtu.be/D6MuCDAlA9Y?si=r_OtOm_IvjIUa1zc"
+			}
+		},
 		"horrorwolf": {
 			"name": "HorrorWolf",
 			"avatar": "creators/horrorwolf.png?v=b1e42ede",
@@ -54,6 +80,16 @@
 			"name": "Kiet Jojo",
 			"avatar": "creators/kietjojo.jpg?v=7479fb00",
 			"links": {}
+		},
+		"konari": {
+			"name": "Konari Lab Ch. 白夜こなり",
+			"avatar": "creators/konari.png?v=eb6a5f9d",
+			"bio": "<div align=\"center\">\n\n# Welcome to Konari Lab Ch. 白夜こなり!\n\n</div>\n\n<p align=\"center\">\nI'm Konari, a little fox who came from the Land of the Moonlit Night, and the creator behind the cozy lab, Konari Lab.\n\n\n[![Discord](https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/Banner2.png)](https://discord.gg/EEjd7DHj5r)\n[![Discord](https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/Screenshot_47.png)](https://discord.com/invite/yaByNwaxsP)",
+			"links": {
+				"discord": "https://discord.gg/EEjd7DHj5r",
+				"site": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/Banner2.png",
+				"youtube": "https://www.youtube.com/watch?v=ZlTIpkrUst4"
+			}
 		},
 		"miyu": {
 			"name": "miyu",
@@ -87,6 +123,13 @@
 			"avatar": "creators/rengoku-kyojuro.jpg?v=e317561b",
 			"links": {}
 		},
+		"snorr": {
+			"name": "Snorr",
+			"avatar": "creators/snorr.jpg?v=c259a759",
+			"links": {
+				"youtube": "https://www.youtube.com/watch?v=eRlz-lFJ9Is"
+			}
+		},
 		"snowyseer": {
 			"name": "SnowySeer",
 			"avatar": "creators/snowyseer.png?v=76ff9d03",
@@ -103,6 +146,12 @@
 			"name": "WastedWaffle",
 			"avatar": "creators/wastedwaffle.jpg?v=802af1c0",
 			"links": {}
+		},
+		"wuffsky": {
+			"name": "mikko",
+			"links": {
+				"youtube": "https://www.youtube.com/watch?v=u1xubr1uGcM&pp=ygUgdGZ0IGxlIGJ1bm55IGJvbmJvbiBiaXN0cm8gbXVzaWM%3D"
+			}
 		}
 	},
 	"mods": [
@@ -461,6 +510,176 @@
 				"asset": "ahri-guardiana-estelar-anunciadora-espanol-latin-v1.fantome",
 				"size": 9489185,
 				"sha256": "42b5f9d4e0428a3e264d18136a2af336fa29efb0c505a221a374197a3a5bebf3"
+			}
+		},
+		{
+			"id": "akahan-dances",
+			"name": "Akahan Dances",
+			"kind": "other",
+			"creator": "el7oot",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/akahan-dances/thumb.webp?v=2149b63f",
+			"file": {
+				"version": 1,
+				"asset": "akahan-dances-v1.fantome",
+				"size": 59159858,
+				"sha256": "e892d63a8e3a3f940643ecd911a14fc979442b81d003d61cdba47f6a91acd5c8"
+			}
+		},
+		{
+			"id": "akali-100t-emote-uncensored",
+			"name": "Akali 100T Emote Uncensored",
+			"kind": "ui",
+			"creator": "snorr",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/akali-100t-emote-uncensored/thumb.webp?v=dd4a66ea",
+			"file": {
+				"version": 1,
+				"asset": "akali-100t-emote-uncensored-v1.fantome",
+				"size": 188510,
+				"sha256": "76d57b2b35e32320c33ac5351f2db871353d3b93936d9134d1c71dfe13aa919f"
+			}
+		},
+		{
+			"id": "akshan-take-the-l",
+			"name": "Akshan Take the L",
+			"kind": "other",
+			"creator": "el7oot",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/akshan-take-the-l/thumb.webp?v=f4116fd5",
+			"file": {
+				"version": 1,
+				"asset": "akshan-take-the-l-v1.fantome",
+				"size": 53263134,
+				"sha256": "048e718752f96540432b2bef7137ee2351991be0cb888e0e4da661e29c08853e"
+			}
+		},
+		{
+			"id": "all-old-health-bars",
+			"name": "All Old Health Bars",
+			"kind": "ui",
+			"creator": "moga",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/all-old-health-bars/thumb.webp?v=e7878644",
+			"file": {
+				"version": 1,
+				"asset": "all-old-health-bars-v1.fantome",
+				"size": 1548755,
+				"sha256": "b84aa9c96f4260f9d363ede1e8ce5d0790bea5b21b5e8c2a535558738efc98fa"
+			}
+		},
+		{
+			"id": "alt-dumpling-darlings-seraphine-music",
+			"name": "alt dumpling darlings seraphine music",
+			"kind": "sounds",
+			"creator": "wuffsky",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/alt-dumpling-darlings-seraphine-music/thumb.webp?v=14a1cf96",
+			"file": {
+				"version": 1,
+				"asset": "alt-dumpling-darlings-seraphine-music-v1.fantome",
+				"size": 14933991,
+				"sha256": "c4a7f8f06ee68a9571d54cf3ca711ca05e72ed61e43114a0e886cd92b617f083"
+			}
+		},
+		{
+			"id": "althea-font",
+			"name": "Althea Font",
+			"kind": "fonts",
+			"creator": "agomsmoga",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/althea-font/thumb.webp?v=642a6164",
+			"file": {
+				"version": 1,
+				"asset": "althea-font-v1.fantome",
+				"size": 104745,
+				"sha256": "c7e856f03e9888837c56c5ee3d9434c23d17acdc51528e8e8b849831bd0e8d1f"
+			}
+		},
+		{
+			"id": "always-apex-rank-borders",
+			"name": "Always Apex Rank Borders",
+			"kind": "ui",
+			"creator": "agomsmoga",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/always-apex-rank-borders/thumb.webp?v=8a6231d0",
+			"file": {
+				"version": 1,
+				"asset": "always-apex-rank-borders-v1.fantome",
+				"size": 3286449,
+				"sha256": "b60bc35cef8911cab5925d9272bb46fc1323ee967be67535de6d90de34722ba6"
+			}
+		},
+		{
+			"id": "always-speaki-recall",
+			"name": "Always Speaki Recall",
+			"kind": "recall",
+			"creator": "archlyris",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/always-speaki-recall/thumb.webp?v=e0fa9a06",
+			"file": {
+				"version": 1,
+				"asset": "always-speaki-recall-v1.fantome",
+				"size": 8010071,
+				"sha256": "8bc5dd2678c69dafcd47f757a2d7bb7426863ffa1ca6fac45462c9b91574abd8"
+			}
+		},
+		{
+			"id": "always-yuumi-border",
+			"name": "ALWAYS Yuumi Border",
+			"kind": "ui",
+			"creator": "agomsmoga",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/always-yuumi-border/thumb.webp?v=f64775ea",
+			"file": {
+				"version": 1,
+				"asset": "always-yuumi-border-v1.fantome",
+				"size": 20666,
+				"sha256": "fb8b7f9973d77f47e32e8e3ea5d540f66d69a49e880eb2b12f08403b249b79b9"
+			}
+		},
+		{
+			"id": "amelia-watson-paladins-announcer-pack",
+			"name": "Amelia Watson (Paladins) Announcer Pack",
+			"kind": "announcer",
+			"creator": "konari",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/amelia-watson-paladins-announcer-pack/thumb.webp?v=ccb0c5b3",
+			"file": {
+				"version": 1,
+				"asset": "amelia-watson-paladins-announcer-pack-v1.fantome",
+				"size": 6396194,
+				"sha256": "7ac0f15918f5b033bb15456a18e640f6d81fa71d8d0643cb410765f920f09849"
 			}
 		}
 	]

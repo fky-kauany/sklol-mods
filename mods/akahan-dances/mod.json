@@ -1,0 +1,17 @@
+{
+	"id": "akahan-dances",
+	"name": "Akahan Dances",
+	"kind": "other",
+	"creator": "el7oot",
+	"description": "## If you want only to use take the L, download this mod (https://runeforge.dev/mods/f51b4f11-8b86-4de0-b49e-4fc2644e6b6b)\n\nThis mod is an update from the previous mod.&#x20;\n\nChanges his emotes ( ctrl + 1 2 3 )\nCtrl +1 = griddy\n\n\nCtrl +2 = take the L\n\n\nCtrl +3 = torture dance from Jojo or the viego dance from his skin\n\n### Works on all skins\n\n---\n\n**Created by** [EL7OOT](https://runeforge.dev/users/EL7OOT)\n\n**Original:** https://runeforge.dev/mods/4d5f96d7-eaf8-49e0-85a1-a526a15df301\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/akahan-dances/thumb.webp?v=2149b63f",
+	"file": {
+		"version": 1,
+		"asset": "akahan-dances-v1.fantome",
+		"size": 59159858,
+		"sha256": "e892d63a8e3a3f940643ecd911a14fc979442b81d003d61cdba47f6a91acd5c8"
+	}
+}

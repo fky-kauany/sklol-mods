@@ -1,0 +1,17 @@
+{
+	"id": "akali-100t-emote-uncensored",
+	"name": "Akali 100T Emote Uncensored",
+	"kind": "ui",
+	"creator": "snorr",
+	"description": "### Overview\n\n* Replaces the emote \"LCS: 100 - 2024\" with the originally designed version which was changed into Akali hodling her ear instead of pinching her fingers\n* You need the to own the emote for it to work obviously.\n\n***\n\n### Install Instructions\n\n* Download the file and install it in the Mod manager like you would with any other mod\n\n***\n\nIf you find issues with the mod you can contact me on Discord: snorr\\_\n\n---\n\n**Created by** [Snorr](https://runeforge.dev/users/Snorr)\n\n**Original:** https://runeforge.dev/mods/0bbb62cd-9730-4dc5-804f-5845a29192df\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/akali-100t-emote-uncensored/thumb.webp?v=dd4a66ea",
+	"file": {
+		"version": 1,
+		"asset": "akali-100t-emote-uncensored-v1.fantome",
+		"size": 188510,
+		"sha256": "76d57b2b35e32320c33ac5351f2db871353d3b93936d9134d1c71dfe13aa919f"
+	}
+}

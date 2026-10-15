@@ -1,0 +1,17 @@
+{
+	"id": "all-old-health-bars",
+	"name": "All Old Health Bars",
+	"kind": "ui",
+	"creator": "moga",
+	"description": "###\n\nOG Minor Jungle bars\n- This version is in my\n[Discord](https://discord.gg/gSXbEmPQCA)\nnow. I am tired of updating each link individually.\n\n#\n\n**Use this mod for [Old Minimap Icons](https://runeforge.dev/mods/1c8a3657-cb29-476d-bbca-ecb5e3c43172) (Wards, Towers, Etc). The new ones are ugly as fuck.**\n\n**- ALTERNATE VERSION**\n\n- OG Minor Jungle bars: [discord.gg/gSXbEmPQCA](https://discord.gg/gSXbEmPQCA)\n- Old font now works on 1440/4K, no need for separate download! (PLEASE TELL ME IF IT LOOKS OFF ON 2160/4K!! I ONLY HAVE 1440p to test!!)\n\n**- OVERVIEW**\n\nALL old health bars are brought back. This includes the small Gromp and Scuttle\nhealth bars, Dragon, Baron, Towers, Champions, Jhin, etc. Note that there was\noccasional liberty taken when creating the mod to be usable in ranked, such as\na custom execute bar (did not exist back then) or 1K HP ticks on the Gromp/Scuttle\nCrab bars in order to have some idea of when to smite.\n\n- Old big, white, bold font (sadly only 1080p atm).\n- Tower bars.\n- Random special Inhibitor bars I found in the old files.\n- Gromp/Raptor/Krug/Wolf small bars.\n- Red/Blue/Dragon/Atakhan/Grubs/Rift Herald.\n- Baron.\n- Old All/Physical/Magic shield textures.\n- Champions, Jhin, Annie, etc.\n- Udyr/Aphelios/Vex 2nd resource bar is styled and refitted appropriately to the old bars.\n- Neeko, Kled, K'Sante bars are fitted appropriately.\n- All champions with resource pips (Gwen, Syndra, Samira, Bel'Veth, etc) have been styled to appear like the old Jhin bars.\n- The old highlight is \"brought back\", but I've only noticed it rarely on Towers in game, and never on Champions. It's clearly visible in replay mode when you select someone.\n- More delayed damage fade animation.\n- Old Yuumi border.\n- Old Graves ammo.\n- Old invulnerable border.\n- Took old Champion bounty icons to use as Objective bounties.\n- Retrofitted, custom execute bar. (Didn't used to exist.)\n- Custom Spellshield bar (just recolored old bar for the most part.)\n- Tower bar shake has been removed, alongside any burst damage textures.\n- Both enemy and friendly damage taken bar is red.\n- Old Bonus/Shred Armor/MR icons.\n- Removed all health bar death and spellshieid/invuln animations.\n- Execute ticks fitted for Cho, Elder, etc.\n- Old CC icons, although they are still on top as to remain somewhat legible. May go back on this, and put them back on the bottom later.\n\n**[Click to see all my other totally sick mods.](https://runeforge.dev/users/Moga/mods?page=0&sortBy=download_count)**\n\n#\n\n### Mod Information:\n\n* Author: Moga\n\nhttps://discord.gg/gSXbEmPQCA\n\n---\n\n**Created by** [Moga](https://runeforge.dev/users/Moga)\n\n**Original:** https://runeforge.dev/mods/b7f4cc6d-0db5-4bd4-89e2-d08b7c819d68\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/all-old-health-bars/thumb.webp?v=e7878644",
+	"file": {
+		"version": 1,
+		"asset": "all-old-health-bars-v1.fantome",
+		"size": 1548755,
+		"sha256": "b84aa9c96f4260f9d363ede1e8ce5d0790bea5b21b5e8c2a535558738efc98fa"
+	}
+}

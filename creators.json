@@ -5,6 +5,15 @@
 			"discord": "https://discord.gg/403"
 		}
 	},
+	"agomsmoga": {
+		"name": "Moga",
+		"avatar": "creators/agomsmoga.png?v=b18a379a",
+		"bio": "<a href=\"https://discord.gg/gSXbEmPQCA\"> <img src=\"https://i.imgur.com/vV5RqTA.png\" style=\"width: 780; height: 670px; display: inline-block; vertical-align: middle;\"> </a>\n\nMain Moga here: https://runeforge.dev/users/Moga",
+		"links": {
+			"discord": "https://discord.gg/HEjuFmbm6g",
+			"site": "https://runeforge.dev/users/Moga"
+		}
+	},
 	"ahrisko": {
 		"name": "Luka",
 		"avatar": "creators/ahrisko.jpg?v=b52ed00a",
@@ -18,6 +27,15 @@
 		"avatar": "creators/algicci.jpg?v=49e2249b",
 		"links": {
 			"youtube": "https://youtu.be/gwsn8f05l7o"
+		}
+	},
+	"archlyris": {
+		"name": "archlyris",
+		"bio": "how cool can this spin\n\n![https://discord.com/invite/yaByNwaxsP](https://runeforge.dev/cdn-cgi/image/width=360,height=360,quality=85,format=webp,fit=cover/https://r2-images-prod.runeforge.dev/9e272c3e-9b49-4f25-b285-ad1fb47e656d.gif)\n\nmy server https://discord.com/invite/yaByNwaxsP\nfriend server https://discord.gg/EEjd7DHj5r",
+		"links": {
+			"discord": "https://discord.gg/yaByNwaxsP",
+			"x": "https://x.com/archlyris",
+			"youtube": "https://www.youtube.com/@ascila"
 		}
 	},
 	"aropatnik": {
@@ -40,6 +58,14 @@
 		"avatar": "creators/donutvsdonut.jpg?v=86a1c710",
 		"links": {}
 	},
+	"el7oot": {
+		"name": "EL7OOT",
+		"avatar": "creators/el7oot.png?v=f6ba6458",
+		"links": {
+			"discord": "https://discord.gg/5d8T8c962W",
+			"youtube": "https://youtu.be/D6MuCDAlA9Y?si=r_OtOm_IvjIUa1zc"
+		}
+	},
 	"horrorwolf": {
 		"name": "HorrorWolf",
 		"avatar": "creators/horrorwolf.png?v=b1e42ede",
@@ -51,6 +77,16 @@
 		"name": "Kiet Jojo",
 		"avatar": "creators/kietjojo.jpg?v=7479fb00",
 		"links": {}
+	},
+	"konari": {
+		"name": "Konari Lab Ch. 白夜こなり",
+		"avatar": "creators/konari.png?v=eb6a5f9d",
+		"bio": "<div align=\"center\">\n\n# Welcome to Konari Lab Ch. 白夜こなり!\n\n</div>\n\n<p align=\"center\">\nI'm Konari, a little fox who came from the Land of the Moonlit Night, and the creator behind the cozy lab, Konari Lab.\n\n\n[![Discord](https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/Banner2.png)](https://discord.gg/EEjd7DHj5r)\n[![Discord](https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/Screenshot_47.png)](https://discord.com/invite/yaByNwaxsP)",
+		"links": {
+			"discord": "https://discord.gg/EEjd7DHj5r",
+			"site": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/Banner2.png",
+			"youtube": "https://www.youtube.com/watch?v=ZlTIpkrUst4"
+		}
 	},
 	"miyu": {
 		"name": "miyu",
@@ -84,6 +120,13 @@
 		"avatar": "creators/rengoku-kyojuro.jpg?v=e317561b",
 		"links": {}
 	},
+	"snorr": {
+		"name": "Snorr",
+		"avatar": "creators/snorr.jpg?v=c259a759",
+		"links": {
+			"youtube": "https://www.youtube.com/watch?v=eRlz-lFJ9Is"
+		}
+	},
 	"snowyseer": {
 		"name": "SnowySeer",
 		"avatar": "creators/snowyseer.png?v=76ff9d03",
@@ -100,5 +143,11 @@
 		"name": "WastedWaffle",
 		"avatar": "creators/wastedwaffle.jpg?v=802af1c0",
 		"links": {}
+	},
+	"wuffsky": {
+		"name": "mikko",
+		"links": {
+			"youtube": "https://www.youtube.com/watch?v=u1xubr1uGcM&pp=ygUgdGZ0IGxlIGJ1bm55IGJvbmJvbiBiaXN0cm8gbXVzaWM%3D"
+		}
 	}
 }
