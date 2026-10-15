@@ -1,0 +1,17 @@
+{
+	"id": "replace-hubris-with-duskblade",
+	"name": "Replace Hubris with Duskblade",
+	"kind": "ui",
+	"creator": "coutt",
+	"description": "replaces Hubris icon with Duskblade of Draktharr icon\n\n---\n\n**Created by** [coutt](https://runeforge.dev/users/coutt)\n\n**Original:** https://runeforge.dev/mods/d89aeead-6ee6-4021-9656-5bb6e9d3c8ed\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/replace-hubris-with-duskblade/thumb.webp?v=608fde9c",
+	"file": {
+		"version": 1,
+		"asset": "replace-hubris-with-duskblade-v1.fantome",
+		"size": 4997796,
+		"sha256": "03217ea0bf4e85f829cf7a6dd3f67b083328f22fb920fd3d80bf51f315aa3c3b"
+	}
+}

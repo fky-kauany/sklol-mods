@@ -1,0 +1,17 @@
+{
+	"id": "rise-kujikawa-as-announcer",
+	"name": "Rise Kujikawa as Announcer",
+	"kind": "announcer",
+	"creator": "shoutfriends",
+	"description": "> \"Ladies and gentlemen! Here we go! I, Risette, will be your commentator!\"\n\nThis mod replaces default Summoner's Rift announcer with Rise Kujikawa from Persona 4.\n\nListen to Rise Kujikawa cheer you and your team while you play the game! Voicelines taken from Persona 4 Golden and Persona 4 Arena Ultimax (Laura Bailey only!).\n\n[List of voiceline changes](https://pastebin.com/WWER00rA \"List of voiceline changes\")\n\n---\n\nhttps://ko-fi.com/T6T61YZU1J\n\nMod broken? [Report here](https://codeberg.org/shoutfriends/rise-kujikawa-lol-announcer/issues)\n\n---\n\n**Created by** [shoutfriends](https://runeforge.dev/users/shoutfriends)\n\n**Original:** https://runeforge.dev/mods/5088413a-458b-4f2f-8e69-88fc286a0bcc\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/rise-kujikawa-as-announcer/thumb.webp?v=b0e7ed80",
+	"file": {
+		"version": 1,
+		"asset": "rise-kujikawa-as-announcer-v1.fantome",
+		"size": 7299649,
+		"sha256": "753e370cc7de536c8eb37d9d836b19e4ecae140735146b80235f87ce7c943afe"
+	}
+}

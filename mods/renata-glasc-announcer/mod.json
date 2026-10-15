@@ -1,0 +1,17 @@
+{
+	"id": "renata-glasc-announcer",
+	"name": "Renata Glasc Announcer",
+	"kind": "announcer",
+	"creator": "voiceshowcase",
+	"description": "The previous announcer has been let go. Ms. Glasc, in her boundless generosity, has agreed to take over the job.\n\n\n\nCREDITS:\n\nVoice: Sara Dunham\n\nWriter: RoyalEnigma\n\n---\n\n**Created by** [VoiceShowcase](https://runeforge.dev/users/VoiceShowcase)\n\n**Original:** https://runeforge.dev/mods/2f728132-fe9a-49ff-925a-041bb4a71942\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/renata-glasc-announcer/thumb.webp?v=712cd918",
+	"file": {
+		"version": 1,
+		"asset": "renata-glasc-announcer-v1.fantome",
+		"size": 9329874,
+		"sha256": "8b2d0de60a5d78899a920da6905f560252866b245ebba38a299a15789d88623a"
+	}
+}

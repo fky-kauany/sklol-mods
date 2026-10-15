@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T11:13:05.169Z",
+	"generatedAt": "2026-10-15T11:18:38.963Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -690,6 +690,14 @@
 			"avatar": "creators/severed.jpg?v=90455b69",
 			"bio": "dc: uhvxx",
 			"links": {}
+		},
+		"shoutfriends": {
+			"name": "shoutfriends",
+			"avatar": "creators/shoutfriends.jpg?v=6c79f2b7",
+			"links": {
+				"kofi": "https://ko-fi.com/T6T61YZU1J",
+				"site": "https://codeberg.org/shoutfriends/rise-kujikawa-lol-announcer/issues"
+			}
 		},
 		"shrimpback": {
 			"name": "ShrimpBack",
@@ -9150,6 +9158,176 @@
 				"asset": "remove-tooltip-delay-and-lockout-v1.fantome",
 				"size": 1051520,
 				"sha256": "ffd8729c97fd2f3c8806a9b9a3050024959ad30e7d26fa52767379f877017ac7"
+			}
+		},
+		{
+			"id": "renata-glasc-announcer",
+			"name": "Renata Glasc Announcer",
+			"kind": "announcer",
+			"creator": "voiceshowcase",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/renata-glasc-announcer/thumb.webp?v=712cd918",
+			"file": {
+				"version": 1,
+				"asset": "renata-glasc-announcer-v1.fantome",
+				"size": 9329874,
+				"sha256": "8b2d0de60a5d78899a920da6905f560252866b245ebba38a299a15789d88623a"
+			}
+		},
+		{
+			"id": "rengar-old-bonetooth-necklace",
+			"name": "Rengar - old bonetooth necklace",
+			"kind": "ui",
+			"creator": "s10tiamat",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/rengar-old-bonetooth-necklace/thumb.webp?v=954e4997",
+			"file": {
+				"version": 1,
+				"asset": "rengar-old-bonetooth-necklace-v1.fantome",
+				"size": 12190,
+				"sha256": "6f5b3c8d4f2aa4df9acf6ddad5ffc77d1af98d7d547cbbb99123b5714ec8dabb"
+			}
+		},
+		{
+			"id": "rengar-old-splash-art-works-with-old-rengar-rebi",
+			"name": "Rengar - old splash art (works with \"Old Rengar Rebirth\" mod)",
+			"kind": "ui",
+			"creator": "s10tiamat",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/rengar-old-splash-art-works-with-old-rengar-rebi/thumb.webp?v=08c9ecfc",
+			"file": {
+				"version": 1,
+				"asset": "rengar-old-splash-art-works-with-old-rengar-rebi-v1.fantome",
+				"size": 95637,
+				"sha256": "f6e74f7b3bca856766caedf3d5a67351a761814169c2dd6d6fcefeb248dc5bbe"
+			}
+		},
+		{
+			"id": "replace-hubris-with-duskblade",
+			"name": "Replace Hubris with Duskblade",
+			"kind": "ui",
+			"creator": "coutt",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/replace-hubris-with-duskblade/thumb.webp?v=608fde9c",
+			"file": {
+				"version": 1,
+				"asset": "replace-hubris-with-duskblade-v1.fantome",
+				"size": 4997796,
+				"sha256": "03217ea0bf4e85f829cf7a6dd3f67b083328f22fb920fd3d80bf51f315aa3c3b"
+			}
+		},
+		{
+			"id": "repreive-killstreak-sfx",
+			"name": "Repreive | Killstreak SFX",
+			"kind": "sounds",
+			"creator": "gloomytree",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/repreive-killstreak-sfx/thumb.webp?v=6904dca7",
+			"file": {
+				"version": 1,
+				"asset": "repreive-killstreak-sfx-v1.fantome",
+				"size": 1581533,
+				"sha256": "00b4c457f5c37744d0c8c7fce555fd3d815778e2595d2045a7a960dc1ab6bcf0"
+			}
+		},
+		{
+			"id": "riot-points-gold",
+			"name": "Riot Points Gold",
+			"kind": "ui",
+			"creator": "yuumi",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/riot-points-gold/thumb.webp?v=c35e496c",
+			"file": {
+				"version": 1,
+				"asset": "riot-points-gold-v1.fantome",
+				"size": 13576,
+				"sha256": "1f514c6fedeaf9a45ec716c80e72fabfe78a4d287c07847682357b1230580232"
+			}
+		},
+		{
+			"id": "rise-kujikawa-announcer",
+			"name": "Rise Kujikawa Announcer",
+			"kind": "announcer",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/rise-kujikawa-announcer/thumb.webp?v=c595233c",
+			"file": {
+				"version": 1,
+				"asset": "rise-kujikawa-announcer-v1.fantome",
+				"size": 2899090,
+				"sha256": "95fda260f195128342635de6a6a19f6756e22c5bf72432d2a7b83a8b866c4d30"
+			}
+		},
+		{
+			"id": "rise-kujikawa-as-announcer",
+			"name": "Rise Kujikawa as Announcer",
+			"kind": "announcer",
+			"creator": "shoutfriends",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/rise-kujikawa-as-announcer/thumb.webp?v=b0e7ed80",
+			"file": {
+				"version": 1,
+				"asset": "rise-kujikawa-as-announcer-v1.fantome",
+				"size": 7299649,
+				"sha256": "753e370cc7de536c8eb37d9d836b19e4ecae140735146b80235f87ce7c943afe"
+			}
+		},
+		{
+			"id": "riven-action-hud",
+			"name": "Riven Action HUD",
+			"kind": "ui",
+			"creator": "aropatnik",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/riven-action-hud/thumb.webp?v=9a74bc38",
+			"file": {
+				"version": 1,
+				"asset": "riven-action-hud-v1.fantome",
+				"size": 217645,
+				"sha256": "8881b5639927bd96308694b57b487aa8fc5ae1601955a6f3b412425fd83cb0bb"
+			}
+		},
+		{
+			"id": "rose-recall",
+			"name": "Rose Recall",
+			"kind": "recall",
+			"creator": "frog",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/rose-recall/thumb.webp?v=f237c29d",
+			"file": {
+				"version": 1,
+				"asset": "rose-recall-v1.fantome",
+				"size": 3037135,
+				"sha256": "0954a58f88f8b137c19a8bca36d19f4043a22f554fb292e957a96d340a2bd0e2"
 			}
 		}
 	]

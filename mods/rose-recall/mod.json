@@ -1,0 +1,17 @@
+{
+	"id": "rose-recall",
+	"name": "Rose Recall",
+	"kind": "recall",
+	"creator": "frog",
+	"description": "? Mod Type: Recall\r\n? Modified Skin(s): Works for all players – replaces the original recall for everyone\r\n? Credits\r\n\r\nSpecial thanks to Sirdexal and GuiSai\r\n\r\n? Additional Info\r\n\r\nHave questions or requests? DM me on Discord or join the Divine Skins server.\r\n\r\n❤️ Support\r\n\r\nEnjoyed the mod? Show your support and keep the creations coming!\r\n\r\nFan-made, not affiliated with Riot Games or any other company.\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/rose-recall\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/rose-recall/thumb.webp?v=f237c29d",
+	"file": {
+		"version": 1,
+		"asset": "rose-recall-v1.fantome",
+		"size": 3037135,
+		"sha256": "0954a58f88f8b137c19a8bca36d19f4043a22f554fb292e957a96d340a2bd0e2"
+	}
+}

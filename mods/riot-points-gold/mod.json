@@ -1,0 +1,17 @@
+{
+	"id": "riot-points-gold",
+	"name": "Riot Points Gold",
+	"kind": "ui",
+	"creator": "yuumi",
+	"description": "Yeah Riot Points yes.. Riot Points I love.. I love Riot Points.. Gambling... 500 and 250 dolla skins.. I love Riot Points.. I truly do love Riot Points...\n\n---\n\n**Created by** [Yuumi](https://runeforge.dev/users/yuumi)\n\n**Original:** https://runeforge.dev/mods/6fae24cd-03f0-4e7a-b65a-c8e0798374d9\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/riot-points-gold/thumb.webp?v=c35e496c",
+	"file": {
+		"version": 1,
+		"asset": "riot-points-gold-v1.fantome",
+		"size": 13576,
+		"sha256": "1f514c6fedeaf9a45ec716c80e72fabfe78a4d287c07847682357b1230580232"
+	}
+}

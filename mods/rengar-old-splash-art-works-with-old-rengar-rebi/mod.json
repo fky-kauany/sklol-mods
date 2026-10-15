@@ -1,0 +1,17 @@
+{
+	"id": "rengar-old-splash-art-works-with-old-rengar-rebi",
+	"name": "Rengar - old splash art (works with \"Old Rengar Rebirth\" mod)",
+	"kind": "ui",
+	"creator": "s10tiamat",
+	"description": "basically just brings back the old rengar splash art laod screen and icons. (you should also check out my \"Rengar - old bonetooth necklace\" mod!)\r\n- now it's compatible with \"Old Rengar Rebirth\" mod\n\n---\n\n**Created by** [tiamat](https://runeforge.dev/users/s10tiamat)\n\n**Original:** https://runeforge.dev/mods/f1813f81-190b-43a8-81a9-5a64c6f80dcc\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/rengar-old-splash-art-works-with-old-rengar-rebi/thumb.webp?v=08c9ecfc",
+	"file": {
+		"version": 1,
+		"asset": "rengar-old-splash-art-works-with-old-rengar-rebi-v1.fantome",
+		"size": 95637,
+		"sha256": "f6e74f7b3bca856766caedf3d5a67351a761814169c2dd6d6fcefeb248dc5bbe"
+	}
+}

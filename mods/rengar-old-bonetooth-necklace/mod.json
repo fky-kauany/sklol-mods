@@ -1,0 +1,17 @@
+{
+	"id": "rengar-old-bonetooth-necklace",
+	"name": "Rengar - old bonetooth necklace",
+	"kind": "ui",
+	"creator": "s10tiamat",
+	"description": "replaces Rengar's bonetooth necklace passive icons with the old ones (you should also check out my \"Rengar - old splash art\" mod!)\n\n---\n\n**Created by** [tiamat](https://runeforge.dev/users/s10tiamat)\n\n**Original:** https://runeforge.dev/mods/e9806ccb-df64-40ad-8bea-83b92230086b\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/rengar-old-bonetooth-necklace/thumb.webp?v=954e4997",
+	"file": {
+		"version": 1,
+		"asset": "rengar-old-bonetooth-necklace-v1.fantome",
+		"size": 12190,
+		"sha256": "6f5b3c8d4f2aa4df9acf6ddad5ffc77d1af98d7d547cbbb99123b5714ec8dabb"
+	}
+}

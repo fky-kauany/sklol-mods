@@ -688,6 +688,14 @@
 		"bio": "dc: uhvxx",
 		"links": {}
 	},
+	"shoutfriends": {
+		"name": "shoutfriends",
+		"avatar": "creators/shoutfriends.jpg?v=6c79f2b7",
+		"links": {
+			"kofi": "https://ko-fi.com/T6T61YZU1J",
+			"site": "https://codeberg.org/shoutfriends/rise-kujikawa-lol-announcer/issues"
+		}
+	},
 	"shrimpback": {
 		"name": "ShrimpBack",
 		"avatar": "creators/shrimpback.png?v=8733d095",
