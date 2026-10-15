@@ -1,0 +1,17 @@
+{
+	"id": "somebody-get-the-door-mundo",
+	"name": "SOMEBODY GET THE DOOR MUNDO",
+	"kind": "sounds",
+	"creator": "gone",
+	"description": "### INFO:\r\n\r\nKing hulk sfx when casting ultimate, meant to be used alongside Hulk Dr Mundo skin by Yigit Vercetti\n\n---\n\n**Created by** [gone](https://runeforge.dev/users/gone)\n\n**Original:** https://runeforge.dev/mods/8e445cb8-d9e3-46e1-b556-a1dda010f5da\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/somebody-get-the-door-mundo/thumb.webp?v=a6ebd91d",
+	"file": {
+		"version": 1,
+		"asset": "somebody-get-the-door-mundo-v1.fantome",
+		"size": 1404511,
+		"sha256": "d1fd72f976960e8ee7fd7241c3e58ec515828b992e30541368776443089cbfc0"
+	}
+}

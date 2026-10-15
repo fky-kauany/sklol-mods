@@ -1,0 +1,17 @@
+{
+	"id": "snowflake-hud-reborn",
+	"name": "Snowflake HUD Reborn",
+	"kind": "ui",
+	"creator": "tyre-4770",
+	"description": "## ♥ Mod Info ♥\r\n\r\n* HUD Name: Snowflake HUD Reborn\r\n* Author: Tyre 4770\r\n* Skin Version: 2.0\r\n* Description: An old HUD of mine from 2016 now brought up to date with current live league! ♥\r\n* HUGE thank you to Xlime for looking over my files because I messed something up that I didn't catch. 💖\r\n\r\n\r\n###### ⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦&#xA;\r\n\r\nCredits: unknown, cannot find original.\n\n---\n\n**Created by** [Tyre 4770](https://runeforge.dev/users/Tyre_4770)\n\n**Original:** https://runeforge.dev/mods/817494ee-a7f8-413e-a2af-5ef549be574e\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/snowflake-hud-reborn/thumb.webp?v=1162ea4a",
+	"file": {
+		"version": 1,
+		"asset": "snowflake-hud-reborn-v1.fantome",
+		"size": 7740517,
+		"sha256": "778938dd76affba93ddfdcc76e461f521f6d63eb08a9191b2fd8009a537228b6"
+	}
+}

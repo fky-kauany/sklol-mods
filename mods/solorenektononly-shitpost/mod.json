@@ -1,0 +1,17 @@
+{
+	"id": "solorenektononly-shitpost",
+	"name": "SoloRenektonOnly Shitpost",
+	"kind": "sounds",
+	"creator": "aropatnik",
+	"description": "Replaces all SFX with BOOM WHADUP SOLO RENKETON ONLY HERE\n\n## Information\n\n**Modified champion: Renekton**\n\n**Modified skin: Default and all that don't have custom SFX**\n\n**Author: Aropatnik**\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/8ef9c88a-c4a1-4c8f-a85a-edbcdd1d49d5\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/solorenektononly-shitpost/thumb.webp?v=3e853656",
+	"file": {
+		"version": 1,
+		"asset": "solorenektononly-shitpost-v1.fantome",
+		"size": 2333794,
+		"sha256": "889437a3fc22d10cfdf2ffe49a8eddecbe33312ba44dcbf5fb09e1d166e20e2b"
+	}
+}

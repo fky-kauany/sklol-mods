@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T11:41:13.966Z",
+	"generatedAt": "2026-10-15T11:46:46.549Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -358,6 +358,14 @@
 			"avatar": "creators/gloomytree.jpg?v=b46ed5c2",
 			"bio": "# Cursed nostalgia blinded student\n## Discord : https://discord.gg/WK4yNZxaqk\n## DM open : gloomy_tree",
 			"links": {}
+		},
+		"gone": {
+			"name": "gone",
+			"avatar": "creators/gone.jpg?v=b8f46352",
+			"bio": "i just mess around",
+			"links": {
+				"youtube": "https://youtu.be/C_2duQgr3jk?si=HGbaSTEhgcyvWRVY"
+			}
 		},
 		"goro": {
 			"name": "Goro",
@@ -10060,6 +10068,176 @@
 				"asset": "siuuuu-garen-v1.fantome",
 				"size": 8495443,
 				"sha256": "252598ed2a34791d9de29ed504108f2c1ff900e91e515834b6bc1478af398721"
+			}
+		},
+		{
+			"id": "slightly-transparent-tooltips",
+			"name": "Slightly Transparent Tooltips",
+			"kind": "ui",
+			"creator": "moga",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/slightly-transparent-tooltips/thumb.webp?v=24b7b402",
+			"file": {
+				"version": 1,
+				"asset": "slightly-transparent-tooltips-v1.fantome",
+				"size": 1813,
+				"sha256": "063e1b8053bb54005833f9d676f0d877738e64a9a74b813d09c17e8cab00e138"
+			}
+		},
+		{
+			"id": "smaller-minimap-icons",
+			"name": "Smaller Minimap Icons",
+			"kind": "ui",
+			"creator": "moga",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/smaller-minimap-icons/thumb.webp?v=2a6d5478",
+			"file": {
+				"version": 1,
+				"asset": "smaller-minimap-icons-v1.fantome",
+				"size": 25514,
+				"sha256": "707d0245ad3fd1f1fe3b5ff7375c5f66c7074c3f84ed7040120718cebab41435"
+			}
+		},
+		{
+			"id": "smaller-veigar-doom-bots",
+			"name": "Smaller Veigar Doom Bots",
+			"kind": "other",
+			"creator": "agomsmoga",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/smaller-veigar-doom-bots/thumb.webp?v=fd385bf3",
+			"file": {
+				"version": 1,
+				"asset": "smaller-veigar-doom-bots-v1.fantome",
+				"size": 146043,
+				"sha256": "1604c59d42a1343f97e4a39d9a09cb778e2f1ad2e53a16c72834a12134b122cd"
+			}
+		},
+		{
+			"id": "snow-bunny-nidalee-custom-sfx",
+			"name": "Snow Bunny Nidalee Custom SFX",
+			"kind": "sounds",
+			"creator": "lolsfxamateur",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/snow-bunny-nidalee-custom-sfx/thumb.webp?v=fc20d2cf",
+			"file": {
+				"version": 1,
+				"asset": "snow-bunny-nidalee-custom-sfx-v1.fantome",
+				"size": 10890566,
+				"sha256": "7bb984bcac4e3e7c66ca821ae9179b6770f6bc80941675232183136e47e03935"
+			}
+		},
+		{
+			"id": "snowflake-hud-reborn",
+			"name": "Snowflake HUD Reborn",
+			"kind": "ui",
+			"creator": "tyre-4770",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/snowflake-hud-reborn/thumb.webp?v=1162ea4a",
+			"file": {
+				"version": 1,
+				"asset": "snowflake-hud-reborn-v1.fantome",
+				"size": 7740517,
+				"sha256": "778938dd76affba93ddfdcc76e461f521f6d63eb08a9191b2fd8009a537228b6"
+			}
+		},
+		{
+			"id": "solorenektononly-shitpost",
+			"name": "SoloRenektonOnly Shitpost",
+			"kind": "sounds",
+			"creator": "aropatnik",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/solorenektononly-shitpost/thumb.webp?v=3e853656",
+			"file": {
+				"version": 1,
+				"asset": "solorenektononly-shitpost-v1.fantome",
+				"size": 2333794,
+				"sha256": "889437a3fc22d10cfdf2ffe49a8eddecbe33312ba44dcbf5fb09e1d166e20e2b"
+			}
+		},
+		{
+			"id": "somebody-get-the-door-mundo",
+			"name": "SOMEBODY GET THE DOOR MUNDO",
+			"kind": "sounds",
+			"creator": "gone",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/somebody-get-the-door-mundo/thumb.webp?v=a6ebd91d",
+			"file": {
+				"version": 1,
+				"asset": "somebody-get-the-door-mundo-v1.fantome",
+				"size": 1404511,
+				"sha256": "d1fd72f976960e8ee7fd7241c3e58ec515828b992e30541368776443089cbfc0"
+			}
+		},
+		{
+			"id": "soul-fighter-evelynn-chroma-vfx",
+			"name": "Soul Fighter Evelynn chroma VFX",
+			"kind": "vfx",
+			"creator": "suriin",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/soul-fighter-evelynn-chroma-vfx/thumb.webp?v=704e28ee",
+			"file": {
+				"version": 1,
+				"asset": "soul-fighter-evelynn-chroma-vfx-v1.fantome",
+				"size": 22431784,
+				"sha256": "3c9e2e20d9c253ede2278203e678f33cc552450eec0011d32a5e8fae94ebf9dc"
+			}
+		},
+		{
+			"id": "soul-fighter-killstreak",
+			"name": "Soul Fighter Killstreak",
+			"kind": "sounds",
+			"creator": "gloomytree",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/soul-fighter-killstreak/thumb.webp?v=c99cd9da",
+			"file": {
+				"version": 1,
+				"asset": "soul-fighter-killstreak-v1.fantome",
+				"size": 2170874,
+				"sha256": "21c91c0f382eae01f3e9751c2ed6d0c58c122c9f62904695ee3238ca26ef0a4e"
+			}
+		},
+		{
+			"id": "soul-fighter-lux-skill-icons",
+			"name": "Soul Fighter Lux Skill Icons",
+			"kind": "ui",
+			"creator": "guvercin",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/soul-fighter-lux-skill-icons/thumb.webp?v=e9b1843d",
+			"file": {
+				"version": 1,
+				"asset": "soul-fighter-lux-skill-icons-v1.fantome",
+				"size": 10382,
+				"sha256": "7657e22b181d6b4afd73edf994e6036cd0f34fdf588450c5420edc9e90a09256"
 			}
 		}
 	]

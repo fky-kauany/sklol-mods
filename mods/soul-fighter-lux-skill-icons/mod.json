@@ -1,0 +1,17 @@
+{
+	"id": "soul-fighter-lux-skill-icons",
+	"name": "Soul Fighter Lux Skill Icons",
+	"kind": "ui",
+	"creator": "guvercin",
+	"description": "Soul Fighter Lux Skill Icons changes Lux's hud&#x20;\n\nI used in game model, splash arts, and I edit normal skill icons\n\nLooking for more?\n\nHere Aatrox version: [https://runeforge.dev/mods/761da2be-9b64-4189-9122-4a44506eab01](https://runeforge.dev/mods/761da2be-9b64-4189-9122-4a44506eab01)\n\nHere Inkshadow Yasuo version: [https://runeforge.dev/mods/21a8dc1b-41bc-4981-97f4-6ccf65b3848c](https://runeforge.dev/mods/21a8dc1b-41bc-4981-97f4-6ccf65b3848c)\n\nHere Nightbringer Yasuo version: [https://runeforge.dev/mods/f136a8f6-471e-4a04-8050-7c9c40f9ff35](https://runeforge.dev/mods/f136a8f6-471e-4a04-8050-7c9c40f9ff35)\n\nHere Jhin version: [https://www.runeforge.dev/mods/94075e99-565e-4c7f-8e6f-c03c8fc275b7](https://www.runeforge.dev/mods/94075e99-565e-4c7f-8e6f-c03c8fc275b7)\n\n---\n\n**Created by** [Güvercin](https://runeforge.dev/users/Guvercin)\n\n**Original:** https://runeforge.dev/mods/26fa44b5-3b53-494d-9d57-6fe611ac3f86\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/soul-fighter-lux-skill-icons/thumb.webp?v=e9b1843d",
+	"file": {
+		"version": 1,
+		"asset": "soul-fighter-lux-skill-icons-v1.fantome",
+		"size": 10382,
+		"sha256": "7657e22b181d6b4afd73edf994e6036cd0f34fdf588450c5420edc9e90a09256"
+	}
+}

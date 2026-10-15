@@ -1,0 +1,17 @@
+{
+	"id": "slightly-transparent-tooltips",
+	"name": "Slightly Transparent Tooltips",
+	"kind": "ui",
+	"creator": "moga",
+	"description": "### Overview:\n\n* Looks clean as fuck ngl.\n\n[Click to see all my other totally sick mods.](https://runeforge.dev/users/Moga/mods?page=0\\&sortBy=download_count)\n\n### Mod Information:\n\n* Author: Moga\n\n* Mod Version: 1.0.0\n\nhttps://discord.gg/gSXbEmPQCA\n\n---\n\n**Created by** [Moga](https://runeforge.dev/users/Moga)\n\n**Original:** https://runeforge.dev/mods/a13cfe1c-ef1f-4410-9d7b-a0aaafbff741\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/slightly-transparent-tooltips/thumb.webp?v=24b7b402",
+	"file": {
+		"version": 1,
+		"asset": "slightly-transparent-tooltips-v1.fantome",
+		"size": 1813,
+		"sha256": "063e1b8053bb54005833f9d676f0d877738e64a9a74b813d09c17e8cab00e138"
+	}
+}

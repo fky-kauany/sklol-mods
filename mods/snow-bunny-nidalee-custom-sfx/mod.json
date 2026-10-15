@@ -1,0 +1,17 @@
+{
+	"id": "snow-bunny-nidalee-custom-sfx",
+	"name": "Snow Bunny Nidalee Custom SFX",
+	"kind": "sounds",
+	"creator": "lolsfxamateur",
+	"description": "Custom SFX for snowbunny nidalee, contains versions for OLD and LIVE VO\r\nhttps://youtu.be/VzwHzH6sOxE\n\n---\n\n**Created by** [LOLSFXAmateur](https://runeforge.dev/users/LOLSFXAmateur)\n\n**Original:** https://runeforge.dev/mods/637549a8-cf57-4cb4-a5db-baacf4a214b1\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/snow-bunny-nidalee-custom-sfx/thumb.webp?v=fc20d2cf",
+	"file": {
+		"version": 1,
+		"asset": "snow-bunny-nidalee-custom-sfx-v1.fantome",
+		"size": 10890566,
+		"sha256": "7bb984bcac4e3e7c66ca821ae9179b6770f6bc80941675232183136e47e03935"
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"id": "soul-fighter-killstreak",
+	"name": "Soul Fighter Killstreak",
+	"kind": "sounds",
+	"creator": "gloomytree",
+	"description": "Replaces Killstreak with Soul Fighter themed ones\r\n\r\n## Delay for next multikill matches sound duration\n\n---\n\n**Created by** [Gloomy Tree](https://runeforge.dev/users/GloomyTree)\n\n**Original:** https://runeforge.dev/mods/9726f4d2-4e9a-4281-918a-e6bd04311293\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/soul-fighter-killstreak/thumb.webp?v=c99cd9da",
+	"file": {
+		"version": 1,
+		"asset": "soul-fighter-killstreak-v1.fantome",
+		"size": 2170874,
+		"sha256": "21c91c0f382eae01f3e9751c2ed6d0c58c122c9f62904695ee3238ca26ef0a4e"
+	}
+}

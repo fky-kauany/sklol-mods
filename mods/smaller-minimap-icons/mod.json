@@ -1,0 +1,17 @@
+{
+	"id": "smaller-minimap-icons",
+	"name": "Smaller Minimap Icons",
+	"kind": "ui",
+	"creator": "moga",
+	"description": "### Shrinks most Minimap Icons and Player Portraits to an appropriate width, increasing visual clarity. Please tell me if you notice any bugs or have any mod ideas.\n\n### List of changes:\n\n#\n\n### Very Slightly Smaller:\n\n- Pings\n- Champion death Skull x Crossbones\n- Nexus\n\n#\n\n### Smaller:\n\n- Player icons. There is still overlap in very close combat, but the minimum distance between players before they're intelligible is far lower than without this mod.\n- Teleport/Recall/Yuumi border/Shen R/Twisted Fate R/Yorick R\n- Suggested JG path icons\n- Inhibitors\n- Kindred marks\n\n#\n\n### Very Smaller:\n\n- Destroyed Inhibitor\n\n#\n\n### Slightly Larger:\n\n- Bard pickups\n- Jungle plants (when available)\n- Tower plates tracker\n\n#\n\n### Removed:\n\n- Shopkeeper icon\n\n###\n\n#\n\n[Click to see all my other totally sick mods.](https://runeforge.dev/users/Moga/mods?page=0&sortBy=download_count) or [join my Discord](https://discord.gg/gSXbEmPQCA)\n\n#\n\n### Todo:\n\n- Add color options, i.e., Red vs. Green, rather than blue.\n- Unattackable tower is smaller (Tier 2 tower is smaller while Tier 1 is alive, etc), attackable towers are the same size, only caveat is the lack of a medium/low-hp-unattackable icon (exists only for full hp), so only full hp tower icons turn smaller when inhib respawns. Niche scenario sorta, mayb better this way.\n\n#\n\n### Mod Information:\n\nhttps://discord.gg/gSXbEmPQCA\n\n---\n\n**Created by** [Moga](https://runeforge.dev/users/Moga)\n\n**Original:** https://runeforge.dev/mods/8420b558-f892-4b7b-828a-54e62cddfd48\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/smaller-minimap-icons/thumb.webp?v=2a6d5478",
+	"file": {
+		"version": 1,
+		"asset": "smaller-minimap-icons-v1.fantome",
+		"size": 25514,
+		"sha256": "707d0245ad3fd1f1fe3b5ff7375c5f66c7074c3f84ed7040120718cebab41435"
+	}
+}

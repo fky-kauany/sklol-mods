@@ -1,0 +1,17 @@
+{
+	"id": "smaller-veigar-doom-bots",
+	"name": "Smaller Veigar Doom Bots",
+	"kind": "other",
+	"creator": "agomsmoga",
+	"description": "### Overview:\n\n* Smaller Veigar.\n* Health Bar appropriately positioned.\n\nPlease report bugs.\n\n#\n\n### Mod Information:\n\nAuthor: Moga\n\nMod Version: 15.17.1.0\n\nhttps://discord.gg/gSXbEmPQCA\n\n---\n\n**Created by** [Moga](https://runeforge.dev/users/agomsMoga)\n\n**Original:** https://runeforge.dev/mods/c9af86c2-4e1a-4953-bab0-9f07114b757f\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/smaller-veigar-doom-bots/thumb.webp?v=fd385bf3",
+	"file": {
+		"version": 1,
+		"asset": "smaller-veigar-doom-bots-v1.fantome",
+		"size": 146043,
+		"sha256": "1604c59d42a1343f97e4a39d9a09cb778e2f1ad2e53a16c72834a12134b122cd"
+	}
+}
