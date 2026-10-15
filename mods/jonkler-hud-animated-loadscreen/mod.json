@@ -1,0 +1,17 @@
+{
+	"id": "jonkler-hud-animated-loadscreen",
+	"name": "Jonkler HUD + Animated Loadscreen",
+	"kind": "ui",
+	"creator": "alexd",
+	"description": "Modified Loadscreen and HUD, if you want them separated contact me. :P\n\n---\n\n**Created by** [AleXD](https://runeforge.dev/users/AleXD)\n\n**Original:** https://runeforge.dev/mods/f648e3dc-e4aa-46fd-bd87-5a6f14668854\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/jonkler-hud-animated-loadscreen/thumb.webp?v=deb7b564",
+	"file": {
+		"version": 1,
+		"asset": "jonkler-hud-animated-loadscreen-v1.fantome",
+		"size": 3580120,
+		"sha256": "613daaec4fa1d95b08f36d9c2a4bb11f1e03c062d98bd3f7da50bcf9f9903798"
+	}
+}

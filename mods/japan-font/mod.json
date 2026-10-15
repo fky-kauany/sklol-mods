@@ -1,0 +1,17 @@
+{
+	"id": "japan-font",
+	"name": "Japan Font",
+	"kind": "fonts",
+	"creator": "atakzlky",
+	"description": "# INFO\n\n***\n\n***\n\n* **Modified Ui: Font**\n* Authors: AtaKzlky\n* Mod Version: 1.0\n\n## ADDITIONAL INFO\n\n***\n\n***\n\nIf you have any questions or request about the mod you can contact me through discord dm or the RuneForge server.\n\nDiscord : atakzlky\n\n---\n\n**Created by** [AtaKzlky](https://runeforge.dev/users/AtaKzlky)\n\n**Original:** https://runeforge.dev/mods/cb1c607e-1d3f-4d95-aa34-8064923c7c2a\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/japan-font/thumb.webp?v=fa9aae37",
+	"file": {
+		"version": 1,
+		"asset": "japan-font-v1.fantome",
+		"size": 16749,
+		"sha256": "6572f5e8cf9b4a51fb1eefcb1086b5df401d9d9f39f6ed1565647ac85af523ce"
+	}
+}

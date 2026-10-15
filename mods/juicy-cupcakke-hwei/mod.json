@@ -1,0 +1,17 @@
+{
+	"id": "juicy-cupcakke-hwei",
+	"name": "Juicy Cupcakke Hwei",
+	"kind": "sounds",
+	"creator": "zint0s",
+	"description": "Cupcakke sounds instead of the basic hwei skill sounds (it only works with the basic skin)\n\n---\n\n**Created by** [Zint0s](https://runeforge.dev/users/Zint0s)\n\n**Original:** https://runeforge.dev/mods/5b97187b-8ec3-4c77-b6ad-10baa4c1a1e0\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/juicy-cupcakke-hwei/thumb.webp?v=d400d1ef",
+	"file": {
+		"version": 1,
+		"asset": "juicy-cupcakke-hwei-v1.fantome",
+		"size": 35060019,
+		"sha256": "ad470fc85d13f1fadf3f4915e278bd518b177ccdc25c7f6953df4ecf727c5499"
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"id": "items-icons-yassified",
+	"name": "items icons yassified",
+	"kind": "icons",
+	"creator": "lumin",
+	"description": "---\n\n**Created by** [Lumin](https://runeforge.dev/users/Lumin)\n\n**Original:** https://runeforge.dev/mods/79ec9a71-674a-4701-a485-9f0395824874\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/items-icons-yassified/thumb.webp?v=34c9290b",
+	"file": {
+		"version": 1,
+		"asset": "items-icons-yassified-v1.fantome",
+		"size": 5998274,
+		"sha256": "cbc8f9eaf513c5402b75bd8f2fd4e1b5bb7b2da0b4473e134d380007820da9d5"
+	}
+}

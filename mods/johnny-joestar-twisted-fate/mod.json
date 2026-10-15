@@ -1,0 +1,17 @@
+{
+	"id": "johnny-joestar-twisted-fate",
+	"name": "Johnny Joestar Twisted Fate",
+	"kind": "sounds",
+	"creator": "zezo",
+	"description": "The skin includes multiple voicelines when walking, dying, doing any of the Ctrl's, Q, W and R.\nAny questions/whatever, just message me on discord: Manito.0\n\nThe voicelines are from the game JJBA Eyes of Heaven. Voice acted by Yūki Kaji.\nMusic from Ctrl + 3 created by **Friedrich Habetler Music** on youtube. Link for the music:\n[JoJo's Bizarre Adventure: Steel Ball Run OST: Main Theme ~ Johnny's Theme | Fan Made](https://www.youtube.com/watch?v=1McPiczNkGg)\n\nThe skin changes voicelines for all skins except for Crime City Nightmare (for now).\nMight update the skin with other voicelines once the anime comes out.\n\n---\n\n**Created by** [ZeZo](https://runeforge.dev/users/ZeZo)\n\n**Original:** https://runeforge.dev/mods/6b1dc2cd-81d4-4db9-9d0e-a6cc17e6d8ab\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/johnny-joestar-twisted-fate/thumb.webp?v=d4ba4633",
+	"file": {
+		"version": 1,
+		"asset": "johnny-joestar-twisted-fate-v1.fantome",
+		"size": 2800265,
+		"sha256": "ff05a004583294bc53c0db229abf3d3f5f9c82ad06c8cf3debd77862028670b1"
+	}
+}

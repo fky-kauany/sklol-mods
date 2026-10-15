@@ -1,0 +1,17 @@
+{
+	"id": "jungle-pets-pokemon-gen-1",
+	"name": "Jungle Pets Pokémon Gen 1",
+	"kind": "other",
+	"creator": "runeforgerecoveryteam",
+	"description": "### Description:\n\n* Skins Modified: Jungle starter item pets\n\n### Mod information:\n\n* Author: Kingshroud\n* Mod Version: 15.10.1.1\n* Recovery: Maru\n\n---\n\n**Created by** [RuneforgeRecoveryTeam](https://runeforge.dev/users/RuneforgeRecoveryTeam)\n\n**Original:** https://runeforge.dev/mods/2fd86eec-0675-4374-aafe-869f2517056a\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/jungle-pets-pokemon-gen-1/thumb.webp?v=8f711761",
+	"file": {
+		"version": 1,
+		"asset": "jungle-pets-pokemon-gen-1-v1.fantome",
+		"size": 3019238,
+		"sha256": "6b8aab4a53a8395e890de5bec062f45e538f82eeaa520e0610501aaebe684626"
+	}
+}

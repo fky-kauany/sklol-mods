@@ -1,0 +1,17 @@
+{
+	"id": "japanese-announcer",
+	"name": "Japanese Announcer",
+	"kind": "other",
+	"creator": "aropatnik",
+	"description": "## Information\n\n**Changes the Summoners Rift, ARAM and Arena announcers to Japanese**\n\n**The version number is the patch it was made for**\n\n**Author: Aropatnik**\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord username: aropatnik\n\nDiscord server: https://discord.gg/nctuYUq3QX\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/7a05d9c4-ccee-4abf-9814-78b98acbe751\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/japanese-announcer/thumb.webp?v=b671ee63",
+	"file": {
+		"version": 1,
+		"asset": "japanese-announcer-v1.fantome",
+		"size": 53805103,
+		"sha256": "5cd18844b7bed6eeaf67c35bed08f10103821a5926a07e10c96eaa5a246921b6"
+	}
+}

@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T09:25:22.242Z",
+	"generatedAt": "2026-10-15T09:31:03.968Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -39,6 +39,14 @@
 			"bio": "Brazil modding",
 			"links": {
 				"instagram": "https://www.instagram.com/emozinhu?igsh=NnQ2czZsdGdmMDZn"
+			}
+		},
+		"alexd": {
+			"name": "AleXD",
+			"avatar": "creators/alexd.jpg?v=cd8250dd",
+			"bio": "Silly creator, I make commissions and suggestions, I am also a helper and part of the recovery team\nIf you wanna donate or commission\nhttps://ko-fi.com/alexd27156",
+			"links": {
+				"youtube": "https://youtu.be/ggCnbinn56g"
 			}
 		},
 		"alexygalaxy": {
@@ -5659,6 +5667,176 @@
 				"asset": "itemiconsold-extended-by-evelisk-v1.fantome",
 				"size": 7871342,
 				"sha256": "d03299927cc6b868ab90c2cc5b87f11190fd54d37db545d164672f550310e949"
+			}
+		},
+		{
+			"id": "items-icons-yassified",
+			"name": "items icons yassified",
+			"kind": "icons",
+			"creator": "lumin",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/items-icons-yassified/thumb.webp?v=34c9290b",
+			"file": {
+				"version": 1,
+				"asset": "items-icons-yassified-v1.fantome",
+				"size": 5998274,
+				"sha256": "cbc8f9eaf513c5402b75bd8f2fd4e1b5bb7b2da0b4473e134d380007820da9d5"
+			}
+		},
+		{
+			"id": "ivantill-scoreboard-hud-alien-stage",
+			"name": "IvanTill Scoreboard HUD - Alien Stage",
+			"kind": "ui",
+			"creator": "awhremi",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/ivantill-scoreboard-hud-alien-stage/thumb.webp?v=77471f1d",
+			"file": {
+				"version": 1,
+				"asset": "ivantill-scoreboard-hud-alien-stage-v1.fantome",
+				"size": 289841,
+				"sha256": "6db3f5bb127c7822da6e595b0367a519ba2ca54c6d8983783de9f38ae0459653"
+			}
+		},
+		{
+			"id": "jade-ghost",
+			"name": "Jade Ghost",
+			"kind": "sounds",
+			"creator": "goro",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/jade-ghost/thumb.webp?v=a7202769",
+			"file": {
+				"version": 1,
+				"asset": "jade-ghost-v1.fantome",
+				"size": 33144325,
+				"sha256": "e5b37432b5cec1aab57d39c36913bd405471b901c03d3dcceeb439ac39ba6b42"
+			}
+		},
+		{
+			"id": "japan-font",
+			"name": "Japan Font",
+			"kind": "fonts",
+			"creator": "atakzlky",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/japan-font/thumb.webp?v=fa9aae37",
+			"file": {
+				"version": 1,
+				"asset": "japan-font-v1.fantome",
+				"size": 16749,
+				"sha256": "6572f5e8cf9b4a51fb1eefcb1086b5df401d9d9f39f6ed1565647ac85af523ce"
+			}
+		},
+		{
+			"id": "japanese-announcer",
+			"name": "Japanese Announcer",
+			"kind": "other",
+			"creator": "aropatnik",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/japanese-announcer/thumb.webp?v=b671ee63",
+			"file": {
+				"version": 1,
+				"asset": "japanese-announcer-v1.fantome",
+				"size": 53805103,
+				"sha256": "5cd18844b7bed6eeaf67c35bed08f10103821a5926a07e10c96eaa5a246921b6"
+			}
+		},
+		{
+			"id": "johnny-joestar-twisted-fate",
+			"name": "Johnny Joestar Twisted Fate",
+			"kind": "sounds",
+			"creator": "zezo",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/johnny-joestar-twisted-fate/thumb.webp?v=d4ba4633",
+			"file": {
+				"version": 1,
+				"asset": "johnny-joestar-twisted-fate-v1.fantome",
+				"size": 2800265,
+				"sha256": "ff05a004583294bc53c0db229abf3d3f5f9c82ad06c8cf3debd77862028670b1"
+			}
+		},
+		{
+			"id": "jonkler-hud-animated-loadscreen",
+			"name": "Jonkler HUD + Animated Loadscreen",
+			"kind": "ui",
+			"creator": "alexd",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/jonkler-hud-animated-loadscreen/thumb.webp?v=deb7b564",
+			"file": {
+				"version": 1,
+				"asset": "jonkler-hud-animated-loadscreen-v1.fantome",
+				"size": 3580120,
+				"sha256": "613daaec4fa1d95b08f36d9c2a4bb11f1e03c062d98bd3f7da50bcf9f9903798"
+			}
+		},
+		{
+			"id": "jp-full-sg-ahri-announcer",
+			"name": "JP FULL SG Ahri Announcer",
+			"kind": "announcer",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/jp-full-sg-ahri-announcer/thumb.webp?v=8077b023",
+			"file": {
+				"version": 1,
+				"asset": "jp-full-sg-ahri-announcer-v1.fantome",
+				"size": 8676193,
+				"sha256": "630bb69291ed2dcff711363628c1b40c012218b12577ac11581975218dfdae4a"
+			}
+		},
+		{
+			"id": "juicy-cupcakke-hwei",
+			"name": "Juicy Cupcakke Hwei",
+			"kind": "sounds",
+			"creator": "zint0s",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/juicy-cupcakke-hwei/thumb.webp?v=d400d1ef",
+			"file": {
+				"version": 1,
+				"asset": "juicy-cupcakke-hwei-v1.fantome",
+				"size": 35060019,
+				"sha256": "ad470fc85d13f1fadf3f4915e278bd518b177ccdc25c7f6953df4ecf727c5499"
+			}
+		},
+		{
+			"id": "jungle-pets-pokemon-gen-1",
+			"name": "Jungle Pets Pokémon Gen 1",
+			"kind": "other",
+			"creator": "runeforgerecoveryteam",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/jungle-pets-pokemon-gen-1/thumb.webp?v=8f711761",
+			"file": {
+				"version": 1,
+				"asset": "jungle-pets-pokemon-gen-1-v1.fantome",
+				"size": 3019238,
+				"sha256": "6b8aab4a53a8395e890de5bec062f45e538f82eeaa520e0610501aaebe684626"
 			}
 		}
 	]

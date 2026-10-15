@@ -1,0 +1,17 @@
+{
+	"id": "ivantill-scoreboard-hud-alien-stage",
+	"name": "IvanTill Scoreboard HUD - Alien Stage",
+	"kind": "ui",
+	"creator": "awhremi",
+	"description": "Credit to @official_caelum for his art for the champ hover !\r\n\r\nCharacters: Ivan and Till from Alien Stage\r\n\r\nVersion: 1.0.0\r\n\r\nIf anything .. send me a message !\r\ndiscord: rremedy\r\n\r\nIDK WHY THERE IS A BLUE BAR GOING DOWN BUT ITS WHERE THE SUMMS GO SO ITS OKAY RIGHT :D\n\n---\n\n**Created by** [remedy](https://runeforge.dev/users/awhremi)\n\n**Original:** https://runeforge.dev/mods/f0afe33e-7976-46b3-918d-b1f66933485f\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/ivantill-scoreboard-hud-alien-stage/thumb.webp?v=77471f1d",
+	"file": {
+		"version": 1,
+		"asset": "ivantill-scoreboard-hud-alien-stage-v1.fantome",
+		"size": 289841,
+		"sha256": "6db3f5bb127c7822da6e595b0367a519ba2ca54c6d8983783de9f38ae0459653"
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"id": "jade-ghost",
+	"name": "Jade Ghost",
+	"kind": "sounds",
+	"creator": "goro",
+	"description": "Changes The Ghost Sound Effect To The Jade Ghost From Sonic Colors Ultimate\n\n---\n\n**Created by** [Goro](https://runeforge.dev/users/Goro)\n\n**Original:** https://runeforge.dev/mods/00563fd5-a5c6-468e-a2f5-a9ef1a8c142a\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/jade-ghost/thumb.webp?v=a7202769",
+	"file": {
+		"version": 1,
+		"asset": "jade-ghost-v1.fantome",
+		"size": 33144325,
+		"sha256": "e5b37432b5cec1aab57d39c36913bd405471b901c03d3dcceeb439ac39ba6b42"
+	}
+}
