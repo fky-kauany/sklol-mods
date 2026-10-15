@@ -1,0 +1,20 @@
+{
+	"id": "winter-rift",
+	"name": "Winter Rift",
+	"kind": "maps",
+	"creator": "disco",
+	"description": "Winter map 2025 made by Riot. \nI've just ported it to normal Summoners rift. \n\nEnjoy!\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/winter-rift\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/winter-rift/thumb.webp?v=4cd4d99d",
+	"file": {
+		"version": 1,
+		"asset": "winter-rift-v1.fantome",
+		"size": 175271136,
+		"sha256": "4ed3b74fd550568604ebfbfed036885b9b7b85e811574d6ecc64185c44377335"
+	},
+	"maps": [
+		11
+	]
+}

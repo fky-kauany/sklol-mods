@@ -1,0 +1,20 @@
+{
+	"id": "weather-effects",
+	"name": "Weather Effects",
+	"kind": "maps",
+	"creator": "frog",
+	"description": "Layers need to be activated for this mod to be able to work\r\n\r\nSnow\r\nPetals \r\nRain\r\nAutumn leaves\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/weather-effects\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/weather-effects/thumb.webp?v=deaccf99",
+	"file": {
+		"version": 1,
+		"asset": "weather-effects-v1.fantome",
+		"size": 5137,
+		"sha256": "6f15eddf7af046a88e6a2308f2030dc6471ef526a91101c32fffc7956099eee8"
+	},
+	"maps": [
+		11
+	]
+}

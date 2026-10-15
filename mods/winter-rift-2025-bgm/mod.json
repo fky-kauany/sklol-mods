@@ -1,0 +1,17 @@
+{
+	"id": "winter-rift-2025-bgm",
+	"name": "Winter Rift 2025 BGM",
+	"kind": "sounds",
+	"creator": "aurecueil",
+	"description": "# 🥤 Best when paired with Winter Rift Map\r\nDownload 2025 Winter rift by [TheKillerey](https://runeforge.dev/users/TheKillerey) [HERE](https://runeforge.dev/mods/2670ebf6-a65b-4d84-b4ba-32b33b71913f)\r\n\r\n# 🎵 Track List\r\n\r\n| Event | Track(s) |\r\n|------|------|\r\n| Early Game | [MILKSHAKE Early Game](https://www.youtube.com/watch?v=qzip_2tvjWg) |\r\n| Mid Game | [MILKSHAKE Mid Game](https://www.youtube.com/watch?v=Xfb-086Iy5g) |\r\n| Late Game | [MILKSHAKE Late Game](https://www.youtube.com/watch?v=xY_TdisUIQg) |\r\n| Victory | [MILKSHAKE Victory](https://www.youtube.com/watch?v=Hv4T9NdhIqE) |\r\n| Defeat | [MILKSHAKE Defeat](https://www.youtube.com/watch?v=XrivhklTMkc) |\r\n\r\n## ☕ Wanna buy me a [Coffee](https://ko-fi.com/aurecueil)? :> \r\n[![My Discord Server ^^](https://raw.githubusercontent.com/Aurecueil/Temp/refs/heads/main/images/banner6_better.png)](https://discord.gg/GETA29vZEK)\r\n## 📦 Misc\r\ndc: `aurecueil`\r\n\r\ni DO take Commisions btw\n\n---\n\n**Created by** [aurecueil](https://www.divineskins.gg/aurecueil)\n\n**Original:** https://www.divineskins.gg/aurecueil/winter-rift-2025-bgm\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/winter-rift-2025-bgm/thumb.webp?v=f43d1280",
+	"file": {
+		"version": 1,
+		"asset": "winter-rift-2025-bgm-v1.modpkg",
+		"size": 13802649,
+		"sha256": "e5a2b25f1a197158047f3a59d580d44b787698417531d468a87c5991a80cb197"
+	}
+}

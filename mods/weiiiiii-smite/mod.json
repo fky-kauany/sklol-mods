@@ -1,0 +1,17 @@
+{
+	"id": "weiiiiii-smite",
+	"name": "Weiiiiii Smite",
+	"kind": "sounds",
+	"creator": "senko",
+	"description": "Replaces smite sound effect with Daitaku Helios Weii\r\n\r\nDiscord: senko2 (Dm me if anything goes wrong with the mod)\n\n---\n\n**Created by** [Senko](https://runeforge.dev/users/Senko)\n\n**Original:** https://runeforge.dev/mods/ebd9c0c3-4e30-4804-bb27-bfa41c91cb8c\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/weiiiiii-smite/thumb.webp?v=f3ff6155",
+	"file": {
+		"version": 1,
+		"asset": "weiiiiii-smite-v1.fantome",
+		"size": 8760550,
+		"sha256": "228e4ef8eb09115da562e42b5384dca058ed6daabe07372dc5ffc8912ac66f4a"
+	}
+}

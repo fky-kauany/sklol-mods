@@ -1,0 +1,17 @@
+{
+	"id": "whatsapp-mel",
+	"name": "WhatsApp Mel",
+	"kind": "other",
+	"creator": "sterak",
+	"description": "New textures, New ability visuals, new sound effects\n\n---\n\n**Created by** [Sterak](https://runeforge.dev/users/Sterak)\n\n**Original:** https://runeforge.dev/mods/fcb3c7d5-0b20-4e30-9611-f900c507ac34\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/whatsapp-mel/thumb.webp?v=2ecf11b1",
+	"file": {
+		"version": 1,
+		"asset": "whatsapp-mel-v1.fantome",
+		"size": 2381134,
+		"sha256": "07f64ecf6f7d2e26943afff54630746a7b1b37610ab36b69cb4faa88024bfffc"
+	}
+}

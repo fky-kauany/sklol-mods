@@ -1,0 +1,17 @@
+{
+	"id": "white-fog-of-war-ugly-edition",
+	"name": "White Fog of war (Ugly edition)",
+	"kind": "other",
+	"creator": "yuumi",
+	"description": "Ohh Im fogging it rn\n\n---\n\n**Created by** [Yuumi](https://runeforge.dev/users/yuumi)\n\n**Original:** https://runeforge.dev/mods/1abcfbc4-dffc-4895-8688-e845ff63023c\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/white-fog-of-war-ugly-edition/thumb.webp?v=5fc80fcc",
+	"file": {
+		"version": 1,
+		"asset": "white-fog-of-war-ugly-edition-v1.fantome",
+		"size": 750817,
+		"sha256": "902dfba3fbadb09b7ae94c7d2872e1b61c540f3c0b8e323b59a381ba063e7ab3"
+	}
+}

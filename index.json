@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T12:37:53.552Z",
+	"generatedAt": "2026-10-15T12:43:44.024Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -817,6 +817,13 @@
 			"avatar": "creators/seiko.jpg?v=af42b5bb",
 			"bio": "making cute mods for leauge",
 			"links": {}
+		},
+		"senko": {
+			"name": "Senko",
+			"avatar": "creators/senko.png?v=7d4b7ccb",
+			"links": {
+				"youtube": "https://youtu.be/0YGqo-KkhKE"
+			}
 		},
 		"severed": {
 			"name": "severed",
@@ -11860,6 +11867,182 @@
 				"asset": "weakaura-wow-hud-v1.fantome",
 				"size": 6857605,
 				"sha256": "cfdb4fa8762f7734f37f3f2c7af0db5d993404b8851df45d3fd1abe4ccb1e702"
+			}
+		},
+		{
+			"id": "weather-effects",
+			"name": "Weather Effects",
+			"kind": "maps",
+			"creator": "frog",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/weather-effects/thumb.webp?v=deaccf99",
+			"file": {
+				"version": 1,
+				"asset": "weather-effects-v1.fantome",
+				"size": 5137,
+				"sha256": "6f15eddf7af046a88e6a2308f2030dc6471ef526a91101c32fffc7956099eee8"
+			},
+			"maps": [
+				11
+			]
+		},
+		{
+			"id": "weiiiiii-smite",
+			"name": "Weiiiiii Smite",
+			"kind": "sounds",
+			"creator": "senko",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/weiiiiii-smite/thumb.webp?v=f3ff6155",
+			"file": {
+				"version": 1,
+				"asset": "weiiiiii-smite-v1.fantome",
+				"size": 8760550,
+				"sha256": "228e4ef8eb09115da562e42b5384dca058ed6daabe07372dc5ffc8912ac66f4a"
+			}
+		},
+		{
+			"id": "whatsapp-mel",
+			"name": "WhatsApp Mel",
+			"kind": "other",
+			"creator": "sterak",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/whatsapp-mel/thumb.webp?v=2ecf11b1",
+			"file": {
+				"version": 1,
+				"asset": "whatsapp-mel-v1.fantome",
+				"size": 2381134,
+				"sha256": "07f64ecf6f7d2e26943afff54630746a7b1b37610ab36b69cb4faa88024bfffc"
+			}
+		},
+		{
+			"id": "white-fog-of-war-ugly-edition",
+			"name": "White Fog of war (Ugly edition)",
+			"kind": "other",
+			"creator": "yuumi",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/white-fog-of-war-ugly-edition/thumb.webp?v=5fc80fcc",
+			"file": {
+				"version": 1,
+				"asset": "white-fog-of-war-ugly-edition-v1.fantome",
+				"size": 750817,
+				"sha256": "902dfba3fbadb09b7ae94c7d2872e1b61c540f3c0b8e323b59a381ba063e7ab3"
+			}
+		},
+		{
+			"id": "windblume-festival-hud",
+			"name": "Windblume Festival HUD",
+			"kind": "ui",
+			"creator": "konari",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/windblume-festival-hud/thumb.webp?v=6257154f",
+			"file": {
+				"version": 1,
+				"asset": "windblume-festival-hud-v1.fantome",
+				"size": 7434490,
+				"sha256": "c7e2ce0ceac6e59198f1837e484954e3eff4894e56cce58a273b18e235ae20d8"
+			}
+		},
+		{
+			"id": "wingdings-font",
+			"name": "Wingdings font",
+			"kind": "fonts",
+			"creator": "aropatnik",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/wingdings-font/thumb.webp?v=67c29d8e",
+			"file": {
+				"version": 1,
+				"asset": "wingdings-font-v1.fantome",
+				"size": 54384,
+				"sha256": "aca485683fdb076f9f0820134b86e2de2132e284cb1211b8a60ed23ffdd578c5"
+			}
+		},
+		{
+			"id": "winter-loading-screens",
+			"name": "Winter Loading Screens",
+			"kind": "other",
+			"creator": "tyre-4770",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/winter-loading-screens/thumb.webp?v=8c86fed0",
+			"file": {
+				"version": 1,
+				"asset": "winter-loading-screens-v1.fantome",
+				"size": 234476,
+				"sha256": "2ea9d40b086409dc4a7d04facb8f736e305b49343fd686298c53d80b66bacef9"
+			}
+		},
+		{
+			"id": "winter-recall",
+			"name": "Winter Recall",
+			"kind": "recall",
+			"creator": "frog",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/winter-recall/thumb.webp?v=69601219",
+			"file": {
+				"version": 1,
+				"asset": "winter-recall-v1.fantome",
+				"size": 1309218,
+				"sha256": "6d12c1ccc324fab3da8c2161a288ff5bc7a36ef1372409fcce86535c5b06362a"
+			}
+		},
+		{
+			"id": "winter-rift",
+			"name": "Winter Rift",
+			"kind": "maps",
+			"creator": "disco",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/winter-rift/thumb.webp?v=4cd4d99d",
+			"file": {
+				"version": 1,
+				"asset": "winter-rift-v1.fantome",
+				"size": 175271136,
+				"sha256": "4ed3b74fd550568604ebfbfed036885b9b7b85e811574d6ecc64185c44377335"
+			},
+			"maps": [
+				11
+			]
+		},
+		{
+			"id": "winter-rift-2025-bgm",
+			"name": "Winter Rift 2025 BGM",
+			"kind": "sounds",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/winter-rift-2025-bgm/thumb.webp?v=f43d1280",
+			"file": {
+				"version": 1,
+				"asset": "winter-rift-2025-bgm-v1.modpkg",
+				"size": 13802649,
+				"sha256": "e5a2b25f1a197158047f3a59d580d44b787698417531d468a87c5991a80cb197"
 			}
 		}
 	]

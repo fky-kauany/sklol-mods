@@ -1,0 +1,17 @@
+{
+	"id": "wingdings-font",
+	"name": "Wingdings font",
+	"kind": "fonts",
+	"creator": "aropatnik",
+	"description": "## Information\n\n**Changes the ingame fonts to Wingdings**\n\n**Author: Aropatnik**\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/fe3c3f8b-4fa3-439c-884f-1cb84cc44dfb\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/wingdings-font/thumb.webp?v=67c29d8e",
+	"file": {
+		"version": 1,
+		"asset": "wingdings-font-v1.fantome",
+		"size": 54384,
+		"sha256": "aca485683fdb076f9f0820134b86e2de2132e284cb1211b8a60ed23ffdd578c5"
+	}
+}

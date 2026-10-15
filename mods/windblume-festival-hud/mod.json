@@ -1,0 +1,17 @@
+{
+	"id": "windblume-festival-hud",
+	"name": "Windblume Festival HUD",
+	"kind": "ui",
+	"creator": "konari",
+	"description": "## Information\r\n\r\n* HUD/UI theme name: Windblume Festival HUD\r\n* Author: Reinforced Soul & The Melancholy Of Slime\r\n\r\n## This HUD modifies:\r\n\r\n* Main HUD (Main bottom menu, masteries, skills, items, enemy info, minimap border)\r\n* Death recap\r\n* Scoreboard, jungle timers, dragon counter\r\n* Special champion HUDs (Aphelios, Gangplank, Kayn, Kindred, Elementalist Lux, Gun Goddess Miss Fortune, Neeko, Ornn)\r\n* Practice tool HUD\r\n* Voicechat, surrender vote\r\n* Emote pop-ups, ping-wheel\r\n* Options window\r\n* Itemshop including particles\r\n\r\n## Credits\r\n\r\n* Made with Yoru's Simple HUD Template\r\n\r\n## Known issues\r\n\r\n* Little hard to look the score board.\r\n* Recommend Items color isn't good.\r\n---\r\n💬 **Join Moonlit Night!**\r\nClick the banner below to join. Report bugs directly, and hang out with other players!\r\n\r\n[![Discord](https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/Banner2.png)](https://discord.gg/EEjd7DHj5r)\r\n---\n\n---\n\n**Created by** [Konari Lab Ch. 白夜こなり](https://runeforge.dev/users/Konari)\n\n**Original:** https://runeforge.dev/mods/de219025-e780-41ee-a811-0d1d9a895632\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/windblume-festival-hud/thumb.webp?v=6257154f",
+	"file": {
+		"version": 1,
+		"asset": "windblume-festival-hud-v1.fantome",
+		"size": 7434490,
+		"sha256": "c7e2ce0ceac6e59198f1837e484954e3eff4894e56cce58a273b18e235ae20d8"
+	}
+}

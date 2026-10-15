@@ -1,0 +1,17 @@
+{
+	"id": "winter-loading-screens",
+	"name": "Winter Loading Screens",
+	"kind": "other",
+	"creator": "tyre-4770",
+	"description": "⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦\r\n\r\nget your loading screen ready for winter !\r\n\r\n⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦\n\n---\n\n**Created by** [Tyre 4770](https://runeforge.dev/users/Tyre_4770)\n\n**Original:** https://runeforge.dev/mods/e30b1241-4e47-48d8-8fa1-95bd6dac34b5\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/winter-loading-screens/thumb.webp?v=8c86fed0",
+	"file": {
+		"version": 1,
+		"asset": "winter-loading-screens-v1.fantome",
+		"size": 234476,
+		"sha256": "2ea9d40b086409dc4a7d04facb8f736e305b49343fd686298c53d80b66bacef9"
+	}
+}
