@@ -1,0 +1,17 @@
+{
+	"id": "milana-petrova-gold",
+	"name": "Milana Petrova gold",
+	"kind": "other",
+	"creator": "lumin",
+	"description": "Milana Petrova gold\n\n---\n\n**Created by** [Lumin](https://runeforge.dev/users/Lumin)\n\n**Original:** https://runeforge.dev/mods/38ca76f7-f8b5-4543-8efb-5a357ea2430b\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/milana-petrova-gold/thumb.webp?v=f8a4460e",
+	"file": {
+		"version": 1,
+		"asset": "milana-petrova-gold-v1.fantome",
+		"size": 1682,
+		"sha256": "190098344f6ead1b7f2bdd25638a027837483b1941b1a106472a0388bd106ed2"
+	}
+}

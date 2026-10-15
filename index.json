@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T09:53:40.303Z",
+	"generatedAt": "2026-10-15T09:59:19.264Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -6622,6 +6622,176 @@
 				"asset": "masque-of-the-black-rose-katarina-prestige-vfx-v1.fantome",
 				"size": 3374574,
 				"sha256": "3383906fca52250bf9c6621e59f7527326818d7da7cecaf0d75a65e491adb72a"
+			}
+		},
+		{
+			"id": "mech-kingdom-darius",
+			"name": "Mech kingdom darius",
+			"kind": "other",
+			"creator": "gabe",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/mech-kingdom-darius/thumb.webp?v=efe78999",
+			"file": {
+				"version": 1,
+				"asset": "mech-kingdom-darius-v1.fantome",
+				"size": 9261147,
+				"sha256": "11cb3b23b7b4ea594881f42aa822fdf9cd013211d6b6cefc8026e96759a7188d"
+			}
+		},
+		{
+			"id": "meme-sfx",
+			"name": "MEME SFX",
+			"kind": "sounds",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/meme-sfx/thumb.webp?v=7ccc9b1d",
+			"file": {
+				"version": 1,
+				"asset": "meme-sfx-v1.fantome",
+				"size": 43925393,
+				"sha256": "2514ba979baf7c62e32ae78906c99a941a609e939aded004b32e2c4041ec4d07"
+			}
+		},
+		{
+			"id": "meow-nidalee",
+			"name": "MEOW Nidalee",
+			"kind": "sounds",
+			"creator": "aropatnik",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/meow-nidalee/thumb.webp?v=959117e2",
+			"file": {
+				"version": 1,
+				"asset": "meow-nidalee-v1.fantome",
+				"size": 18245,
+				"sha256": "66c013560a38f6c0d265514cad1bd36d82f551fa1607d675ca302b085352cc09"
+			}
+		},
+		{
+			"id": "metal-pipe-grasp",
+			"name": "Metal Pipe Grasp",
+			"kind": "sounds",
+			"creator": "pico-senpai",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/metal-pipe-grasp/thumb.webp?v=26b742d2",
+			"file": {
+				"version": 1,
+				"asset": "metal-pipe-grasp-v1.fantome",
+				"size": 7287098,
+				"sha256": "f805d5b33bac3d63d19e8e9f5fe90fad3a0b0bd7849da47b8c2a6aafe8b0cf8e"
+			}
+		},
+		{
+			"id": "metal-pipe-heartsteel",
+			"name": "Metal Pipe Heartsteel",
+			"kind": "sounds",
+			"creator": "pico-senpai",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/metal-pipe-heartsteel/thumb.webp?v=e06de523",
+			"file": {
+				"version": 1,
+				"asset": "metal-pipe-heartsteel-v1.fantome",
+				"size": 13967581,
+				"sha256": "09579e35791fb165fe333c77844d1433475b302713156e496879602b3198ada4"
+			}
+		},
+		{
+			"id": "mgrr-raiden-announcer-recovery",
+			"name": "MGRR Raiden Announcer (Recovery)",
+			"kind": "announcer",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/mgrr-raiden-announcer-recovery/thumb.webp?v=ee9a8617",
+			"file": {
+				"version": 1,
+				"asset": "mgrr-raiden-announcer-recovery-v1.fantome",
+				"size": 7257509,
+				"sha256": "7dd0ab5c4900cd346695f3fd6b06d5754373ef72cf69b0a8e450e42b0924c712"
+			}
+		},
+		{
+			"id": "miku-ward",
+			"name": "Miku Ward",
+			"kind": "other",
+			"creator": "konari",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/miku-ward/thumb.webp?v=4e35dad5",
+			"file": {
+				"version": 1,
+				"asset": "miku-ward-v1.fantome",
+				"size": 7935481,
+				"sha256": "bc64819ea3818b53c882a0ec7061536e1beb1ae8b8fed9f433423527ed27de14"
+			}
+		},
+		{
+			"id": "milana-petrova-gold",
+			"name": "Milana Petrova gold",
+			"kind": "other",
+			"creator": "lumin",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/milana-petrova-gold/thumb.webp?v=f8a4460e",
+			"file": {
+				"version": 1,
+				"asset": "milana-petrova-gold-v1.fantome",
+				"size": 1682,
+				"sha256": "190098344f6ead1b7f2bdd25638a027837483b1941b1a106472a0388bd106ed2"
+			}
+		},
+		{
+			"id": "minecraft-font",
+			"name": "Minecraft Font",
+			"kind": "fonts",
+			"creator": "tor-lol",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/minecraft-font/thumb.webp?v=360d58d6",
+			"file": {
+				"version": 1,
+				"asset": "minecraft-font-v1.fantome",
+				"size": 14892703,
+				"sha256": "5f55228a93387f3b9ff7408cf5ee9e37a477fef200f0cab66acedb757dfc3618"
+			}
+		},
+		{
+			"id": "minecraft-gold-text",
+			"name": "Minecraft Gold Text",
+			"kind": "ui",
+			"creator": "frog",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/minecraft-gold-text/thumb.webp?v=b8bfbf4a",
+			"file": {
+				"version": 1,
+				"asset": "minecraft-gold-text-v1.fantome",
+				"size": 685,
+				"sha256": "d9ce2ee1c6f2f2a3d5655c9a69008a3114a9cd57b9b6e39157d3e4d7eb99f06a"
 			}
 		}
 	]

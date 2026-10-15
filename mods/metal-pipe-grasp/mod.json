@@ -1,0 +1,17 @@
+{
+	"id": "metal-pipe-grasp",
+	"name": "Metal Pipe Grasp",
+	"kind": "sounds",
+	"creator": "pico-senpai",
+	"description": "## **MOD INFORMATION**\n\n* Author: Pico Senpai\n* Mod Version: 1.0.1\n* Modified rune: Grasp of the Undying\n* Modified sound: Grasp's proc\n\n## **DESCRIPTION**\n\n* Grasp of the Undying has been turned into the falling metal pipe of the undying, making a loud falling metal pipe sound everytime the rune is procced.\n\n## **SOCIALS**\n\n![](https://static.wixstatic.com/media/e2a744_abb27c3529754e04ab6ad06fd9c7ab56~mv2.png/v1/fill/w_740,h_416,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e2a744_abb27c3529754e04ab6ad06fd9c7ab56~mv2.png)\n\n###\nAdd me on Discord: pico\\_senpai\n\n### My Youtube channel: [Pico Senpai](https://www.youtube.com/channel/UCAZfp8d8ZLFUurid3w2wElQ)\n\n### Support me on Patreon!: [PicoSenpai](https://www.patreon.com/PicoSenpaiSFW)\n\n---\n\n**Created by** [Pico Senpai](https://runeforge.dev/users/Pico_Senpai)\n\n**Original:** https://runeforge.dev/mods/bae1c6d3-ac8e-4f2d-a65e-7fc3b0f75c2f\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/metal-pipe-grasp/thumb.webp?v=26b742d2",
+	"file": {
+		"version": 1,
+		"asset": "metal-pipe-grasp-v1.fantome",
+		"size": 7287098,
+		"sha256": "f805d5b33bac3d63d19e8e9f5fe90fad3a0b0bd7849da47b8c2a6aafe8b0cf8e"
+	}
+}

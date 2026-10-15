@@ -1,0 +1,17 @@
+{
+	"id": "metal-pipe-heartsteel",
+	"name": "Metal Pipe Heartsteel",
+	"kind": "sounds",
+	"creator": "pico-senpai",
+	"description": "## **MOD INFORMATION**\n\n* Author: Pico Senpai\n* Mod Version: 1.0.0\n* Modified item: Heartsteel\n* Modified sound: Heartsteel proc\n\n## **DESCRIPTION**\n\n* When you proc Heartsteel it now plays a loud metal pipe falling sound to bless your ears\n\n## **SOCIALS**\n\n![](https://static.wixstatic.com/media/e2a744_abb27c3529754e04ab6ad06fd9c7ab56~mv2.png/v1/fill/w_740,h_416,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e2a744_abb27c3529754e04ab6ad06fd9c7ab56~mv2.png)\n\n###\nAdd me on Discord: pico\\_senpai\n\n### My Youtube channel: [Pico Senpai](https://www.youtube.com/channel/UCAZfp8d8ZLFUurid3w2wElQ)\n\n### Support me on Patreon!: [PicoSenpai](https://www.patreon.com/PicoSenpaiSFW)\n\n---\n\n**Created by** [Pico Senpai](https://runeforge.dev/users/Pico_Senpai)\n\n**Original:** https://runeforge.dev/mods/508a5658-fbed-4cb9-b4f5-ae2511eeac57\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/metal-pipe-heartsteel/thumb.webp?v=e06de523",
+	"file": {
+		"version": 1,
+		"asset": "metal-pipe-heartsteel-v1.fantome",
+		"size": 13967581,
+		"sha256": "09579e35791fb165fe333c77844d1433475b302713156e496879602b3198ada4"
+	}
+}

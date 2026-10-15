@@ -1,0 +1,17 @@
+{
+	"id": "mgrr-raiden-announcer-recovery",
+	"name": "MGRR Raiden Announcer (Recovery)",
+	"kind": "announcer",
+	"creator": "aurecueil",
+	"description": "# I only FIXED the mod, original author is [!!Guga!!](https://www.youtube.com/@gugaYTxd)\n## Wanna buy me a [Coffee](https://ko-fi.com/aurecueil)? :>\n\n[![My Discord Server ^^](https://raw.githubusercontent.com/Aurecueil/Temp/refs/heads/main/images/banner6_better.png)](https://discord.gg/GETA29vZEK)\n\n# **Skin Information**\n\n\n\n\nReplaces: UPDATED BG\n\n\n\nAuthor: Aurecuei\n\n\n\nVersion: 1.0.\n\n\n\nMap: Summoners Rift (11\n\n\n\nPatch Made: 15.13\n\n\n\n\n## MISC\n\n[Tierlist of my BGM mods](https://runeforge.dev/users/Aurecueil)\n\n\n\ndc: aurecueil\n\n\n\ni DO take Commisions btw\n\n---\n\n**Created by** [aurecueil](https://runeforge.dev/users/aurecueil)\n\n**Original:** https://runeforge.dev/mods/30f479e3-f531-45e3-a19b-ba9ac97d8bd5\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/mgrr-raiden-announcer-recovery/thumb.webp?v=ee9a8617",
+	"file": {
+		"version": 1,
+		"asset": "mgrr-raiden-announcer-recovery-v1.fantome",
+		"size": 7257509,
+		"sha256": "7dd0ab5c4900cd346695f3fd6b06d5754373ef72cf69b0a8e450e42b0924c712"
+	}
+}

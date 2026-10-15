@@ -1,0 +1,17 @@
+{
+	"id": "mech-kingdom-darius",
+	"name": "Mech kingdom darius",
+	"kind": "other",
+	"creator": "gabe",
+	"description": "Modified champion: Darius\r\n\r\nModified skin: Default\r\n\r\nAuthor: gabe\r\nchromas are being released\r\nThis custom changes the model, effects, particles, hud, and loading splash art. I hope you like the chromas\r\nthis skin was completely made by me gabe\n\n---\n\n**Created by** [Gabe](https://runeforge.dev/users/Gabe)\n\n**Original:** https://runeforge.dev/mods/4b3895e9-c53f-425d-882e-b838df0acf0a\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/mech-kingdom-darius/thumb.webp?v=efe78999",
+	"file": {
+		"version": 1,
+		"asset": "mech-kingdom-darius-v1.fantome",
+		"size": 9261147,
+		"sha256": "11cb3b23b7b4ea594881f42aa822fdf9cd013211d6b6cefc8026e96759a7188d"
+	}
+}

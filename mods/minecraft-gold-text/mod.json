@@ -1,0 +1,17 @@
+{
+	"id": "minecraft-gold-text",
+	"name": "Minecraft Gold Text",
+	"kind": "ui",
+	"creator": "frog",
+	"description": "![High-Res Image](https://i.postimg.cc/wBtX8qyL/Cn-P-14102026-060943.png)\r\n\r\n\r\n^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\r\n\r\nCHOOSE A LAYER IN THE LAUNCHER FOR DIFFERNET LOOKS!\r\n\r\nInspired by Author : Vita\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/minecraft-gold-text\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/minecraft-gold-text/thumb.webp?v=b8bfbf4a",
+	"file": {
+		"version": 1,
+		"asset": "minecraft-gold-text-v1.fantome",
+		"size": 685,
+		"sha256": "d9ce2ee1c6f2f2a3d5655c9a69008a3114a9cd57b9b6e39157d3e4d7eb99f06a"
+	}
+}
