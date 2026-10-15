@@ -1,0 +1,17 @@
+{
+	"id": "gragas-laugh-killstreak-sfx",
+	"name": "Gragas Laugh Killstreak SFX",
+	"kind": "sounds",
+	"creator": "aropatnik",
+	"description": "## Information\n\n**Changes the Killstreak SFX to be Gragas laughing**\n\n**Author: Aropatnik**\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/1827bf64-2bd6-4937-a666-e66b97964090\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/gragas-laugh-killstreak-sfx/thumb.webp?v=28b318b2",
+	"file": {
+		"version": 1,
+		"asset": "gragas-laugh-killstreak-sfx-v1.fantome",
+		"size": 70800,
+		"sha256": "95624d18907b7478397b2e6275e7b3c0f8dad81b1d9d54f26a5c244fed76cca5"
+	}
+}

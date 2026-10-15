@@ -1,0 +1,17 @@
+{
+	"id": "greyscale-champ-icon-pack",
+	"name": "Greyscale Champ Icon Pack",
+	"kind": "ui",
+	"creator": "agomsmoga",
+	"description": "#### Notice: This edits literally every single champion `WAD` in the game, so to avoid long loadtime, read the yellow text.\n\n###### *Before* importing this into CSLoL, delete the WAD for each champ you will not play or do not want from the .fantome\n\n#### Overview:\n\n* Applies a greyscale filter to every single Champion QWERp icon.\n* Does not do anything special for champs that need greyscale icons for buff tracking, so just don't use it if you need that differentiation for your champ. (ex. Katarina)\n\n[Click to see all my other totally sick mods.](https://runeforge.dev/mods?search=moga)\n\n#\n\n* Author: Moga\n\nhttps://discord.gg/gSXbEmPQCA\n\n---\n\n**Created by** [Moga](https://runeforge.dev/users/agomsMoga)\n\n**Original:** https://runeforge.dev/mods/12f581b2-46db-4a44-b687-b3c4b6d77a4b\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/greyscale-champ-icon-pack/thumb.webp?v=711ccdfd",
+	"file": {
+		"version": 1,
+		"asset": "greyscale-champ-icon-pack-v1.fantome",
+		"size": 5045132,
+		"sha256": "aa106fd3da0278933213b9bba9696bfffe93b8c0f677b3b19bd346ca6dd48cde"
+	}
+}

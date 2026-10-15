@@ -1,0 +1,17 @@
+{
+	"id": "gwen-doll-loading-icon",
+	"name": "Gwen Doll Loading Icon",
+	"kind": "ui",
+	"creator": "runeforgerecoveryteam",
+	"description": "## Description:\n\n* The loading screen spinner icon is now a spinning Gwen doll.\n\n## Mod information:\n\n* Author: Roda\n* YouTube: [https://www.youtube.com/@roda1167/featured](https://www.youtube.com/@roda1167/featured)\n* Mod Version: 15.9.1.1\n* Recovery: Moga\n\n---\n\n**Created by** [RuneforgeRecoveryTeam](https://runeforge.dev/users/RuneforgeRecoveryTeam)\n\n**Original:** https://runeforge.dev/mods/b1f70c5c-e4c8-4476-889b-d319fb33987b\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/gwen-doll-loading-icon/thumb.webp?v=4458f68f",
+	"file": {
+		"version": 1,
+		"asset": "gwen-doll-loading-icon-v1.fantome",
+		"size": 16081,
+		"sha256": "40bc84ce0c1588f005e417114f09e41b23ceb6375129e1784c9b17a183df1b05"
+	}
+}

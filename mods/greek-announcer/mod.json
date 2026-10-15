@@ -1,0 +1,17 @@
+{
+	"id": "greek-announcer",
+	"name": "Greek Announcer",
+	"kind": "announcer",
+	"creator": "aropatnik",
+	"description": "## Information\n\n**Changes the Summoners Rift, ARAM and Arena announcers to Greek**\n\n**The version number is the patch it was made for**\n\n**Author: Aropatnik**\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/b423d61b-46af-4a36-bbc7-8730fad3fa40\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/greek-announcer/thumb.webp?v=05f139f9",
+	"file": {
+		"version": 1,
+		"asset": "greek-announcer-v1.fantome",
+		"size": 56344642,
+		"sha256": "3e7fa7a21746dc69b1e4bc908a08b1ce54621c85787d0cceefa2ed20fcf16ee9"
+	}
+}

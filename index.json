@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T09:01:52.946Z",
+	"generatedAt": "2026-10-15T09:07:50.484Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -349,6 +349,10 @@
 			"links": {
 				"youtube": "https://youtu.be/I1DUrbtIxjo?si=5b55C6bq1Iy-wRe-"
 			}
+		},
+		"lilbradly": {
+			"name": "LilBradly#8428",
+			"links": {}
 		},
 		"lolsfxamateur": {
 			"name": "LOLSFXAmateur",
@@ -4908,6 +4912,186 @@
 				"asset": "goth-fonts-v1.fantome",
 				"size": 27446,
 				"sha256": "72c8c6bb6a996b88b98ffdc4183ce4768f788c539248fb4eef2107f7f2245923"
+			}
+		},
+		{
+			"id": "graceful-phoenix-seraphine-chroma-vfx",
+			"name": "Graceful Phoenix Seraphine chroma VFX",
+			"kind": "vfx",
+			"creator": "suriin",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/graceful-phoenix-seraphine-chroma-vfx/thumb.webp?v=449b08dc",
+			"file": {
+				"version": 1,
+				"asset": "graceful-phoenix-seraphine-chroma-vfx-v1.fantome",
+				"size": 24945644,
+				"sha256": "34b2fbaa9f116b203a33ccb659b91b27c8344eedc2602120e17bd950dee76742"
+			}
+		},
+		{
+			"id": "gragas-laugh-killstreak-sfx",
+			"name": "Gragas Laugh Killstreak SFX",
+			"kind": "sounds",
+			"creator": "aropatnik",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/gragas-laugh-killstreak-sfx/thumb.webp?v=28b318b2",
+			"file": {
+				"version": 1,
+				"asset": "gragas-laugh-killstreak-sfx-v1.fantome",
+				"size": 70800,
+				"sha256": "95624d18907b7478397b2e6275e7b3c0f8dad81b1d9d54f26a5c244fed76cca5"
+			}
+		},
+		{
+			"id": "greek-announcer",
+			"name": "Greek Announcer",
+			"kind": "announcer",
+			"creator": "aropatnik",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/greek-announcer/thumb.webp?v=05f139f9",
+			"file": {
+				"version": 1,
+				"asset": "greek-announcer-v1.fantome",
+				"size": 56344642,
+				"sha256": "3e7fa7a21746dc69b1e4bc908a08b1ce54621c85787d0cceefa2ed20fcf16ee9"
+			}
+		},
+		{
+			"id": "greyscale-champ-icon-pack",
+			"name": "Greyscale Champ Icon Pack",
+			"kind": "ui",
+			"creator": "agomsmoga",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/greyscale-champ-icon-pack/thumb.webp?v=711ccdfd",
+			"file": {
+				"version": 1,
+				"asset": "greyscale-champ-icon-pack-v1.fantome",
+				"size": 5045132,
+				"sha256": "aa106fd3da0278933213b9bba9696bfffe93b8c0f677b3b19bd346ca6dd48cde"
+			}
+		},
+		{
+			"id": "grizzle-blue-buff",
+			"name": "Grizzle Blue Buff",
+			"kind": "mobs",
+			"creator": "frog",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/grizzle-blue-buff/thumb.webp?v=e2c16b90",
+			"file": {
+				"version": 1,
+				"asset": "grizzle-blue-buff-v1.fantome",
+				"size": 21090327,
+				"sha256": "c2e551d808d63d8550e941d6442a608add8f7a33ec3c64f7a581a58f0b72187b"
+			},
+			"maps": [
+				11,
+				12,
+				35
+			]
+		},
+		{
+			"id": "grizzle-red-buff",
+			"name": "Grizzle Red Buff",
+			"kind": "mobs",
+			"creator": "frog",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/grizzle-red-buff/thumb.webp?v=9f37d518",
+			"file": {
+				"version": 1,
+				"asset": "grizzle-red-buff-v1.fantome",
+				"size": 17545400,
+				"sha256": "7ddc01690c356a316f8445a3477bf77e7e754f8bce4b5d1fa5c33c90c98da910"
+			},
+			"maps": [
+				11,
+				12,
+				35
+			]
+		},
+		{
+			"id": "gta-v-angel-announcer",
+			"name": "GTA V Angel Announcer",
+			"kind": "announcer",
+			"creator": "lilbradly",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/gta-v-angel-announcer/thumb.webp?v=b35620a5",
+			"file": {
+				"version": 1,
+				"asset": "gta-v-angel-announcer-v1.fantome",
+				"size": 5995627,
+				"sha256": "fe11c9e129833a91400ff8e3b7f1ecd667f7f7315ce3112ad2b7f0a422d9b4aa"
+			}
+		},
+		{
+			"id": "gwen-doll-loading-icon",
+			"name": "Gwen Doll Loading Icon",
+			"kind": "ui",
+			"creator": "runeforgerecoveryteam",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/gwen-doll-loading-icon/thumb.webp?v=4458f68f",
+			"file": {
+				"version": 1,
+				"asset": "gwen-doll-loading-icon-v1.fantome",
+				"size": 16081,
+				"sha256": "40bc84ce0c1588f005e417114f09e41b23ceb6375129e1784c9b17a183df1b05"
+			}
+		},
+		{
+			"id": "gwen-ranni-voice",
+			"name": "Gwen: Ranni Voice",
+			"kind": "sounds",
+			"creator": "wastedwaffle",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/gwen-ranni-voice/thumb.webp?v=f8f394a4",
+			"file": {
+				"version": 1,
+				"asset": "gwen-ranni-voice-v1.fantome",
+				"size": 8549429,
+				"sha256": "620f46b6a1abf3337578ee892e5d2a915996abf2a609cbc340811bd310a1b262"
+			}
+		},
+		{
+			"id": "half-life-summoner-spell-sfx",
+			"name": "Half Life Summoner Spell SFX",
+			"kind": "sounds",
+			"creator": "aropatnik",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/half-life-summoner-spell-sfx/thumb.webp?v=c11cbe04",
+			"file": {
+				"version": 1,
+				"asset": "half-life-summoner-spell-sfx-v1.fantome",
+				"size": 7710880,
+				"sha256": "94340827ab1d6cff26d24cd84b4b54f0e2041454b9562489c4529298131a9d0c"
 			}
 		}
 	]

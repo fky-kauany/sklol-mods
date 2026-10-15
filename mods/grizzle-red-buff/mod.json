@@ -1,0 +1,22 @@
+{
+	"id": "grizzle-red-buff",
+	"name": "Grizzle Red Buff",
+	"kind": "mobs",
+	"creator": "frog",
+	"description": "https://modelviewer.lol/model-viewer?group=tft&id=55001&lang=de-DE\n\nModel from TFT \n\n*Fan-made, not affiliated with Riot Games or any other company.*\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/grizzle-red-buff\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/grizzle-red-buff/thumb.webp?v=9f37d518",
+	"file": {
+		"version": 1,
+		"asset": "grizzle-red-buff-v1.fantome",
+		"size": 17545400,
+		"sha256": "7ddc01690c356a316f8445a3477bf77e7e754f8bce4b5d1fa5c33c90c98da910"
+	},
+	"maps": [
+		11,
+		12,
+		35
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"id": "grizzle-blue-buff",
+	"name": "Grizzle Blue Buff",
+	"kind": "mobs",
+	"creator": "frog",
+	"description": "# Repair, fixed for Brawl. Ty Moga\r\n\r\nReplaces the Blue Buff with Grizzle\r\n\r\nModel taken from League of Legends TFT\r\n\r\nFan-made, not affiliated with Riot Games or any other company.\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/grizzle-blue-buff\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/grizzle-blue-buff/thumb.webp?v=e2c16b90",
+	"file": {
+		"version": 1,
+		"asset": "grizzle-blue-buff-v1.fantome",
+		"size": 21090327,
+		"sha256": "c2e551d808d63d8550e941d6442a608add8f7a33ec3c64f7a581a58f0b72187b"
+	},
+	"maps": [
+		11,
+		12,
+		35
+	]
+}

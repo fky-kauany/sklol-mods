@@ -1,0 +1,17 @@
+{
+	"id": "half-life-summoner-spell-sfx",
+	"name": "Half Life Summoner Spell SFX",
+	"kind": "sounds",
+	"creator": "aropatnik",
+	"description": "## Information\n\n**Modified Sounds: Summoner Spells**\n\n**Author: Aropatnik**\n\n### Custom sounds on:\n\n* Flash\n* Teleport\n* Barrier\n* Smite\n* Ignite\n* Heal\n* Clarity\n* Ghost\n* Exhaust\n* Cleanse\n\n## Credits\n\nSounds from Half Life 1 & 2 by Valve\n\nSounds downloaded from https://www.sounds-resource.com/pc_computer/halflifeexpansions/\n\nand https://www.sounds-resource.com/pc_computer/halflife2episodes/\n\nShoutout M8N for suggestions for Ghost, Exhaust and Cleanse sounds\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord username: aropatnik\n\nDiscord server: https://discord.gg/ue5t7tGW32\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/a6f7444d-1262-4e74-bbd0-52370c6a6d3c\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/half-life-summoner-spell-sfx/thumb.webp?v=c11cbe04",
+	"file": {
+		"version": 1,
+		"asset": "half-life-summoner-spell-sfx-v1.fantome",
+		"size": 7710880,
+		"sha256": "94340827ab1d6cff26d24cd84b4b54f0e2041454b9562489c4529298131a9d0c"
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"id": "gta-v-angel-announcer",
+	"name": "GTA V Angel Announcer",
+	"kind": "announcer",
+	"creator": "lilbradly",
+	"description": "Replaces Announcer with AI Assistant 'Angel' from GTA V\r\n\r\nSeems like no one or very little people, have made a 'gooner' announcer mod. \r\n\r\nI did what i could to make all her voicelines fit somewhere, Took me 2 days to put this together :)\r\n\r\nMake sure you adjust announcer volume in game first if too quiet or loud.\r\nAudio has been amplified before release as it was too quiet i found.\n\n---\n\n**Created by** [LilBradly#8428](https://runeforge.dev/users/LilBradly)\n\n**Original:** https://runeforge.dev/mods/c48f6b66-6a2b-43fc-ba58-2d4048f38f3c\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/gta-v-angel-announcer/thumb.webp?v=b35620a5",
+	"file": {
+		"version": 1,
+		"asset": "gta-v-angel-announcer-v1.fantome",
+		"size": 5995627,
+		"sha256": "fe11c9e129833a91400ff8e3b7f1ecd667f7f7315ce3112ad2b7f0a422d9b4aa"
+	}
+}

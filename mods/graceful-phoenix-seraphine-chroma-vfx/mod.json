@@ -1,0 +1,17 @@
+{
+	"id": "graceful-phoenix-seraphine-chroma-vfx",
+	"name": "Graceful Phoenix Seraphine chroma VFX",
+	"kind": "vfx",
+	"creator": "suriin",
+	"description": "## Important info\r\n\r\nThis will clash with any custom skin that modifies Graceful Phoenix Seraphine. 1 file for all chromas. You must own the skin and chromas.\r\n\r\n## Description\r\n\r\n**Author**: Suriin\r\n\r\n**Skin**: Graceful Phoenix Seraphine\r\n\r\n**Affects**: VFX colors\r\n\r\nAdds matching VFX to almost every chroma, base remains the same. I skipped the emerald chroma (besides ult) because the colors already match it.\r\n\r\n## Contact\r\n\r\nIf you have any issues or questions you can message me on discord: .suriin Just make sure you are on the RuneForge server.\r\n\r\n---\r\n\r\n### You can support me on Ko-Fi [ko-fi.com/suriinruneforge](https://ko-fi.com/suriinruneforge) <3\n\n---\n\n**Created by** [Suriin](https://runeforge.dev/users/Suriin)\n\n**Original:** https://runeforge.dev/mods/4e6d95a5-c44a-4ea1-a7ed-2c224ed9c481\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/graceful-phoenix-seraphine-chroma-vfx/thumb.webp?v=449b08dc",
+	"file": {
+		"version": 1,
+		"asset": "graceful-phoenix-seraphine-chroma-vfx-v1.fantome",
+		"size": 24945644,
+		"sha256": "34b2fbaa9f116b203a33ccb659b91b27c8344eedc2602120e17bd950dee76742"
+	}
+}

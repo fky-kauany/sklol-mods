@@ -1,0 +1,17 @@
+{
+	"id": "gwen-ranni-voice",
+	"name": "Gwen: Ranni Voice",
+	"kind": "sounds",
+	"creator": "wastedwaffle",
+	"description": "---\n\n**Created by** [WastedWaffle](https://runeforge.dev/users/WastedWaffle)\n\n**Original:** https://runeforge.dev/mods/0b2d3110-9b67-4a6b-a355-5f8c507a79f4\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/gwen-ranni-voice/thumb.webp?v=f8f394a4",
+	"file": {
+		"version": 1,
+		"asset": "gwen-ranni-voice-v1.fantome",
+		"size": 8549429,
+		"sha256": "620f46b6a1abf3337578ee892e5d2a915996abf2a609cbc340811bd310a1b262"
+	}
+}
