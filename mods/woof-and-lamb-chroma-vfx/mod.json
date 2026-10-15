@@ -1,0 +1,17 @@
+{
+	"id": "woof-and-lamb-chroma-vfx",
+	"name": "Woof and Lamb Chroma VFX",
+	"kind": "vfx",
+	"creator": "donutvsdonut",
+	"description": "Will not work with any other mods that modify Woof and Lamb Kindred\r\nAuthor: Donut vs Donut\n\n---\n\n**Created by** [DonutvsDonut](https://runeforge.dev/users/DonutvsDonut)\n\n**Original:** https://runeforge.dev/mods/bcdd716f-44fe-4417-80d5-ad4037856b38\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/woof-and-lamb-chroma-vfx/thumb.webp?v=332389f1",
+	"file": {
+		"version": 1,
+		"asset": "woof-and-lamb-chroma-vfx-v1.fantome",
+		"size": 13659281,
+		"sha256": "c5dfde00ba9e1f2b1af6be7c3cb94fecfa984f26925f79af0d37cf1842e2dee6"
+	}
+}

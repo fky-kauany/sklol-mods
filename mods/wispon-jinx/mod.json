@@ -1,0 +1,17 @@
+{
+	"id": "wispon-jinx",
+	"name": "Wispon Jinx",
+	"kind": "sounds",
+	"creator": "goro",
+	"description": "Changes The Following Abilities Sound Effects To The Wisps Announcer From The Sonic Games:\n\n\n\nQ - Fishbones: Black Bomb\n\nQ - PowPow: Red Burst\n\nW: Cyan Laser\n\nE: Pink Spikes\n\nR: Orange Rocket\n\nPassive: Purple Frenzy &#x20;\n\n---\n\n**Created by** [Goro](https://runeforge.dev/users/Goro)\n\n**Original:** https://runeforge.dev/mods/25e25199-b93b-4863-a785-45aad342a0b6\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/wispon-jinx/thumb.webp?v=8c11ca4d",
+	"file": {
+		"version": 1,
+		"asset": "wispon-jinx-v1.fantome",
+		"size": 53971746,
+		"sha256": "a4d9ea3e82d911917de1c7390173755a8e7191fd8afe38df8eafde2d3d938151"
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"id": "winter-wonder-zeri-chroma-vfx",
+	"name": "Winter Wonder Zeri chroma VFX",
+	"kind": "other",
+	"creator": "suriin",
+	"description": "## Important info\r\n\r\nThis will clash with any custom skin that modifies Winter Wonder Zeri. 1 file for all chromas.\r\n\r\n## Description\r\n\r\n**Author**: Suriin\r\n\r\n**Skin**: Winter Wonder Zer\r\n\r\n**Affects**: VFX colors\r\n\r\nRequested. Adds matching VFX to every chroma, base remains the same.\r\n\r\n\r\n## Contact\r\n\r\nIf you have any issues or questions you can message me on discord: .suriin Just make sure you are on the RuneForge server.\r\n\r\n---\r\n\r\n### You can support me on Ko-Fi [ko-fi.com/suriinruneforge](https://ko-fi.com/suriinruneforge) <3\n\n---\n\n**Created by** [Suriin](https://runeforge.dev/users/Suriin)\n\n**Original:** https://runeforge.dev/mods/376ba79a-fba5-4b9c-be62-0e0fd999c9de\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/winter-wonder-zeri-chroma-vfx/thumb.webp?v=b196ec59",
+	"file": {
+		"version": 1,
+		"asset": "winter-wonder-zeri-chroma-vfx-v1.fantome",
+		"size": 23290299,
+		"sha256": "71e6c80987d02327d0b9262588fa7f079203ef1dd91eba7d5174b9476f36e0dc"
+	}
+}

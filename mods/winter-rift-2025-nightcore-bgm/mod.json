@@ -1,0 +1,17 @@
+{
+	"id": "winter-rift-2025-nightcore-bgm",
+	"name": "Winter Rift 2025 Nightcore BGM",
+	"kind": "sounds",
+	"creator": "aurecueil",
+	"description": "## ☕ Wanna buy me a [Coffee](https://ko-fi.com/aurecueil)? :> \n[![My Discord Server ^^](https://raw.githubusercontent.com/Aurecueil/Temp/refs/heads/main/images/banner6_better.png)](https://discord.gg/GETA29vZEK)\n## 📦 Misc\ndc: `aurecueil`\n\ni DO take Commisions btw\n\n---\n\n**Created by** [aurecueil](https://www.divineskins.gg/aurecueil)\n\n**Original:** https://www.divineskins.gg/aurecueil/winter-rift-2025-nightcore-bgm\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/winter-rift-2025-nightcore-bgm/thumb.webp?v=9954402b",
+	"file": {
+		"version": 1,
+		"asset": "winter-rift-2025-nightcore-bgm-v1.modpkg",
+		"size": 12318010,
+		"sha256": "ecef75cc1556765578e5848794e845cc8330a6127c00969486f45ae69ec9b97a"
+	}
+}

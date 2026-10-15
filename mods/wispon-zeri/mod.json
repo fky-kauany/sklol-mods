@@ -1,0 +1,17 @@
+{
+	"id": "wispon-zeri",
+	"name": "Wispon Zeri",
+	"kind": "sounds",
+	"creator": "goro",
+	"description": "Changes The Following Abilities To The Wisps Announcer From The Sonic Games:\n\n\n\nBasic Attack (Empowered): Yellow Lighting\n\nW: Cyan Laser\n\nE: Green Hover\n\nR. Purple Frenzy\n\n---\n\n**Created by** [Goro](https://runeforge.dev/users/Goro)\n\n**Original:** https://runeforge.dev/mods/c30a4839-630b-47bc-a120-ab47fead5177\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/wispon-zeri/thumb.webp?v=75784163",
+	"file": {
+		"version": 1,
+		"asset": "wispon-zeri-v1.fantome",
+		"size": 23952141,
+		"sha256": "641e9ba033c6410b3df7383b957492e25ebd5bfdbbd2bd56f0f2c3fa883546a8"
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"id": "winter-rift-bgm-2016-2017",
+	"name": "Winter Rift BGM 2016-2017",
+	"kind": "sounds",
+	"creator": "zamius",
+	"description": "**Modified Sounds:** Background music \r\n\r\n**Author:** Zamius\r\n\r\n**Description:** Changes Summoner’s Rift Classic theme background music to Winter Rift’s music from the 2016-2017 season.\r\n##\r\n**COMBO RECOMMENDATIONS**\r\n\r\nYou can also alternatively use the Winter Rift 2023 map that will have the same BGM included as well.\r\n##\r\n\r\n**NOTICE**\r\n\r\nYou need to select the Classic theme from the game's sound settings for this mod to work!\r\n>*A different kind of Christmas song!? FINALLY!*\n\n---\n\n**Created by** [Zamius](https://runeforge.dev/users/Zamius)\n\n**Original:** https://runeforge.dev/mods/c6380c61-4732-4681-906e-2cf94fa72123\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/winter-rift-bgm-2016-2017/thumb.webp?v=5ea80715",
+	"file": {
+		"version": 1,
+		"asset": "winter-rift-bgm-2016-2017-v1.fantome",
+		"size": 10667359,
+		"sha256": "9afd64d7213ff56899e18b791ea005cf63b9ded46028a069afb4a6c8a5b36108"
+	}
+}

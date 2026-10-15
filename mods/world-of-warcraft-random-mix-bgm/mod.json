@@ -1,0 +1,17 @@
+{
+	"id": "world-of-warcraft-random-mix-bgm",
+	"name": "World of Warcraft Random MIX BGM",
+	"kind": "sounds",
+	"creator": "aurecueil",
+	"description": "# 🎵 Track List\n\n| Event | Track |\n|------|------|\n| **Game Start (Paladin)** | [A Call to Arms](https://www.youtube.com/watch?v=_LUpzJbznHE) + [Argent Tournament](https://www.youtube.com/watch?v=7FfXw44KtOw) |\n| **Early Game (Paladin)** | [Howling Fjord (Day)](https://www.youtube.com/watch?v=TiEM9umEKKM) + [Howling Fjord (Night)](https://www.youtube.com/watch?v=VWq8i_Z1L2U) + [Grizzly Hills (Day)](https://www.youtube.com/watch?v=KD5etU_225Y) |\n| **Game Start (Mage)** | [Dalaran Jaina](https://www.youtube.com/watch?v=FRIhCfYuX4A) |\n| **Early Game (Mage)** | [Enchanted Forest](https://www.youtube.com/watch?v=z2Ky6OyjwbQ) |\n| **Mid Game** | [The Storm Peaks](https://www.youtube.com/watch?v=38TA-X0dXr4) + [Ulduar: Halls of Stone](https://www.youtube.com/watch?v=SXvbR8Le65I) |\n| **Late Game** | [Arthas, My Son](https://www.youtube.com/watch?v=l31CZ32K9Uw) |\n| **Baron Alive** | [Icecrown Citadel (The Frozen Throne)](https://www.youtube.com/watch?v=4Pcq_WQWuC8) |\n| **River** | [Borean Tundra](https://www.youtube.com/watch?v=tpgIulAtuJo) + [Coldarra](https://www.youtube.com/watch?v=oAisD5kiYzo) |\n| **River – Grubs** | [Azjol-Nerub](https://www.youtube.com/watch?v=TzF6sVOM8Ag) + [Ahn'kahet](https://www.youtube.com/watch?v=aj8xOJrIC78) |\n| **River – Herald** | [Ulduar: Flame Leviathan](https://www.youtube.com/watch?v=i-BiXu74lq8) |\n| **River – Baron** | [Invincible](https://www.youtube.com/watch?v=iGYYUXqWNHc) + [Crimson Hall](https://www.youtube.com/watch?v=JvjJR5gNENs) |\n| **Void-spawn Combat** | [Yogg-Saron Theme](https://www.youtube.com/watch?v=IxeGgtbRZYA) |\n| **Victory** | [Wrath of the Lich King Main Title (Finale)](https://www.youtube.com/watch?v=z77jWTeIcnk) |\n| **Defeat** | [Lament of the Highborne](https://www.youtube.com/watch?v=3fPguDOOWpo) |\n\n## ☕ Wanna buy me a [Coffee](https://ko-fi.com/aurecueil)? :> \n[![My Discord Server ^^](https://raw.githubusercontent.com/Aurecueil/Temp/refs/heads/main/images/banner6_better.png)](https://discord.gg/GETA29vZEK)\n\n## 📦 Misc\n\n**Discord:** `aurecueil`\n\n**Commisioned** by: `masai.3801`\n\ni **DO** take **commissions** :p\n\n---\n\n**Created by** [aurecueil](https://www.divineskins.gg/aurecueil)\n\n**Original:** https://www.divineskins.gg/aurecueil/world-of-warcraft-random-mix-bgm\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/world-of-warcraft-random-mix-bgm/thumb.webp?v=49f3f2db",
+	"file": {
+		"version": 1,
+		"asset": "world-of-warcraft-random-mix-bgm-v1.modpkg",
+		"size": 135250695,
+		"sha256": "62ae18c5739dd18c3829144a72b02dfb7504a949845ef3d26c64be0171f97fd1"
+	}
+}

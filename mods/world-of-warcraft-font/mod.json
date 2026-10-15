@@ -1,0 +1,17 @@
+{
+	"id": "world-of-warcraft-font",
+	"name": "World of Warcraft Font",
+	"kind": "fonts",
+	"creator": "agomsmoga",
+	"description": "### Overview:\n\n* Replaces ALL fonts with the WoW font, so not just the fonts that use Latin scripts. This includes Vietnamese, Russian, Japanese, and other language fonts alongside their respective bolded variants if applicable.\n* The font files used may not be compatible with certain game languages that use various Unicode characters; these will appear as blocked out unintelligible characters.\n\n[![](https://i.postimg.cc/B6ktRr5K/500.webp)](https://discord.gg/gSXbEmPQCA)\n\n---\n\n**Created by** [Moga](https://runeforge.dev/users/agomsMoga)\n\n**Original:** https://runeforge.dev/mods/cff467f2-a6d2-4c03-8077-d580212bd31f\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/world-of-warcraft-font/thumb.webp?v=c53d25ed",
+	"file": {
+		"version": 1,
+		"asset": "world-of-warcraft-font-v1.fantome",
+		"size": 62210,
+		"sha256": "5d3c307845f4db4e49f2854817c4909ef205838eb434263379d339d5d1239622"
+	}
+}

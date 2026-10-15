@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T12:43:44.024Z",
+	"generatedAt": "2026-10-15T12:49:58.444Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -12043,6 +12043,179 @@
 				"asset": "winter-rift-2025-bgm-v1.modpkg",
 				"size": 13802649,
 				"sha256": "e5a2b25f1a197158047f3a59d580d44b787698417531d468a87c5991a80cb197"
+			}
+		},
+		{
+			"id": "winter-rift-2025-nightcore-bgm",
+			"name": "Winter Rift 2025 Nightcore BGM",
+			"kind": "sounds",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/winter-rift-2025-nightcore-bgm/thumb.webp?v=9954402b",
+			"file": {
+				"version": 1,
+				"asset": "winter-rift-2025-nightcore-bgm-v1.modpkg",
+				"size": 12318010,
+				"sha256": "ecef75cc1556765578e5848794e845cc8330a6127c00969486f45ae69ec9b97a"
+			}
+		},
+		{
+			"id": "winter-rift-2025-season-25-version",
+			"name": "Winter Rift 2025 (Season 25 Version)",
+			"kind": "maps",
+			"creator": "thekillerey",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/winter-rift-2025-season-25-version/thumb.webp?v=6d3a9d82",
+			"file": {
+				"version": 1,
+				"asset": "winter-rift-2025-season-25-version-v1.fantome",
+				"size": 157466423,
+				"sha256": "de112f09c9df58e71e640fec863c8a4d452776b251dc8340279168f060fe6d98"
+			},
+			"maps": [
+				11
+			]
+		},
+		{
+			"id": "winter-rift-bgm-2016-2017",
+			"name": "Winter Rift BGM 2016-2017",
+			"kind": "sounds",
+			"creator": "zamius",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/winter-rift-bgm-2016-2017/thumb.webp?v=5ea80715",
+			"file": {
+				"version": 1,
+				"asset": "winter-rift-bgm-2016-2017-v1.fantome",
+				"size": 10667359,
+				"sha256": "9afd64d7213ff56899e18b791ea005cf63b9ded46028a069afb4a6c8a5b36108"
+			}
+		},
+		{
+			"id": "winter-wonder-zeri-chroma-vfx",
+			"name": "Winter Wonder Zeri chroma VFX",
+			"kind": "other",
+			"creator": "suriin",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/winter-wonder-zeri-chroma-vfx/thumb.webp?v=b196ec59",
+			"file": {
+				"version": 1,
+				"asset": "winter-wonder-zeri-chroma-vfx-v1.fantome",
+				"size": 23290299,
+				"sha256": "71e6c80987d02327d0b9262588fa7f079203ef1dd91eba7d5174b9476f36e0dc"
+			}
+		},
+		{
+			"id": "wispon-jinx",
+			"name": "Wispon Jinx",
+			"kind": "sounds",
+			"creator": "goro",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/wispon-jinx/thumb.webp?v=8c11ca4d",
+			"file": {
+				"version": 1,
+				"asset": "wispon-jinx-v1.fantome",
+				"size": 53971746,
+				"sha256": "a4d9ea3e82d911917de1c7390173755a8e7191fd8afe38df8eafde2d3d938151"
+			}
+		},
+		{
+			"id": "wispon-zeri",
+			"name": "Wispon Zeri",
+			"kind": "sounds",
+			"creator": "goro",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/wispon-zeri/thumb.webp?v=75784163",
+			"file": {
+				"version": 1,
+				"asset": "wispon-zeri-v1.fantome",
+				"size": 23952141,
+				"sha256": "641e9ba033c6410b3df7383b957492e25ebd5bfdbbd2bd56f0f2c3fa883546a8"
+			}
+		},
+		{
+			"id": "woof-and-lamb-chroma-vfx",
+			"name": "Woof and Lamb Chroma VFX",
+			"kind": "vfx",
+			"creator": "donutvsdonut",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/woof-and-lamb-chroma-vfx/thumb.webp?v=332389f1",
+			"file": {
+				"version": 1,
+				"asset": "woof-and-lamb-chroma-vfx-v1.fantome",
+				"size": 13659281,
+				"sha256": "c5dfde00ba9e1f2b1af6be7c3cb94fecfa984f26925f79af0d37cf1842e2dee6"
+			}
+		},
+		{
+			"id": "world-of-warcraft-font",
+			"name": "World of Warcraft Font",
+			"kind": "fonts",
+			"creator": "agomsmoga",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/world-of-warcraft-font/thumb.webp?v=c53d25ed",
+			"file": {
+				"version": 1,
+				"asset": "world-of-warcraft-font-v1.fantome",
+				"size": 62210,
+				"sha256": "5d3c307845f4db4e49f2854817c4909ef205838eb434263379d339d5d1239622"
+			}
+		},
+		{
+			"id": "world-of-warcraft-random-mix-bgm",
+			"name": "World of Warcraft Random MIX BGM",
+			"kind": "sounds",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/world-of-warcraft-random-mix-bgm/thumb.webp?v=49f3f2db",
+			"file": {
+				"version": 1,
+				"asset": "world-of-warcraft-random-mix-bgm-v1.modpkg",
+				"size": 135250695,
+				"sha256": "62ae18c5739dd18c3829144a72b02dfb7504a949845ef3d26c64be0171f97fd1"
+			}
+		},
+		{
+			"id": "wow-font",
+			"name": "WoW Font",
+			"kind": "fonts",
+			"creator": "atakzlky",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/wow-font/thumb.webp?v=032b1470",
+			"file": {
+				"version": 1,
+				"asset": "wow-font-v1.fantome",
+				"size": 36748,
+				"sha256": "c45addaacbb612aa1b9a17e8de527d2840a73d2678edd10543e49bd1cc4baefa"
 			}
 		}
 	]
