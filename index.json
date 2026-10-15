@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T07:38:51.027Z",
+	"generatedAt": "2026-10-15T07:41:39.342Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -2093,6 +2093,181 @@
 				12,
 				35
 			]
+		},
+		{
+			"id": "challenger-nidalee-custom-sfx",
+			"name": "Challenger Nidalee Custom SFX",
+			"kind": "sounds",
+			"creator": "lolsfxamateur",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/challenger-nidalee-custom-sfx/thumb.webp?v=864534a7",
+			"file": {
+				"version": 1,
+				"asset": "challenger-nidalee-custom-sfx-v1.fantome",
+				"size": 11360714,
+				"sha256": "f89018b1cd16ee05c2802be6d2825a5b32dee39c79697396847927d0d480d18b"
+			}
+		},
+		{
+			"id": "challenger-recall",
+			"name": "Challenger Recall",
+			"kind": "recall",
+			"creator": "frog",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/challenger-recall/thumb.webp?v=e076d008",
+			"file": {
+				"version": 1,
+				"asset": "challenger-recall-v1.fantome",
+				"size": 1151868,
+				"sha256": "b5900a9b68c327e8187d9d67462b40270776146c848445ef4a20a46f42d0451e"
+			}
+		},
+		{
+			"id": "character-inking-jungle",
+			"name": "Character Inking (Jungle)",
+			"kind": "other",
+			"creator": "agomsmoga",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/character-inking-jungle/thumb.webp?v=d91082d6",
+			"file": {
+				"version": 1,
+				"asset": "character-inking-jungle-v1.fantome",
+				"size": 271531,
+				"sha256": "f05b5ced86f6a558a42907a6067c8ddc4052640b0ff4421793a134dbcf28ef6b"
+			}
+		},
+		{
+			"id": "chibi-gwen-dummy",
+			"name": "Chibi Gwen Dummy",
+			"kind": "other",
+			"creator": "konari",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/chibi-gwen-dummy/thumb.webp?v=f2c6eb59",
+			"file": {
+				"version": 1,
+				"asset": "chibi-gwen-dummy-v1.fantome",
+				"size": 4715428,
+				"sha256": "b4fde29745d5227d7d75d693e04275e834dc6c992aafe103bdb50c1129fd2880"
+			}
+		},
+		{
+			"id": "chibi-suzuka-gozen-ward",
+			"name": "Chibi Suzuka Gozen Ward",
+			"kind": "other",
+			"creator": "konari",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/chibi-suzuka-gozen-ward/thumb.webp?v=cad464f0",
+			"file": {
+				"version": 1,
+				"asset": "chibi-suzuka-gozen-ward-v1.fantome",
+				"size": 876352,
+				"sha256": "47205948aeda8722eab1688e31a8d42409bdedff21afe978491f87594f04e71b"
+			}
+		},
+		{
+			"id": "chibi-wards-collection",
+			"name": "Chibi Wards Collection",
+			"kind": "other",
+			"creator": "aropatnik",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/chibi-wards-collection/thumb.webp?v=85536633",
+			"file": {
+				"version": 1,
+				"asset": "chibi-wards-collection-v1.fantome",
+				"size": 17248731,
+				"sha256": "f06999540486475db9b0e12a6730f3fc41c62fa2c94c8f5b4065d43fb53aeffe"
+			}
+		},
+		{
+			"id": "chihuahua-wolfs",
+			"name": "Chihuahua Wolfs",
+			"kind": "mobs",
+			"creator": "frog",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/chihuahua-wolfs/thumb.webp?v=229903f9",
+			"file": {
+				"version": 1,
+				"asset": "chihuahua-wolfs-v1.fantome",
+				"size": 7515029,
+				"sha256": "1db9c65016fad46859482b4a9241254f17365cf78aba542b2e74b23fc1dec6f6"
+			},
+			"maps": [
+				11,
+				12,
+				35
+			]
+		},
+		{
+			"id": "china-exclusive-chroma-splasharts",
+			"name": "China Exclusive Chroma Splasharts",
+			"kind": "ui",
+			"creator": "agomsmoga",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/china-exclusive-chroma-splasharts/thumb.webp?v=9e71e4f0",
+			"file": {
+				"version": 1,
+				"asset": "china-exclusive-chroma-splasharts-v1.fantome",
+				"size": 72610914,
+				"sha256": "ba0bfe10c33bca90a3d5ee066fffc762eef4724a1c32ef9e809aa409767ca223"
+			}
+		},
+		{
+			"id": "chinese-announcer",
+			"name": "Chinese Announcer",
+			"kind": "other",
+			"creator": "aropatnik",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/chinese-announcer/thumb.webp?v=68fee972",
+			"file": {
+				"version": 1,
+				"asset": "chinese-announcer-v1.fantome",
+				"size": 52390105,
+				"sha256": "585bdf7df509661efc8920efadcdb0810ea9921ac82aeec024f7c70730b1b36c"
+			}
+		},
+		{
+			"id": "chinese-font",
+			"name": "Chinese Font",
+			"kind": "fonts",
+			"creator": "agomsmoga",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/chinese-font/thumb.webp?v=45ce51d0",
+			"file": {
+				"version": 1,
+				"asset": "chinese-font-v1.fantome",
+				"size": 8333474,
+				"sha256": "76561ae92a055e253df4f1853bcfcc7bdf69190f7d94f521dd1dff9751c73c5e"
+			}
 		}
 	]
 }

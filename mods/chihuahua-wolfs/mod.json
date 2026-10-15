@@ -1,0 +1,22 @@
+{
+	"id": "chihuahua-wolfs",
+	"name": "Chihuahua Wolfs",
+	"kind": "mobs",
+	"creator": "frog",
+	"description": "# Repair, fixed for Brawl. Ty Moga\n\nhttps://modelviewer.lol/model-viewer?group=tft&id=131001\nReplaces Wolfs with Chihuahuas from TFT (Blepup)\n*Fan-made, not affiliated with Riot Games or any other company.*\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/chihuahua-wolfs\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/chihuahua-wolfs/thumb.webp?v=229903f9",
+	"file": {
+		"version": 1,
+		"asset": "chihuahua-wolfs-v1.fantome",
+		"size": 7515029,
+		"sha256": "1db9c65016fad46859482b4a9241254f17365cf78aba542b2e74b23fc1dec6f6"
+	},
+	"maps": [
+		11,
+		12,
+		35
+	]
+}

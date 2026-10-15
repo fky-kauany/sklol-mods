@@ -1,0 +1,17 @@
+{
+	"id": "china-exclusive-chroma-splasharts",
+	"name": "China Exclusive Chroma Splasharts",
+	"kind": "ui",
+	"creator": "agomsmoga",
+	"description": "#### Please report bugs!\n\n#### Overview:\n* There are (currently) 435 Splash Arts and HUD Icons included.\n* These are specific to Chroma versions of skins, available natively only on the China WeGame client. This mod allows you to see them on any server.\n\n###### Features additional splash arts and HUD icons for the following champions (102):\n\nAatrox, Ahri, Akali, Alistar, Annie, Aphelios, Ashe, Aurora, Bard, Blitzcrank, Braum, Caitlyn, Camille, Cassiopeia, Cho'Gath, Corki, Darius, Diana, Ekko, Elise, Evelynn, Ezreal, Fiora, Gangplank, Garen, Gragas, Graves, Gwen, Hwei, Irelia, Janna, Jarvan IV, Jax, Jayce, Jhin, Jinx, Kai'Sa, Kai'Sa, Kalista, Karma, Katarina, Kayle, Kayn, Kha'Zix, LeBlanc, Lee Sin, Leona, Lillia, Lucian, Lulu, Lux, Malphite, Master Yi, Miss Fortune, Morgana, Nami, Neeko, Nidalee, Orianna, Ornn, Poppy, Pyke, Rakan, Rammus, Renekton, Rengar, Riven, Rumble, Ryze, Sejuani, Senna, Seraphine, Sett, Shaco, Shen, Shyvana, Sivir, Sona, Soraka, Swain, Sylas, Syndra, Talon, Thresh, Tristana, Varus, Vayne, Veigar, Vi, Viego, Warwick, Wukong, Xayah, Xin Zhao, Yasuo, Yone, Yunara, Yuumi, Zed, Zeri, Zoe, Zyra.\n\n#\n\n#### Credits:\n\nContributors: [Aquarios](https://discord.com/users/295521075217825794), [1gem1rachel](https://runeforge.dev/users/1gem1), [Ruvel](https://runeforge.dev/users/ruvel), [Moga](https://runeforge.dev/users/Moga), [Sgzshoko](https://discord.com/users/1410418335421825187), [Wiko](https://divineskins.gg/Wiko)\n\nBug Reports: [*discord.gg/gSXbEmPQCA*](https://discord.gg/gSXbEmPQCA)\n\n---\n\n**Created by** [Moga](https://runeforge.dev/users/agomsMoga)\n\n**Original:** https://runeforge.dev/mods/14b96746-ece6-4259-8ef3-02b3fde87c12\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/china-exclusive-chroma-splasharts/thumb.webp?v=9e71e4f0",
+	"file": {
+		"version": 1,
+		"asset": "china-exclusive-chroma-splasharts-v1.fantome",
+		"size": 72610914,
+		"sha256": "ba0bfe10c33bca90a3d5ee066fffc762eef4724a1c32ef9e809aa409767ca223"
+	}
+}

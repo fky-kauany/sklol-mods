@@ -1,0 +1,17 @@
+{
+	"id": "challenger-nidalee-custom-sfx",
+	"name": "Challenger Nidalee Custom SFX",
+	"kind": "sounds",
+	"creator": "lolsfxamateur",
+	"description": "Custom SFX for Challenger Nidalee. Contains versions for OLD and Live VO\r\nhttps://youtu.be/FFvVxlvTFHk\n\n---\n\n**Created by** [LOLSFXAmateur](https://runeforge.dev/users/LOLSFXAmateur)\n\n**Original:** https://runeforge.dev/mods/5474569c-9eaa-4012-9b0b-2a972a2cd5e9\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/challenger-nidalee-custom-sfx/thumb.webp?v=864534a7",
+	"file": {
+		"version": 1,
+		"asset": "challenger-nidalee-custom-sfx-v1.fantome",
+		"size": 11360714,
+		"sha256": "f89018b1cd16ee05c2802be6d2825a5b32dee39c79697396847927d0d480d18b"
+	}
+}

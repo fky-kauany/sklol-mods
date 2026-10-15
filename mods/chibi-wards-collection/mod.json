@@ -1,0 +1,17 @@
+{
+	"id": "chibi-wards-collection",
+	"name": "Chibi Wards Collection",
+	"kind": "other",
+	"creator": "aropatnik",
+	"description": "# Pick the default ward skin in champ select!\n\n**A combination of the following mods for easy use at the same time**\n\nBoogying Chibi Ezreal Wards\n\n[https://runeforge.dev/mods/d5576902-2d00-47ee-8e79-e815c03c779b](https://runeforge.dev/mods/d5576902-2d00-47ee-8e79-e815c03c779b)\n\nSpinning Chibi Katarina Wards\n\n[https://runeforge.dev/mods/84d130da-ef67-4dfb-8de2-402e7c75edb4](https://runeforge.dev/mods/84d130da-ef67-4dfb-8de2-402e7c75edb4)\n\nDancing Chibi Gwen Wards\n\n[https://runeforge.dev/mods/2b0efec9-097f-40b0-bdaf-a97c8e348d8a](https://runeforge.dev/mods/2b0efec9-097f-40b0-bdaf-a97c8e348d8a)\n\n## Information\n\n**Modified La Creatura: Wards**\n\n**Modified skin: Default**\n\n**Author: Aropatnik**\n\n**Features:**\n\n* **Yellow trinket ward Ezreal**\n* **Support item ward Ezreal**\n* **Control Ward Katarina**\n* **Blue trinket ward Gwen**\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/10c9ceb3-2f6e-4c31-a548-9f27ee8c49ff\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/chibi-wards-collection/thumb.webp?v=85536633",
+	"file": {
+		"version": 1,
+		"asset": "chibi-wards-collection-v1.fantome",
+		"size": 17248731,
+		"sha256": "f06999540486475db9b0e12a6730f3fc41c62fa2c94c8f5b4065d43fb53aeffe"
+	}
+}
