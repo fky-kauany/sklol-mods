@@ -1,0 +1,17 @@
+{
+	"id": "you-are-a-pirate-gp-ult",
+	"name": "You Are a Pirate | GP Ult",
+	"kind": "sounds",
+	"creator": "gloomytree",
+	"description": "## Gangplank Ult sound replaced by \"You are a pirate\" for the duration\r\n\r\nAvast ye scallywags! This be a grand overhaul for Cap’n Gangplank’s cannon barrage! When ye rain down fire upon the landlubbers, the echoes o’ the sea sing the jaunty tune o’ “Ye Be a Pirate!” straight from the heart o’ the seven seas.\r\nLet the enemy tremble as yer cannons boom to the rhythm o’ rum, plunder, and glory! Raise the black flag, unleash yer inner buccaneer, and turn Summoner’s Rift into yer own cursed ocean!\n\n---\n\n**Created by** [Gloomy Tree](https://runeforge.dev/users/GloomyTree)\n\n**Original:** https://runeforge.dev/mods/db73b504-e246-4476-95e8-8312dba96eab\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/you-are-a-pirate-gp-ult/thumb.webp?v=daf97efb",
+	"file": {
+		"version": 1,
+		"asset": "you-are-a-pirate-gp-ult-v1.fantome",
+		"size": 1849345,
+		"sha256": "11c56cb49ab1f90121042609ff44c100511263c61879bdac4c8c26bf6dfb43de"
+	}
+}

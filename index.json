@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T12:49:58.444Z",
+	"generatedAt": "2026-10-15T12:55:36.965Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -12216,6 +12216,176 @@
 				"asset": "wow-font-v1.fantome",
 				"size": 36748,
 				"sha256": "c45addaacbb612aa1b9a17e8de527d2840a73d2678edd10543e49bd1cc4baefa"
+			}
+		},
+		{
+			"id": "yakuza-bgm",
+			"name": "Yakuza BGM",
+			"kind": "sounds",
+			"creator": "zamius",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/yakuza-bgm/thumb.webp?v=2c42925c",
+			"file": {
+				"version": 1,
+				"asset": "yakuza-bgm-v1.fantome",
+				"size": 11346452,
+				"sha256": "043eb3a36ba76c6b03c17244843d767e5f5f105cecd9518e2b1d41914bf74cd1"
+			}
+		},
+		{
+			"id": "yassified-item-sounds-for-league",
+			"name": "yassified item sounds for league",
+			"kind": "sounds",
+			"creator": "lumin",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/yassified-item-sounds-for-league/thumb.webp?v=61e687c7",
+			"file": {
+				"version": 1,
+				"asset": "yassified-item-sounds-for-league-v1.fantome",
+				"size": 13157395,
+				"sha256": "0b30d0f63da38e70503f070f7cbcf1b1d25be9715f45c7479a3243b44bf492cc"
+			}
+		},
+		{
+			"id": "yassified-killstreak-sounds",
+			"name": "yassified killstreak sounds",
+			"kind": "sounds",
+			"creator": "lumin",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/yassified-killstreak-sounds/thumb.webp?v=2aaf50a8",
+			"file": {
+				"version": 1,
+				"asset": "yassified-killstreak-sounds-v1.fantome",
+				"size": 1450906,
+				"sha256": "3a8fade73bae39ee3ca02077c7ab40832038ae364df6bcd2d0703b42c45b4173"
+			}
+		},
+		{
+			"id": "yassified-league-sound-pack",
+			"name": "Yassified league sound pack",
+			"kind": "sounds",
+			"creator": "lumin",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/yassified-league-sound-pack/thumb.webp?v=4c180e99",
+			"file": {
+				"version": 1,
+				"asset": "yassified-league-sound-pack-v1.fantome",
+				"size": 26340043,
+				"sha256": "74a12d0dd02fc5e28a35b378f52181a007a91d95da0f0930cbd67b4d991d38f6"
+			}
+		},
+		{
+			"id": "yassified-pings-mod-more-noises-version",
+			"name": "yassified pings mod/+ more noises version",
+			"kind": "sounds",
+			"creator": "lumin",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/yassified-pings-mod-more-noises-version/thumb.webp?v=7c9bcc54",
+			"file": {
+				"version": 1,
+				"asset": "yassified-pings-mod-more-noises-version-v1.fantome",
+				"size": 4442495,
+				"sha256": "3ed47f275557c3987336a088e8752ad0d89adfe211d5e9b72bfaa3aa4d3d1a05"
+			}
+		},
+		{
+			"id": "year-of-the-fire-horse-braziers",
+			"name": "Year of the Fire Horse Braziers",
+			"kind": "other",
+			"creator": "agomsmoga",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/year-of-the-fire-horse-braziers/thumb.webp?v=467ef42f",
+			"file": {
+				"version": 1,
+				"asset": "year-of-the-fire-horse-braziers-v1.fantome",
+				"size": 394669,
+				"sha256": "94599649de1637b3d0be09bb400cbfca29303519935cb52ec7fee92b0aec8645"
+			}
+		},
+		{
+			"id": "yoda-announcer",
+			"name": "Yoda Announcer",
+			"kind": "announcer",
+			"creator": "ramu3x",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/yoda-announcer/thumb.webp?v=1ddcb36c",
+			"file": {
+				"version": 1,
+				"asset": "yoda-announcer-v1.fantome",
+				"size": 9573727,
+				"sha256": "7ecb8141b08d4423816ed9861a3b3818fa090c9598f93e9286483fb4956b548d"
+			}
+		},
+		{
+			"id": "you-are-a-pirate-gp-ult",
+			"name": "You Are a Pirate | GP Ult",
+			"kind": "sounds",
+			"creator": "gloomytree",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/you-are-a-pirate-gp-ult/thumb.webp?v=daf97efb",
+			"file": {
+				"version": 1,
+				"asset": "you-are-a-pirate-gp-ult-v1.fantome",
+				"size": 1849345,
+				"sha256": "11c56cb49ab1f90121042609ff44c100511263c61879bdac4c8c26bf6dfb43de"
+			}
+		},
+		{
+			"id": "you-have-no-mana",
+			"name": "YOU HAVE NO MANA",
+			"kind": "sounds",
+			"creator": "aropatnik",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/you-have-no-mana/thumb.webp?v=30bd17be",
+			"file": {
+				"version": 1,
+				"asset": "you-have-no-mana-v1.fantome",
+				"size": 1809216,
+				"sha256": "5dbb04eda1c3f9cf439fbc97b1dc197fd0d30a433d9838485df451b527cedd99"
+			}
+		},
+		{
+			"id": "your-junglers-essential-aka-lol-dances-on-you-mi",
+			"name": "your junglers essential, aka lol dances on you minimap and you can do nothing ab",
+			"kind": "ui",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/your-junglers-essential-aka-lol-dances-on-you-mi/thumb.webp?v=ada3f5f8",
+			"file": {
+				"version": 1,
+				"asset": "your-junglers-essential-aka-lol-dances-on-you-mi-v1.fantome",
+				"size": 36661337,
+				"sha256": "d7eab352dbf3e4a943e6882544bfc99a9d4b2b9262df590bba7ba66510286a28"
 			}
 		}
 	]

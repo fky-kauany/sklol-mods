@@ -1,0 +1,17 @@
+{
+	"id": "yakuza-bgm",
+	"name": "Yakuza BGM",
+	"kind": "sounds",
+	"creator": "zamius",
+	"description": "### MOD INFORMATION\r\n##\r\n**Modified Sounds:** Background music\r\n\r\n**Author:** Zamius\r\n\r\n**Description:** Changes Summoner’s Rift Classic theme background music to Yakuza Kiwami’s music.\r\n##\r\n**SONGS**\r\n- (Intro) The Menu\r\n- (Early-Mid) Flirt With Bomb\r\n- (Late) t u s k\r\n##\r\n**CREDITS**\r\nShoutout to **Kingshound** for the inspiration to make this mod!\r\n##\r\n\r\n**NOTICE**\r\n\r\nYou need to select the Classic theme from the game's sound settings for this mod to work!\r\n>*KIRYU-CHAN!!*\n\n---\n\n**Created by** [Zamius](https://runeforge.dev/users/Zamius)\n\n**Original:** https://runeforge.dev/mods/cf08ee14-7444-43e1-875a-e78ccf76aeec\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/yakuza-bgm/thumb.webp?v=2c42925c",
+	"file": {
+		"version": 1,
+		"asset": "yakuza-bgm-v1.fantome",
+		"size": 11346452,
+		"sha256": "043eb3a36ba76c6b03c17244843d767e5f5f105cecd9518e2b1d41914bf74cd1"
+	}
+}

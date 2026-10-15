@@ -1,0 +1,17 @@
+{
+	"id": "yassified-killstreak-sounds",
+	"name": "yassified killstreak sounds",
+	"kind": "sounds",
+	"creator": "lumin",
+	"description": "period! \r\n\r\naudio mostly from here https://www.youtube.com/watch?v=6Z2-A-yiTAg\n\n---\n\n**Created by** [Lumin](https://runeforge.dev/users/Lumin)\n\n**Original:** https://runeforge.dev/mods/57a4aa82-b496-4758-ad6b-df9e4eb958fb\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/yassified-killstreak-sounds/thumb.webp?v=2aaf50a8",
+	"file": {
+		"version": 1,
+		"asset": "yassified-killstreak-sounds-v1.fantome",
+		"size": 1450906,
+		"sha256": "3a8fade73bae39ee3ca02077c7ab40832038ae364df6bcd2d0703b42c45b4173"
+	}
+}

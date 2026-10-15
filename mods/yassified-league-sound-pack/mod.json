@@ -1,0 +1,17 @@
+{
+	"id": "yassified-league-sound-pack",
+	"name": "Yassified league sound pack",
+	"kind": "sounds",
+	"creator": "lumin",
+	"description": "what more can i tell you\n\n---\n\n**Created by** [Lumin](https://runeforge.dev/users/Lumin)\n\n**Original:** https://runeforge.dev/mods/8e291aaf-565c-4f0d-a817-51566818fdba\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/yassified-league-sound-pack/thumb.webp?v=4c180e99",
+	"file": {
+		"version": 1,
+		"asset": "yassified-league-sound-pack-v1.fantome",
+		"size": 26340043,
+		"sha256": "74a12d0dd02fc5e28a35b378f52181a007a91d95da0f0930cbd67b4d991d38f6"
+	}
+}

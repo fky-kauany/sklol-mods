@@ -1,0 +1,17 @@
+{
+	"id": "you-have-no-mana",
+	"name": "YOU HAVE NO MANA",
+	"kind": "sounds",
+	"creator": "aropatnik",
+	"description": "# WHEN SHARING THIS MOD WITH OTHER PEOPLE SEND A LINK TO THIS PAGE RATHER THAN THE MOD FILE - DON'T GATEKEEP THE SOURCE\n\n### Information\n\nChanges the sound heard when trying to cast a spell without mana to Tyler1 yelling at you\n\n**Author:** Aropatnik\n\n#\n\n### Issues\n\nIf/When this mod breaks let me know\n\nDiscord username: aropatnik\n\nDiscord server: https://discord.gg/nctuYUq3QX\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n#\n\n### Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/623ef732-4c36-4a5a-bbde-5a6a85b7a125\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/you-have-no-mana/thumb.webp?v=30bd17be",
+	"file": {
+		"version": 1,
+		"asset": "you-have-no-mana-v1.fantome",
+		"size": 1809216,
+		"sha256": "5dbb04eda1c3f9cf439fbc97b1dc197fd0d30a433d9838485df451b527cedd99"
+	}
+}

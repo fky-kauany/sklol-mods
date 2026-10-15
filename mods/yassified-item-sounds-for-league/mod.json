@@ -1,0 +1,17 @@
+{
+	"id": "yassified-item-sounds-for-league",
+	"name": "yassified item sounds for league",
+	"kind": "sounds",
+	"creator": "lumin",
+	"description": "among the sounds include: im not telling you go figure it out yourself\r\n\r\n(my favourite is guardian angel teehee)\n\n---\n\n**Created by** [Lumin](https://runeforge.dev/users/Lumin)\n\n**Original:** https://runeforge.dev/mods/602c2fea-3999-4ff3-86f4-03f55a576149\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/yassified-item-sounds-for-league/thumb.webp?v=61e687c7",
+	"file": {
+		"version": 1,
+		"asset": "yassified-item-sounds-for-league-v1.fantome",
+		"size": 13157395,
+		"sha256": "0b30d0f63da38e70503f070f7cbcf1b1d25be9715f45c7479a3243b44bf492cc"
+	}
+}
