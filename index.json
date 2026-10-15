@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T10:50:30.651Z",
+	"generatedAt": "2026-10-15T10:56:08.694Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -693,6 +693,11 @@
 			"links": {
 				"site": "https://www.dafont.com/godofwar.font?text=FONT"
 			}
+		},
+		"sm0nks": {
+			"name": "sm0nks",
+			"avatar": "creators/sm0nks.png?v=8176383b",
+			"links": {}
 		},
 		"snorr": {
 			"name": "Snorr",
@@ -8449,6 +8454,179 @@
 				"asset": "phreak-kobe-announcer-pack-v1.fantome",
 				"size": 5094882,
 				"sha256": "ce0fbe584a206c1d58895e1b71b35eeef3bce0f5c58df8eeddd43e0a6ba8c4ba"
+			}
+		},
+		{
+			"id": "pico-senpai-s-shadow-isles-hud",
+			"name": "Pico Senpai's Shadow Isles HUD",
+			"kind": "ui",
+			"creator": "runeforgerecoveryteam",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/pico-senpai-s-shadow-isles-hud/thumb.webp?v=a998c0a9",
+			"file": {
+				"version": 1,
+				"asset": "pico-senpai-s-shadow-isles-hud-v1.fantome",
+				"size": 5200281,
+				"sha256": "b79f700fbdb9b0b8b416b73f3787fd9e9d3736a0bfcee7b4ddf9cbc24ec8c4a3"
+			}
+		},
+		{
+			"id": "pixelfont-minecraft-font",
+			"name": "PixelFont / Minecraft Font",
+			"kind": "fonts",
+			"creator": "sm0nks",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/pixelfont-minecraft-font/thumb.webp?v=4042367f",
+			"file": {
+				"version": 1,
+				"asset": "pixelfont-minecraft-font-v1.fantome",
+				"size": 8421,
+				"sha256": "c01d8623964f63e6ab49cccc9f58f077c65410cea03d66a5b8d7b5a666c76e99"
+			}
+		},
+		{
+			"id": "polish-announcer",
+			"name": "Polish Announcer",
+			"kind": "announcer",
+			"creator": "aropatnik",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/polish-announcer/thumb.webp?v=84eb8483",
+			"file": {
+				"version": 1,
+				"asset": "polish-announcer-v1.fantome",
+				"size": 49446372,
+				"sha256": "48b560af7c68553b9f5d3bd49a5f84f318573c584d4bc11d06292b2875560102"
+			}
+		},
+		{
+			"id": "pool-party-taliyah-chroma-vfx",
+			"name": "Pool Party Taliyah Chroma VFX",
+			"kind": "vfx",
+			"creator": "donutvsdonut",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/pool-party-taliyah-chroma-vfx/thumb.webp?v=3587970b",
+			"file": {
+				"version": 1,
+				"asset": "pool-party-taliyah-chroma-vfx-v1.fantome",
+				"size": 11671731,
+				"sha256": "7521fa717f9b31382871cb1b65b6eeb7833d23b6840f4c71f29a1f7674054bdc"
+			}
+		},
+		{
+			"id": "pool-party-yunara",
+			"name": "Pool Party Yunara",
+			"kind": "other",
+			"creator": "agomsmoga",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/pool-party-yunara/thumb.webp?v=4b9e9690",
+			"file": {
+				"version": 1,
+				"asset": "pool-party-yunara-v1.fantome",
+				"size": 7822845,
+				"sha256": "6e907b18455d5036c60148283693a0a7fc98737e3e50e514c47b75c32247dd9c"
+			}
+		},
+		{
+			"id": "poro-minions",
+			"name": "Poro Minions",
+			"kind": "mobs",
+			"creator": "pimek",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/poro-minions/thumb.webp?v=91f35fd1",
+			"file": {
+				"version": 1,
+				"asset": "poro-minions-v1.fantome",
+				"size": 23441481,
+				"sha256": "0a315dee5fa2c7f93f030f7e794e46d42694ebe5664fa9119a254c573194beef"
+			},
+			"maps": [
+				453
+			]
+		},
+		{
+			"id": "portuguese-announcer",
+			"name": "Portuguese Announcer",
+			"kind": "announcer",
+			"creator": "aropatnik",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/portuguese-announcer/thumb.webp?v=cc043112",
+			"file": {
+				"version": 1,
+				"asset": "portuguese-announcer-v1.fantome",
+				"size": 59926610,
+				"sha256": "ea4d9d1c25b683da028372a8f493f4db6c4dd4e6e3ad6babb0b21875b4e5a495"
+			}
+		},
+		{
+			"id": "postal-2-dude-announcer-recovery",
+			"name": "Postal 2 Dude Announcer (Recovery)",
+			"kind": "announcer",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/postal-2-dude-announcer-recovery/thumb.webp?v=3ce690a1",
+			"file": {
+				"version": 1,
+				"asset": "postal-2-dude-announcer-recovery-v1.fantome",
+				"size": 6889521,
+				"sha256": "e2c91545fbe8455132c15e3bcb62d9497cd97862e20b72991a81504d9c73a881"
+			}
+		},
+		{
+			"id": "power-gwen",
+			"name": "Power Gwen",
+			"kind": "other",
+			"creator": "noice",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/power-gwen/thumb.webp?v=da9c8c68",
+			"file": {
+				"version": 1,
+				"asset": "power-gwen-v1.fantome",
+				"size": 11052331,
+				"sha256": "bd3bcdad70808349d9856dcd5d5d7ba98b7fa14e9220ae5cd2e5ce5058deaef5"
+			}
+		},
+		{
+			"id": "pride-month-emote-choose-your-gender",
+			"name": "Pride month emote (choose your gender)",
+			"kind": "other",
+			"creator": "archlyris",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/pride-month-emote-choose-your-gender/thumb.webp?v=e0830cda",
+			"file": {
+				"version": 1,
+				"asset": "pride-month-emote-choose-your-gender-v1.fantome",
+				"size": 221605,
+				"sha256": "27c8817b11decd5feda6cb3076ffb96bc7070ed13044d1080b5dd47a60f6131e"
 			}
 		}
 	]

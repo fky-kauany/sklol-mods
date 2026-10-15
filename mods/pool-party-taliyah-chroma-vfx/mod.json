@@ -1,0 +1,17 @@
+{
+	"id": "pool-party-taliyah-chroma-vfx",
+	"name": "Pool Party Taliyah Chroma VFX",
+	"kind": "vfx",
+	"creator": "donutvsdonut",
+	"description": "Modifies Pool Party Taliyah\r\nRecolors Pool Party Taliyah's texture files based on the selected chroma\n\n---\n\n**Created by** [DonutvsDonut](https://runeforge.dev/users/DonutvsDonut)\n\n**Original:** https://runeforge.dev/mods/858a17d0-e6d0-45bd-8af3-acfa94c9da72\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/pool-party-taliyah-chroma-vfx/thumb.webp?v=3587970b",
+	"file": {
+		"version": 1,
+		"asset": "pool-party-taliyah-chroma-vfx-v1.fantome",
+		"size": 11671731,
+		"sha256": "7521fa717f9b31382871cb1b65b6eeb7833d23b6840f4c71f29a1f7674054bdc"
+	}
+}

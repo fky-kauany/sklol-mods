@@ -1,0 +1,17 @@
+{
+	"id": "pride-month-emote-choose-your-gender",
+	"name": "Pride month emote (choose your gender)",
+	"kind": "other",
+	"creator": "archlyris",
+	"description": "---\n\n**Created by** [archlyris](https://runeforge.dev/users/archlyris)\n\n**Original:** https://runeforge.dev/mods/4ad0561f-1f59-44f5-9c1b-3e3cc27061d9\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/pride-month-emote-choose-your-gender/thumb.webp?v=e0830cda",
+	"file": {
+		"version": 1,
+		"asset": "pride-month-emote-choose-your-gender-v1.fantome",
+		"size": 221605,
+		"sha256": "27c8817b11decd5feda6cb3076ffb96bc7070ed13044d1080b5dd47a60f6131e"
+	}
+}

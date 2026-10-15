@@ -1,0 +1,17 @@
+{
+	"id": "pool-party-yunara",
+	"name": "Pool Party Yunara",
+	"kind": "other",
+	"creator": "agomsmoga",
+	"description": "### Works with the [Normal Eyebrows Yunara](https://runeforge.dev/mods/af6660f0-2f1f-403b-a0b1-2260d9e2d897) mod as well!\n\n#\n\n### OVERVIEW\n\n* Skins Modified: Spirit Blossom Springs Yunara **(BASE AND ALL CHROMAS)**\n\nClick to see more\n[**\ncool HUD mods\n**](https://runeforge.dev/mods?search=moga&pageSize=720)\n₍^. .^₎Ⳋ\n\n![](https://i.imgur.com/oQKnUeC.png)\n\nhttps://discord.gg/gSXbEmPQCA\n\n---\n\n**Created by** [Moga](https://runeforge.dev/users/agomsMoga)\n\n**Original:** https://runeforge.dev/mods/1542b03a-0907-4701-b53d-6f0dccd9b9ff\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/pool-party-yunara/thumb.webp?v=4b9e9690",
+	"file": {
+		"version": 1,
+		"asset": "pool-party-yunara-v1.fantome",
+		"size": 7822845,
+		"sha256": "6e907b18455d5036c60148283693a0a7fc98737e3e50e514c47b75c32247dd9c"
+	}
+}

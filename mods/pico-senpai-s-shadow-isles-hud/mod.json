@@ -1,0 +1,17 @@
+{
+	"id": "pico-senpai-s-shadow-isles-hud",
+	"name": "Pico Senpai's Shadow Isles HUD",
+	"kind": "ui",
+	"creator": "runeforgerecoveryteam",
+	"description": "## ♥ Mod Info ♥\n\n* HUD Name: Shadow Isles HUD\n* Author: Pico Senpai\n* Skin Version: 1.2\n* Description: **Few know the truth of the Shadow Isles.**\n* **Original mod by Pico Senpai, recovered by Tyre\\_4770**\n\n## ♥ MODS TO USE WITH ♥\n\nTo perfect your experience I would heavily recommend using mods related to the Ruined King game and the Shadow Isles universe in addition to this one.\n\n## ♥ CREDITS ♥\n\n* Made with Yoru’s Simple HUD Template, huge thanks to her as always ^^\n\n⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦\n\n---\n\n**Created by** [RuneforgeRecoveryTeam](https://runeforge.dev/users/RuneforgeRecoveryTeam)\n\n**Original:** https://runeforge.dev/mods/9e7d025d-d04c-4ccd-9cc5-4c88e55c15fe\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/pico-senpai-s-shadow-isles-hud/thumb.webp?v=a998c0a9",
+	"file": {
+		"version": 1,
+		"asset": "pico-senpai-s-shadow-isles-hud-v1.fantome",
+		"size": 5200281,
+		"sha256": "b79f700fbdb9b0b8b416b73f3787fd9e9d3736a0bfcee7b4ddf9cbc24ec8c4a3"
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"id": "poro-minions",
+	"name": "Poro Minions",
+	"kind": "mobs",
+	"creator": "pimek",
+	"description": "* [Source Post](https://x.com/p1mek/status/1989371947323719855/video/1 \"Source Post\")&#x20;\n\n# Socials\n\n***\n\n* Twitter: [https://x.com/p1mek](https://x.com/p1mek) \\[Updates on skins]\n\n# Mod Information\n\n***\n* Mod For: Minions\n* Description: All minions are changed to different types of Poro\n\n# Features\n\n* Cannon minion is a cannon with poro inside\n* Melee minion is standard poro\n* Ranged Minion is standard poro with a wand\n* Nexus minions are Big Poro From TFT\n\n# ![](https://i.imgur.com/n5izQHN.gif)\n\n\n# Bugs\n\n---\n\n**Created by** [pimek](https://www.divineskins.gg/pimek)\n\n**Original:** https://www.divineskins.gg/pimek/poro-minions\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/poro-minions/thumb.webp?v=91f35fd1",
+	"file": {
+		"version": 1,
+		"asset": "poro-minions-v1.fantome",
+		"size": 23441481,
+		"sha256": "0a315dee5fa2c7f93f030f7e794e46d42694ebe5664fa9119a254c573194beef"
+	},
+	"maps": [
+		453
+	]
+}
