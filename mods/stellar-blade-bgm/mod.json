@@ -1,0 +1,20 @@
+{
+	"id": "stellar-blade-bgm",
+	"name": "Stellar Blade BGM",
+	"kind": "maps",
+	"creator": "aurecueil",
+	"description": "# 🎵 Track List\n\n| Event | Track |\n|------|------|\n| **Game Start (Paladin)** | [Flooded Commercial Sector](https://www.youtube.com/watch?v=GFy1PZ-wODU) |\n| **Early Game (Paladin)** | [Eidos 7 Silent Street](https://www.youtube.com/watch?v=Y16_rDXcfcA) + [Eidos 7 Silent Street Combat](https://www.youtube.com/watch?v=3NX0R-QCuIM) |\n| **Game Start (Mage)** | [Everglow](https://www.youtube.com/watch?v=pyC72k8BKb0) |\n| **Early Game (Mage)** | [Xion 2](https://www.youtube.com/watch?v=cvzvB2SUCZs) |\n| **Mid Game** | [Blur](https://www.youtube.com/watch?v=Fgqrkc1yDtc) + [Scrapyard](https://www.youtube.com/watch?v=xOsDjkxN5CY) |\n| **Late Game** | [Tachy Boss Fight](https://www.youtube.com/watch?v=F6dpt8woexU) |\n| **Baron Alive** | [Raven](https://www.youtube.com/watch?v=jl2NfpkBHsg) |\n| **River** | [Collapsed Rail Bridge](https://www.youtube.com/watch?v=73Z5PDMkKzk) |\n| **River – Grubs** | [Abaddon](https://www.youtube.com/watch?v=6z2qBoM-DNc) |\n| **River – Herald** | [Behemoth](https://www.youtube.com/watch?v=oHOfIi-ww0M) |\n| **River – Baron** | [Hypertube Slide](https://www.youtube.com/watch?v=WzHUqRC2XGQ) |\n| **Void-spawn Combat** | [Stalker](https://www.youtube.com/watch?v=V6Ae617U8Xg) |\n| **Victory** | [Credits](https://www.youtube.com/watch?v=VAFXEWaVwWk&t=83s) |\n| **Defeat** | [Lily Rescues Eve](https://www.youtube.com/watch?v=9en2iU_TRMk&t=69s) |\n\n## ☕ Wanna buy me a [Coffee](https://ko-fi.com/aurecueil)? :> \n[![My Discord Server ^^](https://raw.githubusercontent.com/Aurecueil/Temp/refs/heads/main/images/banner6_better.png)](https://discord.gg/GETA29vZEK)\n\n## 📦 Misc\n\n**My BGM Mod Tierlist:**  \nhttps://runeforge.dev/users/Aurecueil\n\n**Discord:** `aurecueil`\n\ni DO take commision :p\n\n---\n\n**Created by** [aurecueil](https://www.divineskins.gg/aurecueil)\n\n**Original:** https://www.divineskins.gg/aurecueil/stellar-blade-bgm-2\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/stellar-blade-bgm/thumb.webp?v=5ff5857d",
+	"file": {
+		"version": 1,
+		"asset": "stellar-blade-bgm-v1.modpkg",
+		"size": 73608193,
+		"sha256": "79a321905144cdf82c4069876a814a8ee54f0b2a24fcdc895c1081c0a921d47f"
+	},
+	"maps": [
+		11
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"id": "warm-rift",
+	"name": "Warm Rift",
+	"kind": "maps",
+	"creator": "aropatnik",
+	"description": "### Information\n\nRecolors the map by swapping color channels. Which means if Riot decides that the map isn't green anymore the preview images will be off. You have been warned.\n\n**Author:** Aropatnik\n\n#\n\n### Issues\n\nIf/When this mod breaks let me know\n\nDiscord username: aropatnik\n\nDiscord server: https://discord.gg/nctuYUq3QX\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n#\n\n### Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/b0f298e1-0ac6-4162-9c7d-9c22053dacec\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/warm-rift/thumb.webp?v=eff4e28d",
+	"file": {
+		"version": 1,
+		"asset": "warm-rift-v1.fantome",
+		"size": 199849580,
+		"sha256": "1358ffe5dd71944055966fad3fd6b44fb7a1ff209b46180ce80b188f44248131"
+	},
+	"maps": [
+		11
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"id": "twisted-treeline-bgm",
+	"name": "Twisted Treeline BGM",
+	"kind": "maps",
+	"creator": "aurecueil",
+	"description": "## ☕ Wanna buy me a [Coffee](https://ko-fi.com/aurecueil)? :> \r\n[![My Discord Server ^^](https://raw.githubusercontent.com/Aurecueil/Temp/refs/heads/main/images/banner6_better.png)](https://discord.gg/GETA29vZEK)\r\n\r\n## 📦 Misc\r\n\r\n**Discord:** `aurecueil`\r\n**Commisioned** by: `masai.3801`\r\ni **DO** take **commissions** :p\n\n---\n\n**Created by** [aurecueil](https://www.divineskins.gg/aurecueil)\n\n**Original:** https://www.divineskins.gg/aurecueil/twisted-treeline-bgm\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/twisted-treeline-bgm/thumb.webp?v=d1e55105",
+	"file": {
+		"version": 1,
+		"asset": "twisted-treeline-bgm-v1.modpkg",
+		"size": 12516719,
+		"sha256": "e1c0b361e94d44c3877e9867163ab9e9fa1dc17990e4ea507d1fbe60724a89b7"
+	},
+	"maps": [
+		11
+	]
+}

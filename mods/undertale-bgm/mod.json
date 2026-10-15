@@ -1,0 +1,20 @@
+{
+	"id": "undertale-bgm",
+	"name": "Undertale BGM",
+	"kind": "maps",
+	"creator": "aurecueil",
+	"description": "# 🎵 Track List\n\n| Event | Track(s) |\n|------|------|\n| Start Game (Red Side) | Dating Start! |\n| Start Game (Blue Side) | Once Upon a Time |\n| Game Loop 0 (Red Side) | Snowy + Snowdin Town + Shop + Sans. |\n| Game Loop 0 (Blue Side) | Fallen Down (Reprise) + Ruins + An Ending |\n| Game Loop 1 | Bonetrousle + Dummy! + Spider Dance + Can You Really Call This a Hotel, I Didn’t Receive a Mint on My Pillow or Anything |\n| Game Loop 2 | Death by Glamour + ASGORE + Battle Against a True Hero |\n| Game Loop 3 | Hopes and Dreams + SAVE the World + Bring It In, Guys! + Finale + Last Goodbye |\n| River Loop 0 | Waterfall + It's Raining Somewhere Else |\n| River Loop 1 | Undyne |\n| River Loop 2 | Another Medium |\n| River Loop 3 | CORE |\n| Atakhan Fight | Spear of Justice |\n| Victory | Tem Shop |\n| Defeat | Determination |\n| Transition Music | Dogbass + Last Episode |\n\n## ☕ Wanna buy me a [Coffee](https://ko-fi.com/aurecueil)? :> \n[![My Discord Server ^^](https://raw.githubusercontent.com/Aurecueil/Temp/refs/heads/main/images/banner6_better.png)](https://discord.gg/GETA29vZEK)\n\n## 📦 Misc\n\n[Tierlist of my BGM mods](https://runeforge.dev/users/Aurecueil)\n\ndc: `aurecueil`\n\ni DO take Commisions btw\n\n---\n\n**Created by** [aurecueil](https://www.divineskins.gg/aurecueil)\n\n**Original:** https://www.divineskins.gg/aurecueil/undertale-bgm-2\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/undertale-bgm/thumb.webp?v=5eed4643",
+	"file": {
+		"version": 1,
+		"asset": "undertale-bgm-v1.modpkg",
+		"size": 52295374,
+		"sha256": "6dd06cf1406dadc35eac52c32a659de2b3f14e7303b0ed8a160ad5f3aa81f678"
+	},
+	"maps": [
+		11
+	]
+}

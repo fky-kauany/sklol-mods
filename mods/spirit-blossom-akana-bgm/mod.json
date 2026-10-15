@@ -1,0 +1,20 @@
+{
+	"id": "spirit-blossom-akana-bgm",
+	"name": "Spirit Blossom Akana BGM",
+	"kind": "maps",
+	"creator": "aurecueil",
+	"description": "# 🎵 Track List\r\n\r\n| Event | Track(s) |\r\n|------|------|\r\n| Early Game | [Akana Early Game](https://www.youtube.com/watch?v=ssbB9ycHbss) |\r\n| Mid Game | [Akana Mid Game](https://www.youtube.com/watch?v=tgEQ2JU5iSs) |\r\n| Late Game | [Akana Late Game](https://www.youtube.com/watch?v=JgSyzcmr6Ak) |\r\n| Baron Alive | [Atakhan](https://www.youtube.com/watch?v=qqz8NDDpk9w) |\r\n| River | [Void River](https://www.youtube.com/watch?v=KnOjhYMlnls) |\r\n| River - Horde | [Horde River](https://www.youtube.com/watch?v=V5n5zupJv-I) |\r\n| River - Herald | [Herald River](https://www.youtube.com/watch?v=CiZ6zgaLe9Q) |\r\n| River - Baron | [Baron River](https://www.youtube.com/watch?v=5pDiKWht8B0) |\r\n| Grubbies | Horde Combat |\r\n| Herald | Herald Combat |\r\n| Baron | Baron Combat |\r\n| Victory | [Spirit Blossom Victory](https://www.youtube.com/watch?v=S8o5pviPi4U) |\r\n| Defeat | [Spirit Blossom Defeat](https://www.youtube.com/watch?v=uLSpLCkRPrs) |\r\n\r\n## ☕ Wanna buy me a [Coffee](https://ko-fi.com/aurecueil)? :> \r\n[![My Discord Server ^^](https://raw.githubusercontent.com/Aurecueil/Temp/refs/heads/main/images/banner6_better.png)](https://discord.gg/GETA29vZEK)\r\n\r\n## 📦 Misc\r\n\r\n**Discord:** `aurecueil`\r\n\r\ni **DO** take **commissions** :p\n\n---\n\n**Created by** [aurecueil](https://www.divineskins.gg/aurecueil)\n\n**Original:** https://www.divineskins.gg/aurecueil/spirit-blossom-akana-bgm\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/spirit-blossom-akana-bgm/thumb.webp?v=b379f583",
+	"file": {
+		"version": 1,
+		"asset": "spirit-blossom-akana-bgm-v1.modpkg",
+		"size": 26529296,
+		"sha256": "5327e446b93c3ac96cbd59df0c6b6a99a1fa8643fec7908417e1999b526787c6"
+	},
+	"maps": [
+		11
+	]
+}

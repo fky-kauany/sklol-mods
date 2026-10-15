@@ -1,0 +1,20 @@
+{
+	"id": "ruined-braziers",
+	"name": "Ruined Braziers",
+	"kind": "maps",
+	"creator": "zero",
+	"description": "---\n\n**Created by** [ZERO_](https://runeforge.dev/users/ZERO_)\n\n**Original:** https://runeforge.dev/mods/e4c2123a-83ea-4ca7-b9e8-458fba2267cb\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/ruined-braziers/thumb.webp?v=a012030a",
+	"file": {
+		"version": 1,
+		"asset": "ruined-braziers-v1.fantome",
+		"size": 200835,
+		"sha256": "3b293edd4787c48fd5eea835ab5d489787dc8476be89a09f1c49971132d260e5"
+	},
+	"maps": [
+		11
+	]
+}

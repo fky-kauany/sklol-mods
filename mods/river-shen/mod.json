@@ -1,0 +1,20 @@
+{
+	"id": "river-shen",
+	"name": "River Shen",
+	"kind": "maps",
+	"creator": "yuumi",
+	"description": "## Shen as Scuttle crab (River shen)\n\nHas like 2 broken anims, but who cares, I never did.\n\n---\n\n**Created by** [Yuumi](https://runeforge.dev/users/yuumi)\n\n**Original:** https://runeforge.dev/mods/a4f05bfd-ce70-4b9a-9bf1-9252c142eca6\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/river-shen/thumb.webp?v=f03113c3",
+	"file": {
+		"version": 1,
+		"asset": "river-shen-v1.fantome",
+		"size": 408756,
+		"sha256": "39ae5049c2b4e5b64542c05a885efc16cf95ebbd70dbce0aff443da4473e35c9"
+	},
+	"maps": [
+		11
+	]
+}

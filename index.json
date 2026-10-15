@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T13:37:20.622Z",
+	"generatedAt": "2026-10-15T13:43:26.911Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -10419,6 +10419,26 @@
 			}
 		},
 		{
+			"id": "river-shen",
+			"name": "River Shen",
+			"kind": "maps",
+			"creator": "yuumi",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/river-shen/thumb.webp?v=f03113c3",
+			"file": {
+				"version": 1,
+				"asset": "river-shen-v1.fantome",
+				"size": 408756,
+				"sha256": "39ae5049c2b4e5b64542c05a885efc16cf95ebbd70dbce0aff443da4473e35c9"
+			},
+			"maps": [
+				11
+			]
+		},
+		{
 			"id": "rose-recall",
 			"name": "Rose Recall",
 			"kind": "recall",
@@ -10434,6 +10454,26 @@
 				"size": 3037135,
 				"sha256": "0954a58f88f8b137c19a8bca36d19f4043a22f554fb292e957a96d340a2bd0e2"
 			}
+		},
+		{
+			"id": "ruined-braziers",
+			"name": "Ruined Braziers",
+			"kind": "maps",
+			"creator": "zero",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/ruined-braziers/thumb.webp?v=a012030a",
+			"file": {
+				"version": 1,
+				"asset": "ruined-braziers-v1.fantome",
+				"size": 200835,
+				"sha256": "3b293edd4787c48fd5eea835ab5d489787dc8476be89a09f1c49971132d260e5"
+			},
+			"maps": [
+				11
+			]
 		},
 		{
 			"id": "ruined-karma-chroma-vfx",
@@ -10997,6 +11037,26 @@
 			}
 		},
 		{
+			"id": "shrek-rift-reborn",
+			"name": "Shrek Rift Reborn",
+			"kind": "maps",
+			"creator": "aropatnik",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/shrek-rift-reborn/thumb.webp?v=27e433d8",
+			"file": {
+				"version": 1,
+				"asset": "shrek-rift-reborn-v1.fantome",
+				"size": 107799874,
+				"sha256": "44b915f194eb948116b3b6684961601ae376dc578eafe3f3756862cbf8a67999"
+			},
+			"maps": [
+				11
+			]
+		},
+		{
 			"id": "shurima-rift",
 			"name": "Shurima Rift",
 			"kind": "maps",
@@ -11442,6 +11502,26 @@
 			}
 		},
 		{
+			"id": "spirit-blossom-akana-bgm",
+			"name": "Spirit Blossom Akana BGM",
+			"kind": "maps",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/spirit-blossom-akana-bgm/thumb.webp?v=b379f583",
+			"file": {
+				"version": 1,
+				"asset": "spirit-blossom-akana-bgm-v1.modpkg",
+				"size": 26529296,
+				"sha256": "5327e446b93c3ac96cbd59df0c6b6a99a1fa8643fec7908417e1999b526787c6"
+			},
+			"maps": [
+				11
+			]
+		},
+		{
 			"id": "spirit-blossom-akana-nightcore-bgm",
 			"name": "Spirit Blossom Akana Nightcore BGM",
 			"kind": "sounds",
@@ -11457,6 +11537,26 @@
 				"size": 26516497,
 				"sha256": "42202f2106ae4c70d3ba200ee81da19532ab4bebfcd00a00977a97961a9307a0"
 			}
+		},
+		{
+			"id": "spirit-blossom-bgm",
+			"name": "Spirit Blossom BGM",
+			"kind": "maps",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/spirit-blossom-bgm/thumb.webp?v=c86c6f6f",
+			"file": {
+				"version": 1,
+				"asset": "spirit-blossom-bgm-v1.modpkg",
+				"size": 36733481,
+				"sha256": "10d98ae93847cdbe7c103728978971d9cca6e0b81fb334cca71a15c2ad24e3ec"
+			},
+			"maps": [
+				11
+			]
 		},
 		{
 			"id": "spirit-blossom-bgm-for-moga-map",
@@ -11491,6 +11591,26 @@
 				"size": 25885895,
 				"sha256": "e79b47d8d32c99ea8c574fff7aaec74c2d4595f205e15001d985278af5bfdf84"
 			}
+		},
+		{
+			"id": "spirit-blossom-kanmei-bgm",
+			"name": "Spirit Blossom Kanmei BGM",
+			"kind": "maps",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/spirit-blossom-kanmei-bgm/thumb.webp?v=184926bb",
+			"file": {
+				"version": 1,
+				"asset": "spirit-blossom-kanmei-bgm-v1.modpkg",
+				"size": 27987966,
+				"sha256": "c21ba7b7d7aab67c3d38eb1801bdbcd333253b0ef5da158efc0464f42a666555"
+			},
+			"maps": [
+				11
+			]
 		},
 		{
 			"id": "spirit-blossom-kanmei-nightcore-bgm",
@@ -11817,6 +11937,26 @@
 				"size": 15921,
 				"sha256": "38449451c512fdbcd605bfb208235b14462c9e79b15943a7289c92f06f29c79a"
 			}
+		},
+		{
+			"id": "stellar-blade-bgm",
+			"name": "Stellar Blade BGM",
+			"kind": "maps",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/stellar-blade-bgm/thumb.webp?v=5ff5857d",
+			"file": {
+				"version": 1,
+				"asset": "stellar-blade-bgm-v1.modpkg",
+				"size": 73608193,
+				"sha256": "79a321905144cdf82c4069876a814a8ee54f0b2a24fcdc895c1081c0a921d47f"
+			},
+			"maps": [
+				11
+			]
 		},
 		{
 			"id": "storm-dragon-lee-sin-chroma-vfx-both-for-old-and",
@@ -12363,6 +12503,26 @@
 			}
 		},
 		{
+			"id": "twisted-treeline-bgm",
+			"name": "Twisted Treeline BGM",
+			"kind": "maps",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/twisted-treeline-bgm/thumb.webp?v=d1e55105",
+			"file": {
+				"version": 1,
+				"asset": "twisted-treeline-bgm-v1.modpkg",
+				"size": 12516719,
+				"sha256": "e1c0b361e94d44c3877e9867163ab9e9fa1dc17990e4ea507d1fbe60724a89b7"
+			},
+			"maps": [
+				11
+			]
+		},
+		{
 			"id": "tyler1-annoucer-pack-recovery",
 			"name": "Tyler1 Annoucer Pack (Recovery)",
 			"kind": "announcer",
@@ -12514,6 +12674,26 @@
 				"size": 1349753,
 				"sha256": "dbab52a46250f81ae376076b181108ddb43d53b552bfac1aee32de87a87222d2"
 			}
+		},
+		{
+			"id": "undertale-bgm",
+			"name": "Undertale BGM",
+			"kind": "maps",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/undertale-bgm/thumb.webp?v=5eed4643",
+			"file": {
+				"version": 1,
+				"asset": "undertale-bgm-v1.modpkg",
+				"size": 52295374,
+				"sha256": "6dd06cf1406dadc35eac52c32a659de2b3f14e7303b0ed8a160ad5f3aa81f678"
+			},
+			"maps": [
+				11
+			]
 		},
 		{
 			"id": "undertale-font",
@@ -12769,6 +12949,26 @@
 				"size": 10046009,
 				"sha256": "754ff114e05d29506953d5fad9839b930d74db4e7f9ed808aa9df2b9482aa52b"
 			}
+		},
+		{
+			"id": "warm-rift",
+			"name": "Warm Rift",
+			"kind": "maps",
+			"creator": "aropatnik",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/warm-rift/thumb.webp?v=eff4e28d",
+			"file": {
+				"version": 1,
+				"asset": "warm-rift-v1.fantome",
+				"size": 199849580,
+				"sha256": "1358ffe5dd71944055966fad3fd6b44fb7a1ff209b46180ce80b188f44248131"
+			},
+			"maps": [
+				11
+			]
 		},
 		{
 			"id": "warrior-dummy-target",

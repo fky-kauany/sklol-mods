@@ -1,0 +1,20 @@
+{
+	"id": "spirit-blossom-bgm",
+	"name": "Spirit Blossom BGM",
+	"kind": "maps",
+	"creator": "aurecueil",
+	"description": "# 🎵 Track List\r\n\r\n| Event | Track(s) |\r\n|------|------|\r\n| Early Game (Paladin) | [Kanmei Early Game](https://www.youtube.com/watch?v=KxqDbs_DMJI) |\r\n| Early Game (Mage) | [Akana Early Game](https://www.youtube.com/watch?v=ssbB9ycHbss) |\r\n| Mid Game (Paladin) | [Kanmei Mid Game](https://www.youtube.com/watch?v=mLgziGpc5TY) |\r\n| Mid Game (Mage) | [Akana Mid Game](https://www.youtube.com/watch?v=tgEQ2JU5iSs) |\r\n| Late Game (Paladin) | [Kanmei Late Game](https://www.youtube.com/watch?v=b_5jRnE1CmY) |\r\n| Late Game (Mage) | [Akana Late Game](https://www.youtube.com/watch?v=JgSyzcmr6Ak) |\r\n| Baron Alive | [Atakhan](https://www.youtube.com/watch?v=qqz8NDDpk9w) |\r\n| River | [Void River](https://www.youtube.com/watch?v=KnOjhYMlnls) |\r\n| River - Horde | [Horde River](https://www.youtube.com/watch?v=V5n5zupJv-I) |\r\n| River - Herald | [Herald River](https://www.youtube.com/watch?v=CiZ6zgaLe9Q) |\r\n| River - Baron | [Baron River](https://www.youtube.com/watch?v=5pDiKWht8B0) |\r\n| Grubbies | Horde Combat |\r\n| Herald | Herald Combat |\r\n| Baron | Baron Combat |\r\n| Victory | [Spirit Blossom Victory](https://www.youtube.com/watch?v=S8o5pviPi4U) |\r\n| Defeat | [Spirit Blossom Defeat](https://www.youtube.com/watch?v=uLSpLCkRPrs) |\r\n\r\n## ☕ Wanna buy me a [Coffee](https://ko-fi.com/aurecueil)? :> \r\n[![My Discord Server ^^](https://raw.githubusercontent.com/Aurecueil/Temp/refs/heads/main/images/banner6_better.png)](https://discord.gg/GETA29vZEK)\r\n## 📦 Misc\r\ndc: `aurecueil`\r\n\r\ni DO take Commisions btw\n\n---\n\n**Created by** [aurecueil](https://www.divineskins.gg/aurecueil)\n\n**Original:** https://www.divineskins.gg/aurecueil/spirit-blossom-bgm-2\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/spirit-blossom-bgm/thumb.webp?v=c86c6f6f",
+	"file": {
+		"version": 1,
+		"asset": "spirit-blossom-bgm-v1.modpkg",
+		"size": 36733481,
+		"sha256": "10d98ae93847cdbe7c103728978971d9cca6e0b81fb334cca71a15c2ad24e3ec"
+	},
+	"maps": [
+		11
+	]
+}
