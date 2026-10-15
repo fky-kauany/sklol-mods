@@ -1,0 +1,17 @@
+{
+	"id": "200-years-aphelios-ult-icon-only",
+	"name": "200 YEARS APHELIOS ULT (Icon only)",
+	"kind": "icons",
+	"creator": "algicci",
+	"description": "# This is the ICON ONLY version, check my profile for sfx version!\nReplaces the icon of Aphelios ult with the RIOT twitch emote.\n\n\"200 YEARS OF PUNISHMENT\"\n\n---\n\n**Created by** [Algicci](https://runeforge.dev/users/Algicci)\n\n**Original:** https://runeforge.dev/mods/bbc2d171-955b-4465-9be2-29fa485071d3\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/200-years-aphelios-ult-icon-only/thumb.webp?v=0080e139",
+	"file": {
+		"version": 1,
+		"asset": "200-years-aphelios-ult-icon-only-v1.fantome",
+		"size": 67576,
+		"sha256": "b6a8dbea82230a0801b8d22972bfb2fec0cced1cb5873325dbe9ea8bffa52959"
+	}
+}

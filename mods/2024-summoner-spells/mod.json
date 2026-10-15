@@ -1,0 +1,17 @@
+{
+	"id": "2024-summoner-spells",
+	"name": "2024 Summoner Spells",
+	"kind": "ui",
+	"creator": "aropatnik",
+	"description": "## Information\n\n**Changes the Summoner Spells to the 2024 versions**\n\n**Author: Aropatnik**\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/8e4730a7-9626-4673-bc39-d9ea2eb0b54d\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/2024-summoner-spells/thumb.webp?v=32a718c8",
+	"file": {
+		"version": 1,
+		"asset": "2024-summoner-spells-v1.fantome",
+		"size": 24165,
+		"sha256": "4231176598affa64d09d6eaf6a4b017bb6dc8e48f0db725c7c0d7876bab9c09d"
+	}
+}

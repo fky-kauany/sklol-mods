@@ -1,0 +1,17 @@
+{
+	"id": "2016-outro-music-recall",
+	"name": "2016 OUTRO MUSIC RECALL",
+	"kind": "sounds",
+	"creator": "sterak",
+	"description": "---\n\n**Created by** [Sterak](https://runeforge.dev/users/Sterak)\n\n**Original:** https://runeforge.dev/mods/cdad6f7e-0761-495a-8d1d-e19d2322199f\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/2016-outro-music-recall/thumb.webp?v=ee762161",
+	"file": {
+		"version": 1,
+		"asset": "2016-outro-music-recall-v1.fantome",
+		"size": 48833982,
+		"sha256": "77e116efd80418672859c15e0fb016ef767bccae1459a830114646a0df817f00"
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"id": "7-4-parry-without-reason",
+	"name": "7-4: PARRY WITHOUT REASON",
+	"kind": "sounds",
+	"creator": "snowyseer",
+	"description": "Replaces Base Mel's W activations with [punch_projectile] from Ultrakill.\nMade a goofy lil' edit of her splashart for this. If it stops working for any reason (or ModPKG comes out), I'll make sure to update this page- otherwise, assume it's still working.\n\n---\n\n**Created by** [SnowySeer](https://runeforge.dev/users/SnowySeer)\n\n**Original:** https://runeforge.dev/mods/9707f31b-322e-4154-84e1-7375b6d02e77\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/7-4-parry-without-reason/thumb.webp?v=c9e6a4af",
+	"file": {
+		"version": 1,
+		"asset": "7-4-parry-without-reason-v1.fantome",
+		"size": 1716070,
+		"sha256": "316f6219f7e99f5b19b15d49ca8acd9827f6e1e77f457008da2c7c51a9eed612"
+	}
+}

@@ -1,13 +1,63 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T07:06:47.430Z",
+	"generatedAt": "2026-10-15T07:11:13.691Z",
 	"creators": {
+		"403": {
+			"name": "403",
+			"links": {
+				"discord": "https://discord.gg/403"
+			}
+		},
 		"algicci": {
 			"name": "Algicci",
 			"avatar": "creators/algicci.jpg?v=49e2249b",
 			"links": {
 				"youtube": "https://youtu.be/gwsn8f05l7o"
 			}
+		},
+		"aropatnik": {
+			"name": "Aropatnik",
+			"avatar": "creators/aropatnik.png?v=c81c65bb",
+			"bio": "Proud owner of 1m downloads between all of my mods on all of the sites. Thank you all for using my mods <3\n# \nLooking for a commission?  Add me on Discord: aropatnik  \n# \nMe on other places on the internet:  \nDiscord server: https://discord.gg/ue5t7tGW32  \nYoutube: https://www.youtube.com/@AropatnikCustoms  \nTikTok: https://www.tiktok.com/@aropatnik  \n# \nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [<u>https://ko-fi.com/aropatnik</u>](https://ko-fi.c",
+			"links": {
+				"kofi": "https://ko-fi.com/aropatnik",
+				"tiktok": "https://www.tiktok.com/@aropatnik",
+				"youtube": "https://www.youtube.com/@AropatnikCustoms"
+			}
+		},
+		"horrorwolf": {
+			"name": "HorrorWolf",
+			"avatar": "creators/horrorwolf.png?v=b1e42ede",
+			"links": {
+				"youtube": "https://youtu.be/AqBGlsua8UM"
+			}
+		},
+		"pico-senpai": {
+			"name": "Pico Senpai",
+			"avatar": "creators/pico-senpai.jpg?v=c1e05f18",
+			"bio": "I make silly mods ranging from sound mods to UI mods, usually a lot of shitpost, the point being to make people laugh and that's just it xd\n\nMy Patreon and socials: https://linktr.ee/picosenpaipro\nMy discord: Pico_senpai",
+			"links": {
+				"patreon": "https://www.patreon.com/PicoSenpaiSFW",
+				"site": "https://static.wixstatic.com/media/e2a744_abb27c3529754e04ab6ad06fd9c7ab56~mv2.png/v1/fill/w_740,h_416,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e2a744_abb27c3529754e04ab6ad06fd9c7ab56~mv2.png",
+				"youtube": "https://youtu.be/v681bCoQxPA"
+			}
+		},
+		"snowyseer": {
+			"name": "SnowySeer",
+			"avatar": "creators/snowyseer.png?v=76ff9d03",
+			"links": {}
+		},
+		"sterak": {
+			"name": "Sterak",
+			"avatar": "creators/sterak.jpg?v=dc7abcff",
+			"links": {
+				"youtube": "https://youtu.be/EHlL1B8c4yc"
+			}
+		},
+		"wastedwaffle": {
+			"name": "WastedWaffle",
+			"avatar": "creators/wastedwaffle.jpg?v=802af1c0",
+			"links": {}
 		}
 	},
 	"mods": [
@@ -26,6 +76,176 @@
 				"asset": "200-years-aphelios-ult-v1.fantome",
 				"size": 8362764,
 				"sha256": "da90a8ffcb5dc3c963616cd7bc8b5f9aff0a1abcfd2aba25cf861babbf7debc9"
+			}
+		},
+		{
+			"id": "200-years-aphelios-ult-icon-only",
+			"name": "200 YEARS APHELIOS ULT (Icon only)",
+			"kind": "icons",
+			"creator": "algicci",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/200-years-aphelios-ult-icon-only/thumb.webp?v=0080e139",
+			"file": {
+				"version": 1,
+				"asset": "200-years-aphelios-ult-icon-only-v1.fantome",
+				"size": 67576,
+				"sha256": "b6a8dbea82230a0801b8d22972bfb2fec0cced1cb5873325dbe9ea8bffa52959"
+			}
+		},
+		{
+			"id": "2016-outro-music-recall",
+			"name": "2016 OUTRO MUSIC RECALL",
+			"kind": "sounds",
+			"creator": "sterak",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/2016-outro-music-recall/thumb.webp?v=ee762161",
+			"file": {
+				"version": 1,
+				"asset": "2016-outro-music-recall-v1.fantome",
+				"size": 48833982,
+				"sha256": "77e116efd80418672859c15e0fb016ef767bccae1459a830114646a0df817f00"
+			}
+		},
+		{
+			"id": "2024-summoner-spells",
+			"name": "2024 Summoner Spells",
+			"kind": "ui",
+			"creator": "aropatnik",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/2024-summoner-spells/thumb.webp?v=32a718c8",
+			"file": {
+				"version": 1,
+				"asset": "2024-summoner-spells-v1.fantome",
+				"size": 24165,
+				"sha256": "4231176598affa64d09d6eaf6a4b017bb6dc8e48f0db725c7c0d7876bab9c09d"
+			}
+		},
+		{
+			"id": "21st-century-humour-kled",
+			"name": "21st Century Humour Kled",
+			"kind": "sounds",
+			"creator": "pico-senpai",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/21st-century-humour-kled/thumb.webp?v=7895057b",
+			"file": {
+				"version": 1,
+				"asset": "21st-century-humour-kled-v1.fantome",
+				"size": 4841141,
+				"sha256": "6ac3be97ad7cfc018d4be49ef3ec692cb522735d32f2c57df08b0893b79c24e6"
+			}
+		},
+		{
+			"id": "21st-century-humour-nunu",
+			"name": "21st Century Humour Nunu",
+			"kind": "sounds",
+			"creator": "pico-senpai",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/21st-century-humour-nunu/thumb.webp?v=396e0bfc",
+			"file": {
+				"version": 1,
+				"asset": "21st-century-humour-nunu-v1.fantome",
+				"size": 3615313,
+				"sha256": "c6900554e92db8b8816f89549af84fa00c90a1e594404c4e8d675a4e9e4c44bb"
+			}
+		},
+		{
+			"id": "2bgwenretexture",
+			"name": "2bGwenRetexture",
+			"kind": "other",
+			"creator": "wastedwaffle",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/2bgwenretexture/thumb.webp?v=0e5e947c",
+			"file": {
+				"version": 1,
+				"asset": "2bgwenretexture-v1.fantome",
+				"size": 10145967,
+				"sha256": "4c8523b0d705bc63819d3dc3472a315c4a7432f4859cfc918d19a44d050b2103"
+			}
+		},
+		{
+			"id": "403-swords-man-dark-hud",
+			"name": "403 Swords Man Dark Hud",
+			"kind": "ui",
+			"creator": "403",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/403-swords-man-dark-hud/thumb.webp?v=052a1727",
+			"file": {
+				"version": 1,
+				"asset": "403-swords-man-dark-hud-v1.fantome",
+				"size": 12296042,
+				"sha256": "d60057801c9674d06b505547c8a5474d15d19f59569374cd8b57f07a2c79db05"
+			}
+		},
+		{
+			"id": "7-4-parry-without-reason",
+			"name": "7-4: PARRY WITHOUT REASON",
+			"kind": "sounds",
+			"creator": "snowyseer",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/7-4-parry-without-reason/thumb.webp?v=c9e6a4af",
+			"file": {
+				"version": 1,
+				"asset": "7-4-parry-without-reason-v1.fantome",
+				"size": 1716070,
+				"sha256": "316f6219f7e99f5b19b15d49ca8acd9827f6e1e77f457008da2c7c51a9eed612"
+			}
+		},
+		{
+			"id": "a-collection-of-emotes",
+			"name": "A Collection of Emotes",
+			"kind": "other",
+			"creator": "aropatnik",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/a-collection-of-emotes/thumb.webp?v=3dfaea78",
+			"file": {
+				"version": 1,
+				"asset": "a-collection-of-emotes-v1.fantome",
+				"size": 1785268,
+				"sha256": "c34ff20cf474c8d7c4e3ef2d29cd7e0d389091ab209d78e34379e902ad00d6d8"
+			}
+		},
+		{
+			"id": "aatrox-r-sfx-upgrade",
+			"name": "Aatrox R SFX Upgrade",
+			"kind": "sounds",
+			"creator": "horrorwolf",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/aatrox-r-sfx-upgrade/thumb.webp?v=08c3d76d",
+			"file": {
+				"version": 1,
+				"asset": "aatrox-r-sfx-upgrade-v1.fantome",
+				"size": 18413908,
+				"sha256": "43018efda7bd5c6aa29619cd313107f6d6a7c53615561529d90e84ddf05c6d4a"
 			}
 		}
 	]

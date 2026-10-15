@@ -1,0 +1,17 @@
+{
+	"id": "403-swords-man-dark-hud",
+	"name": "403 Swords Man Dark Hud",
+	"kind": "ui",
+	"creator": "403",
+	"description": "---\n\n**Created by** [403](https://runeforge.dev/users/403)\n\n**Original:** https://runeforge.dev/mods/9d762443-1546-442c-9668-592229812f96\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/403-swords-man-dark-hud/thumb.webp?v=052a1727",
+	"file": {
+		"version": 1,
+		"asset": "403-swords-man-dark-hud-v1.fantome",
+		"size": 12296042,
+		"sha256": "d60057801c9674d06b505547c8a5474d15d19f59569374cd8b57f07a2c79db05"
+	}
+}

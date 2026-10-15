@@ -1,0 +1,17 @@
+{
+	"id": "2bgwenretexture",
+	"name": "2bGwenRetexture",
+	"kind": "other",
+	"creator": "wastedwaffle",
+	"description": "---\n\n**Created by** [WastedWaffle](https://runeforge.dev/users/WastedWaffle)\n\n**Original:** https://runeforge.dev/mods/39a69ea2-d727-41ca-80da-b5ad7741e7d2\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/2bgwenretexture/thumb.webp?v=0e5e947c",
+	"file": {
+		"version": 1,
+		"asset": "2bgwenretexture-v1.fantome",
+		"size": 10145967,
+		"sha256": "4c8523b0d705bc63819d3dc3472a315c4a7432f4859cfc918d19a44d050b2103"
+	}
+}

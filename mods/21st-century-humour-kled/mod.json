@@ -1,0 +1,17 @@
+{
+	"id": "21st-century-humour-kled",
+	"name": "21st Century Humour Kled",
+	"kind": "sounds",
+	"creator": "pico-senpai",
+	"description": "## **MOD INFORMATION**\n\n* Author: Pico Senpai\n* Mod Version: 1.0.1\n* Modified champion: Kled\n* Modified sound: Every Kled ability, recall, walking, death, unmounted music\n\n## **DESCRIPTION**\n\n* After Kled spent too much time watching Gen Z humour Tiktoks he decided to adapt his drip to this new found skibidi humour of his;\nThus every single one of his abilities now play goofy meme sounds, when he gets dismounted the background music is filled with random xdd music, when he walks around he makes spongebob noises, during his recall he kills Nami, and when Skarl runs away you get jumpscared (no need to thank me btw)\n\n## **SOCIALS**\n\n![](https://static.wixstatic.com/media/e2a744_abb27c3529754e04ab6ad06fd9c7ab56~mv2.png/v1/fill/w_740,h_416,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e2a744_abb27c3529754e04ab6ad06fd9c7ab56~mv2.png)\n\n###\nAdd me on Discord: pico\\_senpai\n\n### My Youtube channel: [Pico Senpai](https://www.youtube.com/channel/UCAZfp8d8ZLFUurid3w2wElQ)\n\n### Support me on Patreon!: [PicoSenpai](https://www.patreon.com/PicoSenpaiSFW)\n\n---\n\n**Created by** [Pico Senpai](https://runeforge.dev/users/Pico_Senpai)\n\n**Original:** https://runeforge.dev/mods/26cdf718-1a4f-4c5d-b7fb-ebe8c779725d\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/21st-century-humour-kled/thumb.webp?v=7895057b",
+	"file": {
+		"version": 1,
+		"asset": "21st-century-humour-kled-v1.fantome",
+		"size": 4841141,
+		"sha256": "6ac3be97ad7cfc018d4be49ef3ec692cb522735d32f2c57df08b0893b79c24e6"
+	}
+}
