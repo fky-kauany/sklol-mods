@@ -39,6 +39,14 @@
 			"youtube": "https://youtu.be/gwsn8f05l7o"
 		}
 	},
+	"anix": {
+		"name": "Anix",
+		"avatar": "creators/anix.png?v=ba39520b",
+		"links": {
+			"discord": "https://discord.gg/VzgK3uPTyj",
+			"twitch": "https://www.twitch.tv/anixeuw"
+		}
+	},
 	"archlyris": {
 		"name": "archlyris",
 		"bio": "how cool can this spin\n\n![https://discord.com/invite/yaByNwaxsP](https://runeforge.dev/cdn-cgi/image/width=360,height=360,quality=85,format=webp,fit=cover/https://r2-images-prod.runeforge.dev/9e272c3e-9b49-4f25-b285-ad1fb47e656d.gif)\n\nmy server https://discord.com/invite/yaByNwaxsP\nfriend server https://discord.gg/EEjd7DHj5r",
@@ -277,6 +285,10 @@
 			"x": "https://x.com/p1mek"
 		}
 	},
+	"ppwe": {
+		"name": "PPWE",
+		"links": {}
+	},
 	"rahabani": {
 		"name": "Rahabani",
 		"avatar": "creators/rahabani.jpg?v=56d4979a",
@@ -384,6 +396,20 @@
 		"name": "Yuumi",
 		"avatar": "creators/yuumi.png?v=cffa7077",
 		"bio": "Cute Cat, Yuumi OTP, Sitting on a lot a lot of custom skins and knowledge about them. Inactive.",
+		"links": {}
+	},
+	"zamius": {
+		"name": "Zamius",
+		"avatar": "creators/zamius.jpg?v=364bc59c",
+		"links": {
+			"discord": "https://discord.gg/pqr9bQx238",
+			"youtube": "https://www.youtube.com/watch?v=wXaLA_9a3Kk"
+		}
+	},
+	"zint0s": {
+		"name": "Zint0s",
+		"avatar": "creators/zint0s.png?v=0e7fc85e",
+		"bio": "I love cupcakke ^_^ \nif you want to play with me: Ralzi#RU1",
 		"links": {}
 	}
 }

@@ -1,0 +1,17 @@
+{
+	"id": "danfor-s-simple-championship-ashe-hud",
+	"name": "danfoR's Simple Championship Ashe HUD",
+	"kind": "ui",
+	"creator": "runeforgerecoveryteam",
+	"description": "## ♥ Mod Info ♥\n\n***\n\n* HUD Name: Simple Championship Ashe HUD\n* Author: danfoR\n* Skin Version: 1.2\n* **Original mod by danfoR, recovered by Tyre\\_4770**\n\n***\n\n## ♥ CREDITS ♥\n\n***\n\n* Made with Yoru’s Simple HUD Template\n\n ⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦\n\n---\n\n**Created by** [RuneforgeRecoveryTeam](https://runeforge.dev/users/RuneforgeRecoveryTeam)\n\n**Original:** https://runeforge.dev/mods/c88019f4-be5a-4882-a20d-0b82d28dfe36\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/danfor-s-simple-championship-ashe-hud/thumb.webp?v=078cf2a9",
+	"file": {
+		"version": 1,
+		"asset": "danfor-s-simple-championship-ashe-hud-v1.fantome",
+		"size": 5164833,
+		"sha256": "a7941034cf3b10016940913fdc57b2152a09957e9cc01e38a165c43c5e78e4b4"
+	}
+}

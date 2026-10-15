@@ -1,0 +1,17 @@
+{
+	"id": "daddy-s-tree-ivern-sfx",
+	"name": "Daddy's tree Ivern SFX",
+	"kind": "sounds",
+	"creator": "zint0s",
+	"description": "a little memes sounds\n\n---\n\n**Created by** [Zint0s](https://runeforge.dev/users/Zint0s)\n\n**Original:** https://runeforge.dev/mods/6327724f-8aa1-4880-9b2b-e1e9febb90db\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/daddy-s-tree-ivern-sfx/thumb.webp?v=71ecec6e",
+	"file": {
+		"version": 1,
+		"asset": "daddy-s-tree-ivern-sfx-v1.fantome",
+		"size": 15844440,
+		"sha256": "b6286d92aa132b9c8a95bf6fec89d20b504e3635b031b9fa197a125017fb9095"
+	}
+}

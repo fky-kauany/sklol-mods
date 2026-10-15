@@ -1,0 +1,17 @@
+{
+	"id": "cute-cat-ears-champion-icon",
+	"name": "Cute Cat Ears - Champion Icon",
+	"kind": "ui",
+	"creator": "anix",
+	"description": "Silly mod that modifies your champion icon in-game to add cat ears. I made this for myself for fun and decided to share it in case anyone wants to use it!\r\n\r\nThe \"blush\" is not the best, pretty misalligned lol.\r\n\r\nIf you want any other color or a new mod I could consider it,\r\nmy discord is animated_x just in case.\r\nOr join my new discord server! ^^ https://discord.gg/VzgK3uPTyj\n\n---\n\n**Created by** [Anix](https://runeforge.dev/users/Anix)\n\n**Original:** https://runeforge.dev/mods/bb6b6188-9329-46e7-9a17-9a30594a4eee\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/cute-cat-ears-champion-icon/thumb.webp?v=de930173",
+	"file": {
+		"version": 1,
+		"asset": "cute-cat-ears-champion-icon-v1.fantome",
+		"size": 516799,
+		"sha256": "2756ff183fafec8f6b191474b11430b008fc864e9bc4b377d1061a8186efdcfa"
+	}
+}

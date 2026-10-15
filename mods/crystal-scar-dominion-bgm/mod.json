@@ -1,0 +1,17 @@
+{
+	"id": "crystal-scar-dominion-bgm",
+	"name": "Crystal Scar (Dominion) BGM",
+	"kind": "sounds",
+	"creator": "zamius",
+	"description": "### MOD INFORMATION\r\n##\r\n\r\n**Modified Sounds**: Summoner's Rift's background music\r\n\r\n**Author**: Zamius\r\n\r\n**Description**: Changes Summoner’s Rift Classic theme background music to *Dominion* game mode’s theme music from the Crystal Scar map.\r\n\r\n##\r\n\r\n**ABOUT THE MOD**\r\n- Since the songs are normally too long to fit the game’s restrictions, I have cut some parts off from them so they would fit.\r\n\r\n**SONGS**\r\n- (Intro) Start-375\r\n- (Early-Mid) 375-250 & 250-125 (a mix of both)\r\n- (Late) 125-Finish\r\n\r\n**CREDITS**\r\n- Shoutout to beta testers **Aropatnik** and **bud**\r\n##\r\n\r\n**NOTICE**\r\n\r\nYou need to select the Classic theme from the game's sound settings for this mod to work!\r\n> *“Made me feel old and miss the old League.”* -Aropatnik\n\n---\n\n**Created by** [Zamius](https://runeforge.dev/users/Zamius)\n\n**Original:** https://runeforge.dev/mods/9b3b0ee4-efc0-4ce0-b25a-ae8df5f48e9c\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/crystal-scar-dominion-bgm/thumb.webp?v=9f78f130",
+	"file": {
+		"version": 1,
+		"asset": "crystal-scar-dominion-bgm-v1.fantome",
+		"size": 11313654,
+		"sha256": "a6ee8588105b571d93eb67b64e482ba30d052d8829f500187a01983fcf01bb04"
+	}
+}

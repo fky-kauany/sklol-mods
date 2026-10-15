@@ -1,0 +1,17 @@
+{
+	"id": "cupcakke-sona",
+	"name": "Cupcakke Sona",
+	"kind": "other",
+	"creator": "ppwe",
+	"description": "WARNING - one specific ult voice line is really loud, i'll change it someday\r\n\r\nmod that replaces voice lines and sound effects inspired by popular meme culture cupcakke remix, almost every voice line has a moan or something else, her ult sound effect was also changed, sound effects only work on default\r\nshat the fak ap sound - twitch.tv/cocabobi\r\nUSE DEFAULT SKIN FOR SFX, USE ANY OTHER SKIN FOR VOICE LINES, DONT USE DJ SONA OR PSYOPS\n\n---\n\n**Created by** [PPWE](https://runeforge.dev/users/PPWE)\n\n**Original:** https://runeforge.dev/mods/20a1feaf-5a9f-4ac3-bbe2-25bd720d9307\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/cupcakke-sona/thumb.webp?v=8a3946e7",
+	"file": {
+		"version": 1,
+		"asset": "cupcakke-sona-v1.fantome",
+		"size": 14795867,
+		"sha256": "cc7640ebc92d40c9e61b261d85812e21e49b077396475af3a78e4911969848fc"
+	}
+}

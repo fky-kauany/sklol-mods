@@ -1,0 +1,20 @@
+{
+	"id": "cubic-derby-minions-wuthering-waves",
+	"name": "Cubic Derby minions (wuthering waves)",
+	"kind": "mobs",
+	"creator": "archlyris",
+	"description": "author is lazy and does not want to write anything\n\n---\n\n**Created by** [archlyris](https://runeforge.dev/users/archlyris)\n\n**Original:** https://runeforge.dev/mods/66a69c9a-daf0-4fe2-adec-a9365b7b377b\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/cubic-derby-minions-wuthering-waves/thumb.webp?v=a6636805",
+	"file": {
+		"version": 1,
+		"asset": "cubic-derby-minions-wuthering-waves-v1.fantome",
+		"size": 16918261,
+		"sha256": "cdb1c8700e250e857d93a06fb6c998eb228c0fabb81f87f0284db4c6bcebfbbb"
+	},
+	"maps": [
+		11
+	]
+}

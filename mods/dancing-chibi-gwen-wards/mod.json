@@ -1,0 +1,17 @@
+{
+	"id": "dancing-chibi-gwen-wards",
+	"name": "Dancing Chibi Gwen Wards",
+	"kind": "other",
+	"creator": "aropatnik",
+	"description": "# Pick the default ward skin in champ select!\n\n## Information\n\n**Modified La Creatura: Wards**\n\n**Modified skin: Default**\n\n**Author: Aropatnik**\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/2b0efec9-097f-40b0-bdaf-a97c8e348d8a\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/dancing-chibi-gwen-wards/thumb.webp?v=b3e20d28",
+	"file": {
+		"version": 1,
+		"asset": "dancing-chibi-gwen-wards-v1.fantome",
+		"size": 918341,
+		"sha256": "9f1a8a1de45383b3cc5f9114542a81ec1c2fba8277ad637090ec1d7a282e794b"
+	}
+}

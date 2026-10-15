@@ -1,0 +1,17 @@
+{
+	"id": "crystal-rose-zyra-voiceover-by-tricolorstar",
+	"name": "Crystal Rose Zyra Voiceover by TricolorStar",
+	"kind": "sounds",
+	"creator": "aurecueil",
+	"description": "# **Skin Information**\n\nChampion: Zyra\n\nSkin: Crystal Rose (base)\n\nReplaces: Voiceover\n\nDirector: [Tri Soundworks](https://x.com/TricolorStar)\n\nVoice Actress: [Crystal Lee](https://x.com/CrystalLeeVO)\n\nFix by: Aurecueil\n\nPatch Fixed: 15.14\n\n## Wanna buy me a [Coffee](https://ko-fi.com/aurecueil)? :>\n\n[![My Discord Server ^^](https://raw.githubusercontent.com/Aurecueil/Temp/refs/heads/main/images/banner6_better.png)](https://discord.gg/GETA29vZEK)\n\n\n## MISC\n\n[Tierlist of my BGM mods](https://runeforge.dev/users/Aurecueil)\n\ndc: aurecueil\n\ni DO take Commisions btw\n\n\nkofi (director): [TricolorStar](https://ko-fi.com/N4N6C42S)\n\n---\n\n**Created by** [aurecueil](https://runeforge.dev/users/aurecueil)\n\n**Original:** https://runeforge.dev/mods/5a6d850a-afd5-4b96-a8c9-15d589414193\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/crystal-rose-zyra-voiceover-by-tricolorstar/thumb.webp?v=f6826320",
+	"file": {
+		"version": 1,
+		"asset": "crystal-rose-zyra-voiceover-by-tricolorstar-v1.fantome",
+		"size": 3740573,
+		"sha256": "a78cf77aedec438631e60c273d4e3b1f322e8af2f66d9ae7b8a3072f90e09f29"
+	}
+}

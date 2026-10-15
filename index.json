@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T07:48:16.384Z",
+	"generatedAt": "2026-10-15T07:51:24.334Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -40,6 +40,14 @@
 			"avatar": "creators/algicci.jpg?v=49e2249b",
 			"links": {
 				"youtube": "https://youtu.be/gwsn8f05l7o"
+			}
+		},
+		"anix": {
+			"name": "Anix",
+			"avatar": "creators/anix.png?v=ba39520b",
+			"links": {
+				"discord": "https://discord.gg/VzgK3uPTyj",
+				"twitch": "https://www.twitch.tv/anixeuw"
 			}
 		},
 		"archlyris": {
@@ -280,6 +288,10 @@
 				"x": "https://x.com/p1mek"
 			}
 		},
+		"ppwe": {
+			"name": "PPWE",
+			"links": {}
+		},
 		"rahabani": {
 			"name": "Rahabani",
 			"avatar": "creators/rahabani.jpg?v=56d4979a",
@@ -387,6 +399,20 @@
 			"name": "Yuumi",
 			"avatar": "creators/yuumi.png?v=cffa7077",
 			"bio": "Cute Cat, Yuumi OTP, Sitting on a lot a lot of custom skins and knowledge about them. Inactive.",
+			"links": {}
+		},
+		"zamius": {
+			"name": "Zamius",
+			"avatar": "creators/zamius.jpg?v=364bc59c",
+			"links": {
+				"discord": "https://discord.gg/pqr9bQx238",
+				"youtube": "https://www.youtube.com/watch?v=wXaLA_9a3Kk"
+			}
+		},
+		"zint0s": {
+			"name": "Zint0s",
+			"avatar": "creators/zint0s.png?v=0e7fc85e",
+			"bio": "I love cupcakke ^_^ \nif you want to play with me: Ralzi#RU1",
 			"links": {}
 		}
 	},
@@ -2568,6 +2594,179 @@
 				"asset": "crunchy-bebe-rexha-turrets-v1.fantome",
 				"size": 5076410,
 				"sha256": "5288b18e65e63b0189e3c9897cbe96e3fc346fa5c8febee5c6c78e5611ae4598"
+			}
+		},
+		{
+			"id": "crystal-rose-zyra-voiceover-by-tricolorstar",
+			"name": "Crystal Rose Zyra Voiceover by TricolorStar",
+			"kind": "sounds",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/crystal-rose-zyra-voiceover-by-tricolorstar/thumb.webp?v=f6826320",
+			"file": {
+				"version": 1,
+				"asset": "crystal-rose-zyra-voiceover-by-tricolorstar-v1.fantome",
+				"size": 3740573,
+				"sha256": "a78cf77aedec438631e60c273d4e3b1f322e8af2f66d9ae7b8a3072f90e09f29"
+			}
+		},
+		{
+			"id": "crystal-scar-dominion-bgm",
+			"name": "Crystal Scar (Dominion) BGM",
+			"kind": "sounds",
+			"creator": "zamius",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/crystal-scar-dominion-bgm/thumb.webp?v=9f78f130",
+			"file": {
+				"version": 1,
+				"asset": "crystal-scar-dominion-bgm-v1.fantome",
+				"size": 11313654,
+				"sha256": "a6ee8588105b571d93eb67b64e482ba30d052d8829f500187a01983fcf01bb04"
+			}
+		},
+		{
+			"id": "cubic-derby-minions-wuthering-waves",
+			"name": "Cubic Derby minions (wuthering waves)",
+			"kind": "mobs",
+			"creator": "archlyris",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/cubic-derby-minions-wuthering-waves/thumb.webp?v=a6636805",
+			"file": {
+				"version": 1,
+				"asset": "cubic-derby-minions-wuthering-waves-v1.fantome",
+				"size": 16918261,
+				"sha256": "cdb1c8700e250e857d93a06fb6c998eb228c0fabb81f87f0284db4c6bcebfbbb"
+			},
+			"maps": [
+				11
+			]
+		},
+		{
+			"id": "cupcakke-sona",
+			"name": "Cupcakke Sona",
+			"kind": "other",
+			"creator": "ppwe",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/cupcakke-sona/thumb.webp?v=8a3946e7",
+			"file": {
+				"version": 1,
+				"asset": "cupcakke-sona-v1.fantome",
+				"size": 14795867,
+				"sha256": "cc7640ebc92d40c9e61b261d85812e21e49b077396475af3a78e4911969848fc"
+			}
+		},
+		{
+			"id": "curator-announcer-dawngate-recovery",
+			"name": "Curator Announcer (Dawngate) (Recovery)",
+			"kind": "announcer",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/curator-announcer-dawngate-recovery/thumb.webp?v=a77c173c",
+			"file": {
+				"version": 1,
+				"asset": "curator-announcer-dawngate-recovery-v1.fantome",
+				"size": 8677847,
+				"sha256": "0712ee46a04ec0b2e2156d6070eeb3fce9cca0c5f96849ed35d41fc82003175b"
+			}
+		},
+		{
+			"id": "cute-cat-ears-champion-icon",
+			"name": "Cute Cat Ears - Champion Icon",
+			"kind": "ui",
+			"creator": "anix",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/cute-cat-ears-champion-icon/thumb.webp?v=de930173",
+			"file": {
+				"version": 1,
+				"asset": "cute-cat-ears-champion-icon-v1.fantome",
+				"size": 516799,
+				"sha256": "2756ff183fafec8f6b191474b11430b008fc864e9bc4b377d1061a8186efdcfa"
+			}
+		},
+		{
+			"id": "czech-announcer",
+			"name": "Czech Announcer",
+			"kind": "announcer",
+			"creator": "aropatnik",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/czech-announcer/thumb.webp?v=d2899530",
+			"file": {
+				"version": 1,
+				"asset": "czech-announcer-v1.fantome",
+				"size": 56677476,
+				"sha256": "643b1d730a0f405b12b72a073289877b52aec9685ad4c94dc38ae24fdfdea0dd"
+			}
+		},
+		{
+			"id": "daddy-s-tree-ivern-sfx",
+			"name": "Daddy's tree Ivern SFX",
+			"kind": "sounds",
+			"creator": "zint0s",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/daddy-s-tree-ivern-sfx/thumb.webp?v=71ecec6e",
+			"file": {
+				"version": 1,
+				"asset": "daddy-s-tree-ivern-sfx-v1.fantome",
+				"size": 15844440,
+				"sha256": "b6286d92aa132b9c8a95bf6fec89d20b504e3635b031b9fa197a125017fb9095"
+			}
+		},
+		{
+			"id": "dancing-chibi-gwen-wards",
+			"name": "Dancing Chibi Gwen Wards",
+			"kind": "other",
+			"creator": "aropatnik",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/dancing-chibi-gwen-wards/thumb.webp?v=b3e20d28",
+			"file": {
+				"version": 1,
+				"asset": "dancing-chibi-gwen-wards-v1.fantome",
+				"size": 918341,
+				"sha256": "9f1a8a1de45383b3cc5f9114542a81ec1c2fba8277ad637090ec1d7a282e794b"
+			}
+		},
+		{
+			"id": "danfor-s-simple-championship-ashe-hud",
+			"name": "danfoR's Simple Championship Ashe HUD",
+			"kind": "ui",
+			"creator": "runeforgerecoveryteam",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/danfor-s-simple-championship-ashe-hud/thumb.webp?v=078cf2a9",
+			"file": {
+				"version": 1,
+				"asset": "danfor-s-simple-championship-ashe-hud-v1.fantome",
+				"size": 5164833,
+				"sha256": "a7941034cf3b10016940913fdc57b2152a09957e9cc01e38a165c43c5e78e4b4"
 			}
 		}
 	]
