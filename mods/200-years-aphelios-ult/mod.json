@@ -1,0 +1,17 @@
+{
+	"id": "200-years-aphelios-ult",
+	"name": "200 YEARS APHELIOS ULT",
+	"kind": "sounds",
+	"creator": "algicci",
+	"description": "# This is the SFX version, check my profile for icon only version!\nReplaces the icon of Aphelios ult with the RIOT twitch emote. Also changes his ult sfx to include 100% more 200 years. (Works on every skin)\n\n\"200 YEARS OF PUNISHMENT\"\n\n---\n\n**Created by** [Algicci](https://runeforge.dev/users/Algicci)\n\n**Original:** https://runeforge.dev/mods/a7933e1c-d6a7-41f0-8c96-3ef1de920874\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/200-years-aphelios-ult/thumb.webp?v=0080e139",
+	"file": {
+		"version": 1,
+		"asset": "200-years-aphelios-ult-v1.fantome",
+		"size": 8362764,
+		"sha256": "da90a8ffcb5dc3c963616cd7bc8b5f9aff0a1abcfd2aba25cf861babbf7debc9"
+	}
+}
