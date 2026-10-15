@@ -1,0 +1,17 @@
+{
+	"id": "very-transparent-target-dummies",
+	"name": "Very Transparent Target Dummies",
+	"kind": "other",
+	"creator": "agomsmoga",
+	"description": "#### There is an alternate set of files if you want to also disable it's health bar\n\n#### Overview:\n\n* Hides both the enemy and friendly target dummies all character settings.\n* No shadows or outline, [this mod here](https://runeforge.dev/mods/b1e00958-3fbd-4f53-ab5d-9f0838a783e0) **will** show shadows and outline.\n* Mouseover select still works.\n* Hit effects still show on the dummy.\n\n#\n\n[Click to see all my other totally sick mods.](https://runeforge.dev/mods?search=moga)\n\nhttps://discord.gg/gSXbEmPQCA\n\n---\n\n**Created by** [Moga](https://runeforge.dev/users/agomsMoga)\n\n**Original:** https://runeforge.dev/mods/0d021715-5996-442d-9a94-c046e740e1e5\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/very-transparent-target-dummies/thumb.webp?v=67f162c8",
+	"file": {
+		"version": 1,
+		"asset": "very-transparent-target-dummies-v1.fantome",
+		"size": 51881,
+		"sha256": "93110ec89b3008bc996d59fea233139bd99f85c6a4ee3ede50b40b75c1ed3476"
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"id": "weakaura-wow-hud",
+	"name": "WeakAura WoW HUD",
+	"kind": "ui",
+	"creator": "moga",
+	"description": "no, the mod is not broken as of 16.18+, ltk is lying to you, idrc to fix whatever its btiching about tho.\n\n-\n\nThe alt versions are in my\n[Discord](https://discord.gg/gSXbEmPQCA)\nor\n[Codeberg.](https://codeberg.org/flak/Mods)\nI am sick of updating each link individually.\nYOU SHOULD USE 0\n(ZERO!)\nHUD SCALE //\n(ZERO!)\n\nALTERNATE VERSIONS + ADDONS (click to expand me)\n\n### I realize there are a LOT of versions, but they're all just small, requested tweaks.\n\nI      Items not attached to main HUD\nC      Center tooltips\nTT     Tooltips enabled (required to ping spells)\nQWERDF Spells in QWER DF order, not D QWER F\nLow    Lowered HUD\n\nVersion 2: (Check the image section to see it.)\n\nClick to expand. -->\n\nDEFAULT  High\nC        High with Center Tooltip.\nTT       High with Pings/Tooltips Enabled.\nTTC      High with both from the last two.\nLow      Low\nLow C    Low with Center Tooltip.\nLow TT   Low with Pings/Tooltips Enabled.\nLow TTC  Low with both from the last two.\nI        High with items lower\nIC       High with items lower and Center Tooltip.\nITT      High with items lower and Pings/Tooltips Enabled.\nITTC     High with items lower and both from the last two.\nLow I    Low with items lower\nLow IC   Low with items lower and Center Tooltip.\nLow ITT  Low with items lower and Pings/Tooltips Enabled.\nLow ITTC Low with items lower and both from the last two.\n\nVersion 1: [Old]\n\nDEFAULT       High\nLow           Low\nLow TT        Low with Pings/Tooltips enabled\nQWERDF        QWERDF High\nQWERDF Low    QWERDF Low\nQWERDF TT     QWERDF High with Pings/Tooltips enabled\nQWERDF Low TT QWERDF Low with Pings/Tooltips enabled\nSlightly Transparent Patch\n\nOVERVIEW\n\nCompletely redesigns the HUD to resemble a [Weakaura HUD from WoW](https://i.imgur.com/LdOWUXZ.png),\nsolely to make it easier to track ability cooldowns. Most of your eyeball bandwidth during gameplay\nis used up around the center of your monitor. Placing HUD elements near the center of your screen\ncompensates for this and allows you to check your CDs while also watching gameplay simultaneously.\n\nAlso Includes a few QoL changes like hiding QWER labels, squaring some text alignments,\nfixing pixels gaps made by Riot, and removing useless buttons from the hud.\nI do have a mod that is more complete in removing all distractions & nonsense called\n[Adblock for LoL.](https://runeforge.dev/mods/6c349b3c-8683-47e4-b70a-45f5cb2f7b74)\n\nThis is pixel perfect ONLY on 0 [ZERØ] HUD scale (on 1440 lmao). Adjust your HUD scale ±1 if\nthings look off, or u can tell me if you notice a 1 pixel error that I messed up.\n\n**I greatly appreciate any bug reports & improvement ideas (even if i dont like it).**\n\n-->\n\nLIST OF (SOME) AMBIGUOUS CHANGES -->\nRANDOM NOTE\n-->\n\n<!--\n- XP meter is now a static vertical line.\n\n---\n\n**Created by** [Moga](https://runeforge.dev/users/Moga)\n\n**Original:** https://runeforge.dev/mods/fbd82c69-1d3f-4d8c-8063-e9acf9a9feca\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/weakaura-wow-hud/thumb.webp?v=a012e632",
+	"file": {
+		"version": 1,
+		"asset": "weakaura-wow-hud-v1.fantome",
+		"size": 6857605,
+		"sha256": "cfdb4fa8762f7734f37f3f2c7af0db5d993404b8851df45d3fd1abe4ccb1e702"
+	}
+}

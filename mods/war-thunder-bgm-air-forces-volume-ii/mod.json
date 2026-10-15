@@ -1,0 +1,17 @@
+{
+	"id": "war-thunder-bgm-air-forces-volume-ii",
+	"name": "War Thunder BGM (Air Forces Volume II)",
+	"kind": "sounds",
+	"creator": "aurecueil",
+	"description": "# **List of Tracks Used**\n![budmygoat](https://raw.githubusercontent.com/Aurecueil/Temp/refs/heads/main/images/image-66.png)\n# **Skin Information**\n\nReplaces: UPDATED BG\n\nAuthor: Aurecuei\n\nVersion: 1.0.0\n\nMap: Summoners Rift (11)\n\nPatch Made: 15.17\n\n## Wanna buy me a [Coffee](https://ko-fi.com/aurecueil)? :>\n\n\n[![My Discord Server ^^](https://raw.githubusercontent.com/Aurecueil/Temp/refs/heads/main/images/banner6_better.png)](https://discord.gg/GETA29vZEK)\n\n\n## MISC\n\n[Tierlist of my BGM mods](https://runeforge.dev/users/Aurecueil)\n\ndc: aurecueil\n\ni DO take Commisions btw\n\n---\n\n**Created by** [aurecueil](https://runeforge.dev/users/aurecueil)\n\n**Original:** https://runeforge.dev/mods/e6262136-669a-4094-b5a3-adbfb797ff6d\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/war-thunder-bgm-air-forces-volume-ii/thumb.webp?v=5ba4befa",
+	"file": {
+		"version": 1,
+		"asset": "war-thunder-bgm-air-forces-volume-ii-v1.fantome",
+		"size": 93801022,
+		"sha256": "6e6d27d283aa9f10b385647ef7fd9c3e7741ec68328dfc932b0b06277a940dc0"
+	}
+}

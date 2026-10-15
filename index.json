@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T12:32:15.904Z",
+	"generatedAt": "2026-10-15T12:37:53.552Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -189,6 +189,13 @@
 			"bio": "i made 1 mod, it took 5 hours and i am 1% less lost from when i started.",
 			"links": {
 				"youtube": "https://youtu.be/HNxZgglwKVo"
+			}
+		},
+		"bountsx": {
+			"name": "BountsX",
+			"avatar": "creators/bountsx.jpg?v=6cb94a16",
+			"links": {
+				"youtube": "https://www.youtube.com/watch?v=an1Ddyx-N1w"
 			}
 		},
 		"budlibu500": {
@@ -11683,6 +11690,176 @@
 				"asset": "valorant-killstreak-compilation-v1.fantome",
 				"size": 539261,
 				"sha256": "634931dd526c1b41eca3802f31f16690f55dce80d6df3d60456e32c134d271ea"
+			}
+		},
+		{
+			"id": "valorant-killstreaks-works-now",
+			"name": "Valorant Killstreaks (works now)",
+			"kind": "sounds",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/valorant-killstreaks-works-now/thumb.webp?v=ca06ed28",
+			"file": {
+				"version": 1,
+				"asset": "valorant-killstreaks-works-now-v1.fantome",
+				"size": 292360,
+				"sha256": "fefeb7f00cbda6643d14a5942bc519e49cd83f54a9dcf32f763838b61d4d0c04"
+			}
+		},
+		{
+			"id": "very-transparent-target-dummies",
+			"name": "Very Transparent Target Dummies",
+			"kind": "other",
+			"creator": "agomsmoga",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/very-transparent-target-dummies/thumb.webp?v=67f162c8",
+			"file": {
+				"version": 1,
+				"asset": "very-transparent-target-dummies-v1.fantome",
+				"size": 51881,
+				"sha256": "93110ec89b3008bc996d59fea233139bd99f85c6a4ee3ede50b40b75c1ed3476"
+			}
+		},
+		{
+			"id": "viego-my-hero-academia-sfx",
+			"name": "Viego My Hero Academia SFX",
+			"kind": "sounds",
+			"creator": "bountsx",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/viego-my-hero-academia-sfx/thumb.webp?v=58bd3164",
+			"file": {
+				"version": 1,
+				"asset": "viego-my-hero-academia-sfx-v1.fantome",
+				"size": 2688038,
+				"sha256": "0556888dc097e5f8392a84426c34c45338a86bf8e2bdb5ad47e1e81375d1c246"
+			}
+		},
+		{
+			"id": "villain-k-da-evelynn",
+			"name": "Villain K/DA Evelynn",
+			"kind": "sounds",
+			"creator": "wiko",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/villain-k-da-evelynn/thumb.webp?v=f05eefc4",
+			"file": {
+				"version": 1,
+				"asset": "villain-k-da-evelynn-v1.fantome",
+				"size": 3195892,
+				"sha256": "7a25c0e80a4c0827ea3d4da86b67e262a84c0323ee114fc55a737da8c57eac0c"
+			}
+		},
+		{
+			"id": "war-thunder-bgm-air-forces-volume-ii",
+			"name": "War Thunder BGM (Air Forces Volume II)",
+			"kind": "sounds",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/war-thunder-bgm-air-forces-volume-ii/thumb.webp?v=5ba4befa",
+			"file": {
+				"version": 1,
+				"asset": "war-thunder-bgm-air-forces-volume-ii-v1.fantome",
+				"size": 93801022,
+				"sha256": "6e6d27d283aa9f10b385647ef7fd9c3e7741ec68328dfc932b0b06277a940dc0"
+			}
+		},
+		{
+			"id": "warcraft-2-cursor",
+			"name": "Warcraft 2 Cursor",
+			"kind": "ui",
+			"creator": "aropatnik",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/warcraft-2-cursor/thumb.webp?v=25be6319",
+			"file": {
+				"version": 1,
+				"asset": "warcraft-2-cursor-v1.fantome",
+				"size": 37051,
+				"sha256": "e677a12e34f3adae994f69abfb289b5f57ae0a475bda07b9e90fcf63fb274ea7"
+			}
+		},
+		{
+			"id": "warden-gragas-chroma-vfx",
+			"name": "Warden Gragas chroma VFX",
+			"kind": "vfx",
+			"creator": "suriin",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/warden-gragas-chroma-vfx/thumb.webp?v=63a3f8ca",
+			"file": {
+				"version": 1,
+				"asset": "warden-gragas-chroma-vfx-v1.fantome",
+				"size": 10046009,
+				"sha256": "754ff114e05d29506953d5fad9839b930d74db4e7f9ed808aa9df2b9482aa52b"
+			}
+		},
+		{
+			"id": "warrior-dummy-target",
+			"name": "Warrior Dummy Target",
+			"kind": "other",
+			"creator": "azerkan67",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/warrior-dummy-target/thumb.webp?v=b288bb21",
+			"file": {
+				"version": 1,
+				"asset": "warrior-dummy-target-v1.fantome",
+				"size": 688779,
+				"sha256": "f4c96daa2cadf6331c694aacad6290163505c0bb41773ce888795ff61741540f"
+			}
+		},
+		{
+			"id": "we-are-charlie-kirk-replace-champion-global-soun",
+			"name": "We are Charlie Kirk replace champion global sound",
+			"kind": "sounds",
+			"creator": "archlyris",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/we-are-charlie-kirk-replace-champion-global-soun/thumb.webp?v=279d5d04",
+			"file": {
+				"version": 1,
+				"asset": "we-are-charlie-kirk-replace-champion-global-soun-v1.fantome",
+				"size": 15090501,
+				"sha256": "27f83758661291fdd70534ebc476f6c458ea5e8f06d2a8483f67a19d684889d8"
+			}
+		},
+		{
+			"id": "weakaura-wow-hud",
+			"name": "WeakAura WoW HUD",
+			"kind": "ui",
+			"creator": "moga",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/weakaura-wow-hud/thumb.webp?v=a012e632",
+			"file": {
+				"version": 1,
+				"asset": "weakaura-wow-hud-v1.fantome",
+				"size": 6857605,
+				"sha256": "cfdb4fa8762f7734f37f3f2c7af0db5d993404b8851df45d3fd1abe4ccb1e702"
 			}
 		}
 	]

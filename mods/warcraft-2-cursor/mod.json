@@ -1,0 +1,17 @@
+{
+	"id": "warcraft-2-cursor",
+	"name": "Warcraft 2 Cursor",
+	"kind": "ui",
+	"creator": "aropatnik",
+	"description": "![](https://imagedelivery.net/jSCO7XHWhtXOc_Ojz3D3xA/c77a90c0-aee4-4e15-4ca8-25d4e99f7000/gallery)\n\n## Information\n\n**Modified cursors: Modern and Legacy**\n\n**Author: Aropatnik**\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/283791cc-01a8-4151-9875-527b9583b7ee\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/warcraft-2-cursor/thumb.webp?v=25be6319",
+	"file": {
+		"version": 1,
+		"asset": "warcraft-2-cursor-v1.fantome",
+		"size": 37051,
+		"sha256": "e677a12e34f3adae994f69abfb289b5f57ae0a475bda07b9e90fcf63fb274ea7"
+	}
+}

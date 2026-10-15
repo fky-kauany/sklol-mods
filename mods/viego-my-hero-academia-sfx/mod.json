@@ -1,0 +1,17 @@
+{
+	"id": "viego-my-hero-academia-sfx",
+	"name": "Viego My Hero Academia SFX",
+	"kind": "sounds",
+	"creator": "bountsx",
+	"description": "* Champion: Viego\n* Skin: Base Skin\n\n## Features\n\n***\n\n***\n\n* Sound effect of the E and The R are replaced by SFX from my hero academia (with some additional add of voice on the track)\n* Supports all BASE custom skin that DID NOT INCLUDE SOUND SFX ALREADY ( tested on golden angel viego from Lexa )\n* Otherwise, you will need to replace the sound of your base custom skin with bnk-gui, using my **CUSTOM package** tuto included\n* (skin not based on base skin will need to be change manually by extracting the sound of my wem file with audacity and transfert it to the non based custom skin, this guy will explain it better /www.youtube.com/watch?v=z6ibL8kwtpU)\n\n***\n\n## Credits:\n\n***\n\n* BountsX (If there is any issues contact me on discord : bounts123)\n\n---\n\n**Created by** [BountsX](https://runeforge.dev/users/BountsX)\n\n**Original:** https://runeforge.dev/mods/84deeff5-5ac5-4f01-b259-f81c8bfc7d14\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/viego-my-hero-academia-sfx/thumb.webp?v=58bd3164",
+	"file": {
+		"version": 1,
+		"asset": "viego-my-hero-academia-sfx-v1.fantome",
+		"size": 2688038,
+		"sha256": "0556888dc097e5f8392a84426c34c45338a86bf8e2bdb5ad47e1e81375d1c246"
+	}
+}

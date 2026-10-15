@@ -1,0 +1,17 @@
+{
+	"id": "we-are-charlie-kirk-replace-champion-global-soun",
+	"name": "We are Charlie Kirk replace champion global sound",
+	"kind": "sounds",
+	"creator": "archlyris",
+	"description": "replace default sion, nocturne, kled, karthus, briar ult global sound to the song\n\n---\n\n**Created by** [archlyris](https://runeforge.dev/users/archlyris)\n\n**Original:** https://runeforge.dev/mods/88edee40-311f-476c-a57d-15bd0b7c4f45\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/we-are-charlie-kirk-replace-champion-global-soun/thumb.webp?v=279d5d04",
+	"file": {
+		"version": 1,
+		"asset": "we-are-charlie-kirk-replace-champion-global-soun-v1.fantome",
+		"size": 15090501,
+		"sha256": "27f83758661291fdd70534ebc476f6c458ea5e8f06d2a8483f67a19d684889d8"
+	}
+}

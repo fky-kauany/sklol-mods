@@ -1,0 +1,17 @@
+{
+	"id": "villain-k-da-evelynn",
+	"name": "Villain K/DA Evelynn",
+	"kind": "sounds",
+	"creator": "wiko",
+	"description": "### ✨ Overview\n\nThis mod makes K/DA All Out Evelynn play \"Villain\" while in her passive form.\n\n#\n\n### ✨ Additional information\n\nTo use this mod, you need to own K/DA All Out Evelynn and pick her in champ select.\n\n#\n\n### ✨ Credits\n\n[Yumlia](https://www.youtube.com/@Yumlia \"The instrumental's creator\") for the [K/DA - Villain instrumental](https://www.youtube.com/watch?v=A5sbk8a1opU \"K/DA - Villain (instrumental)\")\n\n---\n\n**Created by** [Wiko](https://www.divineskins.gg/Wiko)\n\n**Original:** https://www.divineskins.gg/Wiko/villain-kda-evelynn\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/villain-k-da-evelynn/thumb.webp?v=f05eefc4",
+	"file": {
+		"version": 1,
+		"asset": "villain-k-da-evelynn-v1.fantome",
+		"size": 3195892,
+		"sha256": "7a25c0e80a4c0827ea3d4da86b67e262a84c0323ee114fc55a737da8c57eac0c"
+	}
+}
