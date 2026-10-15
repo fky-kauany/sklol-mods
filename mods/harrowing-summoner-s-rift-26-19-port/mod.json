@@ -1,0 +1,17 @@
+{
+	"id": "harrowing-summoner-s-rift-26-19-port",
+	"name": "Harrowing Summoner's Rift (26.19 port)",
+	"kind": "other",
+	"creator": "22ms",
+	"description": "Original credits:\n- BlooJae: project lead, map and creature design\n- Sauronkaiser: Old Yorick easter egg and bats\n- Nagiliant: ground texture and shading\n- Bud: music\nOriginal mod: https://runeforge.dev/mods/7bd1ff27-8049-4c03-9b1e-7b2227b1c2ef\nLicensed CC-BY-4.0, same as the original.\n\n---\n\n**Created by** [22ms](https://runeforge.dev/users/22ms)\n\n**Original:** https://runeforge.dev/mods/037703e7-25d2-4d09-bf4a-f598c0a834c1\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/harrowing-summoner-s-rift-26-19-port/thumb.webp?v=41630143",
+	"file": {
+		"version": 1,
+		"asset": "harrowing-summoner-s-rift-26-19-port-v1.fantome",
+		"size": 428223977,
+		"sha256": "e4ae0ff6024411978088b04dea7f7b5249151239672ab3e5297965524f7fc389"
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"id": "helicopter-garen",
+	"name": "Helicopter Garen",
+	"kind": "sounds",
+	"creator": "exynex",
+	"description": "Changes the default garen's E sound to a helicopter, doesn't work with skins with epic tier and above.\r\n\r\nYou can download a newer version that changes God King Garen's E sound too, or download the older to keep the original sound for this skin.\r\n\r\nIf you have an idea for a sfx meme mod or if this mod breaks, contact me in my discord.\r\n\r\nDiscord: exynex\r\n\r\nCredit to the creator of the image: ttv_omnimouse on reddit, from r/garenmains\n\n---\n\n**Created by** [Exynex](https://runeforge.dev/users/Exynex)\n\n**Original:** https://runeforge.dev/mods/1484884a-ea09-4292-bd83-db4dd17924cc\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/helicopter-garen/thumb.webp?v=93e64c92",
+	"file": {
+		"version": 1,
+		"asset": "helicopter-garen-v1.fantome",
+		"size": 3201331,
+		"sha256": "e7edf03f055117485e239c24cdd28f668cd2cfb77dac434f9ba0050756b7fe03"
+	}
+}

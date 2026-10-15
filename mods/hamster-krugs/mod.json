@@ -1,0 +1,22 @@
+{
+	"id": "hamster-krugs",
+	"name": "Hamster Krugs",
+	"kind": "mobs",
+	"creator": "frog",
+	"description": "# Repair, fixed for Brawl. Ty Moga\n\nhttps://modelviewer.lol/model-viewer?group=tft&id=90001\nReplaces Krugs with Hamlet/Hamster from TFT\n*Fan-made, not affiliated with Riot Games or any other company.*\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/hamster-krugs\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/hamster-krugs/thumb.webp?v=011dff9d",
+	"file": {
+		"version": 1,
+		"asset": "hamster-krugs-v1.fantome",
+		"size": 10646637,
+		"sha256": "c242c5e635cfbf72b0f47d4218a2011c3d0fb8b463bb1397d3d26b0ecac5e25d"
+	},
+	"maps": [
+		11,
+		12,
+		35
+	]
+}

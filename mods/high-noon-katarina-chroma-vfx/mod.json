@@ -1,0 +1,17 @@
+{
+	"id": "high-noon-katarina-chroma-vfx",
+	"name": "High Noon Katarina Chroma VFX",
+	"kind": "vfx",
+	"creator": "donutvsdonut",
+	"description": "Affects High Noon Katarina and does not modify the base skin. \r\n\r\nNot Compatible with other mods which impact the skin such as the Chinese Splash art mod, I've manually added the Chinese splash art to the pearl chroma to compensate\n\n---\n\n**Created by** [DonutvsDonut](https://runeforge.dev/users/DonutvsDonut)\n\n**Original:** https://runeforge.dev/mods/52adec61-c944-43c3-9ffb-57ea42e30c90\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/high-noon-katarina-chroma-vfx/thumb.webp?v=655bd019",
+	"file": {
+		"version": 1,
+		"asset": "high-noon-katarina-chroma-vfx-v1.fantome",
+		"size": 6316175,
+		"sha256": "46f1384e05b470161b8b404b2173f7db01e4f511926ae6791ff3b750783fa029"
+	}
+}

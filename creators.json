@@ -15,6 +15,12 @@
 			"site": "https://buymeacoffee.com/1gem1"
 		}
 	},
+	"22ms": {
+		"name": "22ms",
+		"links": {
+			"site": "https://runeforge.dev/mods/7bd1ff27-8049-4c03-9b1e-7b2227b1c2ef"
+		}
+	},
 	"agomsmoga": {
 		"name": "Moga",
 		"avatar": "creators/agomsmoga.png?v=b18a379a",
@@ -218,6 +224,14 @@
 		"name": "epel",
 		"links": {
 			"kofi": "https://ko-fi.com/epellol"
+		}
+	},
+	"exynex": {
+		"name": "Exynex",
+		"avatar": "creators/exynex.jpg?v=7ad6304a",
+		"bio": "I do silly mods, mostly about sfx and voiceovers because I'm too dumb to do anything else <3",
+		"links": {
+			"youtube": "https://youtu.be/ngo3OnrZnNI"
 		}
 	},
 	"fantom": {

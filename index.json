@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T09:07:50.484Z",
+	"generatedAt": "2026-10-15T09:13:55.385Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -16,6 +16,12 @@
 				"discord": "https://discord.gg/6MTrrVbwgm",
 				"kofi": "https://ko-fi.com/1gem1",
 				"site": "https://buymeacoffee.com/1gem1"
+			}
+		},
+		"22ms": {
+			"name": "22ms",
+			"links": {
+				"site": "https://runeforge.dev/mods/7bd1ff27-8049-4c03-9b1e-7b2227b1c2ef"
 			}
 		},
 		"agomsmoga": {
@@ -221,6 +227,14 @@
 			"name": "epel",
 			"links": {
 				"kofi": "https://ko-fi.com/epellol"
+			}
+		},
+		"exynex": {
+			"name": "Exynex",
+			"avatar": "creators/exynex.jpg?v=7ad6304a",
+			"bio": "I do silly mods, mostly about sfx and voiceovers because I'm too dumb to do anything else <3",
+			"links": {
+				"youtube": "https://youtu.be/ngo3OnrZnNI"
 			}
 		},
 		"fantom": {
@@ -5092,6 +5106,181 @@
 				"asset": "half-life-summoner-spell-sfx-v1.fantome",
 				"size": 7710880,
 				"sha256": "94340827ab1d6cff26d24cd84b4b54f0e2041454b9562489c4529298131a9d0c"
+			}
+		},
+		{
+			"id": "halloween-loading-screens",
+			"name": "Halloween Loading Screens",
+			"kind": "other",
+			"creator": "tyre-4770",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/halloween-loading-screens/thumb.webp?v=c26e40a7",
+			"file": {
+				"version": 1,
+				"asset": "halloween-loading-screens-v1.fantome",
+				"size": 198113,
+				"sha256": "0e35c34eba9705c06054b2788b2e8c1eeba9dff3ba88cf715700b98921ca0353"
+			}
+		},
+		{
+			"id": "hamster-krugs",
+			"name": "Hamster Krugs",
+			"kind": "mobs",
+			"creator": "frog",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/hamster-krugs/thumb.webp?v=011dff9d",
+			"file": {
+				"version": 1,
+				"asset": "hamster-krugs-v1.fantome",
+				"size": 10646637,
+				"sha256": "c242c5e635cfbf72b0f47d4218a2011c3d0fb8b463bb1397d3d26b0ecac5e25d"
+			},
+			"maps": [
+				11,
+				12,
+				35
+			]
+		},
+		{
+			"id": "harrowing-summoner-s-rift-26-19-port",
+			"name": "Harrowing Summoner's Rift (26.19 port)",
+			"kind": "other",
+			"creator": "22ms",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/harrowing-summoner-s-rift-26-19-port/thumb.webp?v=41630143",
+			"file": {
+				"version": 1,
+				"asset": "harrowing-summoner-s-rift-26-19-port-v1.fantome",
+				"size": 428223977,
+				"sha256": "e4ae0ff6024411978088b04dea7f7b5249151239672ab3e5297965524f7fc389"
+			}
+		},
+		{
+			"id": "hatsune-miku",
+			"name": "Hatsune Miku",
+			"kind": "ui",
+			"creator": "disco",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/hatsune-miku/thumb.webp?v=1e461c27",
+			"file": {
+				"version": 1,
+				"asset": "hatsune-miku-v1.modpkg",
+				"size": 6649333,
+				"sha256": "e40f99bb97ba6e9b35787f74e80f8aa8798b4fdfd3d657a7eb885035bc4c0538"
+			}
+		},
+		{
+			"id": "heimerdinger-cursor",
+			"name": "Heimerdinger Cursor",
+			"kind": "ui",
+			"creator": "aropatnik",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/heimerdinger-cursor/thumb.webp?v=1fecb66c",
+			"file": {
+				"version": 1,
+				"asset": "heimerdinger-cursor-v1.fantome",
+				"size": 71596,
+				"sha256": "14ce26dd15ebb53ed4254bba0489d3a0cc972f82dcbade9cef658b1f93df5531"
+			}
+		},
+		{
+			"id": "helicopter-garen",
+			"name": "Helicopter Garen",
+			"kind": "sounds",
+			"creator": "exynex",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/helicopter-garen/thumb.webp?v=93e64c92",
+			"file": {
+				"version": 1,
+				"asset": "helicopter-garen-v1.fantome",
+				"size": 3201331,
+				"sha256": "e7edf03f055117485e239c24cdd28f668cd2cfb77dac434f9ba0050756b7fe03"
+			}
+		},
+		{
+			"id": "helltaker-bgm",
+			"name": "Helltaker BGM",
+			"kind": "sounds",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/helltaker-bgm/thumb.webp?v=f923975d",
+			"file": {
+				"version": 1,
+				"asset": "helltaker-bgm-v1.fantome",
+				"size": 17607492,
+				"sha256": "b0bd56e39e15af76bc12c9a949878ef5b31e695c0c850c54c6f30fdb05f7beaa"
+			}
+		},
+		{
+			"id": "hextech-swain-teal",
+			"name": "Hextech Swain - Teal",
+			"kind": "other",
+			"creator": "1gem1",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/hextech-swain-teal/thumb.webp?v=f4d5716e",
+			"file": {
+				"version": 1,
+				"asset": "hextech-swain-teal-v1.fantome",
+				"size": 3803169,
+				"sha256": "0f1c1e1574af5fe840890280f1c2cf9229a49c9432e8b9353259b30a72885bdb"
+			}
+		},
+		{
+			"id": "high-noon-evelynn-chroma-vfx",
+			"name": "High Noon Evelynn chroma VFX",
+			"kind": "vfx",
+			"creator": "suriin",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/high-noon-evelynn-chroma-vfx/thumb.webp?v=c4a09820",
+			"file": {
+				"version": 1,
+				"asset": "high-noon-evelynn-chroma-vfx-v1.fantome",
+				"size": 24233893,
+				"sha256": "af9194e1d9f038da5921646bcb001d5fdcbf8680af888967858541744ff77554"
+			}
+		},
+		{
+			"id": "high-noon-katarina-chroma-vfx",
+			"name": "High Noon Katarina Chroma VFX",
+			"kind": "vfx",
+			"creator": "donutvsdonut",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/high-noon-katarina-chroma-vfx/thumb.webp?v=655bd019",
+			"file": {
+				"version": 1,
+				"asset": "high-noon-katarina-chroma-vfx-v1.fantome",
+				"size": 6316175,
+				"sha256": "46f1384e05b470161b8b404b2173f7db01e4f511926ae6791ff3b750783fa029"
 			}
 		}
 	]
