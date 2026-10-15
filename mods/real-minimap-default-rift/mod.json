@@ -1,0 +1,17 @@
+{
+	"id": "real-minimap-default-rift",
+	"name": "Real Minimap [Default Rift]",
+	"kind": "ui",
+	"creator": "agomsmoga",
+	"description": "#### [Default Rift mod here](https://runeforge.dev/mods/439d0129-e06c-4c59-86d1-f8935b79c75b)\n\n### Overview:\n\n* Reskins the minimap to look like a topdown view of the Default/Ionia map.\n\nPlease report bugs.\n\n#\n\nhttps://discord.gg/gSXbEmPQCA\n\n---\n\n**Created by** [Moga](https://runeforge.dev/users/agomsMoga)\n\n**Original:** https://runeforge.dev/mods/93a2098e-a897-4618-bceb-92d9a4fb9f32\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/real-minimap-default-rift/thumb.webp?v=d0738cf8",
+	"file": {
+		"version": 1,
+		"asset": "real-minimap-default-rift-v1.fantome",
+		"size": 9865668,
+		"sha256": "fcecf58c03525af9b4a6b4091bba5ed2ba3188c1cd3e04e6165f3b26fba55a01"
+	}
+}

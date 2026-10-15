@@ -1,0 +1,17 @@
+{
+	"id": "real-minimap-noxus-black-rose",
+	"name": "Real Minimap [Noxus: Black Rose]",
+	"kind": "ui",
+	"creator": "agomsmoga",
+	"description": "#### [Black Rose Noxus Rift here](https://runeforge.dev/mods/78d4d61a-ceaa-4bfb-9ce6-8a5fcf9cbacf)\n\n#### Overview:\n\n* Reskins the minimap to look like a topdown view of the Black Rose Noxus map.\n\nPlease report bugs.\n\n#\n\nhttps://discord.gg/gSXbEmPQCA\n\n---\n\n**Created by** [Moga](https://runeforge.dev/users/agomsMoga)\n\n**Original:** https://runeforge.dev/mods/33a1e554-19b3-47bc-9947-40434fc79849\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/real-minimap-noxus-black-rose/thumb.webp?v=504b1fd3",
+	"file": {
+		"version": 1,
+		"asset": "real-minimap-noxus-black-rose-v1.fantome",
+		"size": 9798425,
+		"sha256": "308fa0b3184d1cfb88a79197ebe59df0097e76ff13de6efb615883a44a7e977e"
+	}
+}

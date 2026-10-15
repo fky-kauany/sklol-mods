@@ -1,0 +1,17 @@
+{
+	"id": "real-minimap-noxus-original",
+	"name": "Real Minimap [Noxus: Original]",
+	"kind": "ui",
+	"creator": "agomsmoga",
+	"description": "#### [Original Noxus Rift here](https://runeforge.dev/mods/9b47c269-4b37-46ff-a590-49973960d13c)\n\n#### Overview:\n\n* Reskins the minimap to look like a topdown view of the Original Noxus map.\n\nPlease report bugs.\n\n#\n\nhttps://discord.gg/gSXbEmPQCA\n\n---\n\n**Created by** [Moga](https://runeforge.dev/users/agomsMoga)\n\n**Original:** https://runeforge.dev/mods/56bea281-9ff8-4cfc-9b54-e6c4ead67342\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/real-minimap-noxus-original/thumb.webp?v=50b1505c",
+	"file": {
+		"version": 1,
+		"asset": "real-minimap-noxus-original-v1.fantome",
+		"size": 9819674,
+		"sha256": "b0d7d0c3cc367109d599569ff50d9f57388702ab17f398b418ac849dde2a04c5"
+	}
+}

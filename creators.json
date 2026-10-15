@@ -199,6 +199,13 @@
 			"youtube": "https://youtu.be/QB0MbvKIQSg"
 		}
 	},
+	"daka": {
+		"name": "daka",
+		"avatar": "creators/daka.webp?v=90c8597e",
+		"links": {
+			"discord": "https://discord.com/invite/divineskins"
+		}
+	},
 	"davex": {
 		"name": "davex",
 		"avatar": "creators/davex.jpg?v=f39befb4",
@@ -673,6 +680,12 @@
 		"name": "˚₊‧꒰ა Seiko ໒꒱ ‧₊˚",
 		"avatar": "creators/seiko.jpg?v=af42b5bb",
 		"bio": "making cute mods for leauge",
+		"links": {}
+	},
+	"severed": {
+		"name": "severed",
+		"avatar": "creators/severed.jpg?v=90455b69",
+		"bio": "dc: uhvxx",
 		"links": {}
 	},
 	"shrimpback": {

@@ -1,0 +1,17 @@
+{
+	"id": "real-minimap-spirit-blossom",
+	"name": "Real Minimap [Spirit Blossom]",
+	"kind": "ui",
+	"creator": "agomsmoga",
+	"description": "#### [Spirit Blossom Rift here](https://runeforge.dev/mods/c7f39559-9fce-40e5-9a06-534dd44cf674)\n\n#### Overview:\n\n* Reskins the minimap to look like a topdown view of the Spirit Blossom map.\n\nPlease report bugs.\n\n#\n\nhttps://discord.gg/gSXbEmPQCA\n\n---\n\n**Created by** [Moga](https://runeforge.dev/users/agomsMoga)\n\n**Original:** https://runeforge.dev/mods/49765d00-19c3-4faf-8185-5df0e735f421\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/real-minimap-spirit-blossom/thumb.webp?v=16b70de0",
+	"file": {
+		"version": 1,
+		"asset": "real-minimap-spirit-blossom-v1.fantome",
+		"size": 49837704,
+		"sha256": "be8ee71a17dc929681281747ec03e8cdd04978be4791fff61d4d47a873ad60df"
+	}
+}

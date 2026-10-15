@@ -1,0 +1,17 @@
+{
+	"id": "real-minimap-winter-rift",
+	"name": "Real Minimap [Winter Rift]",
+	"kind": "ui",
+	"creator": "moga",
+	"description": "#### Overview:\n\n* Reskins the minimap to look like a topdown view of the Winter Rift map.\n\nPlease report bugs.\n\n---\n\n**Created by** [Moga](https://runeforge.dev/users/Moga)\n\n**Original:** https://runeforge.dev/mods/4ea0dabc-b431-46ba-b0af-9793564568ca\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/real-minimap-winter-rift/thumb.webp?v=7d86277f",
+	"file": {
+		"version": 1,
+		"asset": "real-minimap-winter-rift-v1.fantome",
+		"size": 12743157,
+		"sha256": "c30c4cc633c3d20b3bdecd679156feab8197783ead76b7fce6b97c2a20b23040"
+	}
+}

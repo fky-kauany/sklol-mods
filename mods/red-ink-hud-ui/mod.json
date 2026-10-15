@@ -1,0 +1,17 @@
+{
+	"id": "red-ink-hud-ui",
+	"name": "Red Ink HUD/UI",
+	"kind": "ui",
+	"creator": "severed",
+	"description": "Red/White crimson styled HUD/UI modpack.\n\nU can always tell me what can be improved.\n\nWill be updating!\n\nChangelog 2.0.1:\n\n1) Made the enemy healthbar color brighter for better visibility.\n\n2) Fixed context wheel pixelation, made it smoother. (emote + ping wheel)\n\n---\n\n**Created by** [severed](https://runeforge.dev/users/severed)\n\n**Original:** https://runeforge.dev/mods/9ca4ca22-282f-4434-8db8-b33381d36543\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/red-ink-hud-ui/thumb.webp?v=60922c48",
+	"file": {
+		"version": 1,
+		"asset": "red-ink-hud-ui-v1.fantome",
+		"size": 26870757,
+		"sha256": "7489e7e2f7e9bfccbb74037905dc7b6496c1b859f0785563b8933c2944b0ac9f"
+	}
+}

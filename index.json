@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T11:07:23.328Z",
+	"generatedAt": "2026-10-15T11:13:05.169Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -200,6 +200,13 @@
 			"avatar": "creators/cyanidepillz.png?v=622b7ea4",
 			"links": {
 				"youtube": "https://youtu.be/QB0MbvKIQSg"
+			}
+		},
+		"daka": {
+			"name": "daka",
+			"avatar": "creators/daka.webp?v=90c8597e",
+			"links": {
+				"discord": "https://discord.com/invite/divineskins"
 			}
 		},
 		"davex": {
@@ -676,6 +683,12 @@
 			"name": "˚₊‧꒰ა Seiko ໒꒱ ‧₊˚",
 			"avatar": "creators/seiko.jpg?v=af42b5bb",
 			"bio": "making cute mods for leauge",
+			"links": {}
+		},
+		"severed": {
+			"name": "severed",
+			"avatar": "creators/severed.jpg?v=90455b69",
+			"bio": "dc: uhvxx",
 			"links": {}
 		},
 		"shrimpback": {
@@ -8967,6 +8980,176 @@
 				"asset": "real-minimap-brawl-v1.fantome",
 				"size": 9063609,
 				"sha256": "fd4fdcad4574016a04ca9a3f9b29cfd265cb9af314d5e03b9c0f1613602f18b2"
+			}
+		},
+		{
+			"id": "real-minimap-dark-mode",
+			"name": "Real Minimap [Dark Mode]",
+			"kind": "ui",
+			"creator": "agomsmoga",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/real-minimap-dark-mode/thumb.webp?v=ba19c5a0",
+			"file": {
+				"version": 1,
+				"asset": "real-minimap-dark-mode-v1.fantome",
+				"size": 3036433,
+				"sha256": "03c5566442f4051b21534d463a0e1af02a826e54eb2f4d3eaf5bc7db7756a1ed"
+			}
+		},
+		{
+			"id": "real-minimap-default-rift",
+			"name": "Real Minimap [Default Rift]",
+			"kind": "ui",
+			"creator": "agomsmoga",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/real-minimap-default-rift/thumb.webp?v=d0738cf8",
+			"file": {
+				"version": 1,
+				"asset": "real-minimap-default-rift-v1.fantome",
+				"size": 9865668,
+				"sha256": "fcecf58c03525af9b4a6b4091bba5ed2ba3188c1cd3e04e6165f3b26fba55a01"
+			}
+		},
+		{
+			"id": "real-minimap-noxus-black-rose",
+			"name": "Real Minimap [Noxus: Black Rose]",
+			"kind": "ui",
+			"creator": "agomsmoga",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/real-minimap-noxus-black-rose/thumb.webp?v=504b1fd3",
+			"file": {
+				"version": 1,
+				"asset": "real-minimap-noxus-black-rose-v1.fantome",
+				"size": 9798425,
+				"sha256": "308fa0b3184d1cfb88a79197ebe59df0097e76ff13de6efb615883a44a7e977e"
+			}
+		},
+		{
+			"id": "real-minimap-noxus-original",
+			"name": "Real Minimap [Noxus: Original]",
+			"kind": "ui",
+			"creator": "agomsmoga",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/real-minimap-noxus-original/thumb.webp?v=50b1505c",
+			"file": {
+				"version": 1,
+				"asset": "real-minimap-noxus-original-v1.fantome",
+				"size": 9819674,
+				"sha256": "b0d7d0c3cc367109d599569ff50d9f57388702ab17f398b418ac849dde2a04c5"
+			}
+		},
+		{
+			"id": "real-minimap-spirit-blossom",
+			"name": "Real Minimap [Spirit Blossom]",
+			"kind": "ui",
+			"creator": "agomsmoga",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/real-minimap-spirit-blossom/thumb.webp?v=16b70de0",
+			"file": {
+				"version": 1,
+				"asset": "real-minimap-spirit-blossom-v1.fantome",
+				"size": 49837704,
+				"sha256": "be8ee71a17dc929681281747ec03e8cdd04978be4791fff61d4d47a873ad60df"
+			}
+		},
+		{
+			"id": "real-minimap-winter-rift",
+			"name": "Real Minimap [Winter Rift]",
+			"kind": "ui",
+			"creator": "moga",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/real-minimap-winter-rift/thumb.webp?v=7d86277f",
+			"file": {
+				"version": 1,
+				"asset": "real-minimap-winter-rift-v1.fantome",
+				"size": 12743157,
+				"sha256": "c30c4cc633c3d20b3bdecd679156feab8197783ead76b7fce6b97c2a20b23040"
+			}
+		},
+		{
+			"id": "red-ink-hud-ui",
+			"name": "Red Ink HUD/UI",
+			"kind": "ui",
+			"creator": "severed",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/red-ink-hud-ui/thumb.webp?v=60922c48",
+			"file": {
+				"version": 1,
+				"asset": "red-ink-hud-ui-v1.fantome",
+				"size": 26870757,
+				"sha256": "7489e7e2f7e9bfccbb74037905dc7b6496c1b859f0785563b8933c2944b0ac9f"
+			}
+		},
+		{
+			"id": "rem-and-ram-tft-companion",
+			"name": "Rem and Ram TFT Companion",
+			"kind": "other",
+			"creator": "daka",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/rem-and-ram-tft-companion/thumb.webp?v=9ec25509",
+			"file": {
+				"version": 1,
+				"asset": "rem-and-ram-tft-companion-v1.fantome",
+				"size": 1963059,
+				"sha256": "0371413dc2304396666ef7b00af9c322c0654505fc8ea472d14fe721e506bac9"
+			}
+		},
+		{
+			"id": "remix-rumble-bgm-tft-set-10",
+			"name": "REMIX RUMBLE BGM (TFT set 10)",
+			"kind": "sounds",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/remix-rumble-bgm-tft-set-10/thumb.webp?v=85db4ac9",
+			"file": {
+				"version": 1,
+				"asset": "remix-rumble-bgm-tft-set-10-v1.fantome",
+				"size": 54418275,
+				"sha256": "e996731cf0838d130d06defa2fc6283887a81cfdcd6001b77ca2e76a79605110"
+			}
+		},
+		{
+			"id": "remove-tooltip-delay-and-lockout",
+			"name": "Remove Tooltip Delay and Lockout",
+			"kind": "ui",
+			"creator": "moga",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/remove-tooltip-delay-and-lockout/thumb.webp?v=f938453e",
+			"file": {
+				"version": 1,
+				"asset": "remove-tooltip-delay-and-lockout-v1.fantome",
+				"size": 1051520,
+				"sha256": "ffd8729c97fd2f3c8806a9b9a3050024959ad30e7d26fa52767379f877017ac7"
 			}
 		}
 	]

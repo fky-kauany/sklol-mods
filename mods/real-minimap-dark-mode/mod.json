@@ -1,0 +1,17 @@
+{
+	"id": "real-minimap-dark-mode",
+	"name": "Real Minimap [Dark Mode]",
+	"kind": "ui",
+	"creator": "agomsmoga",
+	"description": "### Made with [P1mek's](https://runeforge.dev/users/p1mek/mods) Dark Mode Rift [HERE.](https://runeforge.dev/mods/b15f1101-57ce-4bfc-bcc1-10d9f5fb5452)\n\n#\n\n### Overview:\n\n* Reskins the minimap to look like a topdown view of the Dark Mode map.\n\nPlease report bugs.\n\n#\n\nhttps://discord.gg/gSXbEmPQCA\n\n---\n\n**Created by** [Moga](https://runeforge.dev/users/agomsMoga)\n\n**Original:** https://runeforge.dev/mods/ccb36b8f-8038-4f4b-8e10-e6f096d03bc9\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/real-minimap-dark-mode/thumb.webp?v=ba19c5a0",
+	"file": {
+		"version": 1,
+		"asset": "real-minimap-dark-mode-v1.fantome",
+		"size": 3036433,
+		"sha256": "03c5566442f4051b21534d463a0e1af02a826e54eb2f4d3eaf5bc7db7756a1ed"
+	}
+}

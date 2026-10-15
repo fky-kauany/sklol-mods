@@ -1,0 +1,17 @@
+{
+	"id": "rem-and-ram-tft-companion",
+	"name": "Rem and Ram TFT Companion",
+	"kind": "other",
+	"creator": "daka",
+	"description": "## TFT SKIN INFORMATION ##\n - TFT Companion: River Sprite\n - Modified skin: Base\n - Author: DAKA\n - Version: 1.0.0\n ## TFT MODS ##\n - Let us know on [Discord](https://discord.com/invite/divineskins) if you want more TFT mods, tutorials and tools!\n\n \n ![](https://private-user-images.githubusercontent.com/46387634/415018879-47d3f528-4d47-4b33-b418-f10032553dbc.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njc3MjAxMTUsIm5iZiI6MTc2NzcxOTgxNSwicGF0aCI6Ii80NjM4NzYzNC80MTUwMTg4NzktNDdkM2Y1MjgtNGQ0Ny00YjMzLWI0MTgtZjEwMDMyNTUzZGJjLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAxMDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMTA2VDE3MTY1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTllZmFlM2YxNWMzYzljYWI5ZWUxYjNiMWVmMjk2MjE1YzM5NTZiYmIwOWNiYzk5YTVlN2UxZWM5ZjE0NmE5NGImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Hv3WfVGyCAcW2X84pj5I7tIkpUOGkXPLorPPO5JXFEA)\n\n---\n\n**Created by** [daka](https://www.divineskins.gg/daka)\n\n**Original:** https://www.divineskins.gg/daka/rem-and-ram-tft-companion\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/rem-and-ram-tft-companion/thumb.webp?v=9ec25509",
+	"file": {
+		"version": 1,
+		"asset": "rem-and-ram-tft-companion-v1.fantome",
+		"size": 1963059,
+		"sha256": "0371413dc2304396666ef7b00af9c322c0654505fc8ea472d14fe721e506bac9"
+	}
+}
