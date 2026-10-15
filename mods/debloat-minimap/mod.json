@@ -1,0 +1,17 @@
+{
+	"id": "debloat-minimap",
+	"name": "Debloat Minimap",
+	"kind": "ui",
+	"creator": "agomsmoga",
+	"description": "###\n\nIf you're not a fan of the\nfloating style,\njust ask me for the\ndocked/no gap version.\n\n### Overview:\n\nSlims down the minimap frame, removes useless buttons, and leaves it floating.\n\n* Wasn't able to test Voice Chat button placement, so it might be slightly off, maybe. LMK if it is please.\n\nPlease report bugs\n\n[My other cool HUD mods smile](https://runeforge.dev/mods?search=moga&pageSize=100&sortBy=like_count) ₍^. .^₎Ⳋ\n\n#\n\nhttps://discord.gg/gSXbEmPQCA\n\n---\n\n**Created by** [Moga](https://runeforge.dev/users/agomsMoga)\n\n**Original:** https://runeforge.dev/mods/6e3746f1-510e-4ab9-8ec5-6f1ecb6401e3\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/debloat-minimap/thumb.webp?v=e77432f9",
+	"file": {
+		"version": 1,
+		"asset": "debloat-minimap-v1.fantome",
+		"size": 757288,
+		"sha256": "5d8f4c90fa0261f449cadaf5a786585e642eb8966f81c5b25ae1b1d02f836c9a"
+	}
+}

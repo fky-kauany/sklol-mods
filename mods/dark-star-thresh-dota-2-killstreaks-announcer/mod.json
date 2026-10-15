@@ -1,0 +1,17 @@
+{
+	"id": "dark-star-thresh-dota-2-killstreaks-announcer",
+	"name": "Dark Star Thresh × Dota 2 Killstreaks Announcer",
+	"kind": "announcer",
+	"creator": "dear-agony",
+	"description": "### Overview\r\n\r\nThis mod uses the original Dark Star Thresh announcer combined with killstreak and multikill voice lines from Dota 2.\r\n\r\nImported voice lines were adjusted to better fit League's announcer system.\r\n\r\n---\r\n\r\n### Dark Star Thresh announcements\r\n\r\n**General**\r\n\r\n• Welcome to Summoner's Rift  \r\n• Minions have spawned  \r\n• Summoner disconnected / reconnected  \r\n• Victory / Defeat  \r\n\r\n**Combat**\r\n\r\n• Ally slain  \r\n• Enemy slain  \r\n• You have slain an enemy  \r\n• You have been slain  \r\n• Executed  \r\n• Shutdown  \r\n• Ace  \r\n\r\n**Objectives**\r\n\r\n• Turret destroyed  \r\n• Turret lost  \r\n• Inhibitor destroyed  \r\n• Inhibitor lost  \r\n• Inhibitor respawn announcements  \r\n\r\n---\r\n\r\n### Dota 2 killstreak & multikill announcements\r\n\r\n*(original League announcements → Dota 2 replacements)*\r\n\r\n**Multikills**\r\n\r\n• First Blood → First Blood!      \r\n• Double Kill → Double Kill!      \r\n• Triple Kill → Triple Kill!      \r\n• Quadra Kill → Ultra Kill!      \r\n• Penta Kill → Rampage!     \r\n\r\n**Killstreaks**\r\n\r\n• Killing Spree → Killing Spree!     \r\n• Rampage → Mega Kill!      \r\n\r\n*(Dota 2 Rampage was intentionally NOT used here because in Dota 2 it represents a Pentakill-equivalent killstreak rather than a regular streak tier.)*    \r\n\r\n• Dominating → Dominating!      \r\n• Unstoppable → Unstoppable!      \r\n• Godlike → Godlike! / Monster Kill!      \r\n• Legendary → Ownage! / Holy Shit! / Wicked Sick!  \r\n\r\n---\r\n\r\n### References\r\n\r\nYou can preview the original announcer voice lines through the links below.\r\n\r\n**Dark Star Thresh announcer**\r\n\r\nhttps://wiki.leagueoflegends.com/en-us/Thresh/Audio#Announcer\r\n\r\n**Dota 2 announcer**\r\n\r\nhttps://dota2.fandom.com/wiki/Announcer_responses\r\n\r\n---\r\n\r\n### Compatibility\r\n\r\nFully compatible with all game client languages.  \r\n\r\n---\r\n\r\n### Feedback\r\n\r\nIf you encounter issues, have suggestions, or want to share feedback, feel free to contact me on Discord.\r\n\r\nDiscord: **dear_agony** (Dear Agony#9179)\n\n---\n\n**Created by** [Dear_Agony](https://runeforge.dev/users/Dear_Agony)\n\n**Original:** https://runeforge.dev/mods/3528704c-b6f8-4e04-ae88-01062f5e668d\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/dark-star-thresh-dota-2-killstreaks-announcer/thumb.webp?v=9fb442af",
+	"file": {
+		"version": 1,
+		"asset": "dark-star-thresh-dota-2-killstreaks-announcer-v1.fantome",
+		"size": 6714513,
+		"sha256": "ff1b87182d4fb4fe4e464c90737254a415c5a22bf6a55b6091df66912636839b"
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"id": "dark-white-briar-abilities",
+	"name": "Dark & White Briar Abilities",
+	"kind": "ui",
+	"creator": "mouf",
+	"description": "* Dark & White Briar Abilities To Match The Dark Mode HUD \r\n* https://runeforge.dev/mods/d224603a-b7cb-4e2c-8447-5690db6d0371?search=hud\r\n# ----------------------------------------------------------------------------------------------\r\n\r\n* # SKIN INFORMATION\r\n\r\n* ## Champion: briar\r\n* ## Modified skin: It Works At Any Skin\r\n* ## Author: Mouf\r\n* ## Version: 1.0.0\r\n\r\n# SUPPORT HIM ⤵️ \r\nhttps://runeforge.dev/users/EL7OOT/mods\r\nHe is the one who basically created the mod \r\n\r\n# SUPPORT ME\r\n* ## No need\n\n---\n\n**Created by** [Mouf](https://runeforge.dev/users/Mouf)\n\n**Original:** https://runeforge.dev/mods/ea7508a4-cac0-41d1-a495-1aaaa289f45e\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/dark-white-briar-abilities/thumb.webp?v=9ffbdb80",
+	"file": {
+		"version": 1,
+		"asset": "dark-white-briar-abilities-v1.fantome",
+		"size": 14841,
+		"sha256": "df62672ad2deae60ae68121d87aa80c0e460b89100b203107887a849bb200ffb"
+	}
+}

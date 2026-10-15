@@ -1,0 +1,17 @@
+{
+	"id": "darksouls-font",
+	"name": "Darksouls Font",
+	"kind": "fonts",
+	"creator": "tor-lol",
+	"description": "# Dark Souls Font\n\nBrings a Dark Souls-inspired font into League of Legends.\n\nThis mod supports English, Latin characters, Cyrillic, and Greek. Other Unicode scripts, including CJK and Arabic, are not supported and may fall back to League’s default font.\n\nGot an idea for another Mod or UI specific Wish? Send recommendations! I’m always looking for fun new ones to make.\n\n## Support\n\nIf you enjoy the mod, consider following me on TikTok: [@tor.lol](https://www.tiktok.com/@tor.lol)\n\n**Discord:** `tor.lol`\n\n---\n\n**Created by** [tor.lol](https://www.divineskins.gg/tor.lol)\n\n**Original:** https://www.divineskins.gg/tor.lol/darksouls-font\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/darksouls-font/thumb.webp?v=b13cba6d",
+	"file": {
+		"version": 1,
+		"asset": "darksouls-font-v1.fantome",
+		"size": 1613189,
+		"sha256": "8e2dfe5252add47094adb32e90ce5da90dffdea2494c6108939d6a8b82cd3d2b"
+	}
+}

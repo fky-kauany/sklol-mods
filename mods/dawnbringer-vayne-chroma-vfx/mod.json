@@ -1,0 +1,17 @@
+{
+	"id": "dawnbringer-vayne-chroma-vfx",
+	"name": "Dawnbringer Vayne chroma VFX",
+	"kind": "other",
+	"creator": "suriin",
+	"description": "## Important info\r\n\r\nThis will clash with any custom skin that modifies Dawnbringer Vayne. 1 file for all chromas. You must own the skin and chromas.\r\n\r\n## Description\r\n\r\n**Author**: Suriin\r\n\r\n**Skin**: Dawnbringer Vayne\r\n\r\n**Affects**: VFX colors\r\n\r\nAdds matching VFX to every chroma, base remains the same.\r\n\r\n\r\n## Contact\r\n\r\nIf you have any issues or questions you can message me on discord: .suriin Just make sure you are on the RuneForge server.\r\n\r\n---\r\n\r\n### You can support me on Ko-Fi [ko-fi.com/suriinruneforge](https://ko-fi.com/suriinruneforge) <3\n\n---\n\n**Created by** [Suriin](https://runeforge.dev/users/Suriin)\n\n**Original:** https://runeforge.dev/mods/9290d925-8bf3-4722-8ea0-8f5c50b66cde\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/dawnbringer-vayne-chroma-vfx/thumb.webp?v=88108cad",
+	"file": {
+		"version": 1,
+		"asset": "dawnbringer-vayne-chroma-vfx-v1.fantome",
+		"size": 17763597,
+		"sha256": "21529d6a9f8b2b153859b1cfcea3054c37c726088ab721427e9a9ab6c752c34c"
+	}
+}

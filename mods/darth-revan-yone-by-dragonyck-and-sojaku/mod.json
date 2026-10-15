@@ -1,0 +1,17 @@
+{
+	"id": "darth-revan-yone-by-dragonyck-and-sojaku",
+	"name": "Darth Revan Yone by Dragonyck and Sojaku",
+	"kind": "other",
+	"creator": "deathstrker",
+	"description": "---\n\n**Created by** [Deathstrker](https://runeforge.dev/users/Deathstrker)\n\n**Original:** https://runeforge.dev/mods/29abaf3e-7d15-4eb0-bade-3f7260b8e815\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/darth-revan-yone-by-dragonyck-and-sojaku/thumb.webp?v=f377463b",
+	"file": {
+		"version": 1,
+		"asset": "darth-revan-yone-by-dragonyck-and-sojaku-v1.fantome",
+		"size": 17237799,
+		"sha256": "a0f29a3956dc8e340fbae482e01007f46984d7fb97d663670101e632fd1bd840"
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"id": "dark-white-viego-abilities",
+	"name": "Dark & White Viego Abilities",
+	"kind": "ui",
+	"creator": "mouf",
+	"description": "* Dark & White Viego Abilities To Match The Dark Mode HUD \r\n* https://runeforge.dev/mods/d224603a-b7cb-4e2c-8447-5690db6d0371?search=hud\r\n# ----------------------------------------------------------------------------------------------\r\n\r\n* # SKIN INFORMATION\r\n\r\n* ## Champion: Viego\r\n* ## Modified skin: It Works At Any Skin\r\n* ## Author: Mouf\r\n* ## Version: 1.0.0\r\n\r\n\r\n# SUPPORT ME\r\n* ## No need\n\n---\n\n**Created by** [Mouf](https://runeforge.dev/users/Mouf)\n\n**Original:** https://runeforge.dev/mods/7bf28cc2-ecea-4c95-89f3-af64ac76de01\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/dark-white-viego-abilities/thumb.webp?v=44cde3e2",
+	"file": {
+		"version": 1,
+		"asset": "dark-white-viego-abilities-v1.fantome",
+		"size": 16319,
+		"sha256": "55a0a2d4f5d68a96804fd56f033a1062c31ed26cb92ca40627dde0f30db5e59a"
+	}
+}

@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T07:54:36.362Z",
+	"generatedAt": "2026-10-15T07:57:38.193Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -139,6 +139,13 @@
 				"kofi": "https://ko-fi.com/dear_agony",
 				"site": "https://wiki.leagueoflegends.com/en-us/Kayn/Audio#Odyssey",
 				"youtube": "https://youtu.be/WUwQAZTrJK4?si=rKoDP-_Y9TEwlTRF"
+			}
+		},
+		"deathstrker": {
+			"name": "Deathstrker",
+			"links": {
+				"discord": "https://discord.gg/SUZkwmtm",
+				"youtube": "https://youtu.be/IgJJt0ItvZk"
 			}
 		},
 		"dithz": {
@@ -313,6 +320,14 @@
 			"avatar": "creators/rahabani.jpg?v=56d4979a",
 			"bio": "I love doing Gragas Skins\nMy discord:\nhttps://discord.gg/QFGGQKkW",
 			"links": {}
+		},
+		"ramu3x": {
+			"name": "Ramu3X",
+			"avatar": "creators/ramu3x.jpg?v=f401b723",
+			"bio": "## 👋 Hey there, I'm Ramu3X\n\n🛠️ Beginner modder — learning as I go (and occasionally breaking stuff)  \n\n🎮 Casual League of Legends player \n\n📺 Big Anime fan — into everything from classics to the new stuff \n\n🐱 Certified cat lover\n\n☃️ Msg me on Discord @ramu3x\n\n🌚 If thouest art compelled to bestow upon me with thine money, clicketh thee this ko-fi link https://ko-fi.com/ramu3x",
+			"links": {
+				"kofi": "https://ko-fi.com/ramu3x"
+			}
 		},
 		"rat-departttment": {
 			"name": "rat_departttment",
@@ -2956,6 +2971,176 @@
 				"asset": "dark-star-thresh-annoucer-v1.fantome",
 				"size": 11492126,
 				"sha256": "d215f1b1d10759b711045a2a51d39defea7f3c27dcb4d7a80ffdec039d0d4501"
+			}
+		},
+		{
+			"id": "dark-star-thresh-dota-2-killstreaks-announcer",
+			"name": "Dark Star Thresh × Dota 2 Killstreaks Announcer",
+			"kind": "announcer",
+			"creator": "dear-agony",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/dark-star-thresh-dota-2-killstreaks-announcer/thumb.webp?v=9fb442af",
+			"file": {
+				"version": 1,
+				"asset": "dark-star-thresh-dota-2-killstreaks-announcer-v1.fantome",
+				"size": 6714513,
+				"sha256": "ff1b87182d4fb4fe4e464c90737254a415c5a22bf6a55b6091df66912636839b"
+			}
+		},
+		{
+			"id": "dark-white-briar-abilities",
+			"name": "Dark & White Briar Abilities",
+			"kind": "ui",
+			"creator": "mouf",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/dark-white-briar-abilities/thumb.webp?v=9ffbdb80",
+			"file": {
+				"version": 1,
+				"asset": "dark-white-briar-abilities-v1.fantome",
+				"size": 14841,
+				"sha256": "df62672ad2deae60ae68121d87aa80c0e460b89100b203107887a849bb200ffb"
+			}
+		},
+		{
+			"id": "dark-white-master-yi-abilities",
+			"name": "Dark & White Master Yi Abilities",
+			"kind": "ui",
+			"creator": "mouf",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/dark-white-master-yi-abilities/thumb.webp?v=a8328163",
+			"file": {
+				"version": 1,
+				"asset": "dark-white-master-yi-abilities-v1.fantome",
+				"size": 16796,
+				"sha256": "3973cb30ea0063c5c6c897ae1182d7409bfce47fe7e82bfc93ca84887d0d181a"
+			}
+		},
+		{
+			"id": "dark-white-viego-abilities",
+			"name": "Dark & White Viego Abilities",
+			"kind": "ui",
+			"creator": "mouf",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/dark-white-viego-abilities/thumb.webp?v=44cde3e2",
+			"file": {
+				"version": 1,
+				"asset": "dark-white-viego-abilities-v1.fantome",
+				"size": 16319,
+				"sha256": "55a0a2d4f5d68a96804fd56f033a1062c31ed26cb92ca40627dde0f30db5e59a"
+			}
+		},
+		{
+			"id": "darkest-dungeon-announcer",
+			"name": "Darkest Dungeon Announcer",
+			"kind": "announcer",
+			"creator": "ramu3x",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/darkest-dungeon-announcer/thumb.webp?v=b05782d4",
+			"file": {
+				"version": 1,
+				"asset": "darkest-dungeon-announcer-v1.fantome",
+				"size": 8881669,
+				"sha256": "2059ebfd644f886c33c5d107c520fcbdeaff2c423724b3f7fe4889bfc1c9b3e9"
+			}
+		},
+		{
+			"id": "darksouls-font",
+			"name": "Darksouls Font",
+			"kind": "fonts",
+			"creator": "tor-lol",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/darksouls-font/thumb.webp?v=b13cba6d",
+			"file": {
+				"version": 1,
+				"asset": "darksouls-font-v1.fantome",
+				"size": 1613189,
+				"sha256": "8e2dfe5252add47094adb32e90ce5da90dffdea2494c6108939d6a8b82cd3d2b"
+			}
+		},
+		{
+			"id": "darth-revan-yone-by-dragonyck-and-sojaku",
+			"name": "Darth Revan Yone by Dragonyck and Sojaku",
+			"kind": "other",
+			"creator": "deathstrker",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/darth-revan-yone-by-dragonyck-and-sojaku/thumb.webp?v=f377463b",
+			"file": {
+				"version": 1,
+				"asset": "darth-revan-yone-by-dragonyck-and-sojaku-v1.fantome",
+				"size": 17237799,
+				"sha256": "a0f29a3956dc8e340fbae482e01007f46984d7fb97d663670101e632fd1bd840"
+			}
+		},
+		{
+			"id": "dawnbringer-vayne-chroma-vfx",
+			"name": "Dawnbringer Vayne chroma VFX",
+			"kind": "other",
+			"creator": "suriin",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/dawnbringer-vayne-chroma-vfx/thumb.webp?v=88108cad",
+			"file": {
+				"version": 1,
+				"asset": "dawnbringer-vayne-chroma-vfx-v1.fantome",
+				"size": 17763597,
+				"sha256": "21529d6a9f8b2b153859b1cfcea3054c37c726088ab721427e9a9ab6c752c34c"
+			}
+		},
+		{
+			"id": "debloat-minimap",
+			"name": "Debloat Minimap",
+			"kind": "ui",
+			"creator": "agomsmoga",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/debloat-minimap/thumb.webp?v=e77432f9",
+			"file": {
+				"version": 1,
+				"asset": "debloat-minimap-v1.fantome",
+				"size": 757288,
+				"sha256": "5d8f4c90fa0261f449cadaf5a786585e642eb8966f81c5b25ae1b1d02f836c9a"
+			}
+		},
+		{
+			"id": "debonair-draven-chroma-vfx",
+			"name": "Debonair Draven chroma VFX",
+			"kind": "vfx",
+			"creator": "suriin",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/debonair-draven-chroma-vfx/thumb.webp?v=99d2ab72",
+			"file": {
+				"version": 1,
+				"asset": "debonair-draven-chroma-vfx-v1.fantome",
+				"size": 13504097,
+				"sha256": "a58fc5ce6ca43dfe16d5a5111d61230dac4f0d53e9029422b7f74375036d9239"
 			}
 		}
 	]
