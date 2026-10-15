@@ -1,0 +1,17 @@
+{
+	"id": "bewitching-miss-fortune-custom-vo",
+	"name": "Bewitching Miss Fortune Custom VO",
+	"kind": "sounds",
+	"creator": "voiceshowcase",
+	"description": "Replaces Miss Fortune's base VO with entirely new Bewitching themed lines\n\nVoice: Sara Dunham\n\nWriters: RoyalEnigma and Sara Dunham\n\n---\n\n**Created by** [VoiceShowcase](https://runeforge.dev/users/VoiceShowcase)\n\n**Original:** https://runeforge.dev/mods/fd980015-c7da-4c0d-83e2-046b8afff0eb\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/bewitching-miss-fortune-custom-vo/thumb.webp?v=6dbe08b2",
+	"file": {
+		"version": 1,
+		"asset": "bewitching-miss-fortune-custom-vo-v1.fantome",
+		"size": 1252396,
+		"sha256": "26024a86c3110668335a9cf5d930e3513dc931032168e8a01d70acfd26dbc113"
+	}
+}

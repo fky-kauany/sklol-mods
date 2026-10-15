@@ -1,0 +1,17 @@
+{
+	"id": "bewitching-janna-chroma-vfx",
+	"name": "Bewitching Janna chroma VFX",
+	"kind": "vfx",
+	"creator": "suriin",
+	"description": "## Important info\r\n\r\nThis will clash with any custom skin that modifies Bewitching Janna. 1 file for all chromas.\r\n\r\n## Description\r\n\r\n**Author**: Suriin\r\n\r\n**Skin**: Bewitching Janna\r\n\r\n**Affects**: VFX colors\r\n\r\nDone upon request. Adds matching VFX colors to every chroma, base remains the same. You need to own the chroma and choose it in champ select in order to use this mod.\r\n\r\n\r\n## Contact\r\n\r\nIf you have any issues or questions you can message me on discord: .suriin Just make sure you are on the RuneForge server.\r\n\r\n---\r\n\r\n### You can support me on Ko-Fi [ko-fi.com/suriinruneforge](https://ko-fi.com/suriinruneforge) <3\n\n---\n\n**Created by** [Suriin](https://runeforge.dev/users/Suriin)\n\n**Original:** https://runeforge.dev/mods/10175d91-bbc3-45fc-9c1e-a1894e7b6bf9\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/bewitching-janna-chroma-vfx/thumb.webp?v=ca319462",
+	"file": {
+		"version": 1,
+		"asset": "bewitching-janna-chroma-vfx-v1.fantome",
+		"size": 11539050,
+		"sha256": "18a423b7f354f9f5be1b458031c18a7f370c6551912940dde01ae215160c5642"
+	}
+}

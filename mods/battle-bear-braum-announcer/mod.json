@@ -1,0 +1,17 @@
+{
+	"id": "battle-bear-braum-announcer",
+	"name": "Battle Bear Braum Announcer",
+	"kind": "announcer",
+	"creator": "voiceshowcase",
+	"description": "Replaces the announcer with Battle Bear Braum.\n\n\n\nVoice: Tyler Pasquarella\n\nWriter: RoyalEnigma\n\nArt: Khairul S\n\nBattle Bear Braum custom skin mod: BeardedShepherd\n\n\n\nThere are two versions: one for Summoner's Rift, and the other for Final City. Rather than make two separate mods and clutter the mod list, the SR version can be downloaded from here while the Final City version can be found through the links below to the Anima Squad Rift mod and Google Drive:\n\n\n\nAnima Squad Rift: [https://runeforge.dev/mods/9e14db78-ec38-43f2-b6e0-db80c193452b](https://runeforge.dev/mods/9e14db78-ec38-43f2-b6e0-db80c193452b)\n\nGoogle Drive: [https://drive.google.com/file/d/1Cg79FFSMOwyKILpJc3d13SRWRnBRGAwo](https://drive.google.com/file/d/1Cg79FFSMOwyKILpJc3d13SRWRnBRGAwo)\n\n---\n\n**Created by** [VoiceShowcase](https://runeforge.dev/users/VoiceShowcase)\n\n**Original:** https://runeforge.dev/mods/799c0d43-1ced-4a84-81b7-4580fc9039ed\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/battle-bear-braum-announcer/thumb.webp?v=e5cdc67e",
+	"file": {
+		"version": 1,
+		"asset": "battle-bear-braum-announcer-v1.fantome",
+		"size": 8506660,
+		"sha256": "5c80517cb2ed4723f18d1e022787f2d4cd4b8a738f725eb11d9e87d3e57281fd"
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"id": "better-yuumi-attached-border",
+	"name": "Better Yuumi Attached Border",
+	"kind": "ui",
+	"creator": "agomsmoga",
+	"description": "### Meow:\n\n* Cuz this one looks way cooler. Not sure if Riot ever used this officially at any point in time, but it already exists in the game, so I'm just enabling it.\n* This writes the bin under `lolfloatinginfobars` so it may overwrite or be overwritten by an HP Bar related mod.\n\n[Click to see all my other totally sick mods.](https://runeforge.dev/mods?search=moga&pageSize=720)\n\n#\n\n### Todo:\n\nRecolor and fit the current animation over this as a secondary download.\n\n## Mod Information:\n\nAuthor: Moga\n\nMod Version: 15.18.1.1\n\nhttps://discord.gg/gSXbEmPQCA\n\n---\n\n**Created by** [Moga](https://runeforge.dev/users/agomsMoga)\n\n**Original:** https://runeforge.dev/mods/a3cc4cf9-de00-4aa9-8274-da1e5b13b0ce\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/better-yuumi-attached-border/thumb.webp?v=568da6b6",
+	"file": {
+		"version": 1,
+		"asset": "better-yuumi-attached-border-v1.fantome",
+		"size": 21136,
+		"sha256": "fc82f8fdce73917fad5ba8265bee9bab69f8ac593f38688a534cfd329984e3c2"
+	}
+}

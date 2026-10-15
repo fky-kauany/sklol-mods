@@ -5,6 +5,16 @@
 			"discord": "https://discord.gg/403"
 		}
 	},
+	"1gem1": {
+		"name": "1gem1rachel",
+		"avatar": "creators/1gem1.png?v=36c36aff",
+		"bio": "### **hello! unfortunately, i dont update mods over here anymore, until they accept modpkg on the website at least. my updated stuff will be over [here](https://www.divineskins.gg/1gem1?section=mods) on divineskins, and my uploads get announced in my [discord here](https://discord.gg/6MTrrVbwgm)**\n\n## thank you for all the love and support! <3",
+		"links": {
+			"discord": "https://discord.gg/6MTrrVbwgm",
+			"kofi": "https://ko-fi.com/1gem1",
+			"site": "https://buymeacoffee.com/1gem1"
+		}
+	},
 	"agomsmoga": {
 		"name": "Moga",
 		"avatar": "creators/agomsmoga.png?v=b18a379a",
@@ -152,6 +162,14 @@
 			"discord": "https://discord.gg/EEjd7DHj5r",
 			"site": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/Banner2.png",
 			"youtube": "https://www.youtube.com/watch?v=ZlTIpkrUst4"
+		}
+	},
+	"lolsfxamateur": {
+		"name": "LOLSFXAmateur",
+		"avatar": "creators/lolsfxamateur.jpg?v=681c49b4",
+		"bio": "I only work with sound mixing. A little bit of this - a little bit of that, edit here, edit there. I don't actually make the sounds themselves I just manipulate them. Worked on some SFX for other modders but figured I could so some stuff on my own. Wanna make custom SFX for champs with skins that keep the base SFX...thats lame...lets make some sounds.",
+		"links": {
+			"youtube": "https://youtu.be/-1U1M-EuoN0"
 		}
 	},
 	"matthewchasm": {

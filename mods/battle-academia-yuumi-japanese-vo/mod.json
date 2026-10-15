@@ -1,0 +1,17 @@
+{
+	"id": "battle-academia-yuumi-japanese-vo",
+	"name": "Battle Academia Yuumi Japanese VO",
+	"kind": "sounds",
+	"creator": "matthewchasm",
+	"description": "A VO mod that changes Yuumi's VO to match the theme of Battle Academia series (Affects all skins). Changes Yuumi's auto attacks and Ultimate VOs to echo. Recommend using this with https://runeforge.dev/mods/e413e744-9f69-4d6d-9bae-5f95ab2308e8 very cool kitty chroma with shades.\n\n---\n\n**Created by** [MatthewChasm](https://runeforge.dev/users/MatthewChasm)\n\n**Original:** https://runeforge.dev/mods/c61f6c43-c50a-4a04-a051-48f70d54dd6d\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/battle-academia-yuumi-japanese-vo/thumb.webp?v=6663d2d1",
+	"file": {
+		"version": 1,
+		"asset": "battle-academia-yuumi-japanese-vo-v1.fantome",
+		"size": 5674933,
+		"sha256": "fa9a4c9d024c43579d72ea7a2d06ece76803c681ccc448428823edda1ff8581a"
+	}
+}

@@ -1,11 +1,21 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T07:26:38.725Z",
+	"generatedAt": "2026-10-15T07:29:39.186Z",
 	"creators": {
 		"403": {
 			"name": "403",
 			"links": {
 				"discord": "https://discord.gg/403"
+			}
+		},
+		"1gem1": {
+			"name": "1gem1rachel",
+			"avatar": "creators/1gem1.png?v=36c36aff",
+			"bio": "### **hello! unfortunately, i dont update mods over here anymore, until they accept modpkg on the website at least. my updated stuff will be over [here](https://www.divineskins.gg/1gem1?section=mods) on divineskins, and my uploads get announced in my [discord here](https://discord.gg/6MTrrVbwgm)**\n\n## thank you for all the love and support! <3",
+			"links": {
+				"discord": "https://discord.gg/6MTrrVbwgm",
+				"kofi": "https://ko-fi.com/1gem1",
+				"site": "https://buymeacoffee.com/1gem1"
 			}
 		},
 		"agomsmoga": {
@@ -155,6 +165,14 @@
 				"discord": "https://discord.gg/EEjd7DHj5r",
 				"site": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/Banner2.png",
 				"youtube": "https://www.youtube.com/watch?v=ZlTIpkrUst4"
+			}
+		},
+		"lolsfxamateur": {
+			"name": "LOLSFXAmateur",
+			"avatar": "creators/lolsfxamateur.jpg?v=681c49b4",
+			"bio": "I only work with sound mixing. A little bit of this - a little bit of that, edit here, edit there. I don't actually make the sounds themselves I just manipulate them. Worked on some SFX for other modders but figured I could so some stuff on my own. Wanna make custom SFX for champs with skins that keep the base SFX...thats lame...lets make some sounds.",
+			"links": {
+				"youtube": "https://youtu.be/-1U1M-EuoN0"
 			}
 		},
 		"matthewchasm": {
@@ -1319,6 +1337,176 @@
 				"asset": "battle-academia-xayah-chroma-vfx-v1.fantome",
 				"size": 15184889,
 				"sha256": "f2cba7abf0b8f62610486f5f928386e45bbb82146816f45f44e57fcd6dda2715"
+			}
+		},
+		{
+			"id": "battle-academia-yuumi-english-vo",
+			"name": "Battle Academia Yuumi English VO",
+			"kind": "sounds",
+			"creator": "matthewchasm",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/battle-academia-yuumi-english-vo/thumb.webp?v=ec8a1c3e",
+			"file": {
+				"version": 1,
+				"asset": "battle-academia-yuumi-english-vo-v1.fantome",
+				"size": 4841106,
+				"sha256": "6fa2fc0c840b67702e4015c9637788f30306e17c9ea643b75044c95cf6916fdd"
+			}
+		},
+		{
+			"id": "battle-academia-yuumi-japanese-vo",
+			"name": "Battle Academia Yuumi Japanese VO",
+			"kind": "sounds",
+			"creator": "matthewchasm",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/battle-academia-yuumi-japanese-vo/thumb.webp?v=6663d2d1",
+			"file": {
+				"version": 1,
+				"asset": "battle-academia-yuumi-japanese-vo-v1.fantome",
+				"size": 5674933,
+				"sha256": "fa9a4c9d024c43579d72ea7a2d06ece76803c681ccc448428823edda1ff8581a"
+			}
+		},
+		{
+			"id": "battle-academy-lux-pink-vfx",
+			"name": "Battle Academy Lux - Pink VFX",
+			"kind": "other",
+			"creator": "1gem1",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/battle-academy-lux-pink-vfx/thumb.webp?v=09025d61",
+			"file": {
+				"version": 1,
+				"asset": "battle-academy-lux-pink-vfx-v1.fantome",
+				"size": 935596,
+				"sha256": "07762269d724a9e7c5cf3dbed03b1501e096119535ed85543c27fccbdaf5bd9d"
+			}
+		},
+		{
+			"id": "battle-bear-braum-announcer",
+			"name": "Battle Bear Braum Announcer",
+			"kind": "announcer",
+			"creator": "voiceshowcase",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/battle-bear-braum-announcer/thumb.webp?v=e5cdc67e",
+			"file": {
+				"version": 1,
+				"asset": "battle-bear-braum-announcer-v1.fantome",
+				"size": 8506660,
+				"sha256": "5c80517cb2ed4723f18d1e022787f2d4cd4b8a738f725eb11d9e87d3e57281fd"
+			}
+		},
+		{
+			"id": "battle-bunny-miss-fortune-red",
+			"name": "Battle Bunny Miss Fortune - Red",
+			"kind": "other",
+			"creator": "1gem1",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/battle-bunny-miss-fortune-red/thumb.webp?v=43710740",
+			"file": {
+				"version": 1,
+				"asset": "battle-bunny-miss-fortune-red-v1.fantome",
+				"size": 5674907,
+				"sha256": "6dd2c7a13c5f9be9b1773547e43b62dbc6f8dbf4e11b1526658674745d32c3cc"
+			}
+		},
+		{
+			"id": "bbox-bass-wukong-those-who-know",
+			"name": "Bbox Bass Wukong those who know",
+			"kind": "sounds",
+			"creator": "archlyris",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/bbox-bass-wukong-those-who-know/thumb.webp?v=4d01c8c9",
+			"file": {
+				"version": 1,
+				"asset": "bbox-bass-wukong-those-who-know-v1.fantome",
+				"size": 2748635,
+				"sha256": "0b873531767d68cd76f8edf93642b59edb209831ad3740d7af8cc8fb1ac44c7e"
+			}
+		},
+		{
+			"id": "better-yuumi-attached-border",
+			"name": "Better Yuumi Attached Border",
+			"kind": "ui",
+			"creator": "agomsmoga",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/better-yuumi-attached-border/thumb.webp?v=568da6b6",
+			"file": {
+				"version": 1,
+				"asset": "better-yuumi-attached-border-v1.fantome",
+				"size": 21136,
+				"sha256": "fc82f8fdce73917fad5ba8265bee9bab69f8ac593f38688a534cfd329984e3c2"
+			}
+		},
+		{
+			"id": "bewitching-janna-chroma-vfx",
+			"name": "Bewitching Janna chroma VFX",
+			"kind": "vfx",
+			"creator": "suriin",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/bewitching-janna-chroma-vfx/thumb.webp?v=ca319462",
+			"file": {
+				"version": 1,
+				"asset": "bewitching-janna-chroma-vfx-v1.fantome",
+				"size": 11539050,
+				"sha256": "18a423b7f354f9f5be1b458031c18a7f370c6551912940dde01ae215160c5642"
+			}
+		},
+		{
+			"id": "bewitching-miss-fortune-custom-vo",
+			"name": "Bewitching Miss Fortune Custom VO",
+			"kind": "sounds",
+			"creator": "voiceshowcase",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/bewitching-miss-fortune-custom-vo/thumb.webp?v=6dbe08b2",
+			"file": {
+				"version": 1,
+				"asset": "bewitching-miss-fortune-custom-vo-v1.fantome",
+				"size": 1252396,
+				"sha256": "26024a86c3110668335a9cf5d930e3513dc931032168e8a01d70acfd26dbc113"
+			}
+		},
+		{
+			"id": "bewitching-nidalee-custom-sfx",
+			"name": "Bewitching Nidalee Custom SFX",
+			"kind": "sounds",
+			"creator": "lolsfxamateur",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/bewitching-nidalee-custom-sfx/thumb.webp?v=39d9e31d",
+			"file": {
+				"version": 1,
+				"asset": "bewitching-nidalee-custom-sfx-v1.fantome",
+				"size": 12592591,
+				"sha256": "7d5460186b3cc1e2e7a4bc6761bfdcb95a1a4c08146ab4c201fca5e5878ca2c4"
 			}
 		}
 	]

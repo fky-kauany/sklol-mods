@@ -1,0 +1,17 @@
+{
+	"id": "bewitching-nidalee-custom-sfx",
+	"name": "Bewitching Nidalee Custom SFX",
+	"kind": "sounds",
+	"creator": "lolsfxamateur",
+	"description": "Custom SFX for bewitching Nidalee. Has versions for old and current vo.\r\nBayonetta inspired\r\nhttps://www.youtube.com/watch?v=-1U1M-EuoN0\n\n---\n\n**Created by** [LOLSFXAmateur](https://runeforge.dev/users/LOLSFXAmateur)\n\n**Original:** https://runeforge.dev/mods/deb20188-5e5e-4649-9b42-ad9639909d7a\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/bewitching-nidalee-custom-sfx/thumb.webp?v=39d9e31d",
+	"file": {
+		"version": 1,
+		"asset": "bewitching-nidalee-custom-sfx-v1.fantome",
+		"size": 12592591,
+		"sha256": "7d5460186b3cc1e2e7a4bc6761bfdcb95a1a4c08146ab4c201fca5e5878ca2c4"
+	}
+}

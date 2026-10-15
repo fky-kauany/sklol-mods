@@ -1,0 +1,17 @@
+{
+	"id": "bbox-bass-wukong-those-who-know",
+	"name": "Bbox Bass Wukong those who know",
+	"kind": "sounds",
+	"creator": "archlyris",
+	"description": "---\n\n**Created by** [archlyris](https://runeforge.dev/users/archlyris)\n\n**Original:** https://runeforge.dev/mods/8c4296b7-85cc-4d88-82fd-1ffa250139d9\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/bbox-bass-wukong-those-who-know/thumb.webp?v=4d01c8c9",
+	"file": {
+		"version": 1,
+		"asset": "bbox-bass-wukong-those-who-know-v1.fantome",
+		"size": 2748635,
+		"sha256": "0b873531767d68cd76f8edf93642b59edb209831ad3740d7af8cc8fb1ac44c7e"
+	}
+}
