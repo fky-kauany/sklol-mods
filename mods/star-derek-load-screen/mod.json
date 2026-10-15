@@ -1,0 +1,17 @@
+{
+	"id": "star-derek-load-screen",
+	"name": "Star Derek Load Screen",
+	"kind": "other",
+	"creator": "thoxainn",
+	"description": "*I think I've got the black lung, pop*\n\n---\n\n**Created by** [Thoxain](https://www.divineskins.gg/Thoxainn)\n\n**Original:** https://www.divineskins.gg/Thoxainn/star-miner\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/star-derek-load-screen/thumb.webp?v=0136a871",
+	"file": {
+		"version": 1,
+		"asset": "star-derek-load-screen-v1.fantome",
+		"size": 27364642,
+		"sha256": "9d358cbb71c433980e608455a5672606b3f313079d5c11dc31a08a610d542fbd"
+	}
+}

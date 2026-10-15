@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T11:58:35.788Z",
+	"generatedAt": "2026-10-15T12:04:14.862Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -10594,6 +10594,176 @@
 				"asset": "standing-here-i-realize-master-yi-v1.fantome",
 				"size": 12502718,
 				"sha256": "2adc0f9554dc64fd1d5dfe06899f588ddd2e496538d49446926963f2dd4339f1"
+			}
+		},
+		{
+			"id": "star-derek-load-screen",
+			"name": "Star Derek Load Screen",
+			"kind": "other",
+			"creator": "thoxainn",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/star-derek-load-screen/thumb.webp?v=0136a871",
+			"file": {
+				"version": 1,
+				"asset": "star-derek-load-screen-v1.fantome",
+				"size": 27364642,
+				"sha256": "9d358cbb71c433980e608455a5672606b3f313079d5c11dc31a08a610d542fbd"
+			}
+		},
+		{
+			"id": "star-guardian-ahri-announcer",
+			"name": "Star Guardian Ahri Announcer",
+			"kind": "announcer",
+			"creator": "ramu3x",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/star-guardian-ahri-announcer/thumb.webp?v=9b4c6438",
+			"file": {
+				"version": 1,
+				"asset": "star-guardian-ahri-announcer-v1.fantome",
+				"size": 8569955,
+				"sha256": "95acae61f4bb7f48a0666a07dc69aaf8e386f3000ecafb6447cb981b7a58796b"
+			}
+		},
+		{
+			"id": "star-guardian-bgm-invasion",
+			"name": "Star Guardian BGM - Invasion",
+			"kind": "other",
+			"creator": "matthewchasm",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/star-guardian-bgm-invasion/thumb.webp?v=88b1efb2",
+			"file": {
+				"version": 1,
+				"asset": "star-guardian-bgm-invasion-v1.fantome",
+				"size": 40881377,
+				"sha256": "caa32a82596dfbed7957f7d27367f066ea5dc15a0b6875794148f84e918bc674"
+			}
+		},
+		{
+			"id": "star-guardian-bgm-vocals",
+			"name": "Star Guardian BGM - Vocals",
+			"kind": "sounds",
+			"creator": "matthewchasm",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/star-guardian-bgm-vocals/thumb.webp?v=f7dd0b98",
+			"file": {
+				"version": 1,
+				"asset": "star-guardian-bgm-vocals-v1.fantome",
+				"size": 37636697,
+				"sha256": "32d6fcc3baf73165473016575c04ab0aa0cccd66fd777ae9a3a879f57d64ab80"
+			}
+		},
+		{
+			"id": "star-guardian-lux-voiceover",
+			"name": "Star Guardian Lux Voiceover",
+			"kind": "sounds",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/star-guardian-lux-voiceover/thumb.webp?v=e5f03b08",
+			"file": {
+				"version": 1,
+				"asset": "star-guardian-lux-voiceover-v1.fantome",
+				"size": 5741627,
+				"sha256": "9949e04670bb11a9cae29b232e20843b5862801d66d424cd5a3b21f771246c52"
+			}
+		},
+		{
+			"id": "star-guardian-miss-fortune-voiceover",
+			"name": "Star Guardian Miss Fortune Voiceover",
+			"kind": "sounds",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/star-guardian-miss-fortune-voiceover/thumb.webp?v=061af282",
+			"file": {
+				"version": 1,
+				"asset": "star-guardian-miss-fortune-voiceover-v1.fantome",
+				"size": 4037817,
+				"sha256": "56212a9794a172baa9750e966f53806e254c6062290548b8750de12b12234d68"
+			}
+		},
+		{
+			"id": "star-guardian-neeko-voiceover",
+			"name": "Star Guardian Neeko Voiceover",
+			"kind": "sounds",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/star-guardian-neeko-voiceover/thumb.webp?v=1847cf46",
+			"file": {
+				"version": 1,
+				"asset": "star-guardian-neeko-voiceover-v1.fantome",
+				"size": 10329751,
+				"sha256": "0a817f386c77112c846fc9f6ec414dc17407c4e563369162799f312f1a401798"
+			}
+		},
+		{
+			"id": "star-guardian-recall",
+			"name": "Star Guardian Recall",
+			"kind": "recall",
+			"creator": "tyre-4770",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/star-guardian-recall/thumb.webp?v=8ea2ea81",
+			"file": {
+				"version": 1,
+				"asset": "star-guardian-recall-v1.fantome",
+				"size": 698793,
+				"sha256": "cd1d91fe23d3e7134d516580bc02c84d114848c50940072ef088fee5955d704b"
+			}
+		},
+		{
+			"id": "star-guardian-soraka-announcer-recovery",
+			"name": "Star Guardian Soraka Announcer (Recovery)",
+			"kind": "announcer",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/star-guardian-soraka-announcer-recovery/thumb.webp?v=b102098f",
+			"file": {
+				"version": 1,
+				"asset": "star-guardian-soraka-announcer-recovery-v1.fantome",
+				"size": 10449013,
+				"sha256": "bdb951798559b0454205782c4ccee7814d84452101461aeb6d95eec347462e92"
+			}
+		},
+		{
+			"id": "star-guardian-zoe-voiceover-by-tricolorstar",
+			"name": "Star Guardian Zoe Voiceover by TricolorStar",
+			"kind": "sounds",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/star-guardian-zoe-voiceover-by-tricolorstar/thumb.webp?v=2d7c1e79",
+			"file": {
+				"version": 1,
+				"asset": "star-guardian-zoe-voiceover-by-tricolorstar-v1.fantome",
+				"size": 16718525,
+				"sha256": "ae8ec1a8e3ce194310f187187fead9eaf05b00949ffa1a749f8604b5f2cede21"
 			}
 		}
 	]

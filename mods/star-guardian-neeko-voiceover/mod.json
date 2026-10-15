@@ -1,0 +1,17 @@
+{
+	"id": "star-guardian-neeko-voiceover",
+	"name": "Star Guardian Neeko Voiceover",
+	"kind": "sounds",
+	"creator": "aurecueil",
+	"description": "# **Skin Information**\n\nChampion: Neeko\n\nSkin: Starguardian, Base, and few more\n\nReplaces: Voiceover\n\nDirector: [Tri Soundworks](https://x.com/TricolorStar)\n\nVoice Actress: [Emily Evans](https://x.com/thelyricalady?lang=en)\n\nFix by: Aurecueil\n\nPatch Fixed: 15.15\n\n## Wanna buy me a [Coffee](https://ko-fi.com/aurecueil)? :>\n\n\n[![My Discord Server ^^](https://raw.githubusercontent.com/Aurecueil/Temp/refs/heads/main/images/banner6_better.png)](https://discord.gg/GETA29vZEK)\n\n\n## MISC\n\n[Tierlist of my BGM mods](https://runeforge.dev/users/Aurecueil)\n\ndc: aurecueil\n\ni DO take Commisions btw\n\nkofi (director): [TricolorStar](https://ko-fi.com/N4N6C42S)\n\n---\n\n**Created by** [aurecueil](https://runeforge.dev/users/aurecueil)\n\n**Original:** https://runeforge.dev/mods/be82e06b-f975-48fd-8bfd-e7943d5499e7\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/star-guardian-neeko-voiceover/thumb.webp?v=1847cf46",
+	"file": {
+		"version": 1,
+		"asset": "star-guardian-neeko-voiceover-v1.fantome",
+		"size": 10329751,
+		"sha256": "0a817f386c77112c846fc9f6ec414dc17407c4e563369162799f312f1a401798"
+	}
+}

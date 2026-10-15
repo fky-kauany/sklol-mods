@@ -1,0 +1,17 @@
+{
+	"id": "star-guardian-lux-voiceover",
+	"name": "Star Guardian Lux Voiceover",
+	"kind": "sounds",
+	"creator": "aurecueil",
+	"description": "# **Skin Information**\n\nChampion: Lux\n\nSkin: Starguardian, Base, and few more\n\nReplaces: Voiceover\n\nDirector: [Tri Soundworks](https://x.com/TricolorStar)\n\nVoice Actress: [Maidenofmine](https://www.youtube.com/channel/UCtXR1U5-V54oCMgRlKRIDQg)\n\nFix by: Aurecueil\n\nPatch Fixed: 15.14\n\n## Wanna buy me a [Coffee](https://ko-fi.com/aurecueil)? :>\n\n[![My Discord Server ^^](https://raw.githubusercontent.com/Aurecueil/Temp/refs/heads/main/images/banner6_better.png)](https://discord.gg/GETA29vZEK)\n\n\n## MISC\n\n[Tierlist of my BGM mods](https://runeforge.dev/users/Aurecueil)\n\ndc: aurecueil\n\ni DO take Commisions btw\n\n---\n\n**Created by** [aurecueil](https://runeforge.dev/users/aurecueil)\n\n**Original:** https://runeforge.dev/mods/73d66856-9aa4-4787-b595-d749b2ac4ff0\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/star-guardian-lux-voiceover/thumb.webp?v=e5f03b08",
+	"file": {
+		"version": 1,
+		"asset": "star-guardian-lux-voiceover-v1.fantome",
+		"size": 5741627,
+		"sha256": "9949e04670bb11a9cae29b232e20843b5862801d66d424cd5a3b21f771246c52"
+	}
+}

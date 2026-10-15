@@ -1,0 +1,17 @@
+{
+	"id": "star-guardian-zoe-voiceover-by-tricolorstar",
+	"name": "Star Guardian Zoe Voiceover by TricolorStar",
+	"kind": "sounds",
+	"creator": "aurecueil",
+	"description": "# **Skin Information**\n\nChampion: Zoe\n\nSkin: Star Guardian (09)\n\nReplaces: Voiceover\n\nDirector: [Tri Soundworks](https://x.com/TricolorStar)\n\nVoice Actress: [Claire Thomas](https://x.com/clairethomasva)\n\nFix by: Aurecueil\n\nPatch Fixed: 15.14\n\n## Wanna buy me a [Coffee](https://ko-fi.com/aurecueil)? :>\n\n\n[![My Discord Server ^^](https://raw.githubusercontent.com/Aurecueil/Temp/refs/heads/main/images/banner6_better.png)](https://discord.gg/GETA29vZEK)\n\n\n## MISC\n\n[Tierlist of my BGM mods](https://runeforge.dev/users/Aurecueil)\n\ndc: aurecueil\n\ni DO take Commisions btw\n\n\nkofi (director): [TricolorStar](https://ko-fi.com/N4N6C42S)\n\n---\n\n**Created by** [aurecueil](https://runeforge.dev/users/aurecueil)\n\n**Original:** https://runeforge.dev/mods/ee4980cd-7556-46f8-a98e-945a9f6e6eef\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/star-guardian-zoe-voiceover-by-tricolorstar/thumb.webp?v=2d7c1e79",
+	"file": {
+		"version": 1,
+		"asset": "star-guardian-zoe-voiceover-by-tricolorstar-v1.fantome",
+		"size": 16718525,
+		"sha256": "ae8ec1a8e3ce194310f187187fead9eaf05b00949ffa1a749f8604b5f2cede21"
+	}
+}

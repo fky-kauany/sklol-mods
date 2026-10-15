@@ -1,0 +1,17 @@
+{
+	"id": "star-guardian-miss-fortune-voiceover",
+	"name": "Star Guardian Miss Fortune Voiceover",
+	"kind": "sounds",
+	"creator": "aurecueil",
+	"description": "# **Skin Information**\n\nChampion: Miss Fortune\n\nSkin: Starguardian, Base, and few more\n\nReplaces: Voiceover\n\nDirector: [Tri Soundworks](https://x.com/TricolorStar)\n\nVoice Actress: [Maidenofmine](https://www.youtube.com/channel/UCtXR1U5-V54oCMgRlKRIDQg)\n\nFix by: Aurecueil\n\nPatch Fixed: 15.14\n\n## Wanna buy me a [Coffee](https://ko-fi.com/aurecueil)? :>\n\n\n[![My Discord Server ^^](https://raw.githubusercontent.com/Aurecueil/Temp/refs/heads/main/images/banner6_better.png)](https://discord.gg/GETA29vZEK)\n\n\n## MISC\n\n[Tierlist of my BGM mods](https://runeforge.dev/users/Aurecueil)\n\ndc: aurecueil\n\ni DO take Commisions btw\n\n---\n\n**Created by** [aurecueil](https://runeforge.dev/users/aurecueil)\n\n**Original:** https://runeforge.dev/mods/bba29317-3467-4b4d-9479-54f2a64017fa\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/star-guardian-miss-fortune-voiceover/thumb.webp?v=061af282",
+	"file": {
+		"version": 1,
+		"asset": "star-guardian-miss-fortune-voiceover-v1.fantome",
+		"size": 4037817,
+		"sha256": "56212a9794a172baa9750e966f53806e254c6062290548b8750de12b12234d68"
+	}
+}

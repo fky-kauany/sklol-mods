@@ -1,0 +1,17 @@
+{
+	"id": "star-guardian-bgm-vocals",
+	"name": "Star Guardian BGM - Vocals",
+	"kind": "sounds",
+	"creator": "matthewchasm",
+	"description": "CHECK RELEASES FOR VERSIONS!!! A different version of a scuffed Star Guardian bgm using Summoner's Rift Updated Theme Music. To use, go to settings > sounds (under in-game tab if on client) > set Summoner's Rift Theme Music to Updated (scroll to bottom). Featuring Burning Bright, Everything Goes On, Fates Fall, Light & Shadow and Endless Starlight songs. Alternate version: [https://runeforge.dev/mods/a33ce5f7-9caa-4b14-afb0-7c7a84ec0136/releases](https://runeforge.dev/mods/a33ce5f7-9caa-4b14-afb0-7c7a84ec0136/releases)\n\n---\n\n**Created by** [MatthewChasm](https://runeforge.dev/users/MatthewChasm)\n\n**Original:** https://runeforge.dev/mods/2af52c93-8410-4dcc-ae3e-d158b16f742c\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/star-guardian-bgm-vocals/thumb.webp?v=f7dd0b98",
+	"file": {
+		"version": 1,
+		"asset": "star-guardian-bgm-vocals-v1.fantome",
+		"size": 37636697,
+		"sha256": "32d6fcc3baf73165473016575c04ab0aa0cccd66fd777ae9a3a879f57d64ab80"
+	}
+}
