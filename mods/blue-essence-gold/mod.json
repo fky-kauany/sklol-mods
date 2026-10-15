@@ -1,0 +1,17 @@
+{
+	"id": "blue-essence-gold",
+	"name": "Blue Essence Gold",
+	"kind": "ui",
+	"creator": "yuumi",
+	"description": "Blue Essence... I luv Blue Essence... Get things.... Blue Essence.. Emporium... Blue Essence....&#x20;\n\n---\n\n**Created by** [Yuumi](https://runeforge.dev/users/yuumi)\n\n**Original:** https://runeforge.dev/mods/367ce58a-d7a7-43e7-b1a9-2c8823eaf31a\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/blue-essence-gold/thumb.webp?v=059bb32a",
+	"file": {
+		"version": 1,
+		"asset": "blue-essence-gold-v1.fantome",
+		"size": 11003,
+		"sha256": "d0f2f8a59f429402d454baeebae34ff1f7d8dcd38d4805888f330d40f6ce9891"
+	}
+}

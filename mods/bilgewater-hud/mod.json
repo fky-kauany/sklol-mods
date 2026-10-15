@@ -1,0 +1,17 @@
+{
+	"id": "bilgewater-hud",
+	"name": "Bilgewater HUD",
+	"kind": "other",
+	"creator": "c-j-s",
+	"description": "HUD\n\nLoading screen\n\nability quick cast decal\n\nshop \n\nscoreboard\n\nMinimap\n\nMouse\n\n---\n\n**Created by** [C_J_S](https://runeforge.dev/users/C_J_S)\n\n**Original:** https://runeforge.dev/mods/5eaf0efb-50e5-41d4-b09a-d26566a71050\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/bilgewater-hud/thumb.webp?v=3c99ec13",
+	"file": {
+		"version": 1,
+		"asset": "bilgewater-hud-v1.fantome",
+		"size": 25775374,
+		"sha256": "dfcc931ed872876c35f2d140f106efa3631f6c5d5013272e66547b582f65b8f6"
+	}
+}

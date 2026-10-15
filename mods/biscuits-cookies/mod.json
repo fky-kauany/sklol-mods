@@ -1,0 +1,17 @@
+{
+	"id": "biscuits-cookies",
+	"name": "Biscuits --> Cookies",
+	"kind": "ui",
+	"creator": "mouf",
+	"description": "# Information\r\n### Biscuits --> Cookies + RUNE\r\n### Modified Biscuits TO Cookies :D\r\n### Author: Mouf\r\n# ----------------------------------------------------------------------------------------------\r\n# My Info\r\n### Discord : 1Mouf DM\n\n---\n\n**Created by** [Mouf](https://runeforge.dev/users/Mouf)\n\n**Original:** https://runeforge.dev/mods/83a7f192-0a09-428e-985b-156bb3334475\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/biscuits-cookies/thumb.webp?v=e6e03c08",
+	"file": {
+		"version": 1,
+		"asset": "biscuits-cookies-v1.fantome",
+		"size": 489722,
+		"sha256": "0f1da4feb1f3820e35e09b818eadee21113b130184e599c8586cc7f2cb9b50ac"
+	}
+}

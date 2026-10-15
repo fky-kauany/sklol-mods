@@ -1,0 +1,17 @@
+{
+	"id": "blue-archives-bgm",
+	"name": "Blue Archives BGM",
+	"kind": "sounds",
+	"creator": "aurecueil",
+	"description": "# 🎵 Track List\r\n\r\n| Event | Track(s) |\r\n|------|------|\r\n| Game Start (Mage) | [113 Usagi Flap](https://www.youtube.com/watch?v=toPWvdaC84w) |\r\n| Early Game (Mage) | [1 Constant Moderato](https://www.youtube.com/watch?v=SHkF48SgiSA) + [11 Connected Sky](https://www.youtube.com/watch?v=DzhcJxrS5Z8) + [117 KARAKURhythm](https://www.youtube.com/watch?v=roGvSHsmpmU) |\r\n| Game Start (Paladin) | [9 Midsummer Cat](https://www.youtube.com/watch?v=jokHmrFq56E) |\r\n| Early Game (Paladin) | [1 Constant Moderato](https://www.youtube.com/watch?v=SHkF48SgiSA) + [12 Shooting Stars](https://www.youtube.com/watch?v=yfsqGCO_ZfM) |\r\n| Mid Game | [6 Funky Road](https://www.youtube.com/watch?v=8h458BG1-Bo) + [8 Shady Girls](https://www.youtube.com/watch?v=v7s-gHSs-YM) + [5 Colorful Mess](https://www.youtube.com/watch?v=OF9cu3cutj0) |\r\n| Late Game | [133 Goal Wo Nerae!](https://www.youtube.com/watch?v=dOH0dXpDbaU) + [245. Expo Festa](https://www.youtube.com/watch?v=l4ZJmw8J918) |\r\n| Baron Alive | [7 Unwelcome School](https://www.youtube.com/watch?v=pEg_d2f6myw) + [165 Up to 21°C](https://www.youtube.com/watch?v=JuQOQ4okSJE) |\r\n| River | [94 Bunny Bunny Carrot Carrot](https://www.youtube.com/watch?v=fLeFnN5tarI) |\r\n| River - Grubbies | [167 Hidden Treasure](https://www.youtube.com/watch?v=DNpVcwjD1S8) |\r\n| River - Herald | [207 HIGH5LANDER](https://www.youtube.com/watch?v=6ITgnMiM2DU) |\r\n| River - Baron | [253 WE'RE CCC](https://www.youtube.com/watch?v=8pi6ztlikIQ) |\r\n| Void-spawn Combat | [84 PRST Marching](https://www.youtube.com/watch?v=7K4v6eKqgQg) |\r\n| Victory | [4 Lovely Picnic](https://www.youtube.com/watch?v=dEfXiVI1Euo) |\r\n| Defeat | [172 Rendezvous (Recorder ver)](https://www.youtube.com/watch?v=RZrSYUOGUkM) |\r\n\r\n## ☕ Wanna buy me a [Coffee](https://ko-fi.com/aurecueil)? :> \r\n[![My Discord Server ^^](https://raw.githubusercontent.com/Aurecueil/Temp/refs/heads/main/images/banner6_better.png)](https://discord.gg/GETA29vZEK)\r\n\r\n## 📦 Misc\r\n\r\ndc: `aurecueil`\r\n\r\ni DO take Commisions btw\n\n---\n\n**Created by** [aurecueil](https://runeforge.dev/users/aurecueil)\n\n**Original:** https://runeforge.dev/mods/57bc4f6e-f454-401c-8f55-7b6aa9628bbe\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/blue-archives-bgm/thumb.webp?v=04d70ee5",
+	"file": {
+		"version": 1,
+		"asset": "blue-archives-bgm-v1.fantome",
+		"size": 39584470,
+		"sha256": "7413cd30cdf99c32cd78566694ee327e9747dfd6c8647eb0aa91c17d248bf880"
+	}
+}

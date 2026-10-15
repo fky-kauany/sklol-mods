@@ -1,0 +1,17 @@
+{
+	"id": "black-white-mouse-clicks",
+	"name": "Black/White Mouse Clicks",
+	"kind": "other",
+	"creator": "pimek",
+	"description": "![](https://static.wixstatic.com/media/0e6a9e_23be4c494243409aa125310aa8fa9d8b~mv2.png/v1/fill/w_513,h_224,al_c,lg_1,q_85,enc_auto/0e6a9e_23be4c494243409aa125310aa8fa9d8b~mv2.png) ![](https://i.imgur.com/5tGMGZ8.png)\n\n\n\n# Socials\n\n* Twitter: [https://x.com/p1mek](https://x.com/p1mek) \\[New Skins/Projects]\n\n# Mod Information\n\n* Modified UI: Cursors\n* \\[dc: pimek#8322] issues here or on my discord server\n* Description: Black Cursor \\[One of Discord Requests]\n\n# Fixes/Updates\n\n* \\[Black Cursor] Changed TCO to white from red\n* Mini Fix for Black Clicks \\[22.01]\n\n---\n\n**Created by** [pimek](https://www.divineskins.gg/pimek)\n\n**Original:** https://www.divineskins.gg/pimek/blackwhite-mouse-clicks\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/black-white-mouse-clicks/thumb.webp?v=9f39d7c4",
+	"file": {
+		"version": 1,
+		"asset": "black-white-mouse-clicks-v1.fantome",
+		"size": 28238,
+		"sha256": "a0de78445ed9d6962ea0acb8aaaf97d5001990973ccfabf65221174dac0154a2"
+	}
+}

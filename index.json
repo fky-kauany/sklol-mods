@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T07:29:39.186Z",
+	"generatedAt": "2026-10-15T07:32:46.446Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -85,6 +85,11 @@
 				"site": "https://raw.githubusercontent.com/Aurecueil/Temp/refs/heads/main/images/banner6_better.png",
 				"youtube": "https://www.youtube.com/watch?v=P4QNvAjfKxc"
 			}
+		},
+		"c-j-s": {
+			"name": "C_J_S",
+			"avatar": "creators/c-j-s.png?v=3a338fcc",
+			"links": {}
 		},
 		"cyanidepillz": {
 			"name": "CyanidePillz",
@@ -199,6 +204,11 @@
 				"site": "https://runeforge.dev/mods?search=agomsmoga"
 			}
 		},
+		"mouf": {
+			"name": "Mouf",
+			"avatar": "creators/mouf.jpg?v=b3182dd4",
+			"links": {}
+		},
 		"notcoconut": {
 			"name": "NotCoconut",
 			"avatar": "creators/notcoconut.webp?v=3212d014",
@@ -225,6 +235,16 @@
 				"patreon": "https://www.patreon.com/PicoSenpaiSFW",
 				"site": "https://static.wixstatic.com/media/e2a744_abb27c3529754e04ab6ad06fd9c7ab56~mv2.png/v1/fill/w_740,h_416,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e2a744_abb27c3529754e04ab6ad06fd9c7ab56~mv2.png",
 				"youtube": "https://youtu.be/v681bCoQxPA"
+			}
+		},
+		"pimek": {
+			"name": "pimek",
+			"bio": "# Making RIOTlike edgy and meme mods\n\n* All skins here all my best one\n\nthe other mods can be found on discord",
+			"links": {
+				"discord": "https://discord.gg/hexrtbrxenchromas",
+				"kofi": "https://ko-fi.com/p1mek",
+				"site": "https://static.wixstatic.com/media/0e6a9e_23be4c494243409aa125310aa8fa9d8b~mv2.png/v1/fill/w_513,h_224,al_c,lg_1,q_85,enc_auto/0e6a9e_23be4c494243409aa125310aa8fa9d8b~mv2.png",
+				"x": "https://x.com/p1mek"
 			}
 		},
 		"rat-departttment": {
@@ -1507,6 +1527,176 @@
 				"asset": "bewitching-nidalee-custom-sfx-v1.fantome",
 				"size": 12592591,
 				"sha256": "7d5460186b3cc1e2e7a4bc6761bfdcb95a1a4c08146ab4c201fca5e5878ca2c4"
+			}
+		},
+		{
+			"id": "bilgewater-hud",
+			"name": "Bilgewater HUD",
+			"kind": "other",
+			"creator": "c-j-s",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/bilgewater-hud/thumb.webp?v=3c99ec13",
+			"file": {
+				"version": 1,
+				"asset": "bilgewater-hud-v1.fantome",
+				"size": 25775374,
+				"sha256": "dfcc931ed872876c35f2d140f106efa3631f6c5d5013272e66547b582f65b8f6"
+			}
+		},
+		{
+			"id": "biscuits-cookies",
+			"name": "Biscuits --> Cookies",
+			"kind": "ui",
+			"creator": "mouf",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/biscuits-cookies/thumb.webp?v=e6e03c08",
+			"file": {
+				"version": 1,
+				"asset": "biscuits-cookies-v1.fantome",
+				"size": 489722,
+				"sha256": "0f1da4feb1f3820e35e09b818eadee21113b130184e599c8586cc7f2cb9b50ac"
+			}
+		},
+		{
+			"id": "black-loading-screen",
+			"name": "Black Loading Screen",
+			"kind": "ui",
+			"creator": "agomsmoga",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/black-loading-screen/thumb.webp?v=1de4dd45",
+			"file": {
+				"version": 1,
+				"asset": "black-loading-screen-v1.fantome",
+				"size": 1078,
+				"sha256": "b1ae46c9d5050f2a33c14022a27ac7e6926c882dcbca807e337bfdc8f3157e8f"
+			}
+		},
+		{
+			"id": "black-reliquary-announcer-sr",
+			"name": "Black Reliquary Announcer (SR)",
+			"kind": "announcer",
+			"creator": "archlyris",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/black-reliquary-announcer-sr/thumb.webp?v=385769f4",
+			"file": {
+				"version": 1,
+				"asset": "black-reliquary-announcer-sr-v1.fantome",
+				"size": 8553977,
+				"sha256": "254e68bf5bf7ca7c5af8ef819c98d0e5ea590d7773bd09b37f5844c6c11b112e"
+			}
+		},
+		{
+			"id": "black-white-mouse-clicks",
+			"name": "Black/White Mouse Clicks",
+			"kind": "other",
+			"creator": "pimek",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/black-white-mouse-clicks/thumb.webp?v=9f39d7c4",
+			"file": {
+				"version": 1,
+				"asset": "black-white-mouse-clicks-v1.fantome",
+				"size": 28238,
+				"sha256": "a0de78445ed9d6962ea0acb8aaaf97d5001990973ccfabf65221174dac0154a2"
+			}
+		},
+		{
+			"id": "blackfrost-reksai-chroma-vfx",
+			"name": "Blackfrost Reksai Chroma VFX",
+			"kind": "vfx",
+			"creator": "donutvsdonut",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/blackfrost-reksai-chroma-vfx/thumb.webp?v=92a66f87",
+			"file": {
+				"version": 1,
+				"asset": "blackfrost-reksai-chroma-vfx-v1.fantome",
+				"size": 16922703,
+				"sha256": "b03e3b3c5cdcbf40a76c109bef135ede3b53ddaa8f2448937ee1077a462e6e14"
+			}
+		},
+		{
+			"id": "blakinola-announcer-pack",
+			"name": "Blakinola Announcer Pack",
+			"kind": "announcer",
+			"creator": "konari",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/blakinola-announcer-pack/thumb.webp?v=37d42d09",
+			"file": {
+				"version": 1,
+				"asset": "blakinola-announcer-pack-v1.fantome",
+				"size": 7017348,
+				"sha256": "6b17d286465fe2b831d386d9c47fdf3ad147e7448967b526330b1af0df50d414"
+			}
+		},
+		{
+			"id": "blue-archive-4thpv-loading-screen-comes-with-por",
+			"name": "Blue archive 4thpv loading screen (comes with portable wo ai ni shiroko & arona ",
+			"kind": "other",
+			"creator": "archlyris",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/blue-archive-4thpv-loading-screen-comes-with-por/thumb.webp?v=97146ab0",
+			"file": {
+				"version": 1,
+				"asset": "blue-archive-4thpv-loading-screen-comes-with-por-v1.fantome",
+				"size": 34131435,
+				"sha256": "bb02e073d8ccee9fd9dcdf20b9e8d515321c6ccbe95764e4343588a51e951611"
+			}
+		},
+		{
+			"id": "blue-archives-bgm",
+			"name": "Blue Archives BGM",
+			"kind": "sounds",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/blue-archives-bgm/thumb.webp?v=04d70ee5",
+			"file": {
+				"version": 1,
+				"asset": "blue-archives-bgm-v1.fantome",
+				"size": 39584470,
+				"sha256": "7413cd30cdf99c32cd78566694ee327e9747dfd6c8647eb0aa91c17d248bf880"
+			}
+		},
+		{
+			"id": "blue-essence-gold",
+			"name": "Blue Essence Gold",
+			"kind": "ui",
+			"creator": "yuumi",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/blue-essence-gold/thumb.webp?v=059bb32a",
+			"file": {
+				"version": 1,
+				"asset": "blue-essence-gold-v1.fantome",
+				"size": 11003,
+				"sha256": "d0f2f8a59f429402d454baeebae34ff1f7d8dcd38d4805888f330d40f6ce9891"
 			}
 		}
 	]

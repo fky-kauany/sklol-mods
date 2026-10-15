@@ -83,6 +83,11 @@
 			"youtube": "https://www.youtube.com/watch?v=P4QNvAjfKxc"
 		}
 	},
+	"c-j-s": {
+		"name": "C_J_S",
+		"avatar": "creators/c-j-s.png?v=3a338fcc",
+		"links": {}
+	},
 	"cyanidepillz": {
 		"name": "CyanidePillz",
 		"avatar": "creators/cyanidepillz.png?v=622b7ea4",
@@ -196,6 +201,11 @@
 			"site": "https://runeforge.dev/mods?search=agomsmoga"
 		}
 	},
+	"mouf": {
+		"name": "Mouf",
+		"avatar": "creators/mouf.jpg?v=b3182dd4",
+		"links": {}
+	},
 	"notcoconut": {
 		"name": "NotCoconut",
 		"avatar": "creators/notcoconut.webp?v=3212d014",
@@ -222,6 +232,16 @@
 			"patreon": "https://www.patreon.com/PicoSenpaiSFW",
 			"site": "https://static.wixstatic.com/media/e2a744_abb27c3529754e04ab6ad06fd9c7ab56~mv2.png/v1/fill/w_740,h_416,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e2a744_abb27c3529754e04ab6ad06fd9c7ab56~mv2.png",
 			"youtube": "https://youtu.be/v681bCoQxPA"
+		}
+	},
+	"pimek": {
+		"name": "pimek",
+		"bio": "# Making RIOTlike edgy and meme mods\n\n* All skins here all my best one\n\nthe other mods can be found on discord",
+		"links": {
+			"discord": "https://discord.gg/hexrtbrxenchromas",
+			"kofi": "https://ko-fi.com/p1mek",
+			"site": "https://static.wixstatic.com/media/0e6a9e_23be4c494243409aa125310aa8fa9d8b~mv2.png/v1/fill/w_513,h_224,al_c,lg_1,q_85,enc_auto/0e6a9e_23be4c494243409aa125310aa8fa9d8b~mv2.png",
+			"x": "https://x.com/p1mek"
 		}
 	},
 	"rat-departttment": {

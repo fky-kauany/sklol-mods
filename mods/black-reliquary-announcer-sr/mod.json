@@ -1,0 +1,17 @@
+{
+	"id": "black-reliquary-announcer-sr",
+	"name": "Black Reliquary Announcer (SR)",
+	"kind": "announcer",
+	"creator": "archlyris",
+	"description": "---\n\n**Created by** [archlyris](https://runeforge.dev/users/archlyris)\n\n**Original:** https://runeforge.dev/mods/6a9714b7-9ac7-4e20-b8d5-049fd60f13cb\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/black-reliquary-announcer-sr/thumb.webp?v=385769f4",
+	"file": {
+		"version": 1,
+		"asset": "black-reliquary-announcer-sr-v1.fantome",
+		"size": 8553977,
+		"sha256": "254e68bf5bf7ca7c5af8ef819c98d0e5ea590d7773bd09b37f5844c6c11b112e"
+	}
+}

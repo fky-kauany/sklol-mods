@@ -1,0 +1,17 @@
+{
+	"id": "blackfrost-reksai-chroma-vfx",
+	"name": "Blackfrost Reksai Chroma VFX",
+	"kind": "vfx",
+	"creator": "donutvsdonut",
+	"description": "Affects Blackfrost Rek'sai, not usable if you already have other skins modifying Blackfrost Rek'sai. Does not change base skin.\n\n---\n\n**Created by** [DonutvsDonut](https://runeforge.dev/users/DonutvsDonut)\n\n**Original:** https://runeforge.dev/mods/c86b7697-7b69-4a63-94e0-4377c709a687\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/blackfrost-reksai-chroma-vfx/thumb.webp?v=92a66f87",
+	"file": {
+		"version": 1,
+		"asset": "blackfrost-reksai-chroma-vfx-v1.fantome",
+		"size": 16922703,
+		"sha256": "b03e3b3c5cdcbf40a76c109bef135ede3b53ddaa8f2448937ee1077a462e6e14"
+	}
+}
