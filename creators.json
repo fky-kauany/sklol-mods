@@ -233,6 +233,12 @@
 			"youtube": "https://www.youtube.com/@NotAFriendlyFrog"
 		}
 	},
+	"gabe": {
+		"name": "Gabe",
+		"avatar": "creators/gabe.png?v=35003fa4",
+		"bio": "Criador br me chama no dc se precisar de ajuda gabrielpicademel123\ntiktok @zodd01t \nda uma moral e segue la \nsou mono darius entao vai ter muitas skins dele sim",
+		"links": {}
+	},
 	"gloomytree": {
 		"name": "Gloomy Tree",
 		"avatar": "creators/gloomytree.jpg?v=b46ed5c2",
@@ -275,6 +281,13 @@
 		"name": "int0xic",
 		"links": {}
 	},
+	"juuhadg": {
+		"name": "juuhadg",
+		"avatar": "creators/juuhadg.jpg?v=708eacb4",
+		"links": {
+			"youtube": "https://youtu.be/AKx4pJpezpg"
+		}
+	},
 	"kietjojo": {
 		"name": "Kiet Jojo",
 		"avatar": "creators/kietjojo.jpg?v=7479fb00",
@@ -302,6 +315,11 @@
 		"links": {
 			"youtube": "https://youtu.be/zX507jo6tGg"
 		}
+	},
+	"laby": {
+		"name": "Laby",
+		"avatar": "creators/laby.jpg?v=5b598c0b",
+		"links": {}
 	},
 	"lasarban": {
 		"name": "lasarban",
@@ -349,6 +367,11 @@
 		"links": {
 			"youtube": "https://www.youtube.com/watch?v=qr2YUL-taMM"
 		}
+	},
+	"megaomg": {
+		"name": "megaomg",
+		"bio": "just a gojo fan",
+		"links": {}
 	},
 	"miyu": {
 		"name": "miyu",
@@ -481,6 +504,14 @@
 		"avatar": "creators/seiko.jpg?v=af42b5bb",
 		"bio": "making cute mods for leauge",
 		"links": {}
+	},
+	"sirdy789": {
+		"name": "Sirdy  (🇧🇷)",
+		"avatar": "creators/sirdy789.png?v=19fccd1f",
+		"bio": "(◕‿◕)      ->  ♡  \n\nDiscord: #sirdyasd",
+		"links": {
+			"site": "https://www.dafont.com/godofwar.font?text=FONT"
+		}
 	},
 	"snorr": {
 		"name": "Snorr",

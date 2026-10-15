@@ -1,0 +1,17 @@
+{
+	"id": "goofy-veigar",
+	"name": "Goofy Veigar",
+	"kind": "sounds",
+	"creator": "juuhadg",
+	"description": "Skins Supported:\r\n\r\n- Base\r\n- Fright Night\r\n\r\nSounds Changed:\r\n\r\n- Dance Emote\r\n- Q cast and hit\r\n- W cast and hit\r\n- E cast\r\n- R cast and hit\r\n\r\nWARNING : R SOUND IS LOUD\n\n---\n\n**Created by** [juuhadg](https://runeforge.dev/users/juuhadg)\n\n**Original:** https://runeforge.dev/mods/a54cab6d-a754-4977-a3a6-df0ec06411db\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/goofy-veigar/thumb.webp?v=97d66056",
+	"file": {
+		"version": 1,
+		"asset": "goofy-veigar-v1.fantome",
+		"size": 1046394,
+		"sha256": "4d287859d46d0a9b451ca31f90233cee60d7579c27cc1d8e9efb95d4b2d4771a"
+	}
+}

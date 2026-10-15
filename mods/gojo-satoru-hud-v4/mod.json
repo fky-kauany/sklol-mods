@@ -1,0 +1,17 @@
+{
+	"id": "gojo-satoru-hud-v4",
+	"name": "Gojo Satoru HUD V4",
+	"kind": "ui",
+	"creator": "megaomg",
+	"description": "Final version of my Gojo Satoru HUD\nMade by KataZuki\ndiscord: megaomg\n\n---\n\n**Created by** [megaomg](https://www.divineskins.gg/megaomg)\n\n**Original:** https://www.divineskins.gg/megaomg/gojo-satoru-hud-v4\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/gojo-satoru-hud-v4/thumb.webp?v=e18ec332",
+	"file": {
+		"version": 1,
+		"asset": "gojo-satoru-hud-v4-v1.fantome",
+		"size": 9619539,
+		"sha256": "e1eb9af71c84219af6d498b04dae04127b86da833596245c56d4e7e77c56529a"
+	}
+}

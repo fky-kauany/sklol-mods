@@ -1,0 +1,17 @@
+{
+	"id": "ggst-annoucer-bad",
+	"name": "GGST ANNOUCER (BAD)",
+	"kind": "announcer",
+	"creator": "aurecueil",
+	"description": "# **Skin Information**\n\n\nReplaces: Announcer\n\nAuthor: Aurecueil\n\nVersion: 1.0.0\n\nMap: Summoners Rift (11)\n\nPatch Made: 15.14\n\n[![My Discord Server ^^](https://raw.githubusercontent.com/Aurecueil/Temp/refs/heads/main/images/banner6_better.png)](https://discord.gg/GETA29vZEK)\n## MISC\n\n[Tierlist of my BGM mods](https://runeforge.dev/users/Aurecueil)\n\ndc: aurecueil\n\ni DO take Commisions btw\n\nkofi (donuts): [ko-fi/aurecueil](https://ko-fi.com/aurecueil)\n\n---\n\n**Created by** [aurecueil](https://runeforge.dev/users/aurecueil)\n\n**Original:** https://runeforge.dev/mods/c2f629eb-c9be-4c45-9da9-d3582557ab38\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/ggst-annoucer-bad/thumb.webp?v=51cd214e",
+	"file": {
+		"version": 1,
+		"asset": "ggst-annoucer-bad-v1.fantome",
+		"size": 6472148,
+		"sha256": "4a9166fe97f34a28eb569e5c51764942f7dbc31c8c460a8b1808daed355fd9f8"
+	}
+}

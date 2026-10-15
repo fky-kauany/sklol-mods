@@ -1,0 +1,17 @@
+{
+	"id": "goth-fonts",
+	"name": "Goth Fonts",
+	"kind": "fonts",
+	"creator": "tor-lol",
+	"description": "## Goth Fonts\n\n![image.png](https://i.postimg.cc/Pqbyhyw4/image.png)\n\nBrings a collection of dark gothic font replacements into League of Legends.\n\nChoose your favorite font version:\n\n- Angel wish\n- Aviorte\n- Evanescent\n- Sanguine Frost\n\nClick on **Versions** to download your favorite font:\n\n![Version selection](https://i.postimg.cc/GhCKqnSy/version.png)\n\nGot an idea for another Mod or UI-specific Wish? Send recommendations! I’m always looking for fun new ones to make.\n\n## Support\n\nIf you enjoy the mod, consider following me on TikTok: [@tor.lol](https://www.tiktok.com/@tor.lol)\n\n**Discord:** `tor.lol`\n\n---\n\n**Created by** [tor.lol](https://www.divineskins.gg/tor.lol)\n\n**Original:** https://www.divineskins.gg/tor.lol/goth-fonts\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/goth-fonts/thumb.webp?v=83e0a8eb",
+	"file": {
+		"version": 1,
+		"asset": "goth-fonts-v1.fantome",
+		"size": 27446,
+		"sha256": "72c8c6bb6a996b88b98ffdc4183ce4768f788c539248fb4eef2107f7f2245923"
+	}
+}

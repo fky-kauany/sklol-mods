@@ -1,0 +1,17 @@
+{
+	"id": "god-king-darius-pink",
+	"name": "god king darius pink",
+	"kind": "other",
+	"creator": "gabe",
+	"description": "Modified champion: darius \r\n\r\nModified skin: god king darius\r\n\r\nAuthor: gabe\n\n---\n\n**Created by** [Gabe](https://runeforge.dev/users/Gabe)\n\n**Original:** https://runeforge.dev/mods/525dbd0b-5da0-44d6-a8fe-89ee24f9edf9\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/god-king-darius-pink/thumb.webp?v=31aa45ca",
+	"file": {
+		"version": 1,
+		"asset": "god-king-darius-pink-v1.fantome",
+		"size": 20244102,
+		"sha256": "8db243c8c008dd734e639968fcd5268d625a9eef60dd0942982b6edb8b8a4967"
+	}
+}

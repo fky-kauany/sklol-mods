@@ -1,0 +1,17 @@
+{
+	"id": "gg-endscreen",
+	"name": "GG Endscreen",
+	"kind": "ui",
+	"creator": "laby",
+	"description": "Just GG for the Endscreen\n\n---\n\n**Created by** [Laby](https://runeforge.dev/users/Laby)\n\n**Original:** https://runeforge.dev/mods/83830d4a-e06c-49e7-a114-fd231c804776\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/gg-endscreen/thumb.webp?v=84cb9465",
+	"file": {
+		"version": 1,
+		"asset": "gg-endscreen-v1.fantome",
+		"size": 56651,
+		"sha256": "b8cc3a12de56b3fad2789361b2d1a6c3c9349b7269266f46714f200017d6a578"
+	}
+}

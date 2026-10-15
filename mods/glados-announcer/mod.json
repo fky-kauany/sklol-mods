@@ -1,0 +1,17 @@
+{
+	"id": "glados-announcer",
+	"name": "GLaDOS Announcer",
+	"kind": "announcer",
+	"creator": "ramu3x",
+	"description": "# MOD INFO\n\n* *Modifies the Summoner's Rift Announcer to GLaDOS (Portal) from Dota 2*\n\n# CONTACT \n\n* *Msg me on Discord @ramu3x*\n\n# BESTOWAL\n\n> *\" the act of giving something as an honor or a gift* \"\n\n* *If thouest art compelled to bestow upon me with thine money, clicketh thee this ko-fi link* [*https://ko-fi.com/ramu3x*](https://ko-fi.com/ramu3x)\n\n---\n\n**Created by** [Ramu3X](https://runeforge.dev/users/Ramu3X)\n\n**Original:** https://runeforge.dev/mods/aa283a11-0894-4839-969c-a218722fda83\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/glados-announcer/thumb.webp?v=b6ab22bb",
+	"file": {
+		"version": 1,
+		"asset": "glados-announcer-v1.fantome",
+		"size": 8197362,
+		"sha256": "d45161166f466836c7360efcbaae7bb44de7bf4715000d7ec148a9acb62c6f11"
+	}
+}

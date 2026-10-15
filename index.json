@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T08:56:18.575Z",
+	"generatedAt": "2026-10-15T09:01:52.946Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -236,6 +236,12 @@
 				"youtube": "https://www.youtube.com/@NotAFriendlyFrog"
 			}
 		},
+		"gabe": {
+			"name": "Gabe",
+			"avatar": "creators/gabe.png?v=35003fa4",
+			"bio": "Criador br me chama no dc se precisar de ajuda gabrielpicademel123\ntiktok @zodd01t \nda uma moral e segue la \nsou mono darius entao vai ter muitas skins dele sim",
+			"links": {}
+		},
 		"gloomytree": {
 			"name": "Gloomy Tree",
 			"avatar": "creators/gloomytree.jpg?v=b46ed5c2",
@@ -278,6 +284,13 @@
 			"name": "int0xic",
 			"links": {}
 		},
+		"juuhadg": {
+			"name": "juuhadg",
+			"avatar": "creators/juuhadg.jpg?v=708eacb4",
+			"links": {
+				"youtube": "https://youtu.be/AKx4pJpezpg"
+			}
+		},
 		"kietjojo": {
 			"name": "Kiet Jojo",
 			"avatar": "creators/kietjojo.jpg?v=7479fb00",
@@ -305,6 +318,11 @@
 			"links": {
 				"youtube": "https://youtu.be/zX507jo6tGg"
 			}
+		},
+		"laby": {
+			"name": "Laby",
+			"avatar": "creators/laby.jpg?v=5b598c0b",
+			"links": {}
 		},
 		"lasarban": {
 			"name": "lasarban",
@@ -352,6 +370,11 @@
 			"links": {
 				"youtube": "https://www.youtube.com/watch?v=qr2YUL-taMM"
 			}
+		},
+		"megaomg": {
+			"name": "megaomg",
+			"bio": "just a gojo fan",
+			"links": {}
 		},
 		"miyu": {
 			"name": "miyu",
@@ -484,6 +507,14 @@
 			"avatar": "creators/seiko.jpg?v=af42b5bb",
 			"bio": "making cute mods for leauge",
 			"links": {}
+		},
+		"sirdy789": {
+			"name": "Sirdy  (🇧🇷)",
+			"avatar": "creators/sirdy789.png?v=19fccd1f",
+			"bio": "(◕‿◕)      ->  ♡  \n\nDiscord: #sirdyasd",
+			"links": {
+				"site": "https://www.dafont.com/godofwar.font?text=FONT"
+			}
 		},
 		"snorr": {
 			"name": "Snorr",
@@ -4707,6 +4738,176 @@
 				"asset": "german-announcer-v1.fantome",
 				"size": 55472757,
 				"sha256": "d345869c0c0142d48be18e5ae5fb9c198cde633e2cf275db457b07c630ba3bf8"
+			}
+		},
+		{
+			"id": "gg-endscreen",
+			"name": "GG Endscreen",
+			"kind": "ui",
+			"creator": "laby",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/gg-endscreen/thumb.webp?v=84cb9465",
+			"file": {
+				"version": 1,
+				"asset": "gg-endscreen-v1.fantome",
+				"size": 56651,
+				"sha256": "b8cc3a12de56b3fad2789361b2d1a6c3c9349b7269266f46714f200017d6a578"
+			}
+		},
+		{
+			"id": "ggst-annoucer-bad",
+			"name": "GGST ANNOUCER (BAD)",
+			"kind": "announcer",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/ggst-annoucer-bad/thumb.webp?v=51cd214e",
+			"file": {
+				"version": 1,
+				"asset": "ggst-annoucer-bad-v1.fantome",
+				"size": 6472148,
+				"sha256": "4a9166fe97f34a28eb569e5c51764942f7dbc31c8c460a8b1808daed355fd9f8"
+			}
+		},
+		{
+			"id": "glados-announcer",
+			"name": "GLaDOS Announcer",
+			"kind": "announcer",
+			"creator": "ramu3x",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/glados-announcer/thumb.webp?v=b6ab22bb",
+			"file": {
+				"version": 1,
+				"asset": "glados-announcer-v1.fantome",
+				"size": 8197362,
+				"sha256": "d45161166f466836c7360efcbaae7bb44de7bf4715000d7ec148a9acb62c6f11"
+			}
+		},
+		{
+			"id": "god-king-darius-pink",
+			"name": "god king darius pink",
+			"kind": "other",
+			"creator": "gabe",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/god-king-darius-pink/thumb.webp?v=31aa45ca",
+			"file": {
+				"version": 1,
+				"asset": "god-king-darius-pink-v1.fantome",
+				"size": 20244102,
+				"sha256": "8db243c8c008dd734e639968fcd5268d625a9eef60dd0942982b6edb8b8a4967"
+			}
+		},
+		{
+			"id": "god-of-war-font",
+			"name": "GOD OF WAR Font",
+			"kind": "fonts",
+			"creator": "sirdy789",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/god-of-war-font/thumb.webp?v=59016ec4",
+			"file": {
+				"version": 1,
+				"asset": "god-of-war-font-v1.fantome",
+				"size": 17507,
+				"sha256": "e0f06717acd99e11b2be36720025a2225cd989b5c09fbbf9aef88687e49d5ba3"
+			}
+		},
+		{
+			"id": "gojo-satoru-hud-v4",
+			"name": "Gojo Satoru HUD V4",
+			"kind": "ui",
+			"creator": "megaomg",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/gojo-satoru-hud-v4/thumb.webp?v=e18ec332",
+			"file": {
+				"version": 1,
+				"asset": "gojo-satoru-hud-v4-v1.fantome",
+				"size": 9619539,
+				"sha256": "e1eb9af71c84219af6d498b04dae04127b86da833596245c56d4e7e77c56529a"
+			}
+		},
+		{
+			"id": "gold-recall",
+			"name": "Gold Recall",
+			"kind": "recall",
+			"creator": "frog",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/gold-recall/thumb.webp?v=0e8b8fa9",
+			"file": {
+				"version": 1,
+				"asset": "gold-recall-v1.fantome",
+				"size": 1134996,
+				"sha256": "805988fa5a07c3393992fefba465262649516602a02805e02181c630b1aae431"
+			}
+		},
+		{
+			"id": "goofy-ahh-rengar",
+			"name": "Goofy ahh Rengar",
+			"kind": "sounds",
+			"creator": "pico-senpai",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/goofy-ahh-rengar/thumb.webp?v=cec067ea",
+			"file": {
+				"version": 1,
+				"asset": "goofy-ahh-rengar-v1.fantome",
+				"size": 4710647,
+				"sha256": "227a2cc37037a21928ac0295e993b8d3dd15d86e0d7316d5a626428ee0c18656"
+			}
+		},
+		{
+			"id": "goofy-veigar",
+			"name": "Goofy Veigar",
+			"kind": "sounds",
+			"creator": "juuhadg",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/goofy-veigar/thumb.webp?v=97d66056",
+			"file": {
+				"version": 1,
+				"asset": "goofy-veigar-v1.fantome",
+				"size": 1046394,
+				"sha256": "4d287859d46d0a9b451ca31f90233cee60d7579c27cc1d8e9efb95d4b2d4771a"
+			}
+		},
+		{
+			"id": "goth-fonts",
+			"name": "Goth Fonts",
+			"kind": "fonts",
+			"creator": "tor-lol",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/goth-fonts/thumb.webp?v=83e0a8eb",
+			"file": {
+				"version": 1,
+				"asset": "goth-fonts-v1.fantome",
+				"size": 27446,
+				"sha256": "72c8c6bb6a996b88b98ffdc4183ce4768f788c539248fb4eef2107f7f2245923"
 			}
 		}
 	]
