@@ -1,0 +1,17 @@
+{
+	"id": "uttumdotum-korean-font",
+	"name": "Uttumdotum Korean Font",
+	"kind": "fonts",
+	"creator": "aropatnik",
+	"description": "## When sharing this mod with other people send a link to this page rather than the mod file - don't gatekeep the source\n\n### Information\n\nChanges the ingame fonts to Uttumdotum\n\n**Author:** Aropatnik\n\n#\n\n### Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/53c46620-311d-4416-b673-ef2cd0dc8abe\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/uttumdotum-korean-font/thumb.webp?v=c4ff5ca4",
+	"file": {
+		"version": 1,
+		"asset": "uttumdotum-korean-font-v1.fantome",
+		"size": 423845,
+		"sha256": "9ef56b427f2c5109112305d2cb6ac91185c9c1f471c898356aa2884c95d98214"
+	}
+}

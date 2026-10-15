@@ -346,6 +346,10 @@
 			"youtube": "https://youtu.be/D6MuCDAlA9Y?si=r_OtOm_IvjIUa1zc"
 		}
 	},
+	"emgie6": {
+		"name": "emgie6",
+		"links": {}
+	},
 	"epel": {
 		"name": "epel",
 		"links": {
@@ -855,6 +859,12 @@
 		"name": "Snubfiber",
 		"avatar": "creators/snubfiber.png?v=a20e1414",
 		"links": {}
+	},
+	"spokyoky": {
+		"name": "SpokyOky",
+		"links": {
+			"youtube": "https://youtu.be/v_HmENijFEI?si=lwidNse-uhcgGMwR"
+		}
 	},
 	"sraach": {
 		"name": "Sraach",

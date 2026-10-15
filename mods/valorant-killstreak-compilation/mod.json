@@ -1,0 +1,17 @@
+{
+	"id": "valorant-killstreak-compilation",
+	"name": "Valorant Killstreak Compilation",
+	"kind": "sounds",
+	"creator": "gloomytree",
+	"description": "# Changes killstreak to Valorant one, containing finishers also.\n\n## Current available KS (*Choose in releases tab*)\n\n- Base (**No Finisher**)\n- Champion 2021 - 2022 - 2023 - 2024 - 2025 (**Contain Finisher SFX**))\n\n***I'm open to new suggestions, check my Discord***\n\n---\n\n**Created by** [Gloomy Tree](https://runeforge.dev/users/GloomyTree)\n\n**Original:** https://runeforge.dev/mods/4d3ec4e7-cc9f-4c83-a415-cf229ef7a8c7\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/valorant-killstreak-compilation/thumb.webp?v=ca06ed28",
+	"file": {
+		"version": 1,
+		"asset": "valorant-killstreak-compilation-v1.fantome",
+		"size": 539261,
+		"sha256": "634931dd526c1b41eca3802f31f16690f55dce80d6df3d60456e32c134d271ea"
+	}
+}

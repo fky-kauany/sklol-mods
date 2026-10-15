@@ -1,0 +1,17 @@
+{
+	"id": "uncompressed-yuumi-emotes",
+	"name": "Uncompressed Yuumi Emotes",
+	"kind": "ui",
+	"creator": "yuumi",
+	"description": "Replaces Yuumi emotes with the lossless pngs from the client.\n\n---\n\n**Created by** [Yuumi](https://runeforge.dev/users/yuumi)\n\n**Original:** https://runeforge.dev/mods/a43c354c-52b6-4973-89e5-b2ac9c755b92\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/uncompressed-yuumi-emotes/thumb.webp?v=b33fceeb",
+	"file": {
+		"version": 1,
+		"asset": "uncompressed-yuumi-emotes-v1.fantome",
+		"size": 1349753,
+		"sha256": "dbab52a46250f81ae376076b181108ddb43d53b552bfac1aee32de87a87222d2"
+	}
+}

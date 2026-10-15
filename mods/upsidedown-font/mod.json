@@ -1,0 +1,17 @@
+{
+	"id": "upsidedown-font",
+	"name": "Upsidedown Font",
+	"kind": "fonts",
+	"creator": "aropatnik",
+	"description": "![](https://imagedelivery.net/jSCO7XHWhtXOc_Ojz3D3xA/417bd2ce-232c-481c-f7a4-10c690897d00/gallery)\n\n## Information\n\n**Changes the ingame fonts to be flipped upsidedown**\n\n**Author: Aropatnik**\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/1de7f4d9-a14d-4174-b0ea-5ceae2a22061\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/upsidedown-font/thumb.webp?v=226b40c0",
+	"file": {
+		"version": 1,
+		"asset": "upsidedown-font-v1.fantome",
+		"size": 339399,
+		"sha256": "0d4e1ac504331285b9b177eb69c1887d70dad5fd08009e01e9d8a758b56a3596"
+	}
+}

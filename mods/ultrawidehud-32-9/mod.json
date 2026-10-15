@@ -1,0 +1,17 @@
+{
+	"id": "ultrawidehud-32-9",
+	"name": "UltrawideHUD - 32:9",
+	"kind": "ui",
+	"creator": "ishanzke",
+	"description": "Brings the League of Legends minimap and HUD back within view on ultrawide monitors. Panels sit at the screen edges by default, which on 21:9 and 32:9 means turning your head to check the map. This moves the minimap, team frames, respawn timers and the score/KDA/timer bar inward to a comfortable distance.\n\n## Features\n\n- Minimap, team frames, respawn timers and the top-right score/KDA/timer bar all pulled inward and aligned to a shared edge\n- Minimap position holds at **every setting of the in-game minimap size slider** — change the size mid-game and nothing drifts out of line\n- Flipped-minimap layouts supported\n- Layout only. No gameplay changes, no new textures, no advantage\n\n## Which build\n\n- **21:9** — 3440×1440, 2560×1080\n- **32:9** — 5120×1440\n\nThe two are tuned separately and are **not** interchangeable. Install one, not both.\n\n\n\n\nDownloads and setup guide: [ultrawidehud.lol](https://ultrawidehud.lol)\nSupport and patch notifications: [Discord](https://discord.com/invite/VawhDAAbZC)\n\n---\n\nCreated by Ish\n\n---\n\n**Created by** [Ishanzke](https://www.divineskins.gg/Ishanzke)\n\n**Original:** https://www.divineskins.gg/Ishanzke/ultrawidehud-329\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/ultrawidehud-32-9/thumb.webp?v=7f6e1a3a",
+	"file": {
+		"version": 1,
+		"asset": "ultrawidehud-32-9-v1.fantome",
+		"size": 32368,
+		"sha256": "029683c156c0e0a6e6d505be820c4eb8e267b9a55d18e040e3c8e40e1d901fcf"
+	}
+}

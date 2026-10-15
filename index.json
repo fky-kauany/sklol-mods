@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T12:26:45.234Z",
+	"generatedAt": "2026-10-15T12:32:15.904Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -348,6 +348,10 @@
 				"discord": "https://discord.gg/5d8T8c962W",
 				"youtube": "https://youtu.be/D6MuCDAlA9Y?si=r_OtOm_IvjIUa1zc"
 			}
+		},
+		"emgie6": {
+			"name": "emgie6",
+			"links": {}
 		},
 		"epel": {
 			"name": "epel",
@@ -858,6 +862,12 @@
 			"name": "Snubfiber",
 			"avatar": "creators/snubfiber.png?v=a20e1414",
 			"links": {}
+		},
+		"spokyoky": {
+			"name": "SpokyOky",
+			"links": {
+				"youtube": "https://youtu.be/v_HmENijFEI?si=lwidNse-uhcgGMwR"
+			}
 		},
 		"sraach": {
 			"name": "Sraach",
@@ -11503,6 +11513,176 @@
 				"asset": "ultrawidehud-21-9-v1.fantome",
 				"size": 32341,
 				"sha256": "a8501b9aaf3c77244192da797f0b8be5b936f5028d5e6d8a4965ac03590aca43"
+			}
+		},
+		{
+			"id": "ultrawidehud-32-9",
+			"name": "UltrawideHUD - 32:9",
+			"kind": "ui",
+			"creator": "ishanzke",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/ultrawidehud-32-9/thumb.webp?v=7f6e1a3a",
+			"file": {
+				"version": 1,
+				"asset": "ultrawidehud-32-9-v1.fantome",
+				"size": 32368,
+				"sha256": "029683c156c0e0a6e6d505be820c4eb8e267b9a55d18e040e3c8e40e1d901fcf"
+			}
+		},
+		{
+			"id": "uncompressed-yuumi-emotes",
+			"name": "Uncompressed Yuumi Emotes",
+			"kind": "ui",
+			"creator": "yuumi",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/uncompressed-yuumi-emotes/thumb.webp?v=b33fceeb",
+			"file": {
+				"version": 1,
+				"asset": "uncompressed-yuumi-emotes-v1.fantome",
+				"size": 1349753,
+				"sha256": "dbab52a46250f81ae376076b181108ddb43d53b552bfac1aee32de87a87222d2"
+			}
+		},
+		{
+			"id": "undertale-font",
+			"name": "Undertale Font",
+			"kind": "fonts",
+			"creator": "emgie6",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/undertale-font/thumb.webp?v=29fce62f",
+			"file": {
+				"version": 1,
+				"asset": "undertale-font-v1.fantome",
+				"size": 95467,
+				"sha256": "39e7c98c8f6d26506d14633e1443ce943ac40f492a9ba973f1d68343348976b2"
+			}
+		},
+		{
+			"id": "unmuted-minions",
+			"name": "Unmuted Minions",
+			"kind": "sounds",
+			"creator": "dear-agony",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/unmuted-minions/thumb.webp?v=9c230b5f",
+			"file": {
+				"version": 1,
+				"asset": "unmuted-minions-v1.fantome",
+				"size": 913855,
+				"sha256": "0758660a72a78a16e8e40ef754da181c406599e5341ac04ff470e3350b0343c7"
+			}
+		},
+		{
+			"id": "unreal-tournament-announcer-pack-recovery",
+			"name": "Unreal Tournament Announcer Pack (Recovery)",
+			"kind": "announcer",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/unreal-tournament-announcer-pack-recovery/thumb.webp?v=c469cc09",
+			"file": {
+				"version": 1,
+				"asset": "unreal-tournament-announcer-pack-recovery-v1.fantome",
+				"size": 7203224,
+				"sha256": "333bceaa72b5897ff572c2c91906ab1144d74dfeb302d7214738555931973429"
+			}
+		},
+		{
+			"id": "upsidedown-font",
+			"name": "Upsidedown Font",
+			"kind": "fonts",
+			"creator": "aropatnik",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/upsidedown-font/thumb.webp?v=226b40c0",
+			"file": {
+				"version": 1,
+				"asset": "upsidedown-font-v1.fantome",
+				"size": 339399,
+				"sha256": "0d4e1ac504331285b9b177eb69c1887d70dad5fd08009e01e9d8a758b56a3596"
+			}
+		},
+		{
+			"id": "utannouncer-2-1",
+			"name": "UTAnnouncer 2.1",
+			"kind": "announcer",
+			"creator": "spokyoky",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/utannouncer-2-1/thumb.webp?v=f70e3568",
+			"file": {
+				"version": 1,
+				"asset": "utannouncer-2-1-v1.fantome",
+				"size": 12469992,
+				"sha256": "79ee7a87cf6773b517094258b42af9f841cc22c45e27d68e5e272e4af8e093d0"
+			}
+		},
+		{
+			"id": "uttumdotum-korean-font",
+			"name": "Uttumdotum Korean Font",
+			"kind": "fonts",
+			"creator": "aropatnik",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/uttumdotum-korean-font/thumb.webp?v=c4ff5ca4",
+			"file": {
+				"version": 1,
+				"asset": "uttumdotum-korean-font-v1.fantome",
+				"size": 423845,
+				"sha256": "9ef56b427f2c5109112305d2cb6ac91185c9c1f471c898356aa2884c95d98214"
+			}
+		},
+		{
+			"id": "valentine-s-heart-recall",
+			"name": "Valentine's Heart Recall",
+			"kind": "recall",
+			"creator": "tyre-4770",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/valentine-s-heart-recall/thumb.webp?v=18cb9bec",
+			"file": {
+				"version": 1,
+				"asset": "valentine-s-heart-recall-v1.fantome",
+				"size": 398317,
+				"sha256": "d91d58d3d3eba2432116fa58b6a2ea9fe998b4f9189ccb6548265c51e532ca7c"
+			}
+		},
+		{
+			"id": "valorant-killstreak-compilation",
+			"name": "Valorant Killstreak Compilation",
+			"kind": "sounds",
+			"creator": "gloomytree",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/valorant-killstreak-compilation/thumb.webp?v=ca06ed28",
+			"file": {
+				"version": 1,
+				"asset": "valorant-killstreak-compilation-v1.fantome",
+				"size": 539261,
+				"sha256": "634931dd526c1b41eca3802f31f16690f55dce80d6df3d60456e32c134d271ea"
 			}
 		}
 	]

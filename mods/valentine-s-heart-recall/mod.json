@@ -1,0 +1,17 @@
+{
+	"id": "valentine-s-heart-recall",
+	"name": "Valentine's Heart Recall",
+	"kind": "recall",
+	"creator": "tyre-4770",
+	"description": "## ♥ Mod Info ♥\n\n* Recall Name: Valentine's Heart\n* Author: Tyre 4770\n* Skin Version: 1.0\n\n##\n\n## ♥ CREDITS ♥\n\n* Made with free images on pngtree & freepik\n\n![](https://static.wixstatic.com/media/308775_6ea659e613fc480baef08be081c271ff~mv2.gif)\n\n---\n\n**Created by** [Tyre 4770](https://runeforge.dev/users/Tyre_4770)\n\n**Original:** https://runeforge.dev/mods/533a761e-19b6-420c-8a53-a8d0cbb68c0c\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/valentine-s-heart-recall/thumb.webp?v=18cb9bec",
+	"file": {
+		"version": 1,
+		"asset": "valentine-s-heart-recall-v1.fantome",
+		"size": 398317,
+		"sha256": "d91d58d3d3eba2432116fa58b6a2ea9fe998b4f9189ccb6548265c51e532ca7c"
+	}
+}

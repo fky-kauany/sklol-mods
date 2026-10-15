@@ -1,0 +1,17 @@
+{
+	"id": "undertale-font",
+	"name": "Undertale Font",
+	"kind": "fonts",
+	"creator": "emgie6",
+	"description": "---\n\n**Created by** [emgie6](https://runeforge.dev/users/emgie6)\n\n**Original:** https://runeforge.dev/mods/25b95c42-6328-4d2e-b5ca-f009cdfc3b50\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/undertale-font/thumb.webp?v=29fce62f",
+	"file": {
+		"version": 1,
+		"asset": "undertale-font-v1.fantome",
+		"size": 95467,
+		"sha256": "39e7c98c8f6d26506d14633e1443ce943ac40f492a9ba973f1d68343348976b2"
+	}
+}

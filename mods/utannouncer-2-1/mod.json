@@ -1,0 +1,17 @@
+{
+	"id": "utannouncer-2-1",
+	"name": "UTAnnouncer 2.1",
+	"kind": "announcer",
+	"creator": "spokyoky",
+	"description": "Unreal Tournament female/male Announcer. Female on ally. Male on enemy\n\nUpdate of 1.1 version on killerskins. Works only on English (US). RU is not working =( other langs not tested\n\n---\n\n**Created by** [SpokyOky](https://runeforge.dev/users/SpokyOky)\n\n**Original:** https://runeforge.dev/mods/c0955910-0c6d-410c-ae01-1e691907b3da\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/utannouncer-2-1/thumb.webp?v=f70e3568",
+	"file": {
+		"version": 1,
+		"asset": "utannouncer-2-1-v1.fantome",
+		"size": 12469992,
+		"sha256": "79ee7a87cf6773b517094258b42af9f841cc22c45e27d68e5e272e4af8e093d0"
+	}
+}

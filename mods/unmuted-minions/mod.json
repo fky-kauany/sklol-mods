@@ -1,0 +1,17 @@
+{
+	"id": "unmuted-minions",
+	"name": "Unmuted Minions",
+	"kind": "sounds",
+	"creator": "dear-agony",
+	"description": "### Overview\r\n\r\nA mod that increases the volume of Minion attack SFX in the game.\r\n\r\n---\r\n\r\n### What It Does\r\n\r\nThe game significantly reduces the volume of Minion attack sounds **(-18 dB)**, making them almost inaudible.\r\n\r\nThe mod only increases the volume of Minion SFX. Their original audio, playback behavior, camera-distance settings, and the game’s built-in **audio optimization** remain unchanged.\r\n\r\n---\r\n\r\n### Versions\r\n\r\n* **25%** — Slightly Louder\r\n* **50%** — Louder\r\n* **75%** — Much Louder\r\n* **100%** — Original Quality\r\n\r\nThe **100%** version restores the SFX to their original **0 dB** volume level.\r\n\r\n---\r\n\r\n### Feedback\r\n\r\nIf you encounter issues, have suggestions, or want to share feedback, feel free to contact me on Discord.\r\n\r\nDiscord: **dear_agony** (Dear Agony#9179)\n\n---\n\n**Created by** [Dear_Agony](https://runeforge.dev/users/Dear_Agony)\n\n**Original:** https://runeforge.dev/mods/e49d91d3-94b9-43f9-9bfc-6cb1e6752aff\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/unmuted-minions/thumb.webp?v=9c230b5f",
+	"file": {
+		"version": 1,
+		"asset": "unmuted-minions-v1.fantome",
+		"size": 913855,
+		"sha256": "0758660a72a78a16e8e40ef754da181c406599e5341ac04ff470e3350b0343c7"
+	}
+}
