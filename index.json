@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T10:10:59.999Z",
+	"generatedAt": "2026-10-15T10:16:49.414Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -75,6 +75,10 @@
 				"discord": "https://discord.gg/VzgK3uPTyj",
 				"twitch": "https://www.twitch.tv/anixeuw"
 			}
+		},
+		"aramenjoyer": {
+			"name": "Aramenjoyer",
+			"links": {}
 		},
 		"archlyris": {
 			"name": "archlyris",
@@ -736,6 +740,12 @@
 		},
 		"tur290": {
 			"name": "tur290",
+			"links": {}
+		},
+		"tuumi": {
+			"name": "Tuu'mi",
+			"avatar": "creators/tuumi.jpg?v=14290490",
+			"bio": "[They/Them] \n\nRuneforge's discord is filled with racist mother fuckers (this includes admins and the owner), so I'll just drop all my projects. Fuck this platform rotted to the core, I hope you face the consequences of your actions some day.",
 			"links": {}
 		},
 		"tyre-4770": {
@@ -7164,6 +7174,179 @@
 				"asset": "nami-tail-physics-v1.fantome",
 				"size": 1063334,
 				"sha256": "75c69b0a1a3d3382b1ad6a88b23abcf9ca95ce52500deb2f20d9c79c71570ac4"
+			}
+		},
+		{
+			"id": "napoleon-load-screen",
+			"name": "Napoleon Load Screen",
+			"kind": "other",
+			"creator": "thoxainn",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/napoleon-load-screen/thumb.webp?v=21184e79",
+			"file": {
+				"version": 1,
+				"asset": "napoleon-load-screen-v1.fantome",
+				"size": 21263927,
+				"sha256": "9f42c34904506b736001cae356ad844d6781a35007d3390bba394eadf3300857"
+			}
+		},
+		{
+			"id": "neo-spamton-kassadin-sfx",
+			"name": "NEO Spamton Kassadin SFX",
+			"kind": "sounds",
+			"creator": "lawarmor",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/neo-spamton-kassadin-sfx/thumb.webp?v=ae3b2097",
+			"file": {
+				"version": 1,
+				"asset": "neo-spamton-kassadin-sfx-v1.fantome",
+				"size": 595459,
+				"sha256": "ecdfcae7f6db96a072ee62c11b98017b91a9c7756858eb640ee9dea3d1903fc6"
+			}
+		},
+		{
+			"id": "neon-glow-font",
+			"name": "Neon Glow Font",
+			"kind": "fonts",
+			"creator": "tyre-4770",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/neon-glow-font/thumb.webp?v=d6c6351e",
+			"file": {
+				"version": 1,
+				"asset": "neon-glow-font-v1.fantome",
+				"size": 54937,
+				"sha256": "edbfaf543bfd20c434f8f0c5bee714469d6ec4f500a6aec0921b0c2da4f59f5b"
+			}
+		},
+		{
+			"id": "nexus-font",
+			"name": "Nexus Font",
+			"kind": "fonts",
+			"creator": "atakzlky",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/nexus-font/thumb.webp?v=c8e7765f",
+			"file": {
+				"version": 1,
+				"asset": "nexus-font-v1.fantome",
+				"size": 26776,
+				"sha256": "4a2df7171a8861b86295f389eabc8aee77c90f7dbf1ff64c3a1657ad01e98d12"
+			}
+		},
+		{
+			"id": "nier-automata-2b-hud",
+			"name": "NieR Automata 2B HUD",
+			"kind": "ui",
+			"creator": "tyre-4770",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/nier-automata-2b-hud/thumb.webp?v=e65a0892",
+			"file": {
+				"version": 1,
+				"asset": "nier-automata-2b-hud-v1.fantome",
+				"size": 7154596,
+				"sha256": "7c1349b488cf32188a610879c6b6dfa98560286e27197050547c283295b57eb0"
+			}
+		},
+		{
+			"id": "night-rift",
+			"name": "Night Rift",
+			"kind": "maps",
+			"creator": "frog",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/night-rift/thumb.webp?v=846bea6e",
+			"file": {
+				"version": 1,
+				"asset": "night-rift-v1.modpkg",
+				"size": 114198949,
+				"sha256": "a0afa8008bd0d8801876378ebea0f9ea1d7490f9d09fd5a952c59a2a447c4627"
+			},
+			"maps": [
+				11
+			]
+		},
+		{
+			"id": "nightbringer-lilia-voiceover",
+			"name": "Nightbringer Lilia Voiceover",
+			"kind": "sounds",
+			"creator": "runeforgerecoveryteam",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/nightbringer-lilia-voiceover/thumb.webp?v=85ba2d55",
+			"file": {
+				"version": 1,
+				"asset": "nightbringer-lilia-voiceover-v1.fantome",
+				"size": 11664258,
+				"sha256": "1c9057cfae5207b806608a081c509db32be62f73902d86ae2aae60fec700b45b"
+			}
+		},
+		{
+			"id": "nightbringer-yasuo-skill-icons",
+			"name": "Nightbringer Yasuo Skill Icons",
+			"kind": "ui",
+			"creator": "guvercin",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/nightbringer-yasuo-skill-icons/thumb.webp?v=86297fa4",
+			"file": {
+				"version": 1,
+				"asset": "nightbringer-yasuo-skill-icons-v1.fantome",
+				"size": 16241,
+				"sha256": "552c38667173ec9baa8434ef614946048870d90fcd565ad497577772f1f9ce13"
+			}
+		},
+		{
+			"id": "nightbringer-yuumi-vo",
+			"name": "Nightbringer Yuumi VO",
+			"kind": "sounds",
+			"creator": "tuumi",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/nightbringer-yuumi-vo/thumb.webp?v=3a7cd05a",
+			"file": {
+				"version": 1,
+				"asset": "nightbringer-yuumi-vo-v1.fantome",
+				"size": 1271360,
+				"sha256": "cc1acf4a409b42f8f89c644e2826a949941cb764a86875c54eebd0e563074e9c"
+			}
+		},
+		{
+			"id": "niilo22-aram-announcer",
+			"name": "Niilo22 ARAM announcer",
+			"kind": "announcer",
+			"creator": "aramenjoyer",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/niilo22-aram-announcer/thumb.webp?v=4733c85f",
+			"file": {
+				"version": 1,
+				"asset": "niilo22-aram-announcer-v1.fantome",
+				"size": 127676000,
+				"sha256": "b711047e934972d2b28a1fe077162e70e81cc880f1085c1c0021de2fda6ff4a5"
 			}
 		}
 	]

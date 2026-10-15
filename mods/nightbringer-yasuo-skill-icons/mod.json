@@ -1,0 +1,17 @@
+{
+	"id": "nightbringer-yasuo-skill-icons",
+	"name": "Nightbringer Yasuo Skill Icons",
+	"kind": "ui",
+	"creator": "guvercin",
+	"description": "Nightbringer Yasuo Skill Icons changes Yasuo's hud\n\nI used Yasuo's splash art and his Icons\n\nLooking for more?&#x20;\n\nHere Aatrox version: [https://runeforge.dev/mods/761da2be-9b64-4189-9122-4a44506eab01](https://runeforge.dev/mods/761da2be-9b64-4189-9122-4a44506eab01)\n\nHere Jhin version: [https://runeforge.dev/mods/94075e99-565e-4c7f-8e6f-c03c8fc275b7](https://runeforge.dev/mods/94075e99-565e-4c7f-8e6f-c03c8fc275b7)\n\n---\n\n**Created by** [Güvercin](https://runeforge.dev/users/Guvercin)\n\n**Original:** https://runeforge.dev/mods/f136a8f6-471e-4a04-8050-7c9c40f9ff35\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/nightbringer-yasuo-skill-icons/thumb.webp?v=86297fa4",
+	"file": {
+		"version": 1,
+		"asset": "nightbringer-yasuo-skill-icons-v1.fantome",
+		"size": 16241,
+		"sha256": "552c38667173ec9baa8434ef614946048870d90fcd565ad497577772f1f9ce13"
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"id": "nightbringer-lilia-voiceover",
+	"name": "Nightbringer Lilia Voiceover",
+	"kind": "sounds",
+	"creator": "runeforgerecoveryteam",
+	"description": "# Overview:\n\n* Champion: Lilia\n* Skins Modified: All (intended for nightbringer)\n\n## Mod information:\n\n* Author and Director: [Tri Soundworks](https://x.com/TricolorStar)\n* Voice Actress: [Minh Ton](https://x.com/MinhyVa)\n* Recovery: [Aurecueil](https://runeforge.dev/users/Aurecueil/mods)\n* Mod Version: 1.0.0\n\n---\n\n**Created by** [RuneforgeRecoveryTeam](https://runeforge.dev/users/RuneforgeRecoveryTeam)\n\n**Original:** https://runeforge.dev/mods/4a6c06c8-662f-413b-a06a-9b85be5d78a2\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/nightbringer-lilia-voiceover/thumb.webp?v=85ba2d55",
+	"file": {
+		"version": 1,
+		"asset": "nightbringer-lilia-voiceover-v1.fantome",
+		"size": 11664258,
+		"sha256": "1c9057cfae5207b806608a081c509db32be62f73902d86ae2aae60fec700b45b"
+	}
+}

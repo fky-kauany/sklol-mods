@@ -1,0 +1,17 @@
+{
+	"id": "napoleon-load-screen",
+	"name": "Napoleon Load Screen",
+	"kind": "other",
+	"creator": "thoxainn",
+	"description": "*There's nothing we can do*\n\n---\n\n**Created by** [Thoxain](https://www.divineskins.gg/Thoxainn)\n\n**Original:** https://www.divineskins.gg/Thoxainn/napoleon-load-screen\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/napoleon-load-screen/thumb.webp?v=21184e79",
+	"file": {
+		"version": 1,
+		"asset": "napoleon-load-screen-v1.fantome",
+		"size": 21263927,
+		"sha256": "9f42c34904506b736001cae356ad844d6781a35007d3390bba394eadf3300857"
+	}
+}

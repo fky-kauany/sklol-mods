@@ -1,0 +1,17 @@
+{
+	"id": "niilo22-aram-announcer",
+	"name": "Niilo22 ARAM announcer",
+	"kind": "announcer",
+	"creator": "aramenjoyer",
+	"description": "Niilo22 a Finnish youtuber is now announcing in your ARAM games in Howling Abyss!\r\n\r\nSome of the sounds might be a little quiet so i recommend to turn up announcer volume.\r\n\r\nWorks in Howling Abyss and Koeshin's Crossing\n\n---\n\n**Created by** [Aramenjoyer](https://runeforge.dev/users/Aramenjoyer)\n\n**Original:** https://runeforge.dev/mods/77befc66-82d3-4e9c-8caf-54a838dc71fd\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/niilo22-aram-announcer/thumb.webp?v=4733c85f",
+	"file": {
+		"version": 1,
+		"asset": "niilo22-aram-announcer-v1.fantome",
+		"size": 127676000,
+		"sha256": "b711047e934972d2b28a1fe077162e70e81cc880f1085c1c0021de2fda6ff4a5"
+	}
+}

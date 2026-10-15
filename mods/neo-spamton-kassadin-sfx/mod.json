@@ -1,0 +1,17 @@
+{
+	"id": "neo-spamton-kassadin-sfx",
+	"name": "NEO Spamton Kassadin SFX",
+	"kind": "sounds",
+	"creator": "lawarmor",
+	"description": "Changes Kassadin's SFX to SFX found in Deltarune chapter 2, most from NEO Spamton\r\n\r\nPS. there was supposed to be a model assosciated with this but the one i used didnt have working textures so I cba now\n\n---\n\n**Created by** [lawarmor](https://runeforge.dev/users/lawarmor)\n\n**Original:** https://runeforge.dev/mods/c5f73e7f-5d0a-4f90-b759-413c0b65a578\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/neo-spamton-kassadin-sfx/thumb.webp?v=ae3b2097",
+	"file": {
+		"version": 1,
+		"asset": "neo-spamton-kassadin-sfx-v1.fantome",
+		"size": 595459,
+		"sha256": "ecdfcae7f6db96a072ee62c11b98017b91a9c7756858eb640ee9dea3d1903fc6"
+	}
+}

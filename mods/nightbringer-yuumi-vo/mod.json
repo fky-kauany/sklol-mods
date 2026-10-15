@@ -1,0 +1,17 @@
+{
+	"id": "nightbringer-yuumi-vo",
+	"name": "Nightbringer Yuumi VO",
+	"kind": "sounds",
+	"creator": "tuumi",
+	"description": "Works on all skins that use her base voice over (so all of them for now, lol)\r\nUses voice lines from Julia and Clarisse from fire emblem Heroes.\r\n\r\n\r\n\r\nIf you have any complaints about the skin, or if it breaks, find me directly on discord, my name there is \"Lyoko\"!\n\n---\n\n**Created by** [Tuu'mi](https://runeforge.dev/users/Tuumi)\n\n**Original:** https://runeforge.dev/mods/13c29a1c-cd95-439f-a66f-2123ab00bdc1\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/nightbringer-yuumi-vo/thumb.webp?v=3a7cd05a",
+	"file": {
+		"version": 1,
+		"asset": "nightbringer-yuumi-vo-v1.fantome",
+		"size": 1271360,
+		"sha256": "cc1acf4a409b42f8f89c644e2826a949941cb764a86875c54eebd0e563074e9c"
+	}
+}

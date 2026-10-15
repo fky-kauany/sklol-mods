@@ -1,0 +1,20 @@
+{
+	"id": "night-rift",
+	"name": "Night Rift",
+	"kind": "maps",
+	"creator": "frog",
+	"description": "---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/night-rift\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/night-rift/thumb.webp?v=846bea6e",
+	"file": {
+		"version": 1,
+		"asset": "night-rift-v1.modpkg",
+		"size": 114198949,
+		"sha256": "a0afa8008bd0d8801876378ebea0f9ea1d7490f9d09fd5a952c59a2a447c4627"
+	},
+	"maps": [
+		11
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"id": "nexus-font",
+	"name": "Nexus Font",
+	"kind": "fonts",
+	"creator": "atakzlky",
+	"description": "# INFO\n\n***\n\n***\n\n* **Modified Ui: Font**\n* Authors: AtaKzlky\n* Mod Version: 1.0\n\n## ADDITIONAL INFO\n\n***\n\n***\n\nIf you have any questions or request about the mod you can contact me through discord dm or the RuneForge server.\n\nDiscord : atakzlky\n\n---\n\n**Created by** [AtaKzlky](https://runeforge.dev/users/AtaKzlky)\n\n**Original:** https://runeforge.dev/mods/58d786b7-ce07-4ebf-b837-bf3729f43561\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/nexus-font/thumb.webp?v=c8e7765f",
+	"file": {
+		"version": 1,
+		"asset": "nexus-font-v1.fantome",
+		"size": 26776,
+		"sha256": "4a2df7171a8861b86295f389eabc8aee77c90f7dbf1ff64c3a1657ad01e98d12"
+	}
+}

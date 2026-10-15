@@ -1,0 +1,17 @@
+{
+	"id": "neon-glow-font",
+	"name": "Neon Glow Font",
+	"kind": "fonts",
+	"creator": "tyre-4770",
+	"description": "## ♥ Mod Info ♥\n\n* Fonts Replaced: UI\n* Name of used Font: Neon Glow\n* Author: Tyre 4770\n* Skin Version: “1.0”\n* Description: Neon Glow Font for Leeg of Legos\n\n\n⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦\n\n\nMarch 7th 2024: updated for patch 14.5\n\n---\n\n**Created by** [Tyre 4770](https://runeforge.dev/users/Tyre_4770)\n\n**Original:** https://runeforge.dev/mods/ff3f0900-6f41-46d7-ab18-ee7b5da47331\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/neon-glow-font/thumb.webp?v=d6c6351e",
+	"file": {
+		"version": 1,
+		"asset": "neon-glow-font-v1.fantome",
+		"size": 54937,
+		"sha256": "edbfaf543bfd20c434f8f0c5bee714469d6ec4f500a6aec0921b0c2da4f59f5b"
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"id": "nier-automata-2b-hud",
+	"name": "NieR Automata 2B HUD",
+	"kind": "ui",
+	"creator": "tyre-4770",
+	"description": "## ♥ Mod Info ♥\r\n\r\n* HUD Name: NieR Automata 2B HUD Reborn\r\n* Author: Tyre 4770\r\n* Skin Version: 2.1\r\n* Description: An old HUD of mine from 2016 now brought up to date with current live league! ♥\r\n* If you see anything wrong, please ping me in the RuneForge server.\r\n\r\n⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦\r\n\r\nCredits: https://www.pixiv.net/en/artworks/60623534 , I believe? was hard to try to find the source.\n\n---\n\n**Created by** [Tyre 4770](https://runeforge.dev/users/Tyre_4770)\n\n**Original:** https://runeforge.dev/mods/bdc04722-d6fd-4ecd-a717-b0faae36e22b\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/nier-automata-2b-hud/thumb.webp?v=e65a0892",
+	"file": {
+		"version": 1,
+		"asset": "nier-automata-2b-hud-v1.fantome",
+		"size": 7154596,
+		"sha256": "7c1349b488cf32188a610879c6b6dfa98560286e27197050547c283295b57eb0"
+	}
+}
