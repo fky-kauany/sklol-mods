@@ -1,0 +1,17 @@
+{
+	"id": "isaac-kog-maw",
+	"name": "Isaac Kog'Maw",
+	"kind": "other",
+	"creator": "shrimpback",
+	"description": "Yeah that one guy from Bonding of Igor or something he is cool I guess I didn't put like 200+ hours in the last month to no steam game shut up\r\n\r\nCredits:\r\n\r\nNiceCream\r\n- Original 3D model and textures for Base/Belial/BlueBaby Isaac\r\n\r\n\r\nShrimpBack (me!!)\r\n- SFX\r\n- VFX\r\n- VO\r\n- Ability Icons\r\n- Texture/Model edits\r\n- Extra models (Tooth for Q, Holy Water for E)\r\n\r\nthe saac\n\n---\n\n**Created by** [ShrimpBack](https://runeforge.dev/users/ShrimpBack)\n\n**Original:** https://runeforge.dev/mods/121bdc7a-3b92-4f50-ac61-e15f8d03c5ff\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/isaac-kog-maw/thumb.webp?v=dad9c47a",
+	"file": {
+		"version": 1,
+		"asset": "isaac-kog-maw-v1.fantome",
+		"size": 12023605,
+		"sha256": "035c09d4106f431c5f19d0783c08c27f58d977259d8a280a647f57ff1e80360e"
+	}
+}

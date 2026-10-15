@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T09:19:37.878Z",
+	"generatedAt": "2026-10-15T09:25:22.242Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -539,6 +539,14 @@
 			"bio": "making cute mods for leauge",
 			"links": {}
 		},
+		"shrimpback": {
+			"name": "ShrimpBack",
+			"avatar": "creators/shrimpback.png?v=8733d095",
+			"bio": "My back will kill me one day but until that happens I'll keep making more of these. This last while is a small chance of a high effort mod or port and a higher chance of a simpler mod but just keep gambling refresh page NEXT MOD FOR SURE",
+			"links": {
+				"youtube": "https://youtu.be/cQNJHVJwSak"
+			}
+		},
 		"sirdy789": {
 			"name": "Sirdy  (🇧🇷)",
 			"avatar": "creators/sirdy789.png?v=19fccd1f",
@@ -630,6 +638,17 @@
 				"discord": "https://discord.gg/PjpXEZY",
 				"x": "https://x.com/Xueli_kawai",
 				"youtube": "https://www.youtube.com/watch?v=U_72cdTX9eI"
+			}
+		},
+		"vision4rio": {
+			"name": "VISION4RIO",
+			"avatar": "creators/vision4rio.jpg?v=72200bc7",
+			"links": {
+				"kofi": "https://ko-fi.com/vision4rio",
+				"site": "https://runeforge.dev/mods/daa42d2a-f8b1-4d7e-913c-053e8f9e5fc3",
+				"twitch": "https://www.twitch.tv/vision4rio",
+				"x": "https://x.com/VISION4RIO",
+				"youtube": "https://www.youtube.com/@VISION4RIO"
 			}
 		},
 		"voiceshowcase": {
@@ -5470,6 +5489,176 @@
 				"asset": "immortalized-legend-kai-sa-animated-loading-scre-v1.fantome",
 				"size": 45482715,
 				"sha256": "2f575ebff3a1c7dea6ae80a6f69bb429978928def79cf3bede917aee29fab4c2"
+			}
+		},
+		{
+			"id": "inkshadow-kai-sa-catseye-chroma-animated-loading",
+			"name": "Inkshadow Kai'Sa Catseye Chroma Animated Loading Screen",
+			"kind": "other",
+			"creator": "mohankrishna",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/inkshadow-kai-sa-catseye-chroma-animated-loading/thumb.webp?v=7e41a786",
+			"file": {
+				"version": 1,
+				"asset": "inkshadow-kai-sa-catseye-chroma-animated-loading-v1.fantome",
+				"size": 42121200,
+				"sha256": "abd35381c657ed4706d7b6163f6e81d5d4f70f74e35a708a07990c5a37f02771"
+			}
+		},
+		{
+			"id": "inkshadow-yasuo-skill-icons",
+			"name": "Inkshadow Yasuo Skill Icons",
+			"kind": "ui",
+			"creator": "guvercin",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/inkshadow-yasuo-skill-icons/thumb.webp?v=573871e0",
+			"file": {
+				"version": 1,
+				"asset": "inkshadow-yasuo-skill-icons-v1.fantome",
+				"size": 16423,
+				"sha256": "8d6ba90c030a142b0d0b91922f9e3240075aab16a871d73f0c8705c6711312ba"
+			}
+		},
+		{
+			"id": "innerbloom-a-hud",
+			"name": "Innerbloom | A HUD",
+			"kind": "ui",
+			"creator": "tyre-4770",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/innerbloom-a-hud/thumb.webp?v=1f056173",
+			"file": {
+				"version": 1,
+				"asset": "innerbloom-a-hud-v1.fantome",
+				"size": 6683289,
+				"sha256": "e3efce6d921c6e04d0ba6410b479d8fd2f3ac681115e167126603eeb17d7cae1"
+			}
+		},
+		{
+			"id": "inverted-text-font",
+			"name": "Inverted Text Font",
+			"kind": "fonts",
+			"creator": "rhbarber",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/inverted-text-font/thumb.webp?v=441d3de9",
+			"file": {
+				"version": 1,
+				"asset": "inverted-text-font-v1.fantome",
+				"size": 525893,
+				"sha256": "754c17c42ed76d9d8d1e6e6ef2619ae4fcde1c68f2d9058a66c54c49875884ff"
+			}
+		},
+		{
+			"id": "invisible-akali-w",
+			"name": "INVISIBLE Akali W",
+			"kind": "sounds",
+			"creator": "pico-senpai",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/invisible-akali-w/thumb.webp?v=12ba68bb",
+			"file": {
+				"version": 1,
+				"asset": "invisible-akali-w-v1.fantome",
+				"size": 2397418,
+				"sha256": "c3791730c58427d44493ca18d3a3348f236dd0899b353db9736f09f593368ebb"
+			}
+		},
+		{
+			"id": "iron-maid-announcer-pack",
+			"name": "Iron Maid Announcer Pack",
+			"kind": "announcer",
+			"creator": "konari",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/iron-maid-announcer-pack/thumb.webp?v=a7c7baea",
+			"file": {
+				"version": 1,
+				"asset": "iron-maid-announcer-pack-v1.fantome",
+				"size": 7220307,
+				"sha256": "2d53a478131e28668c555d17e38e412a35549ae870f50f800b4d1dac2ee51f7b"
+			}
+		},
+		{
+			"id": "isaac-kog-maw",
+			"name": "Isaac Kog'Maw",
+			"kind": "other",
+			"creator": "shrimpback",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/isaac-kog-maw/thumb.webp?v=dad9c47a",
+			"file": {
+				"version": 1,
+				"asset": "isaac-kog-maw-v1.fantome",
+				"size": 12023605,
+				"sha256": "035c09d4106f431c5f19d0783c08c27f58d977259d8a280a647f57ff1e80360e"
+			}
+		},
+		{
+			"id": "isagi-hud",
+			"name": "Isagi HUD",
+			"kind": "ui",
+			"creator": "disco",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/isagi-hud/thumb.webp?v=f32422d6",
+			"file": {
+				"version": 1,
+				"asset": "isagi-hud-v1.modpkg",
+				"size": 7577127,
+				"sha256": "dac0feb510807be75752fc726e343c07d86e8198c882de3be9432b2273ebb38c"
+			}
+		},
+		{
+			"id": "italian-announcer",
+			"name": "Italian Announcer",
+			"kind": "announcer",
+			"creator": "aropatnik",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/italian-announcer/thumb.webp?v=752f17ff",
+			"file": {
+				"version": 1,
+				"asset": "italian-announcer-v1.fantome",
+				"size": 53830611,
+				"sha256": "02c5a0646f1640f6a729ce65a2a1769eabf2a3109fee4206f7f91573f11b8d22"
+			}
+		},
+		{
+			"id": "itemiconsold-extended-by-evelisk",
+			"name": "ItemIconsOld-Extended by @Evelisk",
+			"kind": "ui",
+			"creator": "vision4rio",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/itemiconsold-extended-by-evelisk/thumb.webp?v=f4f27b49",
+			"file": {
+				"version": 1,
+				"asset": "itemiconsold-extended-by-evelisk-v1.fantome",
+				"size": 7871342,
+				"sha256": "d03299927cc6b868ab90c2cc5b87f11190fd54d37db545d164672f550310e949"
 			}
 		}
 	]

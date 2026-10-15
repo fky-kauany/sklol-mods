@@ -1,0 +1,17 @@
+{
+	"id": "innerbloom-a-hud",
+	"name": "Innerbloom | A HUD",
+	"kind": "ui",
+	"creator": "tyre-4770",
+	"description": "## ♥ Mod Info ♥\r\n\r\n* HUD Name: Innerbloom | HUD\r\n* Author: Tyre 4770\r\n* Skin Version: 1.0\r\n* Description: A pretty HUD based off of a Fractal Flower piece by SallySlips!\r\n* If you see anything wrong, please ping me in the RuneForge server.\r\n\r\n⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦⋆｡°✩₊ °✦ ‧ ‧ ₊ ˚✧₊ °✦\r\n\r\nCredits: [https://www.deviantart.com/sallyslips/art/Innerbloom-669102360](https://www.deviantart.com/sallyslips/art/Innerbloom-669102360)\n\n---\n\n**Created by** [Tyre 4770](https://runeforge.dev/users/Tyre_4770)\n\n**Original:** https://runeforge.dev/mods/27314ccb-69b4-4527-b642-9e66b7c2570a\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/innerbloom-a-hud/thumb.webp?v=1f056173",
+	"file": {
+		"version": 1,
+		"asset": "innerbloom-a-hud-v1.fantome",
+		"size": 6683289,
+		"sha256": "e3efce6d921c6e04d0ba6410b479d8fd2f3ac681115e167126603eeb17d7cae1"
+	}
+}

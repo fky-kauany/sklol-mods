@@ -1,0 +1,17 @@
+{
+	"id": "isagi-hud",
+	"name": "Isagi HUD",
+	"kind": "ui",
+	"creator": "disco",
+	"description": "## Blue Lock: Isagi HUD\n\n### Features\n\n- **Egoist-Themed Design:** A complete overhaul of the in-game interface with a sleek, futuristic aesthetic inspired by the Blue Lock facility.\n- **Puzzle Piece Accents:** Isagi's signature puzzle piece motif is beautifully integrated into the ability bar, health/mana bars, and other UI elements.\n- **Custom Minimap Frame:** The minimap is framed with a custom design that evokes the feeling of Isagi's Metavision, helping you focus on map awareness.\n- **Themed Borders & Icons:** All spell, item, and ability slots feature new custom borders that match the sharp, analytical theme.\n\n*Some of these skins use custom models made by other creators. If one is yours and you’d like credit, DM me on Discord.*\n*Divine Skins is not affiliated with or endorsed by Riot Games or League of Legends.*\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/isagi-hud\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/isagi-hud/thumb.webp?v=f32422d6",
+	"file": {
+		"version": 1,
+		"asset": "isagi-hud-v1.modpkg",
+		"size": 7577127,
+		"sha256": "dac0feb510807be75752fc726e343c07d86e8198c882de3be9432b2273ebb38c"
+	}
+}

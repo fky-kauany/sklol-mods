@@ -1,0 +1,17 @@
+{
+	"id": "inkshadow-kai-sa-catseye-chroma-animated-loading",
+	"name": "Inkshadow Kai'Sa Catseye Chroma Animated Loading Screen",
+	"kind": "other",
+	"creator": "mohankrishna",
+	"description": "# Overview:\n\n* Type of mod: Loading Screen\n* Some random detail: Inkshadow Kaisa Catseye Chroma\n\n\n## Mod Information:\n\n* Author: MohanKrishna\n* Mod Version: 15.15.1.0\n\n---\n\n**Created by** [MohanKrishna](https://runeforge.dev/users/MohanKrishna)\n\n**Original:** https://runeforge.dev/mods/ac407362-ba98-4c2d-b117-01b69c27f536\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/inkshadow-kai-sa-catseye-chroma-animated-loading/thumb.webp?v=7e41a786",
+	"file": {
+		"version": 1,
+		"asset": "inkshadow-kai-sa-catseye-chroma-animated-loading-v1.fantome",
+		"size": 42121200,
+		"sha256": "abd35381c657ed4706d7b6163f6e81d5d4f70f74e35a708a07990c5a37f02771"
+	}
+}

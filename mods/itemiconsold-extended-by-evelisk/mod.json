@@ -1,0 +1,17 @@
+{
+	"id": "itemiconsold-extended-by-evelisk",
+	"name": "ItemIconsOld-Extended by @Evelisk",
+	"kind": "ui",
+	"creator": "vision4rio",
+	"description": "Basically every item with its oldest version icon. For items that have no old version I reused and editing existing unused icons or created new ones of varying quality.\r\n\r\nauthor:@Evelisk\r\nupdated by @VISION4RIO\r\n\r\nSupport \r\nHere you can encourage me to continue creating new skins and chromas. https://ko-fi.com/vision4rio\r\n\r\npara os br tu pode donatar e incentivar meu trabalho em https://livepix.gg/vision4rio\n\n---\n\n**Created by** [VISION4RIO](https://runeforge.dev/users/VISION4RIO)\n\n**Original:** https://runeforge.dev/mods/02dae15d-729a-4ad8-a412-58fdcd8ab7db\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/itemiconsold-extended-by-evelisk/thumb.webp?v=f4f27b49",
+	"file": {
+		"version": 1,
+		"asset": "itemiconsold-extended-by-evelisk-v1.fantome",
+		"size": 7871342,
+		"sha256": "d03299927cc6b868ab90c2cc5b87f11190fd54d37db545d164672f550310e949"
+	}
+}

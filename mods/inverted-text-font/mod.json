@@ -1,0 +1,17 @@
+{
+	"id": "inverted-text-font",
+	"name": "Inverted Text Font",
+	"kind": "fonts",
+	"creator": "rhbarber",
+	"description": "# 🖹 Inverted Font\r\n\r\nFlips the text horizontally, vertically, or both.\r\nWhy would you do this to yourself? I had a stroke reading it.\r\n\r\n## Issues\r\nFeel free to report them through [Discord](https://discord.com/users/367779328940965898) or by [email](mailto:ne@rhbarber.com?subject=Inverted%20Text%20Font%20Issue).\n\n---\n\n**Created by** [Rhbarber](https://runeforge.dev/users/Rhbarber)\n\n**Original:** https://runeforge.dev/mods/4da7acdd-0b3b-42fb-8ad5-d3772cf6a80a\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/inverted-text-font/thumb.webp?v=441d3de9",
+	"file": {
+		"version": 1,
+		"asset": "inverted-text-font-v1.fantome",
+		"size": 525893,
+		"sha256": "754c17c42ed76d9d8d1e6e6ef2619ae4fcde1c68f2d9058a66c54c49875884ff"
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"id": "inkshadow-yasuo-skill-icons",
+	"name": "Inkshadow Yasuo Skill Icons",
+	"kind": "ui",
+	"creator": "guvercin",
+	"description": "Inkshadow Yasuo Skill Icons changes Yasuo's hud\n\nI used in game model, profile icons, and I edit normal skill icons\n\nLooking for more?\n\nHere Aatrox version: [https://runeforge.dev/mods/761da2be-9b64-4189-9122-4a44506eab01](https://runeforge.dev/mods/761da2be-9b64-4189-9122-4a44506eab01)\n\nHere Nightbringer Yasuo version: [https://runeforge.dev/mods/f136a8f6-471e-4a04-8050-7c9c40f9ff35](https://runeforge.dev/mods/f136a8f6-471e-4a04-8050-7c9c40f9ff35)\n\nHere Jhin version: [https://www.runeforge.dev/mods/94075e99-565e-4c7f-8e6f-c03c8fc275b7](https://www.runeforge.dev/mods/94075e99-565e-4c7f-8e6f-c03c8fc275b7)\n\n---\n\n**Created by** [Güvercin](https://runeforge.dev/users/Guvercin)\n\n**Original:** https://runeforge.dev/mods/21a8dc1b-41bc-4981-97f4-6ccf65b3848c\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/inkshadow-yasuo-skill-icons/thumb.webp?v=573871e0",
+	"file": {
+		"version": 1,
+		"asset": "inkshadow-yasuo-skill-icons-v1.fantome",
+		"size": 16423,
+		"sha256": "8d6ba90c030a142b0d0b91922f9e3240075aab16a871d73f0c8705c6711312ba"
+	}
+}

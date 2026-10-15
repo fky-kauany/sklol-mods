@@ -1,0 +1,17 @@
+{
+	"id": "invisible-akali-w",
+	"name": "INVISIBLE Akali W",
+	"kind": "sounds",
+	"creator": "pico-senpai",
+	"description": "## **MOD INFORMATION**\n\n* Author: Pico Senpai\n* Mod Version: 1.0.0\n* Modified champion: Akali\n* Modified sound: Akali's W\n\n## **DESCRIPTION**\n\n* After finishing the entire Metal Gear Solid series Akali mastered the ability to become invisible at will using smokescreens, playing \"INVISIBLE\" by Duran Duran for the entire duration of her Ws\n\n## **SOCIALS**\n\n![](https://static.wixstatic.com/media/e2a744_abb27c3529754e04ab6ad06fd9c7ab56~mv2.png/v1/fill/w_740,h_416,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e2a744_abb27c3529754e04ab6ad06fd9c7ab56~mv2.png)\n\n###\nAdd me on Discord: pico\\_senpai\n\n### My Youtube channel: [Pico Senpai](https://www.youtube.com/channel/UCAZfp8d8ZLFUurid3w2wElQ)\n\n### Support me on Patreon!: [PicoSenpai](https://www.patreon.com/PicoSenpaiSFW)\n\n---\n\n**Created by** [Pico Senpai](https://runeforge.dev/users/Pico_Senpai)\n\n**Original:** https://runeforge.dev/mods/df9ad2e0-1fb4-40ad-9794-8b388cc849e5\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/invisible-akali-w/thumb.webp?v=12ba68bb",
+	"file": {
+		"version": 1,
+		"asset": "invisible-akali-w-v1.fantome",
+		"size": 2397418,
+		"sha256": "c3791730c58427d44493ca18d3a3348f236dd0899b353db9736f09f593368ebb"
+	}
+}

@@ -536,6 +536,14 @@
 		"bio": "making cute mods for leauge",
 		"links": {}
 	},
+	"shrimpback": {
+		"name": "ShrimpBack",
+		"avatar": "creators/shrimpback.png?v=8733d095",
+		"bio": "My back will kill me one day but until that happens I'll keep making more of these. This last while is a small chance of a high effort mod or port and a higher chance of a simpler mod but just keep gambling refresh page NEXT MOD FOR SURE",
+		"links": {
+			"youtube": "https://youtu.be/cQNJHVJwSak"
+		}
+	},
 	"sirdy789": {
 		"name": "Sirdy  (🇧🇷)",
 		"avatar": "creators/sirdy789.png?v=19fccd1f",
@@ -627,6 +635,17 @@
 			"discord": "https://discord.gg/PjpXEZY",
 			"x": "https://x.com/Xueli_kawai",
 			"youtube": "https://www.youtube.com/watch?v=U_72cdTX9eI"
+		}
+	},
+	"vision4rio": {
+		"name": "VISION4RIO",
+		"avatar": "creators/vision4rio.jpg?v=72200bc7",
+		"links": {
+			"kofi": "https://ko-fi.com/vision4rio",
+			"site": "https://runeforge.dev/mods/daa42d2a-f8b1-4d7e-913c-053e8f9e5fc3",
+			"twitch": "https://www.twitch.tv/vision4rio",
+			"x": "https://x.com/VISION4RIO",
+			"youtube": "https://www.youtube.com/@VISION4RIO"
 		}
 	},
 	"voiceshowcase": {
