@@ -1,0 +1,17 @@
+{
+	"id": "ultimate-custom-sounds-compilation",
+	"name": "Ultimate Custom Sounds Compilation",
+	"kind": "sounds",
+	"creator": "ani",
+	"description": "This mod is a **compilation** of silly, goofy & shitposting sounds from 3 different mods, which I decided to update and merge into a single mod for QOL purposes.\n\nThe original custom sounds mods from which most of the sounds were taken are:\n\n[Goofy ah Spells](https://www.youtube.com/watch?v=aWPVFOta_A4\\&ab_channel=MagneticBean) by **MagneticBean**\n\n[Shitpost Sounds Mod](https://www.youtube.com/watch?v=hnRJcf6yPBM\\&ab_channel=Aze3a1) by **Aze3a1**\n\n[Enhanced sound effects ](https://www.youtube.com/watch?v=63e4doUzpig\\&ab_channel=YiRok)by **Artista**\n\n\n\n**NOTE:** An \"EXTRA\" version is also available which includes:\n\n* Ambatukam Recall by Wiko\n* Villager Shopkeeper by DrInfinito\n\nThis was done because, since they modify the same game files, you can't run the 3 mods seperately at the same time. Full credits of the mods go to the original creators.\n\nYou can download it at: [https://www.mediafire.com/file/9jxgbh0w3ua9yk0/Ultimate\\_SFX\\_Compilation\\_EXTRA\\_V1.2\\_by\\_Ani.fantome/file](https://www.mediafire.com/file/9jxgbh0w3ua9yk0/Ultimate_SFX_Compilation_EXTRA_V1.2_by_Ani.fantome/file)\n\n---\n\n**Created by** [Ani](https://runeforge.dev/users/Ani)\n\n**Original:** https://runeforge.dev/mods/1889e906-8481-43c0-aa13-ac9229f2cb6c\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/ultimate-custom-sounds-compilation/thumb.webp?v=2cb32ce2",
+	"file": {
+		"version": 1,
+		"asset": "ultimate-custom-sounds-compilation-v1.fantome",
+		"size": 10034973,
+		"sha256": "1c2a4b99ef58cc98f33d92efdfb564b055336804d9820a1fb6ad9aa4459d78b1"
+	}
+}

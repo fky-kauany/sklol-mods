@@ -1,0 +1,17 @@
+{
+	"id": "ultimate-jhin-fortnite-emotes-pack",
+	"name": "ultimate jhin fortnite emotes pack",
+	"kind": "other",
+	"creator": "arting",
+	"description": "This mod replaces jhin's emotes with fortnite\r\n\r\nfor questions or anything else add me on discord: artist._.\n\n---\n\n**Created by** [arting](https://runeforge.dev/users/arting)\n\n**Original:** https://runeforge.dev/mods/7e7a784f-627a-42a0-8484-b80aa8b71ffa\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/ultimate-jhin-fortnite-emotes-pack/thumb.webp?v=48753558",
+	"file": {
+		"version": 1,
+		"asset": "ultimate-jhin-fortnite-emotes-pack-v1.fantome",
+		"size": 26738975,
+		"sha256": "2506de3b0dda9bcd3082fbdb7b2d9a0c9ecc89eb7f311dee7af8345832d4b394"
+	}
+}

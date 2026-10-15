@@ -21,6 +21,14 @@
 			"site": "https://runeforge.dev/mods/7bd1ff27-8049-4c03-9b1e-7b2227b1c2ef"
 		}
 	},
+	"a1perhan": {
+		"name": "kebab translator",
+		"avatar": "creators/a1perhan.jpg?v=0276ea01",
+		"bio": "türkçeye çeviririm.",
+		"links": {
+			"discord": "https://discord.com/users/333213010841698304"
+		}
+	},
 	"agomsmoga": {
 		"name": "Moga",
 		"avatar": "creators/agomsmoga.png?v=b18a379a",
@@ -69,6 +77,14 @@
 		"name": "angelito_exee",
 		"links": {
 			"youtube": "https://www.youtube.com/watch?v=X9Ma7Mmo27E"
+		}
+	},
+	"ani": {
+		"name": "Ani",
+		"avatar": "creators/ani.png?v=0bf77be6",
+		"links": {
+			"site": "https://www.mediafire.com/file/9jxgbh0w3ua9yk0/Ultimate_SFX_Compilation_EXTRA_V1.2_by_Ani.fantome/file",
+			"youtube": "https://youtu.be/fVc8L0LttwA"
 		}
 	},
 	"anix": {
@@ -471,6 +487,14 @@
 		"name": "int0xic",
 		"links": {}
 	},
+	"ishanzke": {
+		"name": "Ishanzke",
+		"avatar": "creators/ishanzke.png?v=6c92cc25",
+		"links": {
+			"discord": "https://discord.com/invite/VawhDAAbZC",
+			"site": "https://ultrawidehud.lol/"
+		}
+	},
 	"je-serai-hokage": {
 		"name": "je_serai_hokage",
 		"avatar": "creators/je-serai-hokage.webp?v=d9c3634c",
@@ -592,6 +616,10 @@
 	"megaomg": {
 		"name": "megaomg",
 		"bio": "just a gojo fan",
+		"links": {}
+	},
+	"megumemed-0": {
+		"name": "megumemed#0",
 		"links": {}
 	},
 	"miyu": {

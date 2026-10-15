@@ -1,0 +1,17 @@
+{
+	"id": "ultrakill-font",
+	"name": "Ultrakill Font",
+	"kind": "fonts",
+	"creator": "agomsmoga",
+	"description": "### Overview:\n\n* Technically replaces all fonts including Chinese/Japanese/etc, with the Ultrakill font, but this font doesn't actually include every character for those languages (or any), so if you play on a locale that uses non-ASCII characters, then it'll show blank boxes instead.\n* No bold variant.\n\n#\n\n### Mod Information:\n\n* Author: Moga\n\nhttps://discord.gg/gSXbEmPQCA\n\n---\n\n**Created by** [Moga](https://runeforge.dev/users/agomsMoga)\n\n**Original:** https://runeforge.dev/mods/7e76281a-5af2-49fd-b607-392c7f3affbc\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/ultrakill-font/thumb.webp?v=e9c4bf7c",
+	"file": {
+		"version": 1,
+		"asset": "ultrakill-font-v1.fantome",
+		"size": 27159,
+		"sha256": "6049859964357e66b7b215d67469ee91748e046a0f91a1d1acb00e6ba8e0c6c9"
+	}
+}

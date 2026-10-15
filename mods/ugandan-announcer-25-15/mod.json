@@ -1,0 +1,17 @@
+{
+	"id": "ugandan-announcer-25-15",
+	"name": "Ugandan Announcer (25.15)",
+	"kind": "other",
+	"creator": "rolorolla",
+	"description": "Yes this is the one Drututt uses\nFixed for patch 25.09 by Aropatnik (ty goat)\nFixed for patch 25.15 by Aurecueil (ty goat 2)\n\n---\n\n**Created by** [RoloRolla](https://runeforge.dev/users/RoloRolla)\n\n**Original:** https://runeforge.dev/mods/fa0b3942-4fdf-4d88-8481-2f1dd02135d6\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/ugandan-announcer-25-15/thumb.webp?v=f3ec9fb9",
+	"file": {
+		"version": 1,
+		"asset": "ugandan-announcer-25-15-v1.fantome",
+		"size": 7653069,
+		"sha256": "4c5c23995ffd14467efdf36e50b25a8f1be41ef0f0c9ea54392516e71d420279"
+	}
+}

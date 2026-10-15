@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T12:21:07.334Z",
+	"generatedAt": "2026-10-15T12:26:45.234Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -22,6 +22,14 @@
 			"name": "22ms",
 			"links": {
 				"site": "https://runeforge.dev/mods/7bd1ff27-8049-4c03-9b1e-7b2227b1c2ef"
+			}
+		},
+		"a1perhan": {
+			"name": "kebab translator",
+			"avatar": "creators/a1perhan.jpg?v=0276ea01",
+			"bio": "türkçeye çeviririm.",
+			"links": {
+				"discord": "https://discord.com/users/333213010841698304"
 			}
 		},
 		"agomsmoga": {
@@ -72,6 +80,14 @@
 			"name": "angelito_exee",
 			"links": {
 				"youtube": "https://www.youtube.com/watch?v=X9Ma7Mmo27E"
+			}
+		},
+		"ani": {
+			"name": "Ani",
+			"avatar": "creators/ani.png?v=0bf77be6",
+			"links": {
+				"site": "https://www.mediafire.com/file/9jxgbh0w3ua9yk0/Ultimate_SFX_Compilation_EXTRA_V1.2_by_Ani.fantome/file",
+				"youtube": "https://youtu.be/fVc8L0LttwA"
 			}
 		},
 		"anix": {
@@ -474,6 +490,14 @@
 			"name": "int0xic",
 			"links": {}
 		},
+		"ishanzke": {
+			"name": "Ishanzke",
+			"avatar": "creators/ishanzke.png?v=6c92cc25",
+			"links": {
+				"discord": "https://discord.com/invite/VawhDAAbZC",
+				"site": "https://ultrawidehud.lol/"
+			}
+		},
 		"je-serai-hokage": {
 			"name": "je_serai_hokage",
 			"avatar": "creators/je-serai-hokage.webp?v=d9c3634c",
@@ -595,6 +619,10 @@
 		"megaomg": {
 			"name": "megaomg",
 			"bio": "just a gojo fan",
+			"links": {}
+		},
+		"megumemed-0": {
+			"name": "megumemed#0",
 			"links": {}
 		},
 		"miyu": {
@@ -11305,6 +11333,176 @@
 				"asset": "true-damage-ekko-chroma-vfx-v1.fantome",
 				"size": 10986321,
 				"sha256": "99ae8105c257fd32e95624e8be8acf54ad29d05c90d64ad3fbcf601dea0b047a"
+			}
+		},
+		{
+			"id": "true-dmg-ekko-ma-meilleure-ennemie",
+			"name": "True Dmg Ekko - Ma Meilleure Ennemie",
+			"kind": "sounds",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/true-dmg-ekko-ma-meilleure-ennemie/thumb.webp?v=cb00c400",
+			"file": {
+				"version": 1,
+				"asset": "true-dmg-ekko-ma-meilleure-ennemie-v1.fantome",
+				"size": 16364013,
+				"sha256": "911bb998e0c432a3fdabf1c087f6f05a6e2819a310b53cdda7d84b075ce67d18"
+			}
+		},
+		{
+			"id": "tsumikiwi-emotes",
+			"name": "Tsumikiwi Emotes",
+			"kind": "other",
+			"creator": "megumemed-0",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/tsumikiwi-emotes/thumb.webp?v=caa20218",
+			"file": {
+				"version": 1,
+				"asset": "tsumikiwi-emotes-v1.fantome",
+				"size": 447933,
+				"sha256": "46e9d2a0d13996d3735373e7d27f56e28e0a15a6f5b4fb586e09229c807661a2"
+			}
+		},
+		{
+			"id": "turkish-announcer",
+			"name": "Turkish Announcer",
+			"kind": "announcer",
+			"creator": "aropatnik",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/turkish-announcer/thumb.webp?v=22e43335",
+			"file": {
+				"version": 1,
+				"asset": "turkish-announcer-v1.fantome",
+				"size": 54563842,
+				"sha256": "0f5725202582bf888e66be8485e59744fa5b9f68e662f9e9b21519777bbf979e"
+			}
+		},
+		{
+			"id": "tyler1-annoucer-pack-recovery",
+			"name": "Tyler1 Annoucer Pack (Recovery)",
+			"kind": "announcer",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/tyler1-annoucer-pack-recovery/thumb.webp?v=1dff3e64",
+			"file": {
+				"version": 1,
+				"asset": "tyler1-annoucer-pack-recovery-v1.fantome",
+				"size": 11855478,
+				"sha256": "462f4ed3413eb89813b4c41a78428bd75376570316c683f68ea0fa3fb81f8c06"
+			}
+		},
+		{
+			"id": "ugandan-announcer-25-15",
+			"name": "Ugandan Announcer (25.15)",
+			"kind": "other",
+			"creator": "rolorolla",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/ugandan-announcer-25-15/thumb.webp?v=f3ec9fb9",
+			"file": {
+				"version": 1,
+				"asset": "ugandan-announcer-25-15-v1.fantome",
+				"size": 7653069,
+				"sha256": "4c5c23995ffd14467efdf36e50b25a8f1be41ef0f0c9ea54392516e71d420279"
+			}
+		},
+		{
+			"id": "ultimate-custom-sounds-compilation",
+			"name": "Ultimate Custom Sounds Compilation",
+			"kind": "sounds",
+			"creator": "ani",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/ultimate-custom-sounds-compilation/thumb.webp?v=2cb32ce2",
+			"file": {
+				"version": 1,
+				"asset": "ultimate-custom-sounds-compilation-v1.fantome",
+				"size": 10034973,
+				"sha256": "1c2a4b99ef58cc98f33d92efdfb564b055336804d9820a1fb6ad9aa4459d78b1"
+			}
+		},
+		{
+			"id": "ultimate-jhin-fortnite-emotes-pack",
+			"name": "ultimate jhin fortnite emotes pack",
+			"kind": "other",
+			"creator": "arting",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/ultimate-jhin-fortnite-emotes-pack/thumb.webp?v=48753558",
+			"file": {
+				"version": 1,
+				"asset": "ultimate-jhin-fortnite-emotes-pack-v1.fantome",
+				"size": 26738975,
+				"sha256": "2506de3b0dda9bcd3082fbdb7b2d9a0c9ecc89eb7f311dee7af8345832d4b394"
+			}
+		},
+		{
+			"id": "ultrakill-font",
+			"name": "Ultrakill Font",
+			"kind": "fonts",
+			"creator": "agomsmoga",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/ultrakill-font/thumb.webp?v=e9c4bf7c",
+			"file": {
+				"version": 1,
+				"asset": "ultrakill-font-v1.fantome",
+				"size": 27159,
+				"sha256": "6049859964357e66b7b215d67469ee91748e046a0f91a1d1acb00e6ba8e0c6c9"
+			}
+		},
+		{
+			"id": "ultrakill-font-turkish",
+			"name": "Ultrakill Font (Turkish)",
+			"kind": "fonts",
+			"creator": "a1perhan",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/ultrakill-font-turkish/thumb.webp?v=53cda95e",
+			"file": {
+				"version": 1,
+				"asset": "ultrakill-font-turkish-v1.fantome",
+				"size": 41329636,
+				"sha256": "dfd823064a0227d3772b466296996dee93df113c9c969a18b1bb5f775571ac19"
+			}
+		},
+		{
+			"id": "ultrawidehud-21-9",
+			"name": "UltrawideHUD - 21:9",
+			"kind": "ui",
+			"creator": "ishanzke",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/ultrawidehud-21-9/thumb.webp?v=7f6e1a3a",
+			"file": {
+				"version": 1,
+				"asset": "ultrawidehud-21-9-v1.fantome",
+				"size": 32341,
+				"sha256": "a8501b9aaf3c77244192da797f0b8be5b936f5028d5e6d8a4965ac03590aca43"
 			}
 		}
 	]

@@ -1,0 +1,17 @@
+{
+	"id": "tsumikiwi-emotes",
+	"name": "Tsumikiwi Emotes",
+	"kind": "other",
+	"creator": "megumemed-0",
+	"description": "Replaces like 15 or something emotes with ones from the streamer Tsumikiwi\r\n\r\n- Bee Mad -> TsumiKnife\r\n- Bee Sad -> TsumiCry\r\n- Angry Kitten -> TsumiKnife\r\n- Excited Kitten -> TsumiSignLNERD\r\n- M'Pengu -> TsumiWave\r\n- Nice -> TsumiThumbsUp\r\n- Towa Emote -> TsumiThink\r\n- Wahaha -> TsumiXDLul\r\n- Are You Serious -> TsumiGasp\r\n- Everything Is Ok -> TsumiFine\r\n- Me-ow -> TsumiSmug\r\n- Sad Kitten -> TsumiCry\r\n- Okay -> TsumiThumbsUp\r\n- What Was That -> TsumiWoah\r\n- Little Camper -> TsumiBedge\r\n- Bee Happy -> TsumiXDLul \r\n- Cheeky Poro -> TsumiDerp\n\n---\n\n**Created by** [megumemed#0](https://runeforge.dev/users/megumemed%230)\n\n**Original:** https://runeforge.dev/mods/49afc6d3-7880-440d-b608-c8ff504ac956\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/tsumikiwi-emotes/thumb.webp?v=caa20218",
+	"file": {
+		"version": 1,
+		"asset": "tsumikiwi-emotes-v1.fantome",
+		"size": 447933,
+		"sha256": "46e9d2a0d13996d3735373e7d27f56e28e0a15a6f5b4fb586e09229c807661a2"
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"id": "ultrakill-font-turkish",
+	"name": "Ultrakill Font (Turkish)",
+	"kind": "fonts",
+	"creator": "a1perhan",
+	"description": "🇬🇧: A Turkish-supported version of the ULTRAKILL font.\r\n\r\nCompatibility is checked after every patch.\r\n\r\nIf you encounter any issues, you can contact me on [Discord](https://discord.com/users/333213010841698304)\r\n\r\n\r\n\r\n🇹🇷:ULTRAKILL fontunun Türkçe harfleri destekleyen versiyonu.\r\n\r\nHer yamadan sonra uyumluluk durumu kontrol edilir.\r\n\r\nHerhangi bir sorun yaşarsanız [Discord](https://discord.com/users/333213010841698304)\r\n üzerinden ulaşabilirsiniz.\n\n---\n\n**Created by** [kebab translator](https://runeforge.dev/users/a1perhan)\n\n**Original:** https://runeforge.dev/mods/e6bb1036-c683-4e41-ab07-85d447babf24\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/ultrakill-font-turkish/thumb.webp?v=53cda95e",
+	"file": {
+		"version": 1,
+		"asset": "ultrakill-font-turkish-v1.fantome",
+		"size": 41329636,
+		"sha256": "dfd823064a0227d3772b466296996dee93df113c9c969a18b1bb5f775571ac19"
+	}
+}
