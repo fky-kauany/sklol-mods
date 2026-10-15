@@ -1,0 +1,17 @@
+{
+	"id": "balatro-font",
+	"name": "Balatro Font",
+	"kind": "fonts",
+	"creator": "gloomytree",
+	"description": "Replaces the League font by Balatro one, font is *slightly* larger than base one leading to very small \r\noverlap from time to time.\n\n---\n\n**Created by** [Gloomy Tree](https://runeforge.dev/users/GloomyTree)\n\n**Original:** https://runeforge.dev/mods/2f6ff24c-119c-49ee-b133-b3099ef31c91\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/balatro-font/thumb.webp?v=391ef96a",
+	"file": {
+		"version": 1,
+		"asset": "balatro-font-v1.fantome",
+		"size": 88482,
+		"sha256": "553d4928df332a635f946bd81e5e7d0d16c176554c4e263700e38e06d430387a"
+	}
+}

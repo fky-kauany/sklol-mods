@@ -80,6 +80,17 @@
 			"youtube": "https://youtu.be/QB0MbvKIQSg"
 		}
 	},
+	"davex": {
+		"name": "davex",
+		"avatar": "creators/davex.jpg?v=f39befb4",
+		"bio": "# 💫Welcome to my profile! 💫\n\nHi! I'm **Davex**, I create custom content and skins for the community. I love bringing new visuals to the rift and sharing them with all of you.\n\n---\n\n### 💼 Custom Commissions\nIf you want a personalized skin, feel free to reach out:\n\n[![Discord](https://img.shields.io/badge/Contact_me_on_Discord-davex45a-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/XDF5Xma456)\n\n---\n\n### ☕ Support my work\nIf you enjoy my creations and want to help m",
+		"links": {
+			"discord": "https://discord.com/invite/XDF5Xma456",
+			"kofi": "https://ko-fi.com/davex45",
+			"tiktok": "https://www.tiktok.com/@davexskins",
+			"youtube": "https://www.youtube.com/davexfn"
+		}
+	},
 	"dithz": {
 		"name": "DithZ",
 		"avatar": "creators/dithz.png?v=bb332928",
@@ -118,6 +129,14 @@
 		"avatar": "creators/horrorwolf.png?v=b1e42ede",
 		"links": {
 			"youtube": "https://youtu.be/AqBGlsua8UM"
+		}
+	},
+	"hungryweasel": {
+		"name": "HungryWeasel",
+		"avatar": "creators/hungryweasel.jpg?v=b73ee58b",
+		"bio": "Yeah man. For sure.",
+		"links": {
+			"youtube": "https://www.youtube.com/watch?v=_wyaHTfIDCA&lc=UgymYT19WCFfi7vhLnx4AaABAg"
 		}
 	},
 	"kietjojo": {
@@ -221,6 +240,21 @@
 		"bio": "## Ahai,\n\n\nI usually make custom skins when something annoys me and I want to fix it, so most often its connected to VFX colors, textures and small model tweaks.\n\n---\n\n## Donations appreciated!\n\n\nPayPal: [paypal.me/SuriinRuneforge](https://paypal.me/SuriinRuneforge)\n\nKo-fi: [ko-fi.com/suriinruneforge](https://ko-fi.com/suriinruneforge)\n\n---\n\n*~Count your blessings, keep 'em sweet*",
 		"links": {
 			"kofi": "https://ko-fi.com/suriinruneforge"
+		}
+	},
+	"vaskier": {
+		"name": "Vaskier",
+		"avatar": "creators/vaskier.jpg?v=c5238a70",
+		"links": {
+			"discord": "https://discord.gg/PjpXEZY",
+			"x": "https://x.com/Xueli_kawai",
+			"youtube": "https://www.youtube.com/watch?v=U_72cdTX9eI"
+		}
+	},
+	"voiceshowcase": {
+		"name": "VoiceShowcase",
+		"links": {
+			"youtube": "https://youtu.be/lNjHC5yWciU"
 		}
 	},
 	"wastedwaffle": {

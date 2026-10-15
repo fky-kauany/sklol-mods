@@ -1,0 +1,17 @@
+{
+	"id": "bait-ping",
+	"name": "Bait ping",
+	"kind": "ui",
+	"creator": "davex",
+	"description": "# Bait Ping:\n\n***\n\n> 🎣 Bait Ping. 🎣\n\n* Replaces: Caution Ping (Ctrl+Click)\n\n## Features:\n\n***\n\n* Bait Ping\n* Pnig Biat\n* Gnip Tiab\n* gniP tiaB\n* Bait Ping\n* B̸̫̣̀̅͛͊̇̈̽a̷̘͇̠̹͍͋͋̊̑̐i̶̢̢̪̬̬͆͒̀̕̚̕t̸͙̾̅̏͊́̈́͌̈́̆͠ ̴̮̥̗̅P̵̦͉̥͗͗́̄́͘̚͠͝ī̸̼̝͉͇̋̿̐͋̄͆ṇ̵̡̧̛̫̺̰͔̬̩̊̈͜g̵̗̀͑͛̈́͒̒̽̉̚\n\n## Credits:\n\n***\n\n* Bait Ping 👍🏻\n\n---\n\n**Created by** [davex](https://runeforge.dev/users/davex)\n\n**Original:** https://runeforge.dev/mods/2363957d-bd11-40c0-92ba-3c0990316b44\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/bait-ping/thumb.webp?v=88381e40",
+	"file": {
+		"version": 1,
+		"asset": "bait-ping-v1.fantome",
+		"size": 22806,
+		"sha256": "313634edab32267c805cae8afceee257003bf0aadc9aae7895ccd33ae21e868d"
+	}
+}

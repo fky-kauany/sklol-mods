@@ -1,0 +1,17 @@
+{
+	"id": "azir-flow",
+	"name": "Azir Flow",
+	"kind": "sounds",
+	"creator": "hungryweasel",
+	"description": "MOD INFORMATION\nModified Sounds: Default Azir\n\nAuthor: Hungry Weasel\n\nMod version: 1.0\n\nDescription: Azir running his yap again. This pack replaces ALL Azir voice lines with custom ones that mimic his in-game English voice using a voice model.\n\n\nFEATURES\nSupports the following languages: En_us\n\nModifies all Azir voice lines excluding his laugh and certain yelling\n\n\nABOUT THE MOD\nThis voice-pack was created with RVC using a custom-made Azir voice model. All voice lines were recorded and fed through the model to mimic Azir’s in-game English voice.\n\n\nCREDITS\nAI Tools Search on YouTube: https://youtu.be/ixB9oalT3cQ\n\n---\n\n**Created by** [HungryWeasel](https://runeforge.dev/users/HungryWeasel)\n\n**Original:** https://runeforge.dev/mods/2ff8f15c-204d-4576-a971-1a2fff69dd88\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/azir-flow/thumb.webp?v=bf786751",
+	"file": {
+		"version": 1,
+		"asset": "azir-flow-v1.fantome",
+		"size": 8625965,
+		"sha256": "f39c3a63c34f10500625b731b177b492e575f9dbc808816ef82a8be0960658f6"
+	}
+}

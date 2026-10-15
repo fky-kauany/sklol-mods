@@ -1,0 +1,17 @@
+{
+	"id": "bad-piggies-bgm",
+	"name": "Bad PIggies BGM",
+	"kind": "other",
+	"creator": "aurecueil",
+	"description": "# **Skin Information**\n\nTier: **T**\n\n\n\nReplaces: CLASSIC BG\n\n\n\nAuthor: Aurecuei\n\n\n\nVersion: 1.0.\n\n\n\nMap: Summoners Rift (11\n\n\n\nPatch Made: 15.12\n\n\n## Wanna buy me a [Coffee](https://ko-fi.com/aurecueil)? :>\n\n\n[![My Discord Server ^^](https://raw.githubusercontent.com/Aurecueil/Temp/refs/heads/main/images/banner6_better.png)](https://discord.gg/GETA29vZEK)\n\n\n## MISC\n\n[Tierlist of my BGM mods](https://runeforge.dev/users/Aurecueil)\n\n\n\ndc: aurecueil\n\n\n\ni DO take Commisions btw\n\n---\n\n**Created by** [aurecueil](https://runeforge.dev/users/aurecueil)\n\n**Original:** https://runeforge.dev/mods/a1edd7aa-7dbd-49f0-85e3-e1052d98eed0\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/bad-piggies-bgm/thumb.webp?v=b854493d",
+	"file": {
+		"version": 1,
+		"asset": "bad-piggies-bgm-v1.fantome",
+		"size": 14368061,
+		"sha256": "033b87fdd51c484dbf29238b88c89f05912c6c93cee4f4e14e41d9bfb0fd52eb"
+	}
+}

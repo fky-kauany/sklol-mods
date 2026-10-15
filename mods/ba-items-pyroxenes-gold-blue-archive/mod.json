@@ -1,0 +1,17 @@
+{
+	"id": "ba-items-pyroxenes-gold-blue-archive",
+	"name": "BA Items & Pyroxenes gold (Blue Archive)",
+	"kind": "ui",
+	"creator": "archlyris",
+	"description": "I made them\n\n\njoin discord for more cul ba/miscellaneous mod i made\n\n\nhttps://discord.gg/yaByNwaxsP\n\n---\n\n**Created by** [archlyris](https://runeforge.dev/users/archlyris)\n\n**Original:** https://runeforge.dev/mods/9b69df1f-f51e-4e7f-8785-35cf8f180503\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/ba-items-pyroxenes-gold-blue-archive/thumb.webp?v=ac5b3db0",
+	"file": {
+		"version": 1,
+		"asset": "ba-items-pyroxenes-gold-blue-archive-v1.fantome",
+		"size": 1997016,
+		"sha256": "96839f9dd498e24ddeb4d1123c07aa663714a4b3a81d06060ac6394998c320d4"
+	}
+}

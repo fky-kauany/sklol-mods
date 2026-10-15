@@ -1,0 +1,17 @@
+{
+	"id": "aykut-elmas-announcer-pack",
+	"name": "Aykut Elmas Announcer Pack",
+	"kind": "announcer",
+	"creator": "vaskier",
+	"description": "# Information\n\n> The famous Aykut Elmas memes have been appropriately replaced with in-game announcer voices.\n\n# Known Issues\n\n> Some memes may have poor sound quality because they are old. Some may have lower or higher volume.\n\n# Authors\n\n> Vaskier  -> [https://x.com/Xueli\\_kawai](https://x.com/Xueli_kawai)\n\n> StarCresceNT -> starcrescent (discord)\n\n\n\n#\n\n---\n\n**Created by** [Vaskier](https://runeforge.dev/users/Vaskier)\n\n**Original:** https://runeforge.dev/mods/39dec801-5fa1-4aff-8f59-cc1497de1d85\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/aykut-elmas-announcer-pack/thumb.webp?v=9ffd779e",
+	"file": {
+		"version": 1,
+		"asset": "aykut-elmas-announcer-pack-v1.fantome",
+		"size": 10279576,
+		"sha256": "566b2f3882379f635e035294d7e7dba86b6d797be3cadf1c1ab26ee9fb8ae398"
+	}
+}

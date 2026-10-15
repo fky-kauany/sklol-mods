@@ -1,0 +1,17 @@
+{
+	"id": "bad-santa-veigar-custom-vo",
+	"name": "Bad Santa Veigar Custom VO",
+	"kind": "sounds",
+	"creator": "voiceshowcase",
+	"description": "Replaces Veigar's base VO with entirely new Snowdown themed lines.\r\n\r\nVoice: Noah Farley\r\nWriters: Owlieart and RoyalEnigma\n\n---\n\n**Created by** [VoiceShowcase](https://runeforge.dev/users/VoiceShowcase)\n\n**Original:** https://runeforge.dev/mods/6cc18402-55fc-4aab-af78-2f7d5706baff\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/bad-santa-veigar-custom-vo/thumb.webp?v=a3bb40d9",
+	"file": {
+		"version": 1,
+		"asset": "bad-santa-veigar-custom-vo-v1.fantome",
+		"size": 1085881,
+		"sha256": "19580e910fcfaaf04bb7bc94256ee5bbac436218898c57d6126bc20d3ebd458e"
+	}
+}

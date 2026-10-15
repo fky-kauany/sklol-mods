@@ -1,0 +1,17 @@
+{
+	"id": "battle-academia-xayah-chroma-vfx",
+	"name": "Battle Academia Xayah chroma VFX",
+	"kind": "vfx",
+	"creator": "suriin",
+	"description": "## Important info\r\n\r\nThis will clash with any custom skin that modifies Battle Academia Xayah. 1 file for all chromas.\r\n\r\n## Description\r\n\r\n**Author**: Suriin\r\n\r\n**Skin**: Battle Academia Xayah\r\n\r\n**Affects**: VFX colors\r\n\r\nDone upon request. Adds matching VFX to every chroma, base remains the same.\r\n\r\n\r\n## Contact\r\n\r\nIf you have any issues or questions you can message me on discord: .suriin Just make sure you are on the RuneForge server.\r\n\r\n---\r\n\r\n### You can support me on Ko-Fi [ko-fi.com/suriinruneforge](https://ko-fi.com/suriinruneforge) <3\n\n---\n\n**Created by** [Suriin](https://runeforge.dev/users/Suriin)\n\n**Original:** https://runeforge.dev/mods/40209006-0995-4d30-a785-e19c0345d7ee\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/battle-academia-xayah-chroma-vfx/thumb.webp?v=2f1cbaf3",
+	"file": {
+		"version": 1,
+		"asset": "battle-academia-xayah-chroma-vfx-v1.fantome",
+		"size": 15184889,
+		"sha256": "f2cba7abf0b8f62610486f5f928386e45bbb82146816f45f44e57fcd6dda2715"
+	}
+}

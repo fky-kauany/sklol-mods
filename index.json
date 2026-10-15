@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T07:23:36.678Z",
+	"generatedAt": "2026-10-15T07:26:38.725Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -83,6 +83,17 @@
 				"youtube": "https://youtu.be/QB0MbvKIQSg"
 			}
 		},
+		"davex": {
+			"name": "davex",
+			"avatar": "creators/davex.jpg?v=f39befb4",
+			"bio": "# 💫Welcome to my profile! 💫\n\nHi! I'm **Davex**, I create custom content and skins for the community. I love bringing new visuals to the rift and sharing them with all of you.\n\n---\n\n### 💼 Custom Commissions\nIf you want a personalized skin, feel free to reach out:\n\n[![Discord](https://img.shields.io/badge/Contact_me_on_Discord-davex45a-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/XDF5Xma456)\n\n---\n\n### ☕ Support my work\nIf you enjoy my creations and want to help m",
+			"links": {
+				"discord": "https://discord.com/invite/XDF5Xma456",
+				"kofi": "https://ko-fi.com/davex45",
+				"tiktok": "https://www.tiktok.com/@davexskins",
+				"youtube": "https://www.youtube.com/davexfn"
+			}
+		},
 		"dithz": {
 			"name": "DithZ",
 			"avatar": "creators/dithz.png?v=bb332928",
@@ -121,6 +132,14 @@
 			"avatar": "creators/horrorwolf.png?v=b1e42ede",
 			"links": {
 				"youtube": "https://youtu.be/AqBGlsua8UM"
+			}
+		},
+		"hungryweasel": {
+			"name": "HungryWeasel",
+			"avatar": "creators/hungryweasel.jpg?v=b73ee58b",
+			"bio": "Yeah man. For sure.",
+			"links": {
+				"youtube": "https://www.youtube.com/watch?v=_wyaHTfIDCA&lc=UgymYT19WCFfi7vhLnx4AaABAg"
 			}
 		},
 		"kietjojo": {
@@ -224,6 +243,21 @@
 			"bio": "## Ahai,\n\n\nI usually make custom skins when something annoys me and I want to fix it, so most often its connected to VFX colors, textures and small model tweaks.\n\n---\n\n## Donations appreciated!\n\n\nPayPal: [paypal.me/SuriinRuneforge](https://paypal.me/SuriinRuneforge)\n\nKo-fi: [ko-fi.com/suriinruneforge](https://ko-fi.com/suriinruneforge)\n\n---\n\n*~Count your blessings, keep 'em sweet*",
 			"links": {
 				"kofi": "https://ko-fi.com/suriinruneforge"
+			}
+		},
+		"vaskier": {
+			"name": "Vaskier",
+			"avatar": "creators/vaskier.jpg?v=c5238a70",
+			"links": {
+				"discord": "https://discord.gg/PjpXEZY",
+				"x": "https://x.com/Xueli_kawai",
+				"youtube": "https://www.youtube.com/watch?v=U_72cdTX9eI"
+			}
+		},
+		"voiceshowcase": {
+			"name": "VoiceShowcase",
+			"links": {
+				"youtube": "https://youtu.be/lNjHC5yWciU"
 			}
 		},
 		"wastedwaffle": {
@@ -1115,6 +1149,176 @@
 				"asset": "awoo-cat-flash-v1.fantome",
 				"size": 7084720,
 				"sha256": "c083844cf594adb7b4fab5d13e0b05ceca9e28a29f05bbdc25268b423c2e930f"
+			}
+		},
+		{
+			"id": "aykut-elmas-announcer-pack",
+			"name": "Aykut Elmas Announcer Pack",
+			"kind": "announcer",
+			"creator": "vaskier",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/aykut-elmas-announcer-pack/thumb.webp?v=9ffd779e",
+			"file": {
+				"version": 1,
+				"asset": "aykut-elmas-announcer-pack-v1.fantome",
+				"size": 10279576,
+				"sha256": "566b2f3882379f635e035294d7e7dba86b6d797be3cadf1c1ab26ee9fb8ae398"
+			}
+		},
+		{
+			"id": "azir-cursor",
+			"name": "Azir Cursor",
+			"kind": "ui",
+			"creator": "aropatnik",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/azir-cursor/thumb.webp?v=d532a41c",
+			"file": {
+				"version": 1,
+				"asset": "azir-cursor-v1.fantome",
+				"size": 75545,
+				"sha256": "6de08b0bddc83577c9f114429a7d2bfa7be23443bd3b1181891501325b959bc2"
+			}
+		},
+		{
+			"id": "azir-flow",
+			"name": "Azir Flow",
+			"kind": "sounds",
+			"creator": "hungryweasel",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/azir-flow/thumb.webp?v=bf786751",
+			"file": {
+				"version": 1,
+				"asset": "azir-flow-v1.fantome",
+				"size": 8625965,
+				"sha256": "f39c3a63c34f10500625b731b177b492e575f9dbc808816ef82a8be0960658f6"
+			}
+		},
+		{
+			"id": "ba-items-pyroxenes-gold-blue-archive",
+			"name": "BA Items & Pyroxenes gold (Blue Archive)",
+			"kind": "ui",
+			"creator": "archlyris",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/ba-items-pyroxenes-gold-blue-archive/thumb.webp?v=ac5b3db0",
+			"file": {
+				"version": 1,
+				"asset": "ba-items-pyroxenes-gold-blue-archive-v1.fantome",
+				"size": 1997016,
+				"sha256": "96839f9dd498e24ddeb4d1123c07aa663714a4b3a81d06060ac6394998c320d4"
+			}
+		},
+		{
+			"id": "bad-piggies-bgm",
+			"name": "Bad PIggies BGM",
+			"kind": "other",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/bad-piggies-bgm/thumb.webp?v=b854493d",
+			"file": {
+				"version": 1,
+				"asset": "bad-piggies-bgm-v1.fantome",
+				"size": 14368061,
+				"sha256": "033b87fdd51c484dbf29238b88c89f05912c6c93cee4f4e14e41d9bfb0fd52eb"
+			}
+		},
+		{
+			"id": "bad-santa-veigar-custom-vo",
+			"name": "Bad Santa Veigar Custom VO",
+			"kind": "sounds",
+			"creator": "voiceshowcase",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/bad-santa-veigar-custom-vo/thumb.webp?v=a3bb40d9",
+			"file": {
+				"version": 1,
+				"asset": "bad-santa-veigar-custom-vo-v1.fantome",
+				"size": 1085881,
+				"sha256": "19580e910fcfaaf04bb7bc94256ee5bbac436218898c57d6126bc20d3ebd458e"
+			}
+		},
+		{
+			"id": "bait-ping",
+			"name": "Bait ping",
+			"kind": "ui",
+			"creator": "davex",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/bait-ping/thumb.webp?v=88381e40",
+			"file": {
+				"version": 1,
+				"asset": "bait-ping-v1.fantome",
+				"size": 22806,
+				"sha256": "313634edab32267c805cae8afceee257003bf0aadc9aae7895ccd33ae21e868d"
+			}
+		},
+		{
+			"id": "balatro-font",
+			"name": "Balatro Font",
+			"kind": "fonts",
+			"creator": "gloomytree",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/balatro-font/thumb.webp?v=391ef96a",
+			"file": {
+				"version": 1,
+				"asset": "balatro-font-v1.fantome",
+				"size": 88482,
+				"sha256": "553d4928df332a635f946bd81e5e7d0d16c176554c4e263700e38e06d430387a"
+			}
+		},
+		{
+			"id": "bastion-announcer",
+			"name": "Bastion Announcer",
+			"kind": "announcer",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/bastion-announcer/thumb.webp?v=043a373c",
+			"file": {
+				"version": 1,
+				"asset": "bastion-announcer-v1.fantome",
+				"size": 5978795,
+				"sha256": "cfacf5f1fcb12c5e8b874c6258e99ad541ceeb36bbe6713f1580c7b72450e3a0"
+			}
+		},
+		{
+			"id": "battle-academia-xayah-chroma-vfx",
+			"name": "Battle Academia Xayah chroma VFX",
+			"kind": "vfx",
+			"creator": "suriin",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/battle-academia-xayah-chroma-vfx/thumb.webp?v=2f1cbaf3",
+			"file": {
+				"version": 1,
+				"asset": "battle-academia-xayah-chroma-vfx-v1.fantome",
+				"size": 15184889,
+				"sha256": "f2cba7abf0b8f62610486f5f928386e45bbb82146816f45f44e57fcd6dda2715"
 			}
 		}
 	]
