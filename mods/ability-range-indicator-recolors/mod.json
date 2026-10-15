@@ -1,0 +1,17 @@
+{
+	"id": "ability-range-indicator-recolors",
+	"name": "Ability Range Indicator Recolors",
+	"kind": "ui",
+	"creator": "aropatnik",
+	"description": "### Mod variants have finally been implemented. Yippee! The main download will give you the orange version. If you want another color click on the \"Releases\" tab and download it from there.\n\n## Information\n\n**Recolors range indicators**\n\n**Author: Aropatnik**\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord username: aropatnik\n\nDiscord server: https://discord.gg/ue5t7tGW32\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/ff4e588c-15e0-4e16-8275-d156bc657872\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/ability-range-indicator-recolors/thumb.webp?v=977e0ef3",
+	"file": {
+		"version": 1,
+		"asset": "ability-range-indicator-recolors-v1.fantome",
+		"size": 8550908,
+		"sha256": "832ced03cc9de444a456a20cd9854bcbc497dd86c6a983699be85f48664a2b98"
+	}
+}

@@ -1,11 +1,19 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T07:11:13.691Z",
+	"generatedAt": "2026-10-15T07:14:16.711Z",
 	"creators": {
 		"403": {
 			"name": "403",
 			"links": {
 				"discord": "https://discord.gg/403"
+			}
+		},
+		"ahrisko": {
+			"name": "Luka",
+			"avatar": "creators/ahrisko.jpg?v=b52ed00a",
+			"bio": "Brazil modding",
+			"links": {
+				"instagram": "https://www.instagram.com/emozinhu?igsh=NnQ2czZsdGdmMDZn"
 			}
 		},
 		"algicci": {
@@ -25,11 +33,43 @@
 				"youtube": "https://www.youtube.com/@AropatnikCustoms"
 			}
 		},
+		"dithz": {
+			"name": "DithZ",
+			"avatar": "creators/dithz.png?v=bb332928",
+			"links": {}
+		},
+		"donutvsdonut": {
+			"name": "DonutvsDonut",
+			"avatar": "creators/donutvsdonut.jpg?v=86a1c710",
+			"links": {}
+		},
 		"horrorwolf": {
 			"name": "HorrorWolf",
 			"avatar": "creators/horrorwolf.png?v=b1e42ede",
 			"links": {
 				"youtube": "https://youtu.be/AqBGlsua8UM"
+			}
+		},
+		"kietjojo": {
+			"name": "Kiet Jojo",
+			"avatar": "creators/kietjojo.jpg?v=7479fb00",
+			"links": {}
+		},
+		"miyu": {
+			"name": "miyu",
+			"avatar": "creators/miyu.jpg?v=d9f3cb31",
+			"bio": "if u need help making a hud or one of my huds is broken asf my dc is @protoplasmatica",
+			"links": {
+				"x": "https://x.com/protoplasmatica"
+			}
+		},
+		"moga": {
+			"name": "Moga",
+			"avatar": "creators/moga.jpg?v=e4fd0e11",
+			"bio": "### Mostly HUD and Quality of life improvement mods. They're uhhh... rly good n useful n stuff.\n\n* New mod suggestions for existing or new mods are welcome.\n\n* The website profiles' mod tabs are broken, so just type <code>Moga</code> or <code>Agom</code> into the website's search to see all mods easier.\n\n<a href=\"https://discord.gg/gSXbEmPQCA\">\n  <img src=\"https://i.postimg.cc/B6ktRr5K/500.webp\" width=\"500\" height=\"460\">\n</a>\n\n<!-- [![Discord Invite](https://i.postimg.cc/B6ktRr5K/500.webp)](http",
+			"links": {
+				"discord": "https://discord.gg/HEjuFmbm6g",
+				"site": "https://runeforge.dev/mods?search=agomsmoga"
 			}
 		},
 		"pico-senpai": {
@@ -41,6 +81,11 @@
 				"site": "https://static.wixstatic.com/media/e2a744_abb27c3529754e04ab6ad06fd9c7ab56~mv2.png/v1/fill/w_740,h_416,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e2a744_abb27c3529754e04ab6ad06fd9c7ab56~mv2.png",
 				"youtube": "https://youtu.be/v681bCoQxPA"
 			}
+		},
+		"rengoku-kyojuro": {
+			"name": "Rengoku_Kyojuro",
+			"avatar": "creators/rengoku-kyojuro.jpg?v=e317561b",
+			"links": {}
 		},
 		"snowyseer": {
 			"name": "SnowySeer",
@@ -246,6 +291,176 @@
 				"asset": "aatrox-r-sfx-upgrade-v1.fantome",
 				"size": 18413908,
 				"sha256": "43018efda7bd5c6aa29619cd313107f6d6a7c53615561529d90e84ddf05c6d4a"
+			}
+		},
+		{
+			"id": "ability-range-indicator-recolors",
+			"name": "Ability Range Indicator Recolors",
+			"kind": "ui",
+			"creator": "aropatnik",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/ability-range-indicator-recolors/thumb.webp?v=977e0ef3",
+			"file": {
+				"version": 1,
+				"asset": "ability-range-indicator-recolors-v1.fantome",
+				"size": 8550908,
+				"sha256": "832ced03cc9de444a456a20cd9854bcbc497dd86c6a983699be85f48664a2b98"
+			}
+		},
+		{
+			"id": "accurate-nautilus-hook-size",
+			"name": "Accurate Nautilus Hook Size",
+			"kind": "other",
+			"creator": "aropatnik",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/accurate-nautilus-hook-size/thumb.webp?v=53e17c44",
+			"file": {
+				"version": 1,
+				"asset": "accurate-nautilus-hook-size-v1.fantome",
+				"size": 28209,
+				"sha256": "e714102bfa3e73c92b2ae64f9d494c288d036246e40f61895beea8e6d6c752dd"
+			}
+		},
+		{
+			"id": "actionis-font",
+			"name": "Actionis Font",
+			"kind": "fonts",
+			"creator": "rengoku-kyojuro",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/actionis-font/thumb.webp?v=549dd90f",
+			"file": {
+				"version": 1,
+				"asset": "actionis-font-v1.fantome",
+				"size": 39743,
+				"sha256": "aabb0d3f4d61ff55b73f21b6e2c305566396045fe0ed8feb1ede81cb8d073f93"
+			}
+		},
+		{
+			"id": "actually-transparent-hud",
+			"name": "Actually Transparent HUD",
+			"kind": "ui",
+			"creator": "moga",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/actually-transparent-hud/thumb.webp?v=21d58fc7",
+			"file": {
+				"version": 1,
+				"asset": "actually-transparent-hud-v1.fantome",
+				"size": 6534076,
+				"sha256": "a9c146a52c2a37ec91e631c55215d6642b16a509c7011cfa99541f20a36f2345"
+			}
+		},
+		{
+			"id": "adblock-for-lol",
+			"name": "Adblock for LoL",
+			"kind": "ui",
+			"creator": "moga",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/adblock-for-lol/thumb.webp?v=a8c4d160",
+			"file": {
+				"version": 1,
+				"asset": "adblock-for-lol-v1.fantome",
+				"size": 2393919,
+				"sha256": "7e6d481708f7be2108b05f72b15bb99dc58d703506d64a541521f294cbc87c53"
+			}
+		},
+		{
+			"id": "addict-hud",
+			"name": "addict † hud",
+			"kind": "ui",
+			"creator": "miyu",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/addict-hud/thumb.webp?v=c9326294",
+			"file": {
+				"version": 1,
+				"asset": "addict-hud-v1.fantome",
+				"size": 4109032,
+				"sha256": "9429f6e74319ef34d33108173b02a84fa443405556da85048e0504592d96e753"
+			}
+		},
+		{
+			"id": "aegis-frame-galio-chroma-vfx",
+			"name": "Aegis Frame Galio Chroma VFX",
+			"kind": "vfx",
+			"creator": "donutvsdonut",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/aegis-frame-galio-chroma-vfx/thumb.webp?v=04343448",
+			"file": {
+				"version": 1,
+				"asset": "aegis-frame-galio-chroma-vfx-v1.fantome",
+				"size": 10060725,
+				"sha256": "be030a1b4046f5785d0ed105b99411415adc711f4389fdd8285ec47284b2fac6"
+			}
+		},
+		{
+			"id": "again-viego",
+			"name": "Again, Viego!",
+			"kind": "sounds",
+			"creator": "kietjojo",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/again-viego/thumb.webp?v=3d7f4a4d",
+			"file": {
+				"version": 1,
+				"asset": "again-viego-v1.fantome",
+				"size": 2231856,
+				"sha256": "00abd62317a8d57de841fc0716228570a1b48a9005d996c9d4c74831dcb41ba8"
+			}
+		},
+		{
+			"id": "ahri-announcer-ptbr",
+			"name": "AHRI ANNOUNCER PTBR",
+			"kind": "announcer",
+			"creator": "ahrisko",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/ahri-announcer-ptbr/thumb.webp?v=bd0b35be",
+			"file": {
+				"version": 1,
+				"asset": "ahri-announcer-ptbr-v1.fantome",
+				"size": 11342909,
+				"sha256": "9f4641a997a3359c4381ba6ac8150f27ccae05822e21403646a7c73eb39403ee"
+			}
+		},
+		{
+			"id": "ahri-guardiana-estelar-anunciadora-espanol-latin",
+			"name": "Ahri Guardiana Estelar Anunciadora (Español Latino)",
+			"kind": "announcer",
+			"creator": "dithz",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/ahri-guardiana-estelar-anunciadora-espanol-latin/thumb.webp?v=15cbf8b4",
+			"file": {
+				"version": 1,
+				"asset": "ahri-guardiana-estelar-anunciadora-espanol-latin-v1.fantome",
+				"size": 9489185,
+				"sha256": "42b5f9d4e0428a3e264d18136a2af336fa29efb0c505a221a374197a3a5bebf3"
 			}
 		}
 	]

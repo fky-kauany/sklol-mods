@@ -1,0 +1,17 @@
+{
+	"id": "adblock-for-lol",
+	"name": "Adblock for LoL",
+	"kind": "ui",
+	"creator": "moga",
+	"description": "###\n\n*MOST * individual elements are modular, i.e. you can re-enable anything you don’t want. The \"not-most\" can be harder to do yourself. I have a guide on how to unpack the mod, and you’re welcome to ask me which files correspond to specific elements to tweak yours.\n\n**- REMOVED ITEMS**\n\n- New Quest Popup Notification.\n- Objective vote popup.\n- All \"X-Champion Has Slain Y-Objective\" or \"X-Champion Pentakill\" announcement banners. (The text isn't is now removed., only icons and stylized borders are gone.)\n- New Spectate Death Recap and the old DR Showcase \"Press 'n' to hide\" (if they ever bring that garbage back).\n- \"You can't buy items once you leave fountain\" ARAM/SR sidebar popup.\n- On-death health bar crumble animations.\n- Spell Shield and Invulnerable animated SHEEN. (The purple/gold health bar border is still there, this is just the overlayed sheen ([fancy \"shine\" glow swipe](https://www.youtube.com/watch?v=jxr4YK_m8hc)) animation.)\n- All tutorial arrows.\n- Suggested spell Level-Up sheen and arrow.\n- Level-Up clicked and idle animations (omega cringe)\n- Anything labeled voice chat.\n- Item shop minimap icon. (A little dot that indicates where the shopkeeper is.)\n- Camera lock, settings, jungle, voice chat, and clickable pings minimap buttons.\n- Special quest popups (Morgana vs. Aatrox)\n- Any and hopefully all random and needless  highlights or sheen effects designed to grab your attention.\n- New unleashed spellbook animation bullshit\n\nPreview images: https://imgur.com/a/38nmnrL\n\nhttps://discord.gg/gSXbEmPQCA\n\n---\n\n**Created by** [Moga](https://runeforge.dev/users/Moga)\n\n**Original:** https://runeforge.dev/mods/6c349b3c-8683-47e4-b70a-45f5cb2f7b74\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/adblock-for-lol/thumb.webp?v=a8c4d160",
+	"file": {
+		"version": 1,
+		"asset": "adblock-for-lol-v1.fantome",
+		"size": 2393919,
+		"sha256": "7e6d481708f7be2108b05f72b15bb99dc58d703506d64a541521f294cbc87c53"
+	}
+}

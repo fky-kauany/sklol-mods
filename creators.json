@@ -5,6 +5,14 @@
 			"discord": "https://discord.gg/403"
 		}
 	},
+	"ahrisko": {
+		"name": "Luka",
+		"avatar": "creators/ahrisko.jpg?v=b52ed00a",
+		"bio": "Brazil modding",
+		"links": {
+			"instagram": "https://www.instagram.com/emozinhu?igsh=NnQ2czZsdGdmMDZn"
+		}
+	},
 	"algicci": {
 		"name": "Algicci",
 		"avatar": "creators/algicci.jpg?v=49e2249b",
@@ -22,11 +30,43 @@
 			"youtube": "https://www.youtube.com/@AropatnikCustoms"
 		}
 	},
+	"dithz": {
+		"name": "DithZ",
+		"avatar": "creators/dithz.png?v=bb332928",
+		"links": {}
+	},
+	"donutvsdonut": {
+		"name": "DonutvsDonut",
+		"avatar": "creators/donutvsdonut.jpg?v=86a1c710",
+		"links": {}
+	},
 	"horrorwolf": {
 		"name": "HorrorWolf",
 		"avatar": "creators/horrorwolf.png?v=b1e42ede",
 		"links": {
 			"youtube": "https://youtu.be/AqBGlsua8UM"
+		}
+	},
+	"kietjojo": {
+		"name": "Kiet Jojo",
+		"avatar": "creators/kietjojo.jpg?v=7479fb00",
+		"links": {}
+	},
+	"miyu": {
+		"name": "miyu",
+		"avatar": "creators/miyu.jpg?v=d9f3cb31",
+		"bio": "if u need help making a hud or one of my huds is broken asf my dc is @protoplasmatica",
+		"links": {
+			"x": "https://x.com/protoplasmatica"
+		}
+	},
+	"moga": {
+		"name": "Moga",
+		"avatar": "creators/moga.jpg?v=e4fd0e11",
+		"bio": "### Mostly HUD and Quality of life improvement mods. They're uhhh... rly good n useful n stuff.\n\n* New mod suggestions for existing or new mods are welcome.\n\n* The website profiles' mod tabs are broken, so just type <code>Moga</code> or <code>Agom</code> into the website's search to see all mods easier.\n\n<a href=\"https://discord.gg/gSXbEmPQCA\">\n  <img src=\"https://i.postimg.cc/B6ktRr5K/500.webp\" width=\"500\" height=\"460\">\n</a>\n\n<!-- [![Discord Invite](https://i.postimg.cc/B6ktRr5K/500.webp)](http",
+		"links": {
+			"discord": "https://discord.gg/HEjuFmbm6g",
+			"site": "https://runeforge.dev/mods?search=agomsmoga"
 		}
 	},
 	"pico-senpai": {
@@ -38,6 +78,11 @@
 			"site": "https://static.wixstatic.com/media/e2a744_abb27c3529754e04ab6ad06fd9c7ab56~mv2.png/v1/fill/w_740,h_416,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e2a744_abb27c3529754e04ab6ad06fd9c7ab56~mv2.png",
 			"youtube": "https://youtu.be/v681bCoQxPA"
 		}
+	},
+	"rengoku-kyojuro": {
+		"name": "Rengoku_Kyojuro",
+		"avatar": "creators/rengoku-kyojuro.jpg?v=e317561b",
+		"links": {}
 	},
 	"snowyseer": {
 		"name": "SnowySeer",

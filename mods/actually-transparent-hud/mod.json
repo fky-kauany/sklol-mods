@@ -1,0 +1,17 @@
+{
+	"id": "actually-transparent-hud",
+	"name": "Actually Transparent HUD",
+	"kind": "ui",
+	"creator": "moga",
+	"description": "### Overview:\n\n* Works on every frame in the game for Arena/Brawl/Replay/Etc.\n* This is not selectively missing frames like the old Transparent HUD.\n\nPLEASE tell me if I missed something, but I'm *pretty* sure I didn't.\n\n#\n\nhttps://discord.gg/gSXbEmPQCA\n\n---\n\n**Created by** [Moga](https://runeforge.dev/users/Moga)\n\n**Original:** https://runeforge.dev/mods/1dfe6535-4fb3-4a84-a795-c079dae2f68a\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/actually-transparent-hud/thumb.webp?v=21d58fc7",
+	"file": {
+		"version": 1,
+		"asset": "actually-transparent-hud-v1.fantome",
+		"size": 6534076,
+		"sha256": "a9c146a52c2a37ec91e631c55215d6642b16a509c7011cfa99541f20a36f2345"
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"id": "aegis-frame-galio-chroma-vfx",
+	"name": "Aegis Frame Galio Chroma VFX",
+	"kind": "vfx",
+	"creator": "donutvsdonut",
+	"description": "Modifies Aegis Frame Galio's chroma vfx to match his chroma colors, will not work with other mods for Aegis Frame Galio\n\n---\n\n**Created by** [DonutvsDonut](https://runeforge.dev/users/DonutvsDonut)\n\n**Original:** https://runeforge.dev/mods/d93720fb-9ae5-43e3-aaca-0b2663aeebf1\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/aegis-frame-galio-chroma-vfx/thumb.webp?v=04343448",
+	"file": {
+		"version": 1,
+		"asset": "aegis-frame-galio-chroma-vfx-v1.fantome",
+		"size": 10060725,
+		"sha256": "be030a1b4046f5785d0ed105b99411415adc711f4389fdd8285ec47284b2fac6"
+	}
+}

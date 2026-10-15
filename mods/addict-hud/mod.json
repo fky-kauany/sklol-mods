@@ -1,0 +1,17 @@
+{
+	"id": "addict-hud",
+	"name": "addict † hud",
+	"kind": "ui",
+	"creator": "miyu",
+	"description": "──────────﹒★﹒﹒─\r\n\r\nstill need to do:\r\n- whole tab\r\n- i will prob never do any of the custom chars, im too lazy for that\r\n- change shop button caus its ugly now\r\n- dont like some colors ye i will change a lot of things after\r\n\r\n─﹒﹒★﹒──────────\r\n\r\nI should update sometime and that's it\n\n---\n\n**Created by** [miyu](https://runeforge.dev/users/miyu)\n\n**Original:** https://runeforge.dev/mods/40d8072e-a227-4b3b-b8dd-acb5ceaf29be\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/addict-hud/thumb.webp?v=c9326294",
+	"file": {
+		"version": 1,
+		"asset": "addict-hud-v1.fantome",
+		"size": 4109032,
+		"sha256": "9429f6e74319ef34d33108173b02a84fa443405556da85048e0504592d96e753"
+	}
+}

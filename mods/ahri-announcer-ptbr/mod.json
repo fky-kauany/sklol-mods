@@ -1,0 +1,17 @@
+{
+	"id": "ahri-announcer-ptbr",
+	"name": "AHRI ANNOUNCER PTBR",
+	"kind": "announcer",
+	"creator": "ahrisko",
+	"description": "---\n\n**Created by** [Luka](https://runeforge.dev/users/AHRISKO)\n\n**Original:** https://runeforge.dev/mods/75b0341e-1f10-4392-955f-7771545f8d38\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/ahri-announcer-ptbr/thumb.webp?v=bd0b35be",
+	"file": {
+		"version": 1,
+		"asset": "ahri-announcer-ptbr-v1.fantome",
+		"size": 11342909,
+		"sha256": "9f4641a997a3359c4381ba6ac8150f27ccae05822e21403646a7c73eb39403ee"
+	}
+}

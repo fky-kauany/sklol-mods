@@ -1,0 +1,17 @@
+{
+	"id": "again-viego",
+	"name": "Again, Viego!",
+	"kind": "sounds",
+	"creator": "kietjojo",
+	"description": "## Mod Information\n\nChampion : Viego\n\nModified Skin : Default\n\nAuthor : Kiet Jojo\n\nMod Version : 1.0\n\nDescription : Replace Viego's Ult Sound with Bucky Ult's Sound \"Again\" (from Marvel Rivals)\n\n---\n\n**Created by** [Kiet Jojo](https://runeforge.dev/users/kietjojo)\n\n**Original:** https://runeforge.dev/mods/e4c7756d-c2cd-4377-8005-770453b93b23\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/again-viego/thumb.webp?v=3d7f4a4d",
+	"file": {
+		"version": 1,
+		"asset": "again-viego-v1.fantome",
+		"size": 2231856,
+		"sha256": "00abd62317a8d57de841fc0716228570a1b48a9005d996c9d4c74831dcb41ba8"
+	}
+}

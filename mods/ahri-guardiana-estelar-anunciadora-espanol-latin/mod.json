@@ -1,0 +1,17 @@
+{
+	"id": "ahri-guardiana-estelar-anunciadora-espanol-latin",
+	"name": "Ahri Guardiana Estelar Anunciadora (Español Latino)",
+	"kind": "announcer",
+	"creator": "dithz",
+	"description": "- EN:\r\nReplaces the normal announcer with the Star Guardian Ahri latin spanish announcer from 2017.\r\nThe mod might break when Riot introduces new maps like the winter map, so I'll try to update the mod if that happens.\r\n\r\n- ES:\r\nReemplaza al anunciador de la Grieta del Invocador por la voz de Ahri Guardiana Estelar del evento de 2017.\r\nPuede que el mod se rompa cuando Riot implemente un nuevo mapa como el de invierno, así que trataré de actualizar el mod en cuando pueda si es que eso pasa.\n\n---\n\n**Created by** [DithZ](https://runeforge.dev/users/DithZ)\n\n**Original:** https://runeforge.dev/mods/58bde5a2-7385-4835-87f7-d52e576663d0\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/ahri-guardiana-estelar-anunciadora-espanol-latin/thumb.webp?v=15cbf8b4",
+	"file": {
+		"version": 1,
+		"asset": "ahri-guardiana-estelar-anunciadora-espanol-latin-v1.fantome",
+		"size": 9489185,
+		"sha256": "42b5f9d4e0428a3e264d18136a2af336fa29efb0c505a221a374197a3a5bebf3"
+	}
+}
