@@ -1,0 +1,17 @@
+{
+	"id": "dragon-ball-flash-sfx-classic",
+	"name": "Dragon Ball Flash SFX - Classic",
+	"kind": "sounds",
+	"creator": "alexygalaxy",
+	"description": "## Working in Classic ONLY\n\n## SPECIAL THANKS TO\n\nPico Senpai the creator of the SFX Mod for Modern league.\n\n## SKIN INFORMATION\n\nPico Senpai's SFX mod was originally posted on [RuneForge.com](https://runeforge.dev/mods/4d213215-0c80-43fd-a411-b4290734c3a1?search=flash) but only works for Modern League.\nThis SFX Mod only works for Classic League.\n\n---\n\n**Created by** [AlexyGalaxy](https://runeforge.dev/users/AlexyGalaxy)\n\n**Original:** https://runeforge.dev/mods/059efc66-f02c-4250-b6b7-829cb9b745a9\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/dragon-ball-flash-sfx-classic/thumb.webp?v=56e9a2ff",
+	"file": {
+		"version": 1,
+		"asset": "dragon-ball-flash-sfx-classic-v1.fantome",
+		"size": 27331344,
+		"sha256": "aa9a2dcd23a92c60c0650f212c8590d02b74f6423097c754a92c3af3c92327e3"
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"id": "dragonslayer-kayle-chroma-vfx",
+	"name": "Dragonslayer Kayle Chroma VFX",
+	"kind": "vfx",
+	"creator": "donutvsdonut",
+	"description": "Recolors Dragonslayer Kayle Chroma effects, Does not effect the base skin, will not work with other mods that impact Dragonslayer Kayle\n\n---\n\n**Created by** [DonutvsDonut](https://runeforge.dev/users/DonutvsDonut)\n\n**Original:** https://runeforge.dev/mods/b1d9d16d-92c5-4e9f-8474-d3e5f53c7987\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/dragonslayer-kayle-chroma-vfx/thumb.webp?v=6cc8610b",
+	"file": {
+		"version": 1,
+		"asset": "dragonslayer-kayle-chroma-vfx-v1.fantome",
+		"size": 5148457,
+		"sha256": "3515c5f673023b7e8c6d3d72c1d11e07a59373d4da614ce23b8256fa981a8c08"
+	}
+}

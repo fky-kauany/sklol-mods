@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T08:22:44.206Z",
+	"generatedAt": "2026-10-15T08:28:20.436Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -34,6 +34,12 @@
 			"links": {
 				"instagram": "https://www.instagram.com/emozinhu?igsh=NnQ2czZsdGdmMDZn"
 			}
+		},
+		"alexygalaxy": {
+			"name": "AlexyGalaxy",
+			"avatar": "creators/alexygalaxy.jpg?v=623da3e8",
+			"bio": "Take me back to Season 3.",
+			"links": {}
 		},
 		"algicci": {
 			"name": "Algicci",
@@ -81,6 +87,11 @@
 			"name": "AtaKzlky",
 			"avatar": "creators/atakzlky.jpg?v=be4d94a3",
 			"bio": "I wanna live in Japan",
+			"links": {}
+		},
+		"atom": {
+			"name": "Atom",
+			"avatar": "creators/atom.jpg?v=36440bea",
 			"links": {}
 		},
 		"aurecueil": {
@@ -199,6 +210,12 @@
 				"youtube": "https://youtu.be/D6MuCDAlA9Y?si=r_OtOm_IvjIUa1zc"
 			}
 		},
+		"epel": {
+			"name": "epel",
+			"links": {
+				"kofi": "https://ko-fi.com/epellol"
+			}
+		},
 		"fantom": {
 			"name": "Fantom",
 			"avatar": "creators/fantom.jpg?v=858d5136",
@@ -241,6 +258,11 @@
 		"kietjojo": {
 			"name": "Kiet Jojo",
 			"avatar": "creators/kietjojo.jpg?v=7479fb00",
+			"links": {}
+		},
+		"knuxsd": {
+			"name": "KnuxSD",
+			"avatar": "creators/knuxsd.png?v=2dc239a7",
 			"links": {}
 		},
 		"konari": {
@@ -309,6 +331,14 @@
 			"name": "Mouf",
 			"avatar": "creators/mouf.jpg?v=b3182dd4",
 			"links": {}
+		},
+		"mouseatemyhouse": {
+			"name": "mouseatemyhouse",
+			"avatar": "creators/mouseatemyhouse.png?v=99d55fcf",
+			"bio": "why hip hop sucks in '96",
+			"links": {
+				"youtube": "https://www.youtube.com/watch?v=xaQpat3ADvc"
+			}
 		},
 		"notcoconut": {
 			"name": "NotCoconut",
@@ -3559,6 +3589,181 @@
 				"asset": "doom-eternal-bgm-mix-2-v1.fantome",
 				"size": 12177794,
 				"sha256": "64d1da134f36f7670ec2db5f7bd0552d88a8a466c1ef9826228ebcf9899f0f52"
+			}
+		},
+		{
+			"id": "dot-cursors",
+			"name": "Dot Cursors",
+			"kind": "ui",
+			"creator": "epel",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/dot-cursors/thumb.webp?v=fb8ae00a",
+			"file": {
+				"version": 1,
+				"asset": "dot-cursors-v1.fantome",
+				"size": 9497,
+				"sha256": "4b9e4493adc2bc8dbfa99dcc9d2462ae46b428540cec37f7a6e476074f0ff6b5"
+			}
+		},
+		{
+			"id": "dota-2-default-announcer",
+			"name": "DOTA 2 Default Announcer",
+			"kind": "announcer",
+			"creator": "atom",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/dota-2-default-announcer/thumb.webp?v=b7258b5f",
+			"file": {
+				"version": 1,
+				"asset": "dota-2-default-announcer-v1.fantome",
+				"size": 6221661,
+				"sha256": "854b27f47441a61d81faf1e7266729413f3f40f70979b0942184ba948ad33263"
+			}
+		},
+		{
+			"id": "dota2-cave-johnson-announcer-pack",
+			"name": "DOTA2 Cave Johnson Announcer Pack",
+			"kind": "announcer",
+			"creator": "knuxsd",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/dota2-cave-johnson-announcer-pack/thumb.webp?v=da76d8fd",
+			"file": {
+				"version": 1,
+				"asset": "dota2-cave-johnson-announcer-pack-v1.fantome",
+				"size": 9134203,
+				"sha256": "96bd0cc9c2d7a97b82e960b0cc93641d34684e714209f32268a230ac95166aaa"
+			}
+		},
+		{
+			"id": "dota2-stanley-parable-narrator-announcer-pack",
+			"name": "DOTA2 Stanley Parable Narrator Announcer Pack",
+			"kind": "other",
+			"creator": "knuxsd",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/dota2-stanley-parable-narrator-announcer-pack/thumb.webp?v=4592891c",
+			"file": {
+				"version": 1,
+				"asset": "dota2-stanley-parable-narrator-announcer-pack-v1.fantome",
+				"size": 5787337,
+				"sha256": "ab9907ffc9d649a9826f34efdeabb30f9893e75968e9261fb79f3c4a597f2996"
+			}
+		},
+		{
+			"id": "dough-cat-raptors",
+			"name": "Dough Cat Raptors",
+			"kind": "mobs",
+			"creator": "frog",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/dough-cat-raptors/thumb.webp?v=d4fbb3c7",
+			"file": {
+				"version": 1,
+				"asset": "dough-cat-raptors-v1.fantome",
+				"size": 5525093,
+				"sha256": "05a1c8cf8a53d8c16c9fc55613085094b764202fe32cbb7f04549e488cdfc7bc"
+			},
+			"maps": [
+				11,
+				12,
+				35
+			]
+		},
+		{
+			"id": "draggable-minimap",
+			"name": "Draggable Minimap",
+			"kind": "ui",
+			"creator": "moga",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/draggable-minimap/thumb.webp?v=67815919",
+			"file": {
+				"version": 1,
+				"asset": "draggable-minimap-v1.fantome",
+				"size": 42365,
+				"sha256": "374f45457098a1ab47649a0c38e92a3872d9361a32bf74129bd0232c02ebda25"
+			}
+		},
+		{
+			"id": "dragon-ball-flash-sfx-classic",
+			"name": "Dragon Ball Flash SFX - Classic",
+			"kind": "sounds",
+			"creator": "alexygalaxy",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/dragon-ball-flash-sfx-classic/thumb.webp?v=56e9a2ff",
+			"file": {
+				"version": 1,
+				"asset": "dragon-ball-flash-sfx-classic-v1.fantome",
+				"size": 27331344,
+				"sha256": "aa9a2dcd23a92c60c0650f212c8590d02b74f6423097c754a92c3af3c92327e3"
+			}
+		},
+		{
+			"id": "dragon-ball-flash-sound",
+			"name": "Dragon Ball Flash Sound",
+			"kind": "sounds",
+			"creator": "pico-senpai",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/dragon-ball-flash-sound/thumb.webp?v=faa0618d",
+			"file": {
+				"version": 1,
+				"asset": "dragon-ball-flash-sound-v1.fantome",
+				"size": 7206437,
+				"sha256": "1206c63f03f4f6fc968bc9c28331881ef08f152718aa53a27a4e91c20d25b8b9"
+			}
+		},
+		{
+			"id": "dragon-install-yunara-v2",
+			"name": "Dragon Install Yunara v2",
+			"kind": "sounds",
+			"creator": "mouseatemyhouse",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/dragon-install-yunara-v2/thumb.webp?v=d9dde265",
+			"file": {
+				"version": 1,
+				"asset": "dragon-install-yunara-v2-v1.fantome",
+				"size": 8353965,
+				"sha256": "5ed0366993473e3ccdb9abc15ad857f1208bc4d4af81489c6d0249fd76e624bd"
+			}
+		},
+		{
+			"id": "dragonslayer-kayle-chroma-vfx",
+			"name": "Dragonslayer Kayle Chroma VFX",
+			"kind": "vfx",
+			"creator": "donutvsdonut",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/dragonslayer-kayle-chroma-vfx/thumb.webp?v=6cc8610b",
+			"file": {
+				"version": 1,
+				"asset": "dragonslayer-kayle-chroma-vfx-v1.fantome",
+				"size": 5148457,
+				"sha256": "3515c5f673023b7e8c6d3d72c1d11e07a59373d4da614ce23b8256fa981a8c08"
 			}
 		}
 	]

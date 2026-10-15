@@ -1,0 +1,17 @@
+{
+	"id": "draggable-minimap",
+	"name": "Draggable Minimap",
+	"kind": "ui",
+	"creator": "moga",
+	"description": "#### To enable map movement, you must, after moving your map, toggle your map scale!\n\n### Overview:\nPrefix your fantome with the letter `Z` to override any of my other mods that edit the map!\n\nTURN OFF MAP MOVEMENT BECAUSE THE MOVEMENT HITBOX IS HARDCODED POS (if u didnt read the red text ofc)\n\n* The draggable anchor is the small red box embedded inside the top right corner of the minimap.\n* Features a slightly adjusted frame to appear less ugly.\n* You need to drag the map into position at the start of each game.\n* Works fine as a supplement to my [Top Minimap](https://runeforge.dev/mods/1fde87b9-cbe7-4860-884f-2efac9019ac5) and Minimap portion of the [UW accessibility](https://runeforge.dev/mods/238558cf-0827-4fc7-b1bf-908986101b7e) mods.\n\nPlease report bugs\n\n[My other cool HUD mods smile](https://runeforge.dev/users/Moga/mods?page=0&sortBy=download_count) ₍^. .^₎Ⳋ\n\n#\n\nhttps://discord.gg/gSXbEmPQCA\n\n---\n\n**Created by** [Moga](https://runeforge.dev/users/Moga)\n\n**Original:** https://runeforge.dev/mods/e2f1ead7-fb1f-4606-85bd-3257b555e7d9\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/draggable-minimap/thumb.webp?v=67815919",
+	"file": {
+		"version": 1,
+		"asset": "draggable-minimap-v1.fantome",
+		"size": 42365,
+		"sha256": "374f45457098a1ab47649a0c38e92a3872d9361a32bf74129bd0232c02ebda25"
+	}
+}

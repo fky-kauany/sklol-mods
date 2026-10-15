@@ -1,0 +1,17 @@
+{
+	"id": "dragon-install-yunara-v2",
+	"name": "Dragon Install Yunara v2",
+	"kind": "sounds",
+	"creator": "mouseatemyhouse",
+	"description": "This mod replaces the SFX for Yunara's ultimate with that of the first 15 seconds of Ride the Fire from Guilty Gear Xrd. It also replaces her ultimate voicelines with Sol's Dragon Install voicelines. Should work for both skins.\n\n---\n\n**Created by** [mouseatemyhouse](https://runeforge.dev/users/mouseatemyhouse)\n\n**Original:** https://runeforge.dev/mods/d60551b6-8db7-40b8-aeef-8e287b61420f\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/dragon-install-yunara-v2/thumb.webp?v=d9dde265",
+	"file": {
+		"version": 1,
+		"asset": "dragon-install-yunara-v2-v1.fantome",
+		"size": 8353965,
+		"sha256": "5ed0366993473e3ccdb9abc15ad857f1208bc4d4af81489c6d0249fd76e624bd"
+	}
+}

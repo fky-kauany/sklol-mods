@@ -32,6 +32,12 @@
 			"instagram": "https://www.instagram.com/emozinhu?igsh=NnQ2czZsdGdmMDZn"
 		}
 	},
+	"alexygalaxy": {
+		"name": "AlexyGalaxy",
+		"avatar": "creators/alexygalaxy.jpg?v=623da3e8",
+		"bio": "Take me back to Season 3.",
+		"links": {}
+	},
 	"algicci": {
 		"name": "Algicci",
 		"avatar": "creators/algicci.jpg?v=49e2249b",
@@ -78,6 +84,11 @@
 		"name": "AtaKzlky",
 		"avatar": "creators/atakzlky.jpg?v=be4d94a3",
 		"bio": "I wanna live in Japan",
+		"links": {}
+	},
+	"atom": {
+		"name": "Atom",
+		"avatar": "creators/atom.jpg?v=36440bea",
 		"links": {}
 	},
 	"aurecueil": {
@@ -196,6 +207,12 @@
 			"youtube": "https://youtu.be/D6MuCDAlA9Y?si=r_OtOm_IvjIUa1zc"
 		}
 	},
+	"epel": {
+		"name": "epel",
+		"links": {
+			"kofi": "https://ko-fi.com/epellol"
+		}
+	},
 	"fantom": {
 		"name": "Fantom",
 		"avatar": "creators/fantom.jpg?v=858d5136",
@@ -238,6 +255,11 @@
 	"kietjojo": {
 		"name": "Kiet Jojo",
 		"avatar": "creators/kietjojo.jpg?v=7479fb00",
+		"links": {}
+	},
+	"knuxsd": {
+		"name": "KnuxSD",
+		"avatar": "creators/knuxsd.png?v=2dc239a7",
 		"links": {}
 	},
 	"konari": {
@@ -306,6 +328,14 @@
 		"name": "Mouf",
 		"avatar": "creators/mouf.jpg?v=b3182dd4",
 		"links": {}
+	},
+	"mouseatemyhouse": {
+		"name": "mouseatemyhouse",
+		"avatar": "creators/mouseatemyhouse.png?v=99d55fcf",
+		"bio": "why hip hop sucks in '96",
+		"links": {
+			"youtube": "https://www.youtube.com/watch?v=xaQpat3ADvc"
+		}
 	},
 	"notcoconut": {
 		"name": "NotCoconut",

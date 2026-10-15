@@ -1,0 +1,17 @@
+{
+	"id": "dota2-stanley-parable-narrator-announcer-pack",
+	"name": "DOTA2 Stanley Parable Narrator Announcer Pack",
+	"kind": "other",
+	"creator": "knuxsd",
+	"description": "Handpicked voicelines from the \"The Stanley Parable Narrator\" Announcer pack for DOTA2 for your enjoyment :)\n\n---\n\n**Created by** [KnuxSD](https://runeforge.dev/users/KnuxSD)\n\n**Original:** https://runeforge.dev/mods/c4e95261-243a-4a8e-97d3-98bf2fd961ff\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/dota2-stanley-parable-narrator-announcer-pack/thumb.webp?v=4592891c",
+	"file": {
+		"version": 1,
+		"asset": "dota2-stanley-parable-narrator-announcer-pack-v1.fantome",
+		"size": 5787337,
+		"sha256": "ab9907ffc9d649a9826f34efdeabb30f9893e75968e9261fb79f3c4a597f2996"
+	}
+}

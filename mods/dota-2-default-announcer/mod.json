@@ -1,0 +1,17 @@
+{
+	"id": "dota-2-default-announcer",
+	"name": "DOTA 2 Default Announcer",
+	"kind": "announcer",
+	"creator": "atom",
+	"description": "Hope you like it. :)\n\n---\n\n**Created by** [Atom](https://runeforge.dev/users/Atom)\n\n**Original:** https://runeforge.dev/mods/28125607-b8ca-41c0-a51b-28b41acdc059\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/dota-2-default-announcer/thumb.webp?v=b7258b5f",
+	"file": {
+		"version": 1,
+		"asset": "dota-2-default-announcer-v1.fantome",
+		"size": 6221661,
+		"sha256": "854b27f47441a61d81faf1e7266729413f3f40f70979b0942184ba948ad33263"
+	}
+}

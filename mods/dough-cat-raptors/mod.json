@@ -1,0 +1,22 @@
+{
+	"id": "dough-cat-raptors",
+	"name": "Dough Cat Raptors",
+	"kind": "mobs",
+	"creator": "frog",
+	"description": "# Repair, fixed for Brawl. Ty Moga\r\n\r\nReplaces the Raptors with the Dough Cat from TFT \r\n\r\nFan-made, not affiliated with Riot Games or any other company.\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/dough-cat-raptors\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/dough-cat-raptors/thumb.webp?v=d4fbb3c7",
+	"file": {
+		"version": 1,
+		"asset": "dough-cat-raptors-v1.fantome",
+		"size": 5525093,
+		"sha256": "05a1c8cf8a53d8c16c9fc55613085094b764202fe32cbb7f04549e488cdfc7bc"
+	},
+	"maps": [
+		11,
+		12,
+		35
+	]
+}

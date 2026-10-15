@@ -1,0 +1,17 @@
+{
+	"id": "dragon-ball-flash-sound",
+	"name": "Dragon Ball Flash Sound",
+	"kind": "sounds",
+	"creator": "pico-senpai",
+	"description": "## **MOD INFORMATION**\r\n\r\n* Author: Pico Senpai\r\n* Mod Version: 1.0.1\r\n* Modified sound: Flash Summoner's spell\r\n\r\n## **DESCRIPTION**\r\n\r\n* Replaces the flash sound by the teleport sound from the anime Dragon Ball Z\r\n\r\n## **SOCIALS**\r\n\r\n&#x20;                     ![](https://static.wixstatic.com/media/e2a744_abb27c3529754e04ab6ad06fd9c7ab56~mv2.png/v1/fill/w_740,h_416,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e2a744_abb27c3529754e04ab6ad06fd9c7ab56~mv2.png)\r\n\r\n\r\n### &#xA;Add me on Discord if you need anything mod related: pico\\_senpai\t\t\t\t\t&#x9;\n\n---\n\n**Created by** [Pico Senpai](https://runeforge.dev/users/Pico_Senpai)\n\n**Original:** https://runeforge.dev/mods/4d213215-0c80-43fd-a411-b4290734c3a1\n\n**License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/dragon-ball-flash-sound/thumb.webp?v=faa0618d",
+	"file": {
+		"version": 1,
+		"asset": "dragon-ball-flash-sound-v1.fantome",
+		"size": 7206437,
+		"sha256": "1206c63f03f4f6fc968bc9c28331881ef08f152718aa53a27a4e91c20d25b8b9"
+	}
+}

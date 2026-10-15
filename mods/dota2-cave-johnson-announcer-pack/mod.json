@@ -1,0 +1,17 @@
+{
+	"id": "dota2-cave-johnson-announcer-pack",
+	"name": "DOTA2 Cave Johnson Announcer Pack",
+	"kind": "announcer",
+	"creator": "knuxsd",
+	"description": "Handpicked Voicelines to humorously comment your gameplay and (hopefully) make you laugh!\n\n---\n\n**Created by** [KnuxSD](https://runeforge.dev/users/KnuxSD)\n\n**Original:** https://runeforge.dev/mods/582cb740-9d8c-48e9-a24e-e9ebc981f96e\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/dota2-cave-johnson-announcer-pack/thumb.webp?v=da76d8fd",
+	"file": {
+		"version": 1,
+		"asset": "dota2-cave-johnson-announcer-pack-v1.fantome",
+		"size": 9134203,
+		"sha256": "96bd0cc9c2d7a97b82e960b0cc93641d34684e714209f32268a230ac95166aaa"
+	}
+}
