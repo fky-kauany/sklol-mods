@@ -1,0 +1,17 @@
+{
+	"id": "cinnamorrol-hud-saniro",
+	"name": "Cinnamorrol HUD [Saniro]",
+	"kind": "ui",
+	"creator": "p1mek",
+	"description": "* [Source Post](https://x.com/p1mek/status/2003285301415039178?s=20 \"Source Post\")&#x20;\r\n\r\n# Socials\r\n\r\n***\r\n\r\n* Twitter: [https://x.com/p1mek](https://x.com/p1mek) \\[Updates on skins]\r\n\r\n# Mod Information\r\n\r\n***\r\n* Mod For: HUD\r\n* Description: Cinnamorrol themed HUD [Saniro]\r\n\r\n# Features\r\n\r\n* LightBlue/White HUD\r\n* Cinnamorrol Addons\r\n\r\n# Bugs\r\n\r\n***\r\n\r\nno bugs yet\n\n---\n\n**Created by** [p1mek](https://runeforge.dev/users/p1mek)\n\n**Original:** https://runeforge.dev/mods/daefaaa9-3e24-4a13-84bb-5c0813a893e5\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/cinnamorrol-hud-saniro/thumb.webp?v=7e20560a",
+	"file": {
+		"version": 1,
+		"asset": "cinnamorrol-hud-saniro-v1.fantome",
+		"size": 49509174,
+		"sha256": "be09e6bab5137f3b6fb9f31fdb92d04682d20f5deb9b052a3e620d49497d139a"
+	}
+}

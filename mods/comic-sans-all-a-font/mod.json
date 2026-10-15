@@ -1,0 +1,17 @@
+{
+	"id": "comic-sans-all-a-font",
+	"name": "Comic Sans All A Font",
+	"kind": "fonts",
+	"creator": "aropatnik",
+	"description": "![](https://imagedelivery.net/jSCO7XHWhtXOc_Ojz3D3xA/896df423-a736-4ec7-2264-0533883e2d00/gallery)\n\n## Information\n\n**Changes the ingame fonts to Aaaaaa**\n\n**Author: Aropatnik**\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/b103c024-5eca-404e-bfe6-146b663a69f6\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/comic-sans-all-a-font/thumb.webp?v=9f1c50da",
+	"file": {
+		"version": 1,
+		"asset": "comic-sans-all-a-font-v1.fantome",
+		"size": 182085,
+		"sha256": "d303543faeece2ac3bdfcdd2a05368a90dda491be0eab1e2ad1c48982e2733ac"
+	}
+}

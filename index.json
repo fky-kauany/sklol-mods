@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T07:41:39.342Z",
+	"generatedAt": "2026-10-15T07:45:24.180Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -85,6 +85,12 @@
 				"site": "https://raw.githubusercontent.com/Aurecueil/Temp/refs/heads/main/images/banner6_better.png",
 				"youtube": "https://www.youtube.com/watch?v=P4QNvAjfKxc"
 			}
+		},
+		"awhremi": {
+			"name": "remedy",
+			"avatar": "creators/awhremi.jpg?v=1ed4da30",
+			"bio": "hi!! i am a noob mod i don't know what im doing i don't know a lot of things \nIF SOMETHING IS BROKEN discord: rremedy",
+			"links": {}
 		},
 		"badzerker": {
 			"name": "BadZerker",
@@ -2267,6 +2273,125 @@
 				"asset": "chinese-font-v1.fantome",
 				"size": 8333474,
 				"sha256": "76561ae92a055e253df4f1853bcfcc7bdf69190f7d94f521dd1dff9751c73c5e"
+			}
+		},
+		{
+			"id": "cinnamorrol-hud-saniro",
+			"name": "Cinnamorrol HUD [Saniro]",
+			"kind": "ui",
+			"creator": "p1mek",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/cinnamorrol-hud-saniro/thumb.webp?v=7e20560a",
+			"file": {
+				"version": 1,
+				"asset": "cinnamorrol-hud-saniro-v1.fantome",
+				"size": 49509174,
+				"sha256": "be09e6bab5137f3b6fb9f31fdb92d04682d20f5deb9b052a3e620d49497d139a"
+			}
+		},
+		{
+			"id": "clash-royale-hihihihaa-malphite",
+			"name": "Clash Royale Hihihihaa Malphite",
+			"kind": "sounds",
+			"creator": "aropatnik",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/clash-royale-hihihihaa-malphite/thumb.webp?v=4853c63a",
+			"file": {
+				"version": 1,
+				"asset": "clash-royale-hihihihaa-malphite-v1.fantome",
+				"size": 498024,
+				"sha256": "398dbf0d48690db2dceb5b395fee0500e0d1c7539063ea0a3416736b12da53c1"
+			}
+		},
+		{
+			"id": "coffin-of-andy-and-leyley-bgm",
+			"name": "Coffin of Andy and Leyley BGM",
+			"kind": "sounds",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/coffin-of-andy-and-leyley-bgm/thumb.webp?v=b7d516ec",
+			"file": {
+				"version": 1,
+				"asset": "coffin-of-andy-and-leyley-bgm-v1.fantome",
+				"size": 32871691,
+				"sha256": "05b40317752ccce22d0b7bc279233494d49a68f78228da8a90b704378650eafc"
+			}
+		},
+		{
+			"id": "colorful-gui",
+			"name": "Colorful GUI",
+			"kind": "ui",
+			"creator": "p1mek",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/colorful-gui/thumb.webp?v=f22c18ea",
+			"file": {
+				"version": 1,
+				"asset": "colorful-gui-v1.fantome",
+				"size": 1243549,
+				"sha256": "ed3262707aa118e8cf5db0bbddf8a8e71efc1c20dfc9c0e62581c8c4e6537788"
+			}
+		},
+		{
+			"id": "columbina-scoreboard-hud-genshin-impact",
+			"name": "Columbina Scoreboard HUD - Genshin Impact",
+			"kind": "ui",
+			"creator": "awhremi",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/columbina-scoreboard-hud-genshin-impact/thumb.webp?v=42dfb55d",
+			"file": {
+				"version": 1,
+				"asset": "columbina-scoreboard-hud-genshin-impact-v1.fantome",
+				"size": 486351,
+				"sha256": "3cdf291e872bc489fffb5725ad5482729c47202172c4b1f4941a7f008bd8b9c9"
+			}
+		},
+		{
+			"id": "columbina-x-sandrone-animated-loading-screen-gen",
+			"name": "Columbina x Sandrone Animated Loading Screen - Genshin Impact",
+			"kind": "ui",
+			"creator": "awhremi",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/columbina-x-sandrone-animated-loading-screen-gen/thumb.webp?v=dacdb0ea",
+			"file": {
+				"version": 1,
+				"asset": "columbina-x-sandrone-animated-loading-screen-gen-v1.fantome",
+				"size": 42770095,
+				"sha256": "3c405cb5fd01b888291e1bf4ad003e21d99d63cc10f37a109e7aa33ced8753bd"
+			}
+		},
+		{
+			"id": "comic-sans-all-a-font",
+			"name": "Comic Sans All A Font",
+			"kind": "fonts",
+			"creator": "aropatnik",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/comic-sans-all-a-font/thumb.webp?v=9f1c50da",
+			"file": {
+				"version": 1,
+				"asset": "comic-sans-all-a-font-v1.fantome",
+				"size": 182085,
+				"sha256": "d303543faeece2ac3bdfcdd2a05368a90dda491be0eab1e2ad1c48982e2733ac"
 			}
 		}
 	]

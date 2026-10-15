@@ -1,0 +1,17 @@
+{
+	"id": "columbina-x-sandrone-animated-loading-screen-gen",
+	"name": "Columbina x Sandrone Animated Loading Screen - Genshin Impact",
+	"kind": "ui",
+	"creator": "awhremi",
+	"description": "AWESOME YURI LOADING SCREEN\r\n\r\nCredits: @NomiAnims on twitter for the animation!\r\n\r\nCharacters: Columbina and Sandrone\r\n\r\nVersion: 1.0.0\r\n\r\n\r\nIf anything message me !!!\r\ndiscord: rremedy\n\n---\n\n**Created by** [remedy](https://runeforge.dev/users/awhremi)\n\n**Original:** https://runeforge.dev/mods/cbcdee57-ef45-4b30-8bf4-2864b26513fe\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/columbina-x-sandrone-animated-loading-screen-gen/thumb.webp?v=dacdb0ea",
+	"file": {
+		"version": 1,
+		"asset": "columbina-x-sandrone-animated-loading-screen-gen-v1.fantome",
+		"size": 42770095,
+		"sha256": "3c405cb5fd01b888291e1bf4ad003e21d99d63cc10f37a109e7aa33ced8753bd"
+	}
+}

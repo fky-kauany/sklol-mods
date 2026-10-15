@@ -1,0 +1,17 @@
+{
+	"id": "columbina-scoreboard-hud-genshin-impact",
+	"name": "Columbina Scoreboard HUD - Genshin Impact",
+	"kind": "ui",
+	"creator": "awhremi",
+	"description": "For the scoreboard .. nothing else\r\n\r\nCharacter: Columbina from the hit game Genshin Impact\r\n\r\nVersion: 1.0.0\r\n\r\nIf anything send me a message on discord: rremedy\n\n---\n\n**Created by** [remedy](https://runeforge.dev/users/awhremi)\n\n**Original:** https://runeforge.dev/mods/d68a9b0c-e8fb-4c8c-b130-df2b395ae753\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/columbina-scoreboard-hud-genshin-impact/thumb.webp?v=42dfb55d",
+	"file": {
+		"version": 1,
+		"asset": "columbina-scoreboard-hud-genshin-impact-v1.fantome",
+		"size": 486351,
+		"sha256": "3cdf291e872bc489fffb5725ad5482729c47202172c4b1f4941a7f008bd8b9c9"
+	}
+}

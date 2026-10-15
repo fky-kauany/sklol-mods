@@ -1,0 +1,17 @@
+{
+	"id": "coffin-of-andy-and-leyley-bgm",
+	"name": "Coffin of Andy and Leyley BGM",
+	"kind": "sounds",
+	"creator": "aurecueil",
+	"description": "# 🎵 Track List\r\n\r\n| Event | Track(s) |\r\n|------|------|\r\n| Start Game (Red Side) | Guard Tree |\r\n| Start Game (Blue Side) | Twisted Clowns |\r\n| Game Loop 0 (Red Side) | Dreaming Injection – 03myuu Cloud Chiptune |\r\n| Game Loop 0 (Blue Side) | Jester's Pity – Jealous Doll |\r\n| Game Loop 1 | Dream Dance – 08myuu Halloween Chiptune |\r\n| Game Loop 2 | Sheep Sway – Pandora Syndrome – Wandering Wizards |\r\n| Game Loop 3 | Teddy Bear – Small Magic Book |\r\n| River Loop 0 | Forest |\r\n| River Loop 1 | Hallucination Connect |\r\n| River Loop 2 | Snail Eyes |\r\n| River Loop 3 | Dark Bells |\r\n| Atakhan Fight | Cultist Inside |\r\n\r\n## ☕ Wanna buy me a [Coffee](https://ko-fi.com/aurecueil)? :> \r\n[![My Discord Server ^^](https://raw.githubusercontent.com/Aurecueil/Temp/refs/heads/main/images/banner6_better.png)](https://discord.gg/GETA29vZEK)\r\n\r\n## 📦 Misc\r\n\r\n[Tierlist of my BGM mods](https://runeforge.dev/users/Aurecueil)\r\n\r\ndc: `aurecueil`\r\n\r\ni DO take Commisions btw\n\n---\n\n**Created by** [aurecueil](https://runeforge.dev/users/aurecueil)\n\n**Original:** https://runeforge.dev/mods/de333f51-386d-4477-9c48-deeefcaefa8b\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/coffin-of-andy-and-leyley-bgm/thumb.webp?v=b7d516ec",
+	"file": {
+		"version": 1,
+		"asset": "coffin-of-andy-and-leyley-bgm-v1.fantome",
+		"size": 32871691,
+		"sha256": "05b40317752ccce22d0b7bc279233494d49a68f78228da8a90b704378650eafc"
+	}
+}

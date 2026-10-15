@@ -1,0 +1,17 @@
+{
+	"id": "colorful-gui",
+	"name": "Colorful GUI",
+	"kind": "ui",
+	"creator": "p1mek",
+	"description": "* [Source Post](https://x.com/p1mek/status/2002424691013951698?s=20 \"Source Post\")&#x20;\r\n\r\n# Socials\r\n\r\n***\r\n\r\n* Twitter: [https://x.com/p1mek](https://x.com/p1mek) \\[Updates on skins]\r\n\r\n# Mod Information\r\n\r\n***\r\n* Mod For: UI\r\n* Description: 8 Colors of Spell Indicators\r\n\r\n# Bugs\r\n\r\n***\r\n\r\nno bugs yet\n\n---\n\n**Created by** [p1mek](https://runeforge.dev/users/p1mek)\n\n**Original:** https://runeforge.dev/mods/614490ff-58b6-4fd7-a47b-14059600d0a7\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/colorful-gui/thumb.webp?v=f22c18ea",
+	"file": {
+		"version": 1,
+		"asset": "colorful-gui-v1.fantome",
+		"size": 1243549,
+		"sha256": "ed3262707aa118e8cf5db0bbddf8a8e71efc1c20dfc9c0e62581c8c4e6537788"
+	}
+}
