@@ -1,0 +1,17 @@
+{
+	"id": "toxic-love-hud",
+	"name": "toxic love hud",
+	"kind": "ui",
+	"creator": "miyu",
+	"description": "──────────﹒★﹒﹒─\r\n\r\nstill need to do:\r\n\r\n- LOTS OF THINGS\r\nmy focus now is in: \r\ndragon timers / voice thing in tab that is ugly / LOL VOICE cause is still green and mehhhh\r\n\r\n─﹒﹒★﹒──────────\r\n\r\nI should update sometime and that's it\n\n---\n\n**Created by** [miyu](https://runeforge.dev/users/miyu)\n\n**Original:** https://runeforge.dev/mods/19d77637-1de0-4128-a79a-c931d8fa0a6d\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/toxic-love-hud/thumb.webp?v=8eaff44b",
+	"file": {
+		"version": 1,
+		"asset": "toxic-love-hud-v1.fantome",
+		"size": 2350905,
+		"sha256": "aef7b930ba42f9bdf4ca99173b48c5299284b2c5f51a239c1d401c825655281e"
+	}
+}

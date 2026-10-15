@@ -1,0 +1,17 @@
+{
+	"id": "the-mspaint-splash-pack",
+	"name": "THE MSPAINT SPLASH PACK",
+	"kind": "other",
+	"creator": "1gem1",
+	"description": "## Skin modified - ALL BASE SKINS!!\n\n╰┈➤ _The idea for this mod was to make a MSPaint splash for all champs, using their base skin (until Zaahen). Yes, this is a very late april fools but oh well. I have a few friends who've helped with this collab, being;_\n\n@eetheena\n- sona\n- soraka\n- swain\n- syndra\n- zyra\n\n@cupwins\n- twisted fate\n\n@oom__9\n- vel'koz\n- tahm kench\n\n@vapourize\n- teemo\n\n# **➫ Any suggestions, ideas, questions or bug reports or just wanna yap?**\n\nSend it all over [**here! (my discord)**](https://discord.gg/6MTrrVbwgm)\n\n---\n\n**Created by** [1gem1rachel](https://runeforge.dev/users/1gem1)\n\n**Original:** https://runeforge.dev/mods/4753bb44-2911-49bd-90e4-f1a45d450dd2\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/the-mspaint-splash-pack/thumb.webp?v=7e6bdc4d",
+	"file": {
+		"version": 1,
+		"asset": "the-mspaint-splash-pack-v1.fantome",
+		"size": 7731587,
+		"sha256": "b30314698916c7df412106413cf7592ab6d96d2ddaf897c8477c9500e788d647"
+	}
+}

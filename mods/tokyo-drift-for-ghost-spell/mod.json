@@ -1,0 +1,17 @@
+{
+	"id": "tokyo-drift-for-ghost-spell",
+	"name": "Tokyo Drift for Ghost Spell",
+	"kind": "sounds",
+	"creator": "rhbarber",
+	"description": "# ⏲ Tokyo Drift for Ghost Spell\r\n\r\nReplaces the Ghost summoner spell for Tokyo Drift.\r\n\r\n## Issues\r\nFeel free to report them through [Discord](https://discord.com/users/367779328940965898) or by [email](mailto:me@rhbarber.com?subject=Ghost%20Tokyo%20Drift%20Mod%20Issue%20Report).\r\n\r\n## Credits\r\n“Tokyo Drift (Fast & Furious)” — Teriyaki Boyz\r\nWritten by ILMARI, RYO-Z, VERBAL, WISE & Pharrell Williams.\r\nProduced by The Neptunes.\r\n\r\nThis mod uses a fragment of the original song.\r\nAll rights belong to the respective copyright holders.\n\n---\n\n**Created by** [Rhbarber](https://runeforge.dev/users/Rhbarber)\n\n**Original:** https://runeforge.dev/mods/1ab59616-8c07-45b2-b923-1b1b53212e84\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/tokyo-drift-for-ghost-spell/thumb.webp?v=5e6a7bce",
+	"file": {
+		"version": 1,
+		"asset": "tokyo-drift-for-ghost-spell-v1.fantome",
+		"size": 8070458,
+		"sha256": "360a67667e6f1a89b786c7a59b92f9e8bef78adf4c52b5c3432e014d2e1ea9b6"
+	}
+}

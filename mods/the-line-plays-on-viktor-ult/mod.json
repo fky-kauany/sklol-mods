@@ -1,0 +1,17 @@
+{
+	"id": "the-line-plays-on-viktor-ult",
+	"name": "The Line plays on Viktor ult",
+	"kind": "sounds",
+	"creator": "gloomytree",
+	"description": "When Viktor casts his ult, \"The Line\" plays until the end of said ult.\n\n---\n\n**Created by** [Gloomy Tree](https://runeforge.dev/users/GloomyTree)\n\n**Original:** https://runeforge.dev/mods/9c9127a4-26b4-4792-b931-da4af00eca61\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/the-line-plays-on-viktor-ult/thumb.webp?v=789ee154",
+	"file": {
+		"version": 1,
+		"asset": "the-line-plays-on-viktor-ult-v1.fantome",
+		"size": 2541121,
+		"sha256": "772b44d1d4a542f7afbfae14213790b229aac5da9680428a0ba5d19c6be35ac1"
+	}
+}

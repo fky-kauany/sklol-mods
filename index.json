@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T12:15:32.626Z",
+	"generatedAt": "2026-10-15T12:21:07.334Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -173,6 +173,15 @@
 			"bio": "i made 1 mod, it took 5 hours and i am 1% less lost from when i started.",
 			"links": {
 				"youtube": "https://youtu.be/HNxZgglwKVo"
+			}
+		},
+		"budlibu500": {
+			"name": "budlibu500",
+			"avatar": "creators/budlibu500.webp?v=0253c060",
+			"bio": "It felt good to be out of the rain",
+			"links": {
+				"x": "https://x.com/budlibu500",
+				"youtube": "https://www.youtube.com/@budlibu500"
 			}
 		},
 		"c-j-s": {
@@ -11126,6 +11135,176 @@
 				"asset": "tf2-font-v1.fantome",
 				"size": 43775,
 				"sha256": "39af7b2fb43a4267c7060776035413c22a3697db3f14f993e24467a9886f14f1"
+			}
+		},
+		{
+			"id": "the-administrator-announcer",
+			"name": "The Administrator Announcer",
+			"kind": "announcer",
+			"creator": "budlibu500",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/the-administrator-announcer/thumb.webp?v=724a5656",
+			"file": {
+				"version": 1,
+				"asset": "the-administrator-announcer-v1.fantome",
+				"size": 8133106,
+				"sha256": "aadfccdfe73ddbb3772ecfb9d0f2840436597a43160513d34ce5d568dcc995ef"
+			}
+		},
+		{
+			"id": "the-binding-of-isaac-items",
+			"name": "The Binding of Isaac Items",
+			"kind": "ui",
+			"creator": "daka",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/the-binding-of-isaac-items/thumb.webp?v=04dace02",
+			"file": {
+				"version": 1,
+				"asset": "the-binding-of-isaac-items-v1.fantome",
+				"size": 1410151,
+				"sha256": "2e8726280daa4cf859b65bdae22aca819e9fef0f3f5129e1faefe84b18995369"
+			}
+		},
+		{
+			"id": "the-line-plays-on-viktor-ult",
+			"name": "The Line plays on Viktor ult",
+			"kind": "sounds",
+			"creator": "gloomytree",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/the-line-plays-on-viktor-ult/thumb.webp?v=789ee154",
+			"file": {
+				"version": 1,
+				"asset": "the-line-plays-on-viktor-ult-v1.fantome",
+				"size": 2541121,
+				"sha256": "772b44d1d4a542f7afbfae14213790b229aac5da9680428a0ba5d19c6be35ac1"
+			}
+		},
+		{
+			"id": "the-mspaint-splash-pack",
+			"name": "THE MSPAINT SPLASH PACK",
+			"kind": "other",
+			"creator": "1gem1",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/the-mspaint-splash-pack/thumb.webp?v=7e6bdc4d",
+			"file": {
+				"version": 1,
+				"asset": "the-mspaint-splash-pack-v1.fantome",
+				"size": 7731587,
+				"sha256": "b30314698916c7df412106413cf7592ab6d96d2ddaf897c8477c9500e788d647"
+			}
+		},
+		{
+			"id": "thefatrat-warrior-songs-bgm-from-dota2",
+			"name": "TheFatRat Warrior Songs BGM from DOTA2",
+			"kind": "sounds",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/thefatrat-warrior-songs-bgm-from-dota2/thumb.webp?v=07303f75",
+			"file": {
+				"version": 1,
+				"asset": "thefatrat-warrior-songs-bgm-from-dota2-v1.fantome",
+				"size": 21908193,
+				"sha256": "8941849c4cb8de592a72f54b2f3afbcd99b1c1bfb45195a873375dddc9f0554f"
+			}
+		},
+		{
+			"id": "thomas-shelby-hud",
+			"name": "Thomas Shelby HUD",
+			"kind": "ui",
+			"creator": "el7oot",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/thomas-shelby-hud/thumb.webp?v=d5502b01",
+			"file": {
+				"version": 1,
+				"asset": "thomas-shelby-hud-v1.fantome",
+				"size": 30660498,
+				"sha256": "1b429a8c788680b55778ae22ed5e5c81e3e79b358bf515b395c589ddc21845e9"
+			}
+		},
+		{
+			"id": "tokyo-drift-for-ghost-spell",
+			"name": "Tokyo Drift for Ghost Spell",
+			"kind": "sounds",
+			"creator": "rhbarber",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/tokyo-drift-for-ghost-spell/thumb.webp?v=5e6a7bce",
+			"file": {
+				"version": 1,
+				"asset": "tokyo-drift-for-ghost-spell-v1.fantome",
+				"size": 8070458,
+				"sha256": "360a67667e6f1a89b786c7a59b92f9e8bef78adf4c52b5c3432e014d2e1ea9b6"
+			}
+		},
+		{
+			"id": "toxic-love-hud",
+			"name": "toxic love hud",
+			"kind": "ui",
+			"creator": "miyu",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/toxic-love-hud/thumb.webp?v=8eaff44b",
+			"file": {
+				"version": 1,
+				"asset": "toxic-love-hud-v1.fantome",
+				"size": 2350905,
+				"sha256": "aef7b930ba42f9bdf4ca99173b48c5299284b2c5f51a239c1d401c825655281e"
+			}
+		},
+		{
+			"id": "troll-fonts",
+			"name": "Troll Fonts",
+			"kind": "fonts",
+			"creator": "tor-lol",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/troll-fonts/thumb.webp?v=ec574b40",
+			"file": {
+				"version": 1,
+				"asset": "troll-fonts-v1.fantome",
+				"size": 5903,
+				"sha256": "7b6116c130a3cb8dae7be9117d21320607c6cd865e42f045c2e84d34854306ad"
+			}
+		},
+		{
+			"id": "true-damage-ekko-chroma-vfx",
+			"name": "True Damage Ekko chroma VFX",
+			"kind": "other",
+			"creator": "suriin",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/true-damage-ekko-chroma-vfx/thumb.webp?v=fb04457f",
+			"file": {
+				"version": 1,
+				"asset": "true-damage-ekko-chroma-vfx-v1.fantome",
+				"size": 10986321,
+				"sha256": "99ae8105c257fd32e95624e8be8acf54ad29d05c90d64ad3fbcf601dea0b047a"
 			}
 		}
 	]

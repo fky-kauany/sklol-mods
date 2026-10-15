@@ -1,0 +1,17 @@
+{
+	"id": "the-binding-of-isaac-items",
+	"name": "The Binding of Isaac Items",
+	"kind": "ui",
+	"creator": "daka",
+	"description": "### The mod has another version inside with the death sprites if you get used to the current ones ^^\n\n### A fun concept made by tboi fans, we might as well drop a few more mods to create a full mod pack. \n\n# Check out ShrimpBack's profile for more Tboi mods!\n\n---\n\n**Created by** [daka](https://www.divineskins.gg/daka), [ShrimpBack](https://www.divineskins.gg/ShrimpBack)\n\n**Original:** https://www.divineskins.gg/daka/the-binding-of-isaac-items\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/the-binding-of-isaac-items/thumb.webp?v=04dace02",
+	"file": {
+		"version": 1,
+		"asset": "the-binding-of-isaac-items-v1.fantome",
+		"size": 1410151,
+		"sha256": "2e8726280daa4cf859b65bdae22aca819e9fef0f3f5129e1faefe84b18995369"
+	}
+}

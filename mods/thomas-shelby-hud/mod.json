@@ -1,0 +1,17 @@
+{
+	"id": "thomas-shelby-hud",
+	"name": "Thomas Shelby HUD",
+	"kind": "ui",
+	"creator": "el7oot",
+	"description": "## Info:\n\n* Changes the normal HUD to this silly Thomas Shelby HUD.\n* Changes the loading screen to an animated Thomas Shelby meme.\n* Changes the ping Icon to the same Thomas Shelby meme.\n\n---\n\n**Created by** [EL7OOT](https://runeforge.dev/users/EL7OOT)\n\n**Original:** https://runeforge.dev/mods/e56da52c-c81e-499b-aebf-62c3b70a74d8\n\n**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/thomas-shelby-hud/thumb.webp?v=d5502b01",
+	"file": {
+		"version": 1,
+		"asset": "thomas-shelby-hud-v1.fantome",
+		"size": 30660498,
+		"sha256": "1b429a8c788680b55778ae22ed5e5c81e3e79b358bf515b395c589ddc21845e9"
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"id": "the-administrator-announcer",
+	"name": "The Administrator Announcer",
+	"kind": "announcer",
+	"creator": "budlibu500",
+	"description": "### INFO\n\n- Modified content: Announcer\n- Authors: Bud\n- Mod version: 1.4.0\n\n### CONTENT\n\n- Custom TF2 Administrator Announcer\n\n### ADDITIONAL INFO\nIf you have any questions or requests about the mod you can contact me through Discord dms or the Divine Skins server.\n[My Discord](http://discordapp.com/users/464506365402939402)\n\n---\n\n**Created by** [budlibu500](https://www.divineskins.gg/budlibu500)\n\n**Original:** https://www.divineskins.gg/budlibu500/the-administrator-announcer\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/the-administrator-announcer/thumb.webp?v=724a5656",
+	"file": {
+		"version": 1,
+		"asset": "the-administrator-announcer-v1.fantome",
+		"size": 8133106,
+		"sha256": "aadfccdfe73ddbb3772ecfb9d0f2840436597a43160513d34ce5d568dcc995ef"
+	}
+}

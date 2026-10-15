@@ -1,0 +1,17 @@
+{
+	"id": "thefatrat-warrior-songs-bgm-from-dota2",
+	"name": "TheFatRat Warrior Songs BGM from DOTA2",
+	"kind": "sounds",
+	"creator": "aurecueil",
+	"description": "# 🎵 Track List\r\n\r\n| Event | Track |\r\n|------|------|\r\n| **Game Start (Paladin)** | [Ascendancy](https://www.youtube.com/watch?v=3nMUgeVYVJQ) |\r\n| **Early Game (Paladin)** | [Reminiscence](https://www.youtube.com/watch?v=3sUUNb2p30o) |\r\n| **Game Start (Mage)** | [Warrior Song](https://www.youtube.com/watch?v=I3Alq3OnXu8) |\r\n| **Early Game (Mage)** | [Origin Reprise](https://www.youtube.com/watch?v=GaLMjJZlEzk) |\r\n| **Mid Game** | [Elevate](https://www.youtube.com/watch?v=d9sDY3iZB0M) |\r\n| **Late Game** | [Origin](https://www.youtube.com/watch?v=gZIDNZh9U14) |\r\n| **Baron Alive** | [Envelope](https://www.youtube.com/watch?v=F1AgdpwdGkk) |\r\n| **River** | [Threnody](https://www.youtube.com/watch?v=UJ_T6NN21hE) |\r\n| **River – Grubs** | [Mad Moon Falling](https://www.youtube.com/watch?v=q6Gxl6YJATw) |\r\n| **River – Herald** | [Mad Moon Falling](https://www.youtube.com/watch?v=q6Gxl6YJATw) |\r\n| **River – Baron** | [Mad Moon Falling](https://www.youtube.com/watch?v=q6Gxl6YJATw) |\r\n| **Void-spawn Combat** | [Nemesis](https://www.youtube.com/watch?v=2gP2obD8yrc) |\r\n| **Victory** | Radiant Victory |\r\n| **Defeat** | Dire Defeat |\r\n\r\n## ☕ Wanna buy me a [Coffee](https://ko-fi.com/aurecueil)? :> \r\n[![My Discord Server ^^](https://raw.githubusercontent.com/Aurecueil/Temp/refs/heads/main/images/banner6_better.png)](https://discord.gg/GETA29vZEK)\r\n\r\n## 📦 Misc\r\n\r\n**Discord:** `aurecueil`\r\n\r\ni DO take commissions :p\n\n---\n\n**Created by** [aurecueil](https://runeforge.dev/users/aurecueil)\n\n**Original:** https://runeforge.dev/mods/0cc2636c-59ff-4942-81f0-37114876ef54\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/thefatrat-warrior-songs-bgm-from-dota2/thumb.webp?v=07303f75",
+	"file": {
+		"version": 1,
+		"asset": "thefatrat-warrior-songs-bgm-from-dota2-v1.fantome",
+		"size": 21908193,
+		"sha256": "8941849c4cb8de592a72f54b2f3afbcd99b1c1bfb45195a873375dddc9f0554f"
+	}
+}

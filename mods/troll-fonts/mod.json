@@ -1,0 +1,17 @@
+{
+	"id": "troll-fonts",
+	"name": "Troll Fonts",
+	"kind": "fonts",
+	"creator": "tor-lol",
+	"description": "## Troll Font Pack\n\n![Troll Font Pack preview](https://i.postimg.cc/gjdp8Hp6/Chat-GPT-Image-15-Sept-2026-10-26-28.png)\n\nA collection of bizarre and deliberately impractical font replacements for League of Legends.\n\nChoose your favorite font version:\n\n- **Adobe Blank** — makes all supported characters completely invisible.\n- **Flow Circular** — replaces text with smooth, unreadable bars.\n- **Libre Barcode 39 Extended** — turns letters and numbers into barcodes.\n- **Linefont Condensed** — displays text as compact dot-like symbols.\n- **Redacted** — turns text into solid censorship bars.\n\nEach version includes Unicode coverage information showing which languages and character sets it supports.\n\nClick on **Versions** to download your preferred font:\n\n![Version selection](https://i.postimg.cc/GhCKqnSy/version.png)\n\nGot an idea for another troll font, mod, or League UI change? Send me your recommendations! I’m always looking for strange new ideas to make.\n\n## Support\n\nIf you enjoy the mod, consider following me on TikTok: [@tor.lol](https://www.tiktok.com/@tor.lol)\n\n**Discord:** `tor.lol`\n\n---\n\n**Created by** [tor.lol](https://www.divineskins.gg/tor.lol)\n\n**Original:** https://www.divineskins.gg/tor.lol/troll-fonts\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/troll-fonts/thumb.webp?v=ec574b40",
+	"file": {
+		"version": 1,
+		"asset": "troll-fonts-v1.fantome",
+		"size": 5903,
+		"sha256": "7b6116c130a3cb8dae7be9117d21320607c6cd865e42f045c2e84d34854306ad"
+	}
+}

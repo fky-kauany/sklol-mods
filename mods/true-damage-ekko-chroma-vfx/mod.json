@@ -1,0 +1,17 @@
+{
+	"id": "true-damage-ekko-chroma-vfx",
+	"name": "True Damage Ekko chroma VFX",
+	"kind": "other",
+	"creator": "suriin",
+	"description": "## Important info\r\n\r\nThis will clash with any custom skin that modifies True Damage Ekko chromas. 1 file for all chromas. You must own the skin and chromas.\r\n\r\n## Description\r\n\r\n**Author**: Suriin\r\n\r\n**Skin**: True Damage Ekko\r\n\r\n**Affects**: VFX colors\r\n\r\nAdds matching VFX to every chroma, base remains the same.\r\n\r\n\r\n## Contact\r\n\r\nIf you have any issues or questions you can message me on discord: .suriin Just make sure you are on the RuneForge server.\r\n\r\n---\r\n\r\n### You can support me on Ko-Fi [ko-fi.com/suriinruneforge](https://ko-fi.com/suriinruneforge) <3\n\n---\n\n**Created by** [Suriin](https://runeforge.dev/users/Suriin)\n\n**Original:** https://runeforge.dev/mods/ba95cdd4-60b9-412d-8256-d3ad4c8534cb\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/true-damage-ekko-chroma-vfx/thumb.webp?v=fb04457f",
+	"file": {
+		"version": 1,
+		"asset": "true-damage-ekko-chroma-vfx-v1.fantome",
+		"size": 10986321,
+		"sha256": "99ae8105c257fd32e95624e8be8acf54ad29d05c90d64ad3fbcf601dea0b047a"
+	}
+}
