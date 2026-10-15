@@ -1,0 +1,17 @@
+{
+	"id": "kirby-sounds-for-minion-spawning",
+	"name": "Kirby sounds for minion spawning",
+	"kind": "sounds",
+	"creator": "lumin",
+	"description": "kirby sounds for minion spawning\n\n---\n\n**Created by** [Lumin](https://runeforge.dev/users/Lumin)\n\n**Original:** https://runeforge.dev/mods/04b48874-e493-49ed-8e1e-2014a471f33c\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/kirby-sounds-for-minion-spawning/thumb.webp?v=8833f08c",
+	"file": {
+		"version": 1,
+		"asset": "kirby-sounds-for-minion-spawning-v1.fantome",
+		"size": 190707,
+		"sha256": "74e973ee39158abd820382fb013fd6f8efbc865ab5bafca5539fade685a1d6c3"
+	}
+}

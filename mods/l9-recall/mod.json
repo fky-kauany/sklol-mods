@@ -1,0 +1,17 @@
+{
+	"id": "l9-recall",
+	"name": "L9 Recall",
+	"kind": "other",
+	"creator": "archlyris",
+	"description": "L9. Works on all champion.\n\n---\n\n**Created by** [archlyris](https://runeforge.dev/users/archlyris)\n\n**Original:** https://runeforge.dev/mods/bb275b25-9f24-4678-afa9-bbddc9a420d1\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/l9-recall/thumb.webp?v=acd8aeda",
+	"file": {
+		"version": 1,
+		"asset": "l9-recall-v1.fantome",
+		"size": 8092638,
+		"sha256": "af95b5a70135047e3b2e494987b73412c0ae0b96e46a258ed6aa988403690b75"
+	}
+}

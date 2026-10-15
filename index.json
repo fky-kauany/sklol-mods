@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T09:36:40.413Z",
+	"generatedAt": "2026-10-15T09:42:27.972Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -47,6 +47,12 @@
 			"bio": "Silly creator, I make commissions and suggestions, I am also a helper and part of the recovery team\nIf you wanna donate or commission\nhttps://ko-fi.com/alexd27156",
 			"links": {
 				"youtube": "https://youtu.be/ggCnbinn56g"
+			}
+		},
+		"alexi": {
+			"name": "Alexi",
+			"links": {
+				"site": "https://downloads.khinsider.com/game-soundtracks/album/clash-royale-original-game-soundtrack/Scroll%2520Loading%252001.mp3"
 			}
 		},
 		"alexygalaxy": {
@@ -294,6 +300,14 @@
 			"name": "Güvercin",
 			"avatar": "creators/guvercin.jpg?v=a0823de4",
 			"links": {}
+		},
+		"gxhub": {
+			"name": "GxHub",
+			"avatar": "creators/gxhub.jpg?v=9b79e659",
+			"bio": "Me gusta hacer mods de killstreak :3/ I like making killstreak mods :3",
+			"links": {
+				"youtube": "https://youtu.be/ydc0mBWXIcE"
+			}
 		},
 		"haigo03": {
 			"name": "haigo03",
@@ -6034,6 +6048,176 @@
 				"asset": "killstreak-mute-v1.fantome",
 				"size": 8796,
 				"sha256": "2cb1c610a733e7736a0d1720fd2a43394f69a8db98fb71c59fd589e4fe4f16d6"
+			}
+		},
+		{
+			"id": "killstreak-the-promised-neverland",
+			"name": "KillStreak - the promised neverland",
+			"kind": "sounds",
+			"creator": "gxhub",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/killstreak-the-promised-neverland/thumb.webp?v=17c2455d",
+			"file": {
+				"version": 1,
+				"asset": "killstreak-the-promised-neverland-v1.fantome",
+				"size": 1716927,
+				"sha256": "195b5b85462bcfd8b4738c4c4d57b3afc8a7fe833af6043f3ec430f20b0668f9"
+			}
+		},
+		{
+			"id": "kirby-sounds-for-minion-spawning",
+			"name": "Kirby sounds for minion spawning",
+			"kind": "sounds",
+			"creator": "lumin",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/kirby-sounds-for-minion-spawning/thumb.webp?v=8833f08c",
+			"file": {
+				"version": 1,
+				"asset": "kirby-sounds-for-minion-spawning-v1.fantome",
+				"size": 190707,
+				"sha256": "74e973ee39158abd820382fb013fd6f8efbc865ab5bafca5539fade685a1d6c3"
+			}
+		},
+		{
+			"id": "ko-coliseum-bgm-tft-set-15",
+			"name": "KO Coliseum BGM - TFT set 15",
+			"kind": "other",
+			"creator": "matthewchasm",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/ko-coliseum-bgm-tft-set-15/thumb.webp?v=bec862ae",
+			"file": {
+				"version": 1,
+				"asset": "ko-coliseum-bgm-tft-set-15-v1.fantome",
+				"size": 37670273,
+				"sha256": "257911e8ac74f48fc6141ba21b0c18a5e92c6f05a5d9d09c0f5637680b2bb7dd"
+			}
+		},
+		{
+			"id": "korean-announcer",
+			"name": "Korean Announcer",
+			"kind": "other",
+			"creator": "aropatnik",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/korean-announcer/thumb.webp?v=e0566246",
+			"file": {
+				"version": 1,
+				"asset": "korean-announcer-v1.fantome",
+				"size": 44283972,
+				"sha256": "d1ce7aa5267a70ce6d7e484a89c80234c554ae531aad6562f93efc2943dfcc2e"
+			}
+		},
+		{
+			"id": "kratos-hud",
+			"name": "Kratos HUD",
+			"kind": "ui",
+			"creator": "disco",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/kratos-hud/thumb.webp?v=42ce093f",
+			"file": {
+				"version": 1,
+				"asset": "kratos-hud-v1.modpkg",
+				"size": 6199151,
+				"sha256": "a52830f6b92ba36b8c2cb793e831c5b4efafd95bde12b5b75ff6e7a56c378e02"
+			}
+		},
+		{
+			"id": "kuromi-hud-saniro",
+			"name": "Kuromi HUD [Saniro]",
+			"kind": "ui",
+			"creator": "p1mek",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/kuromi-hud-saniro/thumb.webp?v=77a68215",
+			"file": {
+				"version": 1,
+				"asset": "kuromi-hud-saniro-v1.fantome",
+				"size": 28497920,
+				"sha256": "19162c00ce08498cf08acea7e810a594005d22d91a0001741a97a5f7c5ae9b54"
+			}
+		},
+		{
+			"id": "l9-recall",
+			"name": "L9 Recall",
+			"kind": "other",
+			"creator": "archlyris",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/l9-recall/thumb.webp?v=acd8aeda",
+			"file": {
+				"version": 1,
+				"asset": "l9-recall-v1.fantome",
+				"size": 8092638,
+				"sha256": "af95b5a70135047e3b2e494987b73412c0ae0b96e46a258ed6aa988403690b75"
+			}
+		},
+		{
+			"id": "league-royale-clash-royale-bgm",
+			"name": "League Royale (Clash Royale BGM)",
+			"kind": "sounds",
+			"creator": "alexi",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/league-royale-clash-royale-bgm/thumb.webp?v=26828e78",
+			"file": {
+				"version": 1,
+				"asset": "league-royale-clash-royale-bgm-v1.fantome",
+				"size": 5716125,
+				"sha256": "2e0f4bb17d638b05a46b4a0a5afb4288654d39c1abefba12cf98a67211de6322"
+			}
+		},
+		{
+			"id": "league-season-3-font",
+			"name": "League Season 3 Font",
+			"kind": "fonts",
+			"creator": "atakzlky",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/league-season-3-font/thumb.webp?v=64172a2a",
+			"file": {
+				"version": 1,
+				"asset": "league-season-3-font-v1.fantome",
+				"size": 1645829,
+				"sha256": "406aeebac646a8b800a5e009f7f92c87cc32e87a18b3836c6d89a0de3c0c202b"
+			}
+		},
+		{
+			"id": "leblanc-2024-champion-and-ability-icons",
+			"name": "LeBlanc 2024 champion and ability icons",
+			"kind": "icons",
+			"creator": "aropatnik",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/leblanc-2024-champion-and-ability-icons/thumb.webp?v=ac5b6c2d",
+			"file": {
+				"version": 1,
+				"asset": "leblanc-2024-champion-and-ability-icons-v1.fantome",
+				"size": 139561,
+				"sha256": "32b0054eedb68c30bdee63f8b9c6018a55f4f15d4523968e7065ce746bbfbda2"
 			}
 		}
 	]

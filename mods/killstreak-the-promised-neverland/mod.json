@@ -1,0 +1,17 @@
+{
+	"id": "killstreak-the-promised-neverland",
+	"name": "KillStreak - the promised neverland",
+	"kind": "sounds",
+	"creator": "gxhub",
+	"description": "---\n\n**Created by** [GxHub](https://runeforge.dev/users/GxHub)\n\n**Original:** https://runeforge.dev/mods/ff49bac4-3e08-425f-bb5c-e95d41418442\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/killstreak-the-promised-neverland/thumb.webp?v=17c2455d",
+	"file": {
+		"version": 1,
+		"asset": "killstreak-the-promised-neverland-v1.fantome",
+		"size": 1716927,
+		"sha256": "195b5b85462bcfd8b4738c4c4d57b3afc8a7fe833af6043f3ec430f20b0668f9"
+	}
+}

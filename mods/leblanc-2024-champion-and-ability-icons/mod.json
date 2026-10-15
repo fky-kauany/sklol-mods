@@ -1,0 +1,17 @@
+{
+	"id": "leblanc-2024-champion-and-ability-icons",
+	"name": "LeBlanc 2024 champion and ability icons",
+	"kind": "icons",
+	"creator": "aropatnik",
+	"description": "### *The release has both old champion and ability icons. Multiple mod downloads for one post has not yet been implemented into Runeforge v2.0. In the meantime if you wish to download only ability icons or only champion icons please use this mediafire link:* [https://www.mediafire.com/folder/jzgsszs7j42yt/LeBlanc\\_old\\_icons](https://www.mediafire.com/folder/jzgsszs7j42yt/LeBlanc_old_icons)\n\n## Information\n\n**Modified champion: LeBlanc**\n\n**Modified skin: Default**\n\n**Author: Aropatnik**\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/5ff833ec-4aef-4412-958a-21fc827c92b0\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/leblanc-2024-champion-and-ability-icons/thumb.webp?v=ac5b6c2d",
+	"file": {
+		"version": 1,
+		"asset": "leblanc-2024-champion-and-ability-icons-v1.fantome",
+		"size": 139561,
+		"sha256": "32b0054eedb68c30bdee63f8b9c6018a55f4f15d4523968e7065ce746bbfbda2"
+	}
+}

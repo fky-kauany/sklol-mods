@@ -46,6 +46,12 @@
 			"youtube": "https://youtu.be/ggCnbinn56g"
 		}
 	},
+	"alexi": {
+		"name": "Alexi",
+		"links": {
+			"site": "https://downloads.khinsider.com/game-soundtracks/album/clash-royale-original-game-soundtrack/Scroll%2520Loading%252001.mp3"
+		}
+	},
 	"alexygalaxy": {
 		"name": "AlexyGalaxy",
 		"avatar": "creators/alexygalaxy.jpg?v=623da3e8",
@@ -291,6 +297,14 @@
 		"name": "Güvercin",
 		"avatar": "creators/guvercin.jpg?v=a0823de4",
 		"links": {}
+	},
+	"gxhub": {
+		"name": "GxHub",
+		"avatar": "creators/gxhub.jpg?v=9b79e659",
+		"bio": "Me gusta hacer mods de killstreak :3/ I like making killstreak mods :3",
+		"links": {
+			"youtube": "https://youtu.be/ydc0mBWXIcE"
+		}
 	},
 	"haigo03": {
 		"name": "haigo03",

@@ -1,0 +1,17 @@
+{
+	"id": "league-season-3-font",
+	"name": "League Season 3 Font",
+	"kind": "fonts",
+	"creator": "atakzlky",
+	"description": "its just font form league pacht 3.7 \r\nthanks for the idea  dicord user : miltlul\r\nalso thanks for helping me get files from pacht 3.7 : aropatnik\n\n---\n\n**Created by** [AtaKzlky](https://runeforge.dev/users/AtaKzlky)\n\n**Original:** https://runeforge.dev/mods/0e1424d7-37cb-470d-b8bd-3b6ba8c88322\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/league-season-3-font/thumb.webp?v=64172a2a",
+	"file": {
+		"version": 1,
+		"asset": "league-season-3-font-v1.fantome",
+		"size": 1645829,
+		"sha256": "406aeebac646a8b800a5e009f7f92c87cc32e87a18b3836c6d89a0de3c0c202b"
+	}
+}

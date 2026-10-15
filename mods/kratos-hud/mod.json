@@ -1,0 +1,17 @@
+{
+	"id": "kratos-hud",
+	"name": "Kratos HUD",
+	"kind": "ui",
+	"creator": "disco",
+	"description": "## Kratos HUD\n\n### Features\n\n- **Brutal Aesthetics:** A complete UI overhaul with a dark, gritty color palette featuring rage-fueled reds, blacks, and golds.\n- **Mythological Motifs:** The design incorporates elements inspired by both Greek and Norse mythology, echoing Kratos's journey.\n- **Client-Side Mod:** This custom HUD is a visual change for you alone and is not visible to other players in the match.\n\n*Some of these skins use custom models made by other creators. If one is yours and you’d like credit, DM me on Discord.*\n*Divine Skins is not affiliated with or endorsed by Riot Games or League of Legends.*\n\n---\n\n**Created by** [DISCO](https://www.divineskins.gg/disco)\n\n**Original:** https://www.divineskins.gg/disco/kratos-hud\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/kratos-hud/thumb.webp?v=42ce093f",
+	"file": {
+		"version": 1,
+		"asset": "kratos-hud-v1.modpkg",
+		"size": 6199151,
+		"sha256": "a52830f6b92ba36b8c2cb793e831c5b4efafd95bde12b5b75ff6e7a56c378e02"
+	}
+}

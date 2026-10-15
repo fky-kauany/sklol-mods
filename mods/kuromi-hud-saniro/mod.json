@@ -1,0 +1,17 @@
+{
+	"id": "kuromi-hud-saniro",
+	"name": "Kuromi HUD [Saniro]",
+	"kind": "ui",
+	"creator": "p1mek",
+	"description": "* [Source Post](https://x.com/p1mek/status/2002885642431484273?s=20 \"Source Post\")&#x20;\r\n\r\n# Updates\r\n[Update](https://x.com/p1mek/status/2002885642431484273?s=20 \"Update\")&#x20;\r\n\r\n# Socials\r\n\r\n***\r\n\r\n* Twitter: [https://x.com/p1mek](https://x.com/p1mek) \\[Updates on skins]\r\n\r\n# Mod Information\r\n\r\n***\r\n* Mod For: HUD\r\n* Description: Kuromi themed HUD [Saniro]\r\n\r\n# Features\r\n\r\n* Full Black/Purple HUD\r\n* Kuromi Addons\r\n\r\n# Bugs\r\n\r\n***\r\n\r\nno bugs yet\n\n---\n\n**Created by** [p1mek](https://runeforge.dev/users/p1mek)\n\n**Original:** https://runeforge.dev/mods/f51cc8aa-a13d-479b-b7c3-6eea955499e1\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/kuromi-hud-saniro/thumb.webp?v=77a68215",
+	"file": {
+		"version": 1,
+		"asset": "kuromi-hud-saniro-v1.fantome",
+		"size": 28497920,
+		"sha256": "19162c00ce08498cf08acea7e810a594005d22d91a0001741a97a5f7c5ae9b54"
+	}
+}

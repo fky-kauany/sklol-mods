@@ -1,0 +1,17 @@
+{
+	"id": "ko-coliseum-bgm-tft-set-15",
+	"name": "KO Coliseum BGM - TFT set 15",
+	"kind": "other",
+	"creator": "matthewchasm",
+	"description": "A KO Coliseum (TFT set 15) BGM for Summoner's Rift using Updated Theme Music. Very Battle Academia esque vibes.\nTo use, go to settings > sounds (under in-game tab if on client) > set Summoner's Rift Theme Music to Updated (scroll to bottom).\nFeaturing music from Riot's TFT Set 15 release 2025. All audio is from the video above.\nThanks Aurecueil for helping.\n\n---\n\n**Created by** [MatthewChasm](https://runeforge.dev/users/MatthewChasm)\n\n**Original:** https://runeforge.dev/mods/e17a48f3-f759-4aa3-a6b3-0fb83fd65c3b\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/ko-coliseum-bgm-tft-set-15/thumb.webp?v=bec862ae",
+	"file": {
+		"version": 1,
+		"asset": "ko-coliseum-bgm-tft-set-15-v1.fantome",
+		"size": 37670273,
+		"sha256": "257911e8ac74f48fc6141ba21b0c18a5e92c6f05a5d9d09c0f5637680b2bb7dd"
+	}
+}

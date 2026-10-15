@@ -1,0 +1,17 @@
+{
+	"id": "league-royale-clash-royale-bgm",
+	"name": "League Royale (Clash Royale BGM)",
+	"kind": "sounds",
+	"creator": "alexi",
+	"description": "### Changed Music:\r\n* Game Start - [Loading 1](https://downloads.khinsider.com/game-soundtracks/album/clash-royale-original-game-soundtrack/Scroll%2520Loading%252001.mp3) & [Battle loop 1](https://downloads.khinsider.com/game-soundtracks/album/clash-royale-original-game-soundtrack/2min%2520Loop%2520Battle%252001.mp3)\r\n* Middle Game - [Battle loop 3](https://downloads.khinsider.com/game-soundtracks/album/clash-royale-original-game-soundtrack/18.%2520min%2520Loop%2520Battle%252003.mp3)\r\n* Late Game - [Sudden Death](https://downloads.khinsider.com/game-soundtracks/album/clash-royale-original-game-soundtrack/13.%2520Sudden%2520Death%252001.mp3)\r\n* Victory - [Win 2](https://downloads.khinsider.com/game-soundtracks/album/clash-royale-original-game-soundtrack/12.%2520Scroll%2520Win%252002.mp3)\r\n* Defeat - [Lose 1](https://downloads.khinsider.com/game-soundtracks/album/clash-royale-original-game-soundtrack/09.%2520Scroll%2520Lose%252001.mp3)\r\n* Post Victory/Defeat - [Post Result Jingle Loop 1](https://downloads.khinsider.com/game-soundtracks/album/clash-royale-original-game-soundtrack/10.%2520Scroll%2520Post%2520Jingle%2520Loop%252001.mp3)\r\n\r\n### Extra Info:\r\n* Replaces Classic Music\r\n* Version 1.0.0\r\n* Original Patch - 25.22\r\n* This material is unofficial and is not endorsed by Supercell. For more information see Supercell's [Fan Content Policy.](www.supercell.com/fan-content-policy)\n\n---\n\n**Created by** [Alexi](https://runeforge.dev/users/Alexi)\n\n**Original:** https://runeforge.dev/mods/54ab578c-3ab2-45e6-8c58-293d0b5717d2\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/league-royale-clash-royale-bgm/thumb.webp?v=26828e78",
+	"file": {
+		"version": 1,
+		"asset": "league-royale-clash-royale-bgm-v1.fantome",
+		"size": 5716125,
+		"sha256": "2e0f4bb17d638b05a46b4a0a5afb4288654d39c1abefba12cf98a67211de6322"
+	}
+}
