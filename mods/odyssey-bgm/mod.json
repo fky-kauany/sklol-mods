@@ -1,0 +1,20 @@
+{
+	"id": "odyssey-bgm",
+	"name": "Odyssey BGM",
+	"kind": "maps",
+	"creator": "aurecueil",
+	"description": "## ☕ Wanna buy me a [Coffee](https://ko-fi.com/aurecueil)? :> \r\n[![My Discord Server ^^](https://raw.githubusercontent.com/Aurecueil/Temp/refs/heads/main/images/banner6_better.png)](https://discord.gg/GETA29vZEK)\r\n\r\n## 📦 Misc\r\n\r\n**Discord:** `aurecueil`\r\n**Commisioned** by: `masai.3801`\r\ni **DO** take **commissions** :p\n\n---\n\n**Created by** [aurecueil](https://www.divineskins.gg/aurecueil)\n\n**Original:** https://www.divineskins.gg/aurecueil/odyssey-bgm-2\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/odyssey-bgm/thumb.webp?v=305e968f",
+	"file": {
+		"version": 1,
+		"asset": "odyssey-bgm-v1.modpkg",
+		"size": 15655709,
+		"sha256": "c30a5cca1eb676f7631bda5c0b11a7cc77953b300945eaf5448367af924d137b"
+	},
+	"maps": [
+		11
+	]
+}

@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T13:26:11.430Z",
+	"generatedAt": "2026-10-15T13:37:20.622Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -850,6 +850,14 @@
 				"discord": "https://discord.gg/KMqaYVJY",
 				"twitch": "https://www.twitch.tv/sloppywalrusx",
 				"youtube": "https://www.youtube.com/watch?v=KMmhzG7_yE4"
+			}
+		},
+		"segil-mansay": {
+			"name": "Segil Mansay",
+			"avatar": "creators/segil-mansay.jpg?v=f2da5956",
+			"bio": "League modder, artist and philosophy student.\nNone of my work is created using AI, and it never will be.",
+			"links": {
+				"site": "https://segil.carrd.com/"
 			}
 		},
 		"seiko": {
@@ -8670,6 +8678,26 @@
 			}
 		},
 		{
+			"id": "odyssey-bgm",
+			"name": "Odyssey BGM",
+			"kind": "maps",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/odyssey-bgm/thumb.webp?v=305e968f",
+			"file": {
+				"version": 1,
+				"asset": "odyssey-bgm-v1.modpkg",
+				"size": 15655709,
+				"sha256": "c30a5cca1eb676f7631bda5c0b11a7cc77953b300945eaf5448367af924d137b"
+			},
+			"maps": [
+				11
+			]
+		},
+		{
 			"id": "odyssey-kayn-announcer-2",
 			"name": "Odyssey Kayn Announcer",
 			"kind": "announcer",
@@ -9118,6 +9146,126 @@
 			}
 		},
 		{
+			"id": "old-summoners-rift-v2-beach",
+			"name": "Old Summoners Rift V2 - Beach",
+			"kind": "maps",
+			"creator": "thekillerey",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/old-summoners-rift-v2-beach/thumb.webp?v=1a280af1",
+			"file": {
+				"version": 1,
+				"asset": "old-summoners-rift-v2-beach-v1.fantome",
+				"size": 218857822,
+				"sha256": "4fe41b05bf34601ea5e991eb0ed5a555cef43cefd51f391d4294591a6b6f81fd"
+			},
+			"maps": [
+				11
+			]
+		},
+		{
+			"id": "old-summoners-rift-v2-cursed",
+			"name": "Old Summoners Rift V2 - Cursed",
+			"kind": "maps",
+			"creator": "thekillerey",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/old-summoners-rift-v2-cursed/thumb.webp?v=764c29f7",
+			"file": {
+				"version": 1,
+				"asset": "old-summoners-rift-v2-cursed-v1.fantome",
+				"size": 261683430,
+				"sha256": "f4db00844c73402d14a183f68e31fdcdd40e3d94d512f83fdd0951f5f6c143b7"
+			},
+			"maps": [
+				11
+			]
+		},
+		{
+			"id": "old-summoners-rift-v2-day",
+			"name": "Old Summoners Rift V2 - Day",
+			"kind": "maps",
+			"creator": "thekillerey",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/old-summoners-rift-v2-day/thumb.webp?v=df2e7983",
+			"file": {
+				"version": 1,
+				"asset": "old-summoners-rift-v2-day-v1.fantome",
+				"size": 218209654,
+				"sha256": "4b06f2fce5659acf4770130cf1a5bb06f95655975a7519bf27525e8425d79e6e"
+			},
+			"maps": [
+				11
+			]
+		},
+		{
+			"id": "old-summoners-rift-v2-night",
+			"name": "Old Summoners Rift V2 - Night",
+			"kind": "maps",
+			"creator": "thekillerey",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/old-summoners-rift-v2-night/thumb.webp?v=8aaa54ed",
+			"file": {
+				"version": 1,
+				"asset": "old-summoners-rift-v2-night-v1.fantome",
+				"size": 204629177,
+				"sha256": "227141b45c84b5c5033e993c42f21c695066c5d0d4759ba29a7d065e0ae2aa3f"
+			},
+			"maps": [
+				11
+			]
+		},
+		{
+			"id": "old-summoners-rift-v2-unbound",
+			"name": "Old Summoners Rift V2 - Unbound",
+			"kind": "maps",
+			"creator": "thekillerey",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/old-summoners-rift-v2-unbound/thumb.webp?v=89274cd0",
+			"file": {
+				"version": 1,
+				"asset": "old-summoners-rift-v2-unbound-v1.fantome",
+				"size": 195713406,
+				"sha256": "b57c097c29ac3a80d9700975195a4f3145f7e26e3c70f0c372e76589e9e57e1c"
+			},
+			"maps": [
+				11
+			]
+		},
+		{
+			"id": "old-summoners-rift-v2-winter",
+			"name": "Old Summoners Rift V2 - Winter",
+			"kind": "maps",
+			"creator": "thekillerey",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/old-summoners-rift-v2-winter/thumb.webp?v=2bb7663c",
+			"file": {
+				"version": 1,
+				"asset": "old-summoners-rift-v2-winter-v1.fantome",
+				"size": 212944431,
+				"sha256": "d4ae64a55e30e223b2bce22b5b7a7e4112c6fa9d26efb38ef1cf6897dec67cb0"
+			},
+			"maps": [
+				11
+			]
+		},
+		{
 			"id": "old-wards-season-4",
 			"name": "Old Wards Season 4",
 			"kind": "other",
@@ -9458,6 +9606,28 @@
 			}
 		},
 		{
+			"id": "poro-gromp",
+			"name": "Poro Gromp",
+			"kind": "maps",
+			"creator": "frog",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/poro-gromp/thumb.webp?v=605747e0",
+			"file": {
+				"version": 1,
+				"asset": "poro-gromp-v1.fantome",
+				"size": 3227037,
+				"sha256": "0ca64af8f0e24b3038542167d0dd654766623b22efa6f2c1635b7412e75455e0"
+			},
+			"maps": [
+				11,
+				12,
+				35
+			]
+		},
+		{
 			"id": "poro-minions",
 			"name": "Poro Minions",
 			"kind": "mobs",
@@ -9527,6 +9697,26 @@
 				"size": 11052331,
 				"sha256": "bd3bcdad70808349d9856dcd5d5d7ba98b7fa14e9220ae5cd2e5ce5058deaef5"
 			}
+		},
+		{
+			"id": "practice-targets-dummy-shields",
+			"name": "Practice Targets Dummy Shields",
+			"kind": "maps",
+			"creator": "segil-mansay",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/practice-targets-dummy-shields/thumb.webp?v=02750b3c",
+			"file": {
+				"version": 1,
+				"asset": "practice-targets-dummy-shields-v1.fantome",
+				"size": 742187,
+				"sha256": "2338a58bc1b2ee42a39dd7e54b4790b6a13f20d6d4490d9494793835b3b7be87"
+			},
+			"maps": [
+				11
+			]
 		},
 		{
 			"id": "pride-month-emote-choose-your-gender",
@@ -10139,6 +10329,26 @@
 				"size": 1581533,
 				"sha256": "00b4c457f5c37744d0c8c7fce555fd3d815778e2595d2045a7a960dc1ab6bcf0"
 			}
+		},
+		{
+			"id": "rift-of-the-unbound",
+			"name": "Rift of the Unbound",
+			"kind": "maps",
+			"creator": "thekillerey",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/rift-of-the-unbound/thumb.webp?v=1b6424ac",
+			"file": {
+				"version": 1,
+				"asset": "rift-of-the-unbound-v1.fantome",
+				"size": 435508560,
+				"sha256": "c222b1a1fdc1eeff3b558f24ef9aac20f4562ae522798de088ef5573e8b0ff4b"
+			},
+			"maps": [
+				11
+			]
 		},
 		{
 			"id": "riot-points-gold",

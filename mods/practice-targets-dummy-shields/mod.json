@@ -1,0 +1,20 @@
+{
+	"id": "practice-targets-dummy-shields",
+	"name": "Practice Targets Dummy Shields",
+	"kind": "maps",
+	"creator": "segil-mansay",
+	"description": "Turns the practice dummies into the tackle dummies from Pvz Gw2, includes sounds.\r\nIf you like my work you can access my socials and support me here: https://segil.carrd.com\n\n---\n\n**Created by** [Segil Mansay](https://runeforge.dev/users/Segil_Mansay)\n\n**Original:** https://runeforge.dev/mods/8fb9374b-f0b9-4ede-8a17-ba25d2b260ef\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/practice-targets-dummy-shields/thumb.webp?v=02750b3c",
+	"file": {
+		"version": 1,
+		"asset": "practice-targets-dummy-shields-v1.fantome",
+		"size": 742187,
+		"sha256": "2338a58bc1b2ee42a39dd7e54b4790b6a13f20d6d4490d9494793835b3b7be87"
+	},
+	"maps": [
+		11
+	]
+}

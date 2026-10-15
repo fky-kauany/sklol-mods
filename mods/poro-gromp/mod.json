@@ -1,0 +1,22 @@
+{
+	"id": "poro-gromp",
+	"name": "Poro Gromp",
+	"kind": "maps",
+	"creator": "frog",
+	"description": "# Repair, fixed for Brawl. Ty Moga\n\nReplaces the Gromp with a Poro\nModel taken from League of Legends\n*Fan-made, not affiliated with Riot Games or any other company.*\n\n---\n\n**Created by** [Frog](https://www.divineskins.gg/Frog)\n\n**Original:** https://www.divineskins.gg/Frog/poro-gromp\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/poro-gromp/thumb.webp?v=605747e0",
+	"file": {
+		"version": 1,
+		"asset": "poro-gromp-v1.fantome",
+		"size": 3227037,
+		"sha256": "0ca64af8f0e24b3038542167d0dd654766623b22efa6f2c1635b7412e75455e0"
+	},
+	"maps": [
+		11,
+		12,
+		35
+	]
+}

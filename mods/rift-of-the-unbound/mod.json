@@ -1,0 +1,20 @@
+{
+	"id": "rift-of-the-unbound",
+	"name": "Rift of the Unbound",
+	"kind": "maps",
+	"creator": "thekillerey",
+	"description": "# Unleash the Darkness:\n\n## INFO:\nMap Forcer is needed to play this mod! Download here: [Mod Link](https://runeforge.dev/mods/d410324f-3b6d-4dde-9f2e-fad097454ae4)\n\nDownload and conquer the shadows in this chilling showcase of Summoner's Rift's dark side!\n\n## About the Mod:\n\nEmbark on a haunting odyssey into the unknown as you explore the **Rift of the Unbound**, a chilling transformation of the classic battleground. Immerse yourself in the eerie depths of Summoner's Rift with this custom map skin, featuring a captivating recolor inspired by the unsettling mysteries that lurk beyond the Blackmoon.\n\n\n\n## Changes:\n\n* Full recolor of the Summoners Rift map to Blackmoon\n* All Jungle Camps and Mobs are supported and fully recolored\n* Custom Loadingscreen\n* Default Map&#x20;\n* Default Turrets & Minions\n\n---\n\n**Created by** [TheKillerey](https://runeforge.dev/users/TheKillerey)\n\n**Original:** https://runeforge.dev/mods/9e6292bc-b17f-437b-b817-09579e27a30a\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/rift-of-the-unbound/thumb.webp?v=1b6424ac",
+	"file": {
+		"version": 1,
+		"asset": "rift-of-the-unbound-v1.fantome",
+		"size": 435508560,
+		"sha256": "c222b1a1fdc1eeff3b558f24ef9aac20f4562ae522798de088ef5573e8b0ff4b"
+	},
+	"maps": [
+		11
+	]
+}
