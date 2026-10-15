@@ -1,0 +1,20 @@
+{
+	"id": "bomba-nexus-finisher",
+	"name": "BOMBA Nexus Finisher",
+	"kind": "maps",
+	"creator": "sauronkaiser",
+	"description": "Fixed for Ionia map!\n\nNote: The sound of this animation seems to be linked with the \"Ambiental Sounds\" setting in your game; the animation will be muted if you have this setting at 0 or muted.\n\nCredits:\n\nVoice by Sloppy Walrus: [https://www.twitch.tv/sloppywalrusx](https://www.twitch.tv/sloppywalrusx)\n\nAI Gragas voice originaly published by Giisuka.\n\nDisclaimer: Take in mind that Nexus Finishers are a new type of mod discovered recently, and given all the changes Riot makes to maps, I can't ensure they are stable. You can check if they cause any trouble by looking at replays (go to the moment the game ends and check the animation of the nexus being destroyed)\n\n---\n\n**Created by** [Sauronkaiser](https://runeforge.dev/users/Sauronkaiser)\n\n**Original:** https://runeforge.dev/mods/2ab76947-283d-4673-bdc2-728bf89bb412\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/bomba-nexus-finisher/thumb.webp?v=11d43ed7",
+	"file": {
+		"version": 1,
+		"asset": "bomba-nexus-finisher-v1.fantome",
+		"size": 2603878,
+		"sha256": "17a0039f291d7d413f9b8949cd36feb512f78974a04b8963f117b2ac4871b47d"
+	},
+	"maps": [
+		11
+	]
+}

@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T13:01:13.499Z",
+	"generatedAt": "2026-10-15T13:07:51.736Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -373,9 +373,19 @@
 				"kofi": "https://ko-fi.com/epellol"
 			}
 		},
+		"etherroot": {
+			"name": "etherroot_",
+			"avatar": "creators/etherroot.webp?v=01f937dc",
+			"links": {}
+		},
 		"evelisk": {
 			"name": "Evelisk",
 			"avatar": "creators/evelisk.jpg?v=cb775623",
+			"links": {}
+		},
+		"evilzones": {
+			"name": "Evilzones",
+			"avatar": "creators/evilzones.jpg?v=b7600c7e",
 			"links": {}
 		},
 		"exynex": {
@@ -818,6 +828,16 @@
 			"avatar": "creators/s10tiamat.jpg?v=095b464f",
 			"bio": "discord: s10tiamat",
 			"links": {}
+		},
+		"sauronkaiser": {
+			"name": "Sauronkaiser",
+			"avatar": "creators/sauronkaiser.jpg?v=efa9b809",
+			"bio": "I used to main Yorick and like hats. The rest came afterwards.\nhttps://x.com/Sauronkaiser\nhttps://www.youtube.com/@Sauronkaiser",
+			"links": {
+				"discord": "https://discord.gg/KMqaYVJY",
+				"twitch": "https://www.twitch.tv/sloppywalrusx",
+				"youtube": "https://www.youtube.com/watch?v=KMmhzG7_yE4"
+			}
 		},
 		"seiko": {
 			"name": "˚₊‧꒰ა Seiko ໒꒱ ‧₊˚",
@@ -1704,6 +1724,46 @@
 			}
 		},
 		{
+			"id": "anima-squad-rift-battle-for-final-city-recreated",
+			"name": "Anima Squad Rift: Battle for Final City — Recreated",
+			"kind": "maps",
+			"creator": "evilzones",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/anima-squad-rift-battle-for-final-city-recreated/thumb.webp?v=a4741658",
+			"file": {
+				"version": 1,
+				"asset": "anima-squad-rift-battle-for-final-city-recreated-v1.fantome",
+				"size": 395936944,
+				"sha256": "68b6aac0b640750af6880d5f6031990af14a2c41fffe8f332fbd86a8e355912e"
+			},
+			"maps": [
+				11
+			]
+		},
+		{
+			"id": "anime-squad-swarm-bgm",
+			"name": "Anime Squad: Swarm BGM",
+			"kind": "maps",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/anime-squad-swarm-bgm/thumb.webp?v=b6d61756",
+			"file": {
+				"version": 1,
+				"asset": "anime-squad-swarm-bgm-v1.modpkg",
+				"size": 28945547,
+				"sha256": "f2e858cdd2bbeeba84e75fef0ea3ec3d25f16261938029cdf8ae5a20f28fda62"
+			},
+			"maps": [
+				11
+			]
+		},
+		{
 			"id": "arabic-announcer",
 			"name": "Arabic Announcer",
 			"kind": "announcer",
@@ -1843,6 +1903,26 @@
 				"size": 6070676,
 				"sha256": "b7cd2504afc8d7e7661f8b3238dcbe9f685ab6360c6da6838891db3c4b116570"
 			}
+		},
+		{
+			"id": "arena-guilty-gear-strive-bgm",
+			"name": "Arena Guilty Gear Strive BGM",
+			"kind": "maps",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/arena-guilty-gear-strive-bgm/thumb.webp?v=a48ec36e",
+			"file": {
+				"version": 1,
+				"asset": "arena-guilty-gear-strive-bgm-v1.fantome",
+				"size": 38238838,
+				"sha256": "5192d80dc907dce490dfd71243e61129e1d164d6940ac2619740a615a9c58de3"
+			},
+			"maps": [
+				30
+			]
 		},
 		{
 			"id": "arena-soul-fighter-bgm",
@@ -2355,6 +2435,26 @@
 			}
 		},
 		{
+			"id": "black-and-white-rift",
+			"name": "Black and White Rift",
+			"kind": "maps",
+			"creator": "aropatnik",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/black-and-white-rift/thumb.webp?v=1087e7e0",
+			"file": {
+				"version": 1,
+				"asset": "black-and-white-rift-v1.fantome",
+				"size": 158751202,
+				"sha256": "e239d8e18d33bdaee88d1ecc7a3942aeb7705531ba5a1d3d4b32a1ffd2d7aede"
+			},
+			"maps": [
+				11
+			]
+		},
+		{
 			"id": "black-loading-screen",
 			"name": "Black Loading Screen",
 			"kind": "ui",
@@ -2387,6 +2487,26 @@
 				"size": 8553977,
 				"sha256": "254e68bf5bf7ca7c5af8ef819c98d0e5ea590d7773bd09b37f5844c6c11b112e"
 			}
+		},
+		{
+			"id": "black-rose-nightfall",
+			"name": "Black Rose Nightfall",
+			"kind": "maps",
+			"creator": "zero",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/black-rose-nightfall/thumb.webp?v=3461f628",
+			"file": {
+				"version": 1,
+				"asset": "black-rose-nightfall-v1.fantome",
+				"size": 145774425,
+				"sha256": "851bb3f7b2592787c98f8b902ea138afe0956ed06afc6d5ca39ece9be6c2821f"
+			},
+			"maps": [
+				11
+			]
 		},
 		{
 			"id": "black-white-mouse-clicks",
@@ -2525,6 +2645,26 @@
 			}
 		},
 		{
+			"id": "bomba-nexus-finisher",
+			"name": "BOMBA Nexus Finisher",
+			"kind": "maps",
+			"creator": "sauronkaiser",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/bomba-nexus-finisher/thumb.webp?v=11d43ed7",
+			"file": {
+				"version": 1,
+				"asset": "bomba-nexus-finisher-v1.fantome",
+				"size": 2603878,
+				"sha256": "17a0039f291d7d413f9b8949cd36feb512f78974a04b8963f117b2ac4871b47d"
+			},
+			"maps": [
+				11
+			]
+		},
+		{
 			"id": "boogying-chibi-ezreal-wards",
 			"name": "Boogying Chibi Ezreal Wards",
 			"kind": "other",
@@ -2557,6 +2697,26 @@
 				"size": 36472089,
 				"sha256": "9625b88a681d0f9f2246f4d7ee643ca007323af56288ab890e52f8f8cba22fcc"
 			}
+		},
+		{
+			"id": "brazier-fire-colors",
+			"name": "Brazier Fire Colors",
+			"kind": "maps",
+			"creator": "etherroot",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/brazier-fire-colors/thumb.webp?v=9fbcd476",
+			"file": {
+				"version": 1,
+				"asset": "brazier-fire-colors-v1.fantome",
+				"size": 298593,
+				"sha256": "70352b6925fbf70983f011fe96ff1898fb89aa53623035ca0b55cb9643a7d7f2"
+			},
+			"maps": [
+				11
+			]
 		},
 		{
 			"id": "brazil-mordekaiser-ult",
@@ -2693,6 +2853,46 @@
 				"size": 17597950,
 				"sha256": "0fae5d9eef9633eee50002a2191b24a58112128a9fcf00434b45984af3056aaf"
 			}
+		},
+		{
+			"id": "butchers-bridge",
+			"name": "Butchers Bridge",
+			"kind": "maps",
+			"creator": "leischii",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/butchers-bridge/thumb.webp?v=84d610c0",
+			"file": {
+				"version": 1,
+				"asset": "butchers-bridge-v1.fantome",
+				"size": 28022255,
+				"sha256": "80f53fd67795a9feff89c9861bbaa1d1d7819a8443e50b125015075f61b2fd45"
+			},
+			"maps": [
+				12
+			]
+		},
+		{
+			"id": "butchers-bridge-bgm",
+			"name": "Butchers Bridge BGM",
+			"kind": "maps",
+			"creator": "aurecueil",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/butchers-bridge-bgm/thumb.webp?v=d652794a",
+			"file": {
+				"version": 1,
+				"asset": "butchers-bridge-bgm-v1.modpkg",
+				"size": 26219281,
+				"sha256": "afbcfc0c6bd97442ca4363b49549e9e583c5b24f8dc272aa093f2e133e7554ef"
+			},
+			"maps": [
+				11
+			]
 		},
 		{
 			"id": "cafe-cuties-yuumi-english-vo-wr-port",
@@ -3031,6 +3231,26 @@
 				"size": 498024,
 				"sha256": "398dbf0d48690db2dceb5b395fee0500e0d1c7539063ea0a3416736b12da53c1"
 			}
+		},
+		{
+			"id": "classic-rift-harrowing",
+			"name": "Classic Rift - Harrowing",
+			"kind": "maps",
+			"creator": "thekillerey",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/classic-rift-harrowing/thumb.webp?v=6f008f0b",
+			"file": {
+				"version": 1,
+				"asset": "classic-rift-harrowing-v1.fantome",
+				"size": 73977629,
+				"sha256": "8d10a6b1c78cb7dd50ac3cc17bed66cd3ce92aea007319d27af34f4ba6337f1e"
+			},
+			"maps": [
+				453
+			]
 		},
 		{
 			"id": "coffin-of-andy-and-leyley-bgm",

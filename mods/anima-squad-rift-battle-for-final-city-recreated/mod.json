@@ -1,0 +1,20 @@
+{
+	"id": "anima-squad-rift-battle-for-final-city-recreated",
+	"name": "Anima Squad Rift: Battle for Final City — Recreated",
+	"kind": "maps",
+	"creator": "evilzones",
+	"description": "Credits & Shout-outs\r\n\r\nOriginal Anima Squad Rift:\r\nBlooJae — Original creator of Anima Squad Rift: Battle for Final City\r\n\r\nAdditional contributors to the original project:\r\n\r\nYuumi — Xayah/Yuumi fixes\r\nGuisai — Permanent Xayah/Yuumi bug fix\r\n\r\nHuge shout-out to BlooJae, Yuumi, and Guisai for the original work and contributions that made this project possible.\n\n---\n\n**Created by** [Evilzones](https://runeforge.dev/users/Evilzones)\n\n**Original:** https://runeforge.dev/mods/9a8e1625-9d85-4733-b1bf-877d817ca36f\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/anima-squad-rift-battle-for-final-city-recreated/thumb.webp?v=a4741658",
+	"file": {
+		"version": 1,
+		"asset": "anima-squad-rift-battle-for-final-city-recreated-v1.fantome",
+		"size": 395936944,
+		"sha256": "68b6aac0b640750af6880d5f6031990af14a2c41fffe8f332fbd86a8e355912e"
+	},
+	"maps": [
+		11
+	]
+}

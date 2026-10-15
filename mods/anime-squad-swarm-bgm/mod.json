@@ -1,0 +1,20 @@
+{
+	"id": "anime-squad-swarm-bgm",
+	"name": "Anime Squad: Swarm BGM",
+	"kind": "maps",
+	"creator": "aurecueil",
+	"description": "## ☕ Wanna buy me a [Coffee](https://ko-fi.com/aurecueil)? :> \r\n[![My Discord Server ^^](https://raw.githubusercontent.com/Aurecueil/Temp/refs/heads/main/images/banner6_better.png)](https://discord.gg/GETA29vZEK)\r\n\r\n## 📦 Misc\r\n\r\n**Discord:** `aurecueil`\r\n**Commisioned** by: `masai.3801`\r\ni **DO** take **commissions** :p\n\n---\n\n**Created by** [aurecueil](https://www.divineskins.gg/aurecueil)\n\n**Original:** https://www.divineskins.gg/aurecueil/anime-squad-swarm-bgm\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/anime-squad-swarm-bgm/thumb.webp?v=b6d61756",
+	"file": {
+		"version": 1,
+		"asset": "anime-squad-swarm-bgm-v1.modpkg",
+		"size": 28945547,
+		"sha256": "f2e858cdd2bbeeba84e75fef0ea3ec3d25f16261938029cdf8ae5a20f28fda62"
+	},
+	"maps": [
+		11
+	]
+}

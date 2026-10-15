@@ -370,9 +370,19 @@
 			"kofi": "https://ko-fi.com/epellol"
 		}
 	},
+	"etherroot": {
+		"name": "etherroot_",
+		"avatar": "creators/etherroot.webp?v=01f937dc",
+		"links": {}
+	},
 	"evelisk": {
 		"name": "Evelisk",
 		"avatar": "creators/evelisk.jpg?v=cb775623",
+		"links": {}
+	},
+	"evilzones": {
+		"name": "Evilzones",
+		"avatar": "creators/evilzones.jpg?v=b7600c7e",
 		"links": {}
 	},
 	"exynex": {
@@ -815,6 +825,16 @@
 		"avatar": "creators/s10tiamat.jpg?v=095b464f",
 		"bio": "discord: s10tiamat",
 		"links": {}
+	},
+	"sauronkaiser": {
+		"name": "Sauronkaiser",
+		"avatar": "creators/sauronkaiser.jpg?v=efa9b809",
+		"bio": "I used to main Yorick and like hats. The rest came afterwards.\nhttps://x.com/Sauronkaiser\nhttps://www.youtube.com/@Sauronkaiser",
+		"links": {
+			"discord": "https://discord.gg/KMqaYVJY",
+			"twitch": "https://www.twitch.tv/sloppywalrusx",
+			"youtube": "https://www.youtube.com/watch?v=KMmhzG7_yE4"
+		}
 	},
 	"seiko": {
 		"name": "˚₊‧꒰ა Seiko ໒꒱ ‧₊˚",

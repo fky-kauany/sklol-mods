@@ -1,0 +1,20 @@
+{
+	"id": "classic-rift-harrowing",
+	"name": "Classic Rift - Harrowing",
+	"kind": "maps",
+	"creator": "thekillerey",
+	"description": "The Rift is back. And so am I.\n\nHarrowing Rift brings the Halloween atmosphere of old League of Legends back to Classic Summoner’s Rift. Haunted forests, glowing candles and familiar landmarks welcome you into a world worth remembering.\n\nWhether you played on the old Halloween map or are discovering its atmosphere for the first time—welcome home.\n\nWHAT TO EXPECT\n\n• The nostalgic Harrowing look, restored as a custom map.\n• Haunted woodland, Halloween decorations and candlelit paths.\n• Atmospheric lighting and a dark, custom night sky.\n• A hidden Easter egg for those who pay attention.\n\nSome old friends are still out there. Watch the trailer closely.\n\nREYENGINE\n\nThis project was developed with my League of Legends modding editor, ReyEngine. The trailer’s cinematic shots were also captured using its cinematic feature.\n\nYou can find ReyEngine through the links on this page.\n\nFEEDBACK & SUPPORT\n\nFound an issue? Reach out through PROJECT: Rey on Discord. Please include your the mod version, any other active mods, and a screenshot or short clip when possible.\n\nCREDITS\n\nMap restoration: TheKillerey\nTools and cinematic capture: ReyEngine (TheKillerey)\nOriginal League of Legends game and map assets: Riot Games\nSpecial thanks: Community <3\n\nWelcome back to Classic Harrowing Rift.\n\n---\n\n**Created by** [TheKillerey](https://runeforge.dev/users/TheKillerey)\n\n**Original:** https://runeforge.dev/mods/7efa1b40-e522-4ff0-8614-5a188936440d\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/classic-rift-harrowing/thumb.webp?v=6f008f0b",
+	"file": {
+		"version": 1,
+		"asset": "classic-rift-harrowing-v1.fantome",
+		"size": 73977629,
+		"sha256": "8d10a6b1c78cb7dd50ac3cc17bed66cd3ce92aea007319d27af34f4ba6337f1e"
+	},
+	"maps": [
+		453
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"id": "butchers-bridge-bgm",
+	"name": "Butchers Bridge BGM",
+	"kind": "maps",
+	"creator": "aurecueil",
+	"description": "# 🎵 Track List\r\n\r\n| Event | Track |\r\n|------|------|\r\n| **Game Start** | [Butcher's Bridge Game Start](https://www.youtube.com/watch?v=R3XzZRw0hds) |\r\n| **Early Game** | [Butcher's Bridge Early Game](https://www.youtube.com/watch?v=R3XzZRw0hds&t=100s) |\r\n| **Mid Game** | [Butcher's Bridge Mid Game](https://www.youtube.com/watch?v=VBR5kEOU2Ek) |\r\n| **Late Game** | [Butcher's Bridge Late Game](https://www.youtube.com/watch?v=r0efIo5iE1s) |\r\n| **Baron Alive** | [Captain Gangplank](https://www.youtube.com/watch?v=miZgnDD22iE) |\r\n| **River** | [Tahm Kench, the River King](https://www.youtube.com/watch?v=lr4EqywQGTQ) |\r\n| **River – Grubs** | [Captain Fortune](https://www.youtube.com/watch?v=oiHgZneSF5U) |\r\n| **River – Herald** | [Graves & Twisted Fate](https://www.youtube.com/watch?v=o_C4Y9MK5wQ) |\r\n| **River – Baron** | [Gangplank, the Saltwater Scourge](https://www.youtube.com/watch?v=038yciPSf9k) |\r\n| **Void-spawn Combat** | [Butcher's Bridge Victory](https://www.youtube.com/watch?v=oXuhFRWyGzQ) |\r\n| **Victory** | [Butcher's Bridge Victory (fragment)](https://www.youtube.com/watch?v=oXuhFRWyGzQ) |\r\n| **Defeat** | [Butcher's Bridge Defeat (fragment)](https://www.youtube.com/watch?v=PlHbp5L5Rxc) |\r\n\r\n## ☕ Wanna buy me a [Coffee](https://ko-fi.com/aurecueil)? :> \r\n[![My Discord Server ^^](https://raw.githubusercontent.com/Aurecueil/Temp/refs/heads/main/images/banner6_better.png)](https://discord.gg/GETA29vZEK)\r\n\r\n## 📦 Misc\r\n\r\n**My BGM Mod Tierlist:**  \r\nhttps://runeforge.dev/users/Aurecueil\r\n\r\n**Discord:** `aurecueil`\r\n**Commisioned** by: `masai.3801`\r\ni **DO** take **commissions** :p\n\n---\n\n**Created by** [aurecueil](https://www.divineskins.gg/aurecueil)\n\n**Original:** https://www.divineskins.gg/aurecueil/butchers-bridge-bgm\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/butchers-bridge-bgm/thumb.webp?v=d652794a",
+	"file": {
+		"version": 1,
+		"asset": "butchers-bridge-bgm-v1.modpkg",
+		"size": 26219281,
+		"sha256": "afbcfc0c6bd97442ca4363b49549e9e583c5b24f8dc272aa093f2e133e7554ef"
+	},
+	"maps": [
+		11
+	]
+}

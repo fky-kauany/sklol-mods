@@ -1,0 +1,20 @@
+{
+	"id": "black-and-white-rift",
+	"name": "Black and White Rift",
+	"kind": "maps",
+	"creator": "aropatnik",
+	"description": "### Information\n\nRemoves the color from the terrain. Does nothing to minions and buildings.\n\n**Author:** Aropatnik\n\n#\n\n### Issues\n\nIf/When this mod breaks let me know\n\nDiscord username: aropatnik\n\nDiscord server: https://discord.gg/nctuYUq3QX\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n#\n\n### Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/7048bf67-4f27-40d0-b12e-a0ceb66da2d8\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/black-and-white-rift/thumb.webp?v=1087e7e0",
+	"file": {
+		"version": 1,
+		"asset": "black-and-white-rift-v1.fantome",
+		"size": 158751202,
+		"sha256": "e239d8e18d33bdaee88d1ecc7a3942aeb7705531ba5a1d3d4b32a1ffd2d7aede"
+	},
+	"maps": [
+		11
+	]
+}

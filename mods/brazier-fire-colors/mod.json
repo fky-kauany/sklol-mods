@@ -1,0 +1,20 @@
+{
+	"id": "brazier-fire-colors",
+	"name": "Brazier Fire Colors",
+	"kind": "maps",
+	"creator": "etherroot",
+	"description": "A simple custom mod that changes the colors of the Rift’s brazier flames for a fresh and personalized look. Includes the original Ruined brazier fire, ported from the old Ultbook map mode the Ruined version of Summoner’s Rift.\n\n---\n\n**Created by** [etherroot_](https://www.divineskins.gg/etherroot_)\n\n**Original:** https://www.divineskins.gg/etherroot_/brazier-fire-colors\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/brazier-fire-colors/thumb.webp?v=9fbcd476",
+	"file": {
+		"version": 1,
+		"asset": "brazier-fire-colors-v1.fantome",
+		"size": 298593,
+		"sha256": "70352b6925fbf70983f011fe96ff1898fb89aa53623035ca0b55cb9643a7d7f2"
+	},
+	"maps": [
+		11
+	]
+}

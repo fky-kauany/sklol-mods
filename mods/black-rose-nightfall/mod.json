@@ -1,0 +1,20 @@
+{
+	"id": "black-rose-nightfall",
+	"name": "Black Rose Nightfall",
+	"kind": "maps",
+	"creator": "zero",
+	"description": "* Fully reworked nighttime lighting and atmosphere.\r\n* Default towers replaced with the Black Rose event towers.\r\n* Default minions replaced with their Black Rose event variants.\r\n* Enhanced color grading with improved contrast and shadows.\r\n* Darker, more immersive visuals while maintaining gameplay clarity.\r\n* Visual changes only — no gameplay modifications.\r\n\r\n## Mod Contents\r\n\r\n* Nighttime Summoner's Rift.\r\n* Black Rose event towers.\r\n* Black Rose event minions.\r\n* Lighting and environmental enhancements.\r\n* Additional visual refinements for a more immersive experience.\r\n\r\n## Acknowledgements\r\n\r\nSpecial thanks to **TheKillerRey** for developing **ReyEngine**, the tool that made this project possible. Without ReyEngine, creating custom Summoner's Rift maps like this would not have been possible. Thank you for your dedication to the League of Legends modding community and for providing creators with the tools to bring projects like this to life.\r\n\r\nSpecial thanks to Kitorami, the official tester of Black Rose Nightfall, for helping test the map and making sure everything worked as intended before release. Your feedback and support were greatly appreciated throughout the development of the project.\n\n---\n\n**Created by** [ZERO_](https://runeforge.dev/users/ZERO_)\n\n**Original:** https://runeforge.dev/mods/825a7fa8-7c57-41b2-91fa-46cdbb9519b5\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/black-rose-nightfall/thumb.webp?v=3461f628",
+	"file": {
+		"version": 1,
+		"asset": "black-rose-nightfall-v1.fantome",
+		"size": 145774425,
+		"sha256": "851bb3f7b2592787c98f8b902ea138afe0956ed06afc6d5ca39ece9be6c2821f"
+	},
+	"maps": [
+		11
+	]
+}
