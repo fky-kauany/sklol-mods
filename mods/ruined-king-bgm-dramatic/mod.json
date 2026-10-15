@@ -1,0 +1,17 @@
+{
+	"id": "ruined-king-bgm-dramatic",
+	"name": "Ruined King BGM (Dramatic)",
+	"kind": "sounds",
+	"creator": "zamius",
+	"description": "### MOD INFORMATION\r\n##\r\n\r\n**Modified Sounds**: Background music\r\n\r\n**Author**: Zamius\r\n\r\n**Description**: Changes Summoner’s Rift Classic background music to *the Ruined King* game's music.\r\n\r\n##\r\n\r\n**ABOUT THE MOD**\r\n- Since the songs are normally too long to fit the game’s restrictions, I have cut some parts off from them so they would fit.\r\n\r\n**SONGS**\r\n- (Intro) Shadows on the Walls\r\n- (Early-Mid) Rise Against Ruin\r\n- (Late) Revenge of the Reaver King\r\n\r\n##\r\n\r\n**NOTICE**\r\n\r\nYou need to select the Classic theme from the game's sound settings for this mod to work!\r\n\r\n> *\"Where is she?!\"* -Viego\n\n---\n\n**Created by** [Zamius](https://runeforge.dev/users/Zamius)\n\n**Original:** https://runeforge.dev/mods/441c991e-ab09-43f0-bd02-1a774bacd346\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/ruined-king-bgm-dramatic/thumb.webp?v=1522a59f",
+	"file": {
+		"version": 1,
+		"asset": "ruined-king-bgm-dramatic-v1.fantome",
+		"size": 11528910,
+		"sha256": "40ee00643cffa46e1825eaebfe857f7f2eb1f56abd388ad6e85c3ec71e07e374"
+	}
+}

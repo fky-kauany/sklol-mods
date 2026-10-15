@@ -1,0 +1,17 @@
+{
+	"id": "ryze-action-hud",
+	"name": "Ryze Action HUD",
+	"kind": "ui",
+	"creator": "aropatnik",
+	"description": "## Information\n\n**Modified champion: Ryze**\n\n**Modified skin: Default**\n\n**Author: Aropatnik**\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/ee130594-8be0-4c90-b115-88b726fdf956\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/ryze-action-hud/thumb.webp?v=c8ce5462",
+	"file": {
+		"version": 1,
+		"asset": "ryze-action-hud-v1.fantome",
+		"size": 105012,
+		"sha256": "bf1d0db5b0ededdd106ccdafeb18638cd187bb13535c2f3858ea0cf8b0e6bdd3"
+	}
+}

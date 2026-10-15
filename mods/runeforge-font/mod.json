@@ -1,0 +1,17 @@
+{
+	"id": "runeforge-font",
+	"name": "RuneForge Font",
+	"kind": "fonts",
+	"creator": "atakzlky",
+	"description": "# INFO\n\n***\n\n* **Modified Ui: Font**\n* Authors: AtaKzlky\n* Mod Version: 1.0\n\n## ADDITIONAL INFO\n\n***\n\nIf you have any questions or request about the mod you can contact me through discord dm or the RuneForge server.&#x20;\n\nDiscord : atakzlky\n\n---\n\n**Created by** [AtaKzlky](https://runeforge.dev/users/AtaKzlky)\n\n**Original:** https://runeforge.dev/mods/6fef7b7c-f0e6-4dde-a803-f9bce143cdfd\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/runeforge-font/thumb.webp?v=5baf5606",
+	"file": {
+		"version": 1,
+		"asset": "runeforge-font-v1.fantome",
+		"size": 65021,
+		"sha256": "c0e3d4c189a19e231a89e30985565357ccfd76ac01eec1d9b41b1fe3f7e63bfb"
+	}
+}
