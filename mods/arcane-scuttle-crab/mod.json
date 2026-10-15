@@ -1,0 +1,17 @@
+{
+	"id": "arcane-scuttle-crab",
+	"name": "Arcane Scuttle Crab",
+	"kind": "other",
+	"creator": "moga",
+	"description": "### Overview:\n\n* Brings back the Arcane themed Scuttle Crab because the painted crab is way cooler.\n\n[Click to see all my other totally sick mods.](https://runeforge.dev/users/Moga/mods?page=0\\&sortBy=download_count)\n\n#\n\n### Mod Information:\n\nAuthor: Moga\n\nMod Version: 15.9.1.0\n\nhttps://discord.gg/gSXbEmPQCA\n\n---\n\n**Created by** [Moga](https://runeforge.dev/users/Moga)\n\n**Original:** https://runeforge.dev/mods/59207655-ba3f-44c3-86da-135a7b9392d1\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/arcane-scuttle-crab/thumb.webp?v=4cbc126b",
+	"file": {
+		"version": 1,
+		"asset": "arcane-scuttle-crab-v1.fantome",
+		"size": 1839685,
+		"sha256": "52bfe4ad0bf4fd9ec7715a53aca245d8c49c4ece0c3e1ec58f7bffbdbdde48b7"
+	}
+}

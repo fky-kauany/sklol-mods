@@ -1,0 +1,17 @@
+{
+	"id": "arcane-voicelines-for-caitlyn",
+	"name": "Arcane Voicelines for Caitlyn",
+	"kind": "sounds",
+	"creator": "rat-departttment",
+	"description": "Replaces all Caitlyn lines and grunts with ones from the show. Including Pulsefire Caitlyn and Battle Academia Caitlyn.\r\n\r\nThis mod uses audio owned by Riot Games\n\n---\n\n**Created by** [rat_departttment](https://runeforge.dev/users/rat_departttment)\n\n**Original:** https://runeforge.dev/mods/24371b0b-2e48-4703-b8e4-9c4a3cd739e4\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/arcane-voicelines-for-caitlyn/thumb.webp?v=43dcefc5",
+	"file": {
+		"version": 1,
+		"asset": "arcane-voicelines-for-caitlyn-v1.fantome",
+		"size": 6209246,
+		"sha256": "b678124c6ea94186b0c957b0881b5cef0ee9b3bfc796a6c3397e3146e5ab6dd1"
+	}
+}

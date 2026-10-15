@@ -1,0 +1,17 @@
+{
+	"id": "anima-squad-font",
+	"name": "Anima Squad Font",
+	"kind": "fonts",
+	"creator": "atakzlky",
+	"description": "# INFO\n\n***\n\n***\n\n* **Modified Ui: Font**\n* Authors: AtaKzlky\n* Mod Version: 1.0\n\n## ADDITIONAL INFO\n\n***\n\n***\n\nIf you have any questions or request about the mod you can contact me through discord dm or the RuneForge server.\n\nDiscord : atakzlky\n\n---\n\n**Created by** [AtaKzlky](https://runeforge.dev/users/AtaKzlky)\n\n**Original:** https://runeforge.dev/mods/4a3d880a-006d-461d-a75b-b602d0749d7a\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/anima-squad-font/thumb.webp?v=289ec764",
+	"file": {
+		"version": 1,
+		"asset": "anima-squad-font-v1.fantome",
+		"size": 55480,
+		"sha256": "dedc77eb36ef7ec9416dc02363e3d476edde32d090bc5a84a8039c8218fa4f62"
+	}
+}

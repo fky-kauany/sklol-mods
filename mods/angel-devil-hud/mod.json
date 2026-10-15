@@ -1,0 +1,17 @@
+{
+	"id": "angel-devil-hud",
+	"name": "Angel Devil HUD",
+	"kind": "ui",
+	"creator": "notcoconut",
+	"description": "### Angel Devil (Chainsaw Man) HUD\n\n---\n\n**Created by** [NotCoconut](https://www.divineskins.gg/NotCoconut)\n\n**Original:** https://www.divineskins.gg/NotCoconut/angel-devil-hud\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/angel-devil-hud/thumb.webp?v=135295ac",
+	"file": {
+		"version": 1,
+		"asset": "angel-devil-hud-v1.fantome",
+		"size": 6774412,
+		"sha256": "dee7ef87da30c313f819287b394bc0aacb38554d8c564a62ca1f38998fb1cddc"
+	}
+}

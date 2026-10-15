@@ -1,0 +1,17 @@
+{
+	"id": "arcane-chronobreak",
+	"name": "Arcane Chronobreak",
+	"kind": "sounds",
+	"creator": "cyanidepillz",
+	"description": "replaces arcane firelight, last stand and base ekko with arcane's rewind SFX from S2EP9\n\n---\n\n**Created by** [CyanidePillz](https://runeforge.dev/users/CyanidePillz)\n\n**Original:** https://runeforge.dev/mods/cfc62d98-4acb-4cb2-ac1c-cdae6d3c1c31\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/arcane-chronobreak/thumb.webp?v=67d81c51",
+	"file": {
+		"version": 1,
+		"asset": "arcane-chronobreak-v1.fantome",
+		"size": 4664134,
+		"sha256": "0a368ef940edae7d576c8a3cfdf94789c38967f8be04c9692a3e400ff932e4fe"
+	}
+}

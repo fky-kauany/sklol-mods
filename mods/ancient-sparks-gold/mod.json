@@ -1,0 +1,17 @@
+{
+	"id": "ancient-sparks-gold",
+	"name": "Ancient Sparks Gold",
+	"kind": "ui",
+	"creator": "yuumi",
+	"description": "I LOVE GAMBLING I LOVE GAMBLING I LOVE GAMBLING I LOVE GAMBLING I LOVE GAMBLING I LOVE GAMBLING I LOVE GAMBLING I LOVE GAMBLING I LOVE GAMBLING I LOVE GAMBLING I LOVE GAMBLING I LOVE GAMBLING I LOVE GAMBLING I LOVE GAMBLING I LOVE GAMBLING I LOVE GAMBLING I LOVE GAMBLING I LOVE GAMBLING I LOVE GAMBLING I LOVE GAMBLING I LOVE GAMBLING I LOVE GAMBLING I LOVE GAMBLING I LOVE GAMBLING I LOVE GAMBLING I LOVE GAMBLING&#x20;\n\n---\n\n**Created by** [Yuumi](https://runeforge.dev/users/yuumi)\n\n**Original:** https://runeforge.dev/mods/ada992a8-fe99-475c-b2d6-14371dfdda81\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/ancient-sparks-gold/thumb.webp?v=531c1c37",
+	"file": {
+		"version": 1,
+		"asset": "ancient-sparks-gold-v1.fantome",
+		"size": 27834,
+		"sha256": "0b265b7c53104b21db97eb7443315ada806e6492e70d8fc80f253ea41639252a"
+	}
+}

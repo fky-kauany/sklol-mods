@@ -1,0 +1,17 @@
+{
+	"id": "anima-squad-bgm-swarm",
+	"name": "Anima Squad BGM - Swarm",
+	"kind": "other",
+	"creator": "matthewchasm",
+	"description": "A scuffed Anima Squad bgm using Summoner's Rift Updated Theme Music. To use, go to settings > sounds (under in-game tab if on client) > set Summoner's Rift Theme Music to Updated (scroll to bottom). Compatible and best complimented with the Anima Squad rift mod. Featuring music from Riot's Anima Squad 2024 Swarm event.\n\n---\n\n**Created by** [MatthewChasm](https://runeforge.dev/users/MatthewChasm)\n\n**Original:** https://runeforge.dev/mods/85ca9e66-07b9-4101-a130-58883af0e90e\n\n**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/anima-squad-bgm-swarm/thumb.webp?v=bc7584b8",
+	"file": {
+		"version": 1,
+		"asset": "anima-squad-bgm-swarm-v1.fantome",
+		"size": 27155141,
+		"sha256": "63ec31b18df8cd94e50d7f13fa4e1117328fcac2300e5a8edaf537992716dd48"
+	}
+}

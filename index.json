@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-15T07:17:24.685Z",
+	"generatedAt": "2026-10-15T07:20:34.981Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -51,6 +51,19 @@
 				"youtube": "https://www.youtube.com/@AropatnikCustoms"
 			}
 		},
+		"atakzlky": {
+			"name": "AtaKzlky",
+			"avatar": "creators/atakzlky.jpg?v=be4d94a3",
+			"bio": "I wanna live in Japan",
+			"links": {}
+		},
+		"cyanidepillz": {
+			"name": "CyanidePillz",
+			"avatar": "creators/cyanidepillz.png?v=622b7ea4",
+			"links": {
+				"youtube": "https://youtu.be/QB0MbvKIQSg"
+			}
+		},
 		"dithz": {
 			"name": "DithZ",
 			"avatar": "creators/dithz.png?v=bb332928",
@@ -91,6 +104,13 @@
 				"youtube": "https://www.youtube.com/watch?v=ZlTIpkrUst4"
 			}
 		},
+		"matthewchasm": {
+			"name": "MatthewChasm",
+			"avatar": "creators/matthewchasm.jpg?v=00a0b2f1",
+			"links": {
+				"youtube": "https://www.youtube.com/watch?v=qr2YUL-taMM"
+			}
+		},
 		"miyu": {
 			"name": "miyu",
 			"avatar": "creators/miyu.jpg?v=d9f3cb31",
@@ -108,6 +128,12 @@
 				"site": "https://runeforge.dev/mods?search=agomsmoga"
 			}
 		},
+		"notcoconut": {
+			"name": "NotCoconut",
+			"avatar": "creators/notcoconut.webp?v=3212d014",
+			"bio": "discord: clarityandwings",
+			"links": {}
+		},
 		"pico-senpai": {
 			"name": "Pico Senpai",
 			"avatar": "creators/pico-senpai.jpg?v=c1e05f18",
@@ -117,6 +143,10 @@
 				"site": "https://static.wixstatic.com/media/e2a744_abb27c3529754e04ab6ad06fd9c7ab56~mv2.png/v1/fill/w_740,h_416,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e2a744_abb27c3529754e04ab6ad06fd9c7ab56~mv2.png",
 				"youtube": "https://youtu.be/v681bCoQxPA"
 			}
+		},
+		"rat-departttment": {
+			"name": "rat_departttment",
+			"links": {}
 		},
 		"rengoku-kyojuro": {
 			"name": "Rengoku_Kyojuro",
@@ -142,6 +172,14 @@
 				"youtube": "https://youtu.be/EHlL1B8c4yc"
 			}
 		},
+		"suriin": {
+			"name": "Suriin",
+			"avatar": "creators/suriin.jpg?v=63398f9b",
+			"bio": "## Ahai,\n\n\nI usually make custom skins when something annoys me and I want to fix it, so most often its connected to VFX colors, textures and small model tweaks.\n\n---\n\n## Donations appreciated!\n\n\nPayPal: [paypal.me/SuriinRuneforge](https://paypal.me/SuriinRuneforge)\n\nKo-fi: [ko-fi.com/suriinruneforge](https://ko-fi.com/suriinruneforge)\n\n---\n\n*~Count your blessings, keep 'em sweet*",
+			"links": {
+				"kofi": "https://ko-fi.com/suriinruneforge"
+			}
+		},
 		"wastedwaffle": {
 			"name": "WastedWaffle",
 			"avatar": "creators/wastedwaffle.jpg?v=802af1c0",
@@ -152,6 +190,12 @@
 			"links": {
 				"youtube": "https://www.youtube.com/watch?v=u1xubr1uGcM&pp=ygUgdGZ0IGxlIGJ1bm55IGJvbmJvbiBiaXN0cm8gbXVzaWM%3D"
 			}
+		},
+		"yuumi": {
+			"name": "Yuumi",
+			"avatar": "creators/yuumi.png?v=cffa7077",
+			"bio": "Cute Cat, Yuumi OTP, Sitting on a lot a lot of custom skins and knowledge about them. Inactive.",
+			"links": {}
 		}
 	},
 	"mods": [
@@ -680,6 +724,181 @@
 				"asset": "amelia-watson-paladins-announcer-pack-v1.fantome",
 				"size": 6396194,
 				"sha256": "7ac0f15918f5b033bb15456a18e640f6d81fa71d8d0643cb410765f920f09849"
+			}
+		},
+		{
+			"id": "ancient-sparks-gold",
+			"name": "Ancient Sparks Gold",
+			"kind": "ui",
+			"creator": "yuumi",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/ancient-sparks-gold/thumb.webp?v=531c1c37",
+			"file": {
+				"version": 1,
+				"asset": "ancient-sparks-gold-v1.fantome",
+				"size": 27834,
+				"sha256": "0b265b7c53104b21db97eb7443315ada806e6492e70d8fc80f253ea41639252a"
+			}
+		},
+		{
+			"id": "angel-devil-hud",
+			"name": "Angel Devil HUD",
+			"kind": "ui",
+			"creator": "notcoconut",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/angel-devil-hud/thumb.webp?v=135295ac",
+			"file": {
+				"version": 1,
+				"asset": "angel-devil-hud-v1.fantome",
+				"size": 6774412,
+				"sha256": "dee7ef87da30c313f819287b394bc0aacb38554d8c564a62ca1f38998fb1cddc"
+			}
+		},
+		{
+			"id": "anima-squad-bgm-swarm",
+			"name": "Anima Squad BGM - Swarm",
+			"kind": "other",
+			"creator": "matthewchasm",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/anima-squad-bgm-swarm/thumb.webp?v=bc7584b8",
+			"file": {
+				"version": 1,
+				"asset": "anima-squad-bgm-swarm-v1.fantome",
+				"size": 27155141,
+				"sha256": "63ec31b18df8cd94e50d7f13fa4e1117328fcac2300e5a8edaf537992716dd48"
+			}
+		},
+		{
+			"id": "anima-squad-font",
+			"name": "Anima Squad Font",
+			"kind": "fonts",
+			"creator": "atakzlky",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/anima-squad-font/thumb.webp?v=289ec764",
+			"file": {
+				"version": 1,
+				"asset": "anima-squad-font-v1.fantome",
+				"size": 55480,
+				"sha256": "dedc77eb36ef7ec9416dc02363e3d476edde32d090bc5a84a8039c8218fa4f62"
+			}
+		},
+		{
+			"id": "arabic-announcer",
+			"name": "Arabic Announcer",
+			"kind": "announcer",
+			"creator": "aropatnik",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/arabic-announcer/thumb.webp?v=f6769948",
+			"file": {
+				"version": 1,
+				"asset": "arabic-announcer-v1.fantome",
+				"size": 62388378,
+				"sha256": "30ce8100aa739c411b46efa1cd5b1784eebcf391a04db31a7bbdde5da0ecc304"
+			}
+		},
+		{
+			"id": "arcade-minions",
+			"name": "Arcade Minions",
+			"kind": "mobs",
+			"creator": "moga",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/arcade-minions/thumb.webp?v=2c3dbee2",
+			"file": {
+				"version": 1,
+				"asset": "arcade-minions-v1.fantome",
+				"size": 17787703,
+				"sha256": "673559c7cb41cd45f393d20dadf794531e3cc11b4e5a8d9b164f25492773fe10"
+			},
+			"maps": [
+				11,
+				12,
+				35
+			]
+		},
+		{
+			"id": "arcana-ahri-chroma-vfx",
+			"name": "Arcana Ahri chroma VFX",
+			"kind": "other",
+			"creator": "suriin",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/arcana-ahri-chroma-vfx/thumb.webp?v=4f18a944",
+			"file": {
+				"version": 1,
+				"asset": "arcana-ahri-chroma-vfx-v1.fantome",
+				"size": 36522851,
+				"sha256": "02e9c477880412a5abbc2f034bf3aece96017d67e8eee0cdc00175a470adb30d"
+			}
+		},
+		{
+			"id": "arcane-chronobreak",
+			"name": "Arcane Chronobreak",
+			"kind": "sounds",
+			"creator": "cyanidepillz",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/arcane-chronobreak/thumb.webp?v=67d81c51",
+			"file": {
+				"version": 1,
+				"asset": "arcane-chronobreak-v1.fantome",
+				"size": 4664134,
+				"sha256": "0a368ef940edae7d576c8a3cfdf94789c38967f8be04c9692a3e400ff932e4fe"
+			}
+		},
+		{
+			"id": "arcane-scuttle-crab",
+			"name": "Arcane Scuttle Crab",
+			"kind": "other",
+			"creator": "moga",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/arcane-scuttle-crab/thumb.webp?v=4cbc126b",
+			"file": {
+				"version": 1,
+				"asset": "arcane-scuttle-crab-v1.fantome",
+				"size": 1839685,
+				"sha256": "52bfe4ad0bf4fd9ec7715a53aca245d8c49c4ece0c3e1ec58f7bffbdbdde48b7"
+			}
+		},
+		{
+			"id": "arcane-voicelines-for-caitlyn",
+			"name": "Arcane Voicelines for Caitlyn",
+			"kind": "sounds",
+			"creator": "rat-departttment",
+			"patch": "16.20",
+			"publishedAt": "2026-10-15",
+			"updatedAt": "2026-10-15",
+			"downloads": 0,
+			"thumb": "mods/arcane-voicelines-for-caitlyn/thumb.webp?v=43dcefc5",
+			"file": {
+				"version": 1,
+				"asset": "arcane-voicelines-for-caitlyn-v1.fantome",
+				"size": 6209246,
+				"sha256": "b678124c6ea94186b0c957b0881b5cef0ee9b3bfc796a6c3397e3146e5ab6dd1"
 			}
 		}
 	]

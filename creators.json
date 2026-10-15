@@ -48,6 +48,19 @@
 			"youtube": "https://www.youtube.com/@AropatnikCustoms"
 		}
 	},
+	"atakzlky": {
+		"name": "AtaKzlky",
+		"avatar": "creators/atakzlky.jpg?v=be4d94a3",
+		"bio": "I wanna live in Japan",
+		"links": {}
+	},
+	"cyanidepillz": {
+		"name": "CyanidePillz",
+		"avatar": "creators/cyanidepillz.png?v=622b7ea4",
+		"links": {
+			"youtube": "https://youtu.be/QB0MbvKIQSg"
+		}
+	},
 	"dithz": {
 		"name": "DithZ",
 		"avatar": "creators/dithz.png?v=bb332928",
@@ -88,6 +101,13 @@
 			"youtube": "https://www.youtube.com/watch?v=ZlTIpkrUst4"
 		}
 	},
+	"matthewchasm": {
+		"name": "MatthewChasm",
+		"avatar": "creators/matthewchasm.jpg?v=00a0b2f1",
+		"links": {
+			"youtube": "https://www.youtube.com/watch?v=qr2YUL-taMM"
+		}
+	},
 	"miyu": {
 		"name": "miyu",
 		"avatar": "creators/miyu.jpg?v=d9f3cb31",
@@ -105,6 +125,12 @@
 			"site": "https://runeforge.dev/mods?search=agomsmoga"
 		}
 	},
+	"notcoconut": {
+		"name": "NotCoconut",
+		"avatar": "creators/notcoconut.webp?v=3212d014",
+		"bio": "discord: clarityandwings",
+		"links": {}
+	},
 	"pico-senpai": {
 		"name": "Pico Senpai",
 		"avatar": "creators/pico-senpai.jpg?v=c1e05f18",
@@ -114,6 +140,10 @@
 			"site": "https://static.wixstatic.com/media/e2a744_abb27c3529754e04ab6ad06fd9c7ab56~mv2.png/v1/fill/w_740,h_416,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e2a744_abb27c3529754e04ab6ad06fd9c7ab56~mv2.png",
 			"youtube": "https://youtu.be/v681bCoQxPA"
 		}
+	},
+	"rat-departttment": {
+		"name": "rat_departttment",
+		"links": {}
 	},
 	"rengoku-kyojuro": {
 		"name": "Rengoku_Kyojuro",
@@ -139,6 +169,14 @@
 			"youtube": "https://youtu.be/EHlL1B8c4yc"
 		}
 	},
+	"suriin": {
+		"name": "Suriin",
+		"avatar": "creators/suriin.jpg?v=63398f9b",
+		"bio": "## Ahai,\n\n\nI usually make custom skins when something annoys me and I want to fix it, so most often its connected to VFX colors, textures and small model tweaks.\n\n---\n\n## Donations appreciated!\n\n\nPayPal: [paypal.me/SuriinRuneforge](https://paypal.me/SuriinRuneforge)\n\nKo-fi: [ko-fi.com/suriinruneforge](https://ko-fi.com/suriinruneforge)\n\n---\n\n*~Count your blessings, keep 'em sweet*",
+		"links": {
+			"kofi": "https://ko-fi.com/suriinruneforge"
+		}
+	},
 	"wastedwaffle": {
 		"name": "WastedWaffle",
 		"avatar": "creators/wastedwaffle.jpg?v=802af1c0",
@@ -149,5 +187,11 @@
 		"links": {
 			"youtube": "https://www.youtube.com/watch?v=u1xubr1uGcM&pp=ygUgdGZ0IGxlIGJ1bm55IGJvbmJvbiBiaXN0cm8gbXVzaWM%3D"
 		}
+	},
+	"yuumi": {
+		"name": "Yuumi",
+		"avatar": "creators/yuumi.png?v=cffa7077",
+		"bio": "Cute Cat, Yuumi OTP, Sitting on a lot a lot of custom skins and knowledge about them. Inactive.",
+		"links": {}
 	}
 }

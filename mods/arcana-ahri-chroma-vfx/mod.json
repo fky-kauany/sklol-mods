@@ -1,0 +1,17 @@
+{
+	"id": "arcana-ahri-chroma-vfx",
+	"name": "Arcana Ahri chroma VFX",
+	"kind": "other",
+	"creator": "suriin",
+	"description": "## Important info\n\nNow there is only 1 file to download and it works for all chromas including base.\n\n## Description\n\n**Author**: Suriin\n\n**Skin**: Arcana Ahri\n\n**Affects**: VFX colors\n\nChanged the particles to make them match the chosen chroma. Ruby chroma is not shown on the thumbnail but it is included in the files.\n\n---\n\nVersions (chromas)\n\n- 9.0.0 - Master file (all chromas)\n- 8.0.0 - Magenta/Berry particles, meant for the Ruby chroma\n- 7.0.0 - Pink particles, meant for the Rose Quartz chroma\n- 6.0.0 - Purple particles, meant for the Tanzanite chroma\n- 5.0.0 - Dark blue particles, meant for the Obsidian chroma\n- 4.0.0 - Blue particles, meant for the Sapphire chroma\n- 3.0.0 - Teal particles, meant for the Turquoise chroma\n- 2.0.0 - Green particles, meant for the Emerald chroma\n- 1.0.0 - Yellow particles, meant for the Catseye chroma\n\n---\n\n## Contact\nIf you have any issues or questions you can message me on discord: .suriin Just make sure you are on the RuneForge server.\n\n---\n\n### You can support me on Ko-Fi [ko-fi.com/suriinruneforge](https://ko-fi.com/suriinruneforge) <3\n\n---\n\n**Created by** [Suriin](https://runeforge.dev/users/Suriin)\n\n**Original:** https://runeforge.dev/mods/986844a7-14b3-404e-ba1a-b05e50f2e461\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/arcana-ahri-chroma-vfx/thumb.webp?v=4f18a944",
+	"file": {
+		"version": 1,
+		"asset": "arcana-ahri-chroma-vfx-v1.fantome",
+		"size": 36522851,
+		"sha256": "02e9c477880412a5abbc2f034bf3aece96017d67e8eee0cdc00175a470adb30d"
+	}
+}

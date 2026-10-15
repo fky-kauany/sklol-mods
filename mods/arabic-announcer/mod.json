@@ -1,0 +1,17 @@
+{
+	"id": "arabic-announcer",
+	"name": "Arabic Announcer",
+	"kind": "announcer",
+	"creator": "aropatnik",
+	"description": "## Information\n\n**Changes the Summoners Rift, ARAMand Arena announcers to Arabic**\n\n**The version number is the patch it was made for**\n\n**Author: Aropatnik**\n\n## Issues\n\nIf/When this mod breaks let me know\n\nDiscord: aropatnik\n\nYoutube: [https://www.youtube.com/@AropatnikCustoms](https://www.youtube.com/@AropatnikCustoms)\n\n## Support\n\nIf you wish to support me monetarily on my League modding journey you can do so via Ko-fi: [https://ko-fi.com/aropatnik](https://ko-fi.com/aropatnik)\n\n---\n\n**Created by** [Aropatnik](https://runeforge.dev/users/Aropatnik)\n\n**Original:** https://runeforge.dev/mods/26c953c2-4dc7-4e0a-b95e-a0db42c6429c\n\n**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/arabic-announcer/thumb.webp?v=f6769948",
+	"file": {
+		"version": 1,
+		"asset": "arabic-announcer-v1.fantome",
+		"size": 62388378,
+		"sha256": "30ce8100aa739c411b46efa1cd5b1784eebcf391a04db31a7bbdde5da0ecc304"
+	}
+}

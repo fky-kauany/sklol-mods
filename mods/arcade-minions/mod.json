@@ -1,0 +1,22 @@
+{
+	"id": "arcade-minions",
+	"name": "Arcade Minions",
+	"kind": "mobs",
+	"creator": "moga",
+	"description": "###\nArcade Event Minions (✿^‿^)\n\n#\n\n### Overview:\n\n* Works on ALL minion skins, so other maps, like Noxus Rift, will have these if given load priority.\n* Works in ALL Game Modes! - SR - ARAM - BRAWL\n\nPlease report bugs\n\n#\nClick either image below to use the other minion skins      ᓚᘏᗢ ♡ ᗢᘏᓗ\n\nhttps://runeforge.dev/mods/1ea78257-b704-4dab-ae40-992e6e269221\nhttps://runeforge.dev/mods/587042b0-860e-4ade-adc5-0d24ac3fd9d9\n\nhttps://discord.gg/gSXbEmPQCA\n\n---\n\n**Created by** [Moga](https://runeforge.dev/users/Moga)\n\n**Original:** https://runeforge.dev/mods/24b2d9c2-6705-49f1-80f8-b46e27b3a859\n\n**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified (the original package).",
+	"patch": "16.20",
+	"publishedAt": "2026-10-15",
+	"updatedAt": "2026-10-15",
+	"thumb": "mods/arcade-minions/thumb.webp?v=2c3dbee2",
+	"file": {
+		"version": 1,
+		"asset": "arcade-minions-v1.fantome",
+		"size": 17787703,
+		"sha256": "673559c7cb41cd45f393d20dadf794531e3cc11b4e5a8d9b164f25492773fe10"
+	},
+	"maps": [
+		11,
+		12,
+		35
+	]
+}
