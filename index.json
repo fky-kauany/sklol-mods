@@ -1293,7 +1293,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-15",
-			"downloads": 0,
+			"downloads": 1,
 			"thumb": "mods/7-4-parry-without-reason/thumb.webp?v=c9e6a4af",
 			"file": {
 				"version": 1,
@@ -1463,7 +1463,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-15",
-			"downloads": 0,
+			"downloads": 1,
 			"thumb": "mods/again-viego/thumb.webp?v=3d7f4a4d",
 			"file": {
 				"version": 1,
@@ -3069,7 +3069,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-15",
-			"downloads": 0,
+			"downloads": 2,
 			"thumb": "mods/challenger-recall/thumb.webp?v=e076d008",
 			"file": {
 				"version": 1,
@@ -8498,7 +8498,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-15",
-			"downloads": 0,
+			"downloads": 1,
 			"thumb": "mods/no-honor/thumb.webp?v=2d3a96ba",
 			"file": {
 				"version": 1,
@@ -8515,7 +8515,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-15",
-			"downloads": 1,
+			"downloads": 2,
 			"thumb": "mods/no-honor-or-challenger-recall/thumb.webp?v=dae2b756",
 			"file": {
 				"version": 1,
