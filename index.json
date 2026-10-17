@@ -8491,23 +8491,6 @@
 			}
 		},
 		{
-			"id": "no-honor",
-			"name": "No Honor",
-			"kind": "other",
-			"creator": "frogcs",
-			"patch": "16.20",
-			"publishedAt": "2026-10-15",
-			"updatedAt": "2026-10-15",
-			"downloads": 1,
-			"thumb": "mods/no-honor/thumb.webp?v=2d3a96ba",
-			"file": {
-				"version": 1,
-				"asset": "no-honor-v1.fantome",
-				"size": 313832,
-				"sha256": "628afd65a45137fd1da0680ac64bc660554c4b1a2bf68e5e1534fa84117e90e9"
-			}
-		},
-		{
 			"id": "no-honor-or-challenger-recall",
 			"name": "No Honor or Challenger Recall",
 			"kind": "other",
