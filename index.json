@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-27T03:12:56.236Z",
+	"generatedAt": "2026-10-27T03:57:59.009Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -7795,21 +7795,20 @@
 			"name": "Minecraft Minions",
 			"kind": "maps",
 			"creator": "frog",
-			"patch": "16.20",
+			"patch": "16.21",
 			"publishedAt": "2026-10-15",
-			"updatedAt": "2026-10-15",
+			"updatedAt": "2026-10-27",
 			"downloads": 0,
 			"thumb": "mods/minecraft-minions/thumb.webp?v=8a98bf3d",
 			"file": {
-				"version": 1,
-				"asset": "minecraft-minions-v1.fantome",
-				"size": 8382120,
-				"sha256": "a3057ff4e41b1aa98ef8d1477c26657a36be5d438bb059f13a30129562f40f5a"
+				"version": 2,
+				"asset": "minecraft-minions-v2.modpkg",
+				"size": 6165081,
+				"sha256": "141871bfb675a6f015b541cdcd66f8ea59e26f34ded6478765d4e13a70e47900"
 			},
 			"maps": [
 				11,
-				12,
-				35
+				12
 			]
 		},
 		{
