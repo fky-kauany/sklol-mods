@@ -4,17 +4,20 @@
 	"kind": "maps",
 	"creator": "thekillerey",
 	"description": "# Welcome to Winter Rift 2025 (Season 5) - Day Version:\r\n\r\n## INFO:\r\nMap Forcer is needed to play this mod! Download here: [Mod Link](https://runeforge.dev/mods/d410324f-3b6d-4dde-9f2e-fad097454ae4)\r\n\r\nProject Rey Discord: [Invite](https://discord.gg/pjXSSsmwPF)\r\n\r\n## \r\nDownload and conquer the snow in this chilling showcase of Summoner's Rift's winter side!\r\n\r\n## About the Mod:\r\n\r\nExplore Winter Rift 2025, a frosty transformation of the classic 2017 version. Immerse yourself in the icy depths of Summoner's Rift with this custom map skin, featuring a captivating recolor inspired by the cold mysteries of the Rift.\r\n\r\n## Changes:\r\n\r\n* Full recolor of the Summoners Rift map to Snowdown 2017\r\n* All Jungle Camps and Mobs are supported and fully recolored\r\n* Snowdown Minions\r\n* Snowdown Turrets / Nexus & Inhibitors\r\n* Default Map&#x20;\r\n* Default Turrets & Minions\r\n* Runeforge ground on topside\r\n* Snow Particles\r\n\r\n## Credits:\r\n\r\n* TheKillerey - Full map recovery&#x20;\r\n* Nagi - Creating topside Runeforge ground\r\n* BlooJae - Giving me the Runeforge ground from 2024 version\r\n* Xllwd - Fixing the default turret's destruction\n\n---\n\n**Created by** [TheKillerey](https://runeforge.dev/users/TheKillerey)\n\n**Original:** https://runeforge.dev/mods/0bb4438f-2b88-4298-88d4-f7ec6dbd284f\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
-	"patch": "16.20",
+	"patch": "16.21",
 	"publishedAt": "2026-10-15",
-	"updatedAt": "2026-10-15",
+	"updatedAt": "2026-10-26",
 	"thumb": "mods/winter-rift-2025-season-5/thumb.webp?v=89a450c3",
 	"file": {
-		"version": 1,
-		"asset": "winter-rift-2025-season-5-v1.fantome",
-		"size": 234367938,
-		"sha256": "5f7cfe4d0b4f0d5b3d3f0bcbaa69a1fd772ae8066e8ff4bc7c02f6aff846875b"
+		"version": 2,
+		"asset": "winter-rift-2025-season-5-v2.fantome",
+		"size": 234370163,
+		"sha256": "576fd3f9f78e0646284ef5f229dea85ead53c7d37526d994e62e03b469951fe2"
 	},
 	"maps": [
 		11
+	],
+	"requires": [
+		"map-forcer"
 	]
 }

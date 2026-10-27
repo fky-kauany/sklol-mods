@@ -16,5 +16,8 @@
 	},
 	"maps": [
 		11
+	],
+	"requires": [
+		"map-forcer"
 	]
 }

@@ -4,17 +4,20 @@
 	"kind": "maps",
 	"creator": "thekillerey",
 	"description": "# Old Summoners Rift V2 - Day Version\n\n## INFO:\nMap Forcer is needed to play this mod! Download here: [Mod Link](https://runeforge.dev/mods/d410324f-3b6d-4dde-9f2e-fad097454ae4)\n\nGithub Download: [Old Summoners Rift V2 - Github](https://github.com/TheKillerey/Old-Summoners-Rift-V2/releases) \n\nProject Rey Discord: [Invite](https://discord.gg/pjXSSsmwPF)\n\n##  \nWelcome to the **Old Summoners Rift V2** custom skin mod! This mod brings back the nostalgia of the classic Summoner's Rift with enhanced features and updated visuals. Relive the old days with updated textures, particles, and sounds that give you the classic feel while maintaining modern-day performance.\n\n\n\n## Patches:\n\nFully loads into Patch 25.S1.2 for every Server including Asian Servers\n\n[](https://github.com/TheKillerey/Old-Summoners-Rift-V2#loads-for-riots-patch-1424---china-should-also-work-including-practice-tool)\n\nPlease check your csmanager if there are some other issues. If you have ingame crashes report it on my Discord.\n\n\n\n## Features:\n\n[](https://github.com/TheKillerey/Old-Summoners-Rift-V2#features)\n\n* **Classic Map Textures**: Experience the old Summoner's Rift with all its classic textures, including jungle camps, Baron and Dragons.\n* **Old Structures**: Enjoy the nostalgia of the old turrets, inhibitors, and Nexus, all brought back to life.\n* **Old Particles & Effects**: Original particles and visual effects for a fully immersive old experience.\n* **Classic Background Sound Effects**: Classic ambient sounds that bring back memories.\n* **New Baron & Dragon Map Support**: Works pretty good with Riot's latest changes to the Map (Season 15).\n* **Original Grass Color**: Changes the brushes to the original color of the Old Rift.\n* **Old Minimap Style**: Changes the Minimap style to an old version.\n* **Long Time-Support**: I added a feature that allows me to avoid Riot's name changes and after-update crashes. (Not included yet)\n* **Old Loading Screen**: Supports the Old Loading Screen for all map versions. (It's a black loadingscreen)\n\n## Compatibility:\n\n[](https://github.com/TheKillerey/Old-Summoners-Rift-V2#compatibility)\n\n* Works with the latest version of League of Legends 25.S1.2+\n* Tested on various system configurations.\n\n## Known Issues:\n\n[](https://github.com/TheKillerey/Old-Summoners-Rift-V2#known-issues)\n\n* Some minor visual glitches may occur in specific areas.\n* Compatibility with future updates of the game cannot be guaranteed (Riot `.mapgeo` updates).\n* Some spells are not fully visible (Sadly, there is no fix for that yet).\n* Practice tool will have issues `(Invisible Terrain)` when using the dragon/baron versions of the map. This will also happen on the original map.\n* FPS issues can happen randomly per game. Currently we don't know why this happens. Set your Environment Quality to `Medium`\n\n## Credits:\n\n[](https://github.com/TheKillerey/Old-Summoners-Rift-V2#credits)\n\n* **TheKillerey** - Core map features, including jungles, minions, structures, old particles, and background sound effects.\n* **Tom** - Tester & helper.\n* **aryasdemise** - Contributions to jungles, Baron, Dragons, minions, and structures.\n* **tassio** - Contributions to old particles for the old structures and old files, Nexus, Inhibitors.\n* **Leischii** - Helped fix some old particles.\n\n---\n\n**Created by** [TheKillerey](https://runeforge.dev/users/TheKillerey)\n\n**Original:** https://runeforge.dev/mods/3996c181-23dc-4644-bcd0-a916f882db8b\n\n**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Repaired and optimized for SkLoL (game fixes, texture size and compression).",
-	"patch": "16.20",
+	"patch": "16.21",
 	"publishedAt": "2026-10-15",
-	"updatedAt": "2026-10-15",
+	"updatedAt": "2026-10-26",
 	"thumb": "mods/old-summoners-rift-v2-day/thumb.webp?v=df2e7983",
 	"file": {
-		"version": 1,
-		"asset": "old-summoners-rift-v2-day-v1.fantome",
-		"size": 218209654,
-		"sha256": "4b06f2fce5659acf4770130cf1a5bb06f95655975a7519bf27525e8425d79e6e"
+		"version": 2,
+		"asset": "old-summoners-rift-v2-day-v2.fantome",
+		"size": 320932194,
+		"sha256": "b102e26ea36f4f3e016dc5f17ab4cb613ff792223f421718e429036f423d260b"
 	},
 	"maps": [
 		11
+	],
+	"requires": [
+		"map-forcer"
 	]
 }
