@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-27T03:09:07.339Z",
+	"generatedAt": "2026-10-27T03:12:56.236Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -3275,16 +3275,16 @@
 			"name": "Classic Rift - Harrowing",
 			"kind": "maps",
 			"creator": "thekillerey",
-			"patch": "16.20",
+			"patch": "16.21",
 			"publishedAt": "2026-10-15",
-			"updatedAt": "2026-10-15",
+			"updatedAt": "2026-10-27",
 			"downloads": 0,
 			"thumb": "mods/classic-rift-harrowing/thumb.webp?v=6f008f0b",
 			"file": {
-				"version": 1,
-				"asset": "classic-rift-harrowing-v1.fantome",
-				"size": 73977629,
-				"sha256": "8d10a6b1c78cb7dd50ac3cc17bed66cd3ce92aea007319d27af34f4ba6337f1e"
+				"version": 2,
+				"asset": "classic-rift-harrowing-v2.fantome",
+				"size": 71061520,
+				"sha256": "7ed88b10a023d834175d6aeb0c94504238a764bae91e38ce6535be149f21c5f3"
 			},
 			"maps": [
 				453
