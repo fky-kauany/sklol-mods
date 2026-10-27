@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-27T02:56:08.568Z",
+	"generatedAt": "2026-10-27T03:09:07.339Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -1766,16 +1766,16 @@
 			"name": "Anima Squad Rift: Battle for Final City — Recreated",
 			"kind": "maps",
 			"creator": "evilzones",
-			"patch": "16.20",
+			"patch": "16.21",
 			"publishedAt": "2026-10-15",
-			"updatedAt": "2026-10-15",
+			"updatedAt": "2026-10-27",
 			"downloads": 10,
 			"thumb": "mods/anima-squad-rift-battle-for-final-city-recreated/thumb.webp?v=a4741658",
 			"file": {
-				"version": 1,
-				"asset": "anima-squad-rift-battle-for-final-city-recreated-v1.fantome",
-				"size": 395936944,
-				"sha256": "68b6aac0b640750af6880d5f6031990af14a2c41fffe8f332fbd86a8e355912e"
+				"version": 2,
+				"asset": "anima-squad-rift-battle-for-final-city-recreated-v2.fantome",
+				"size": 395691462,
+				"sha256": "4ab443c627f0351282f30963d3ca1aab51fdb6cc9d1b961198675d0b21edfd60"
 			},
 			"maps": [
 				11
@@ -9150,16 +9150,16 @@
 			"name": "Old Summoners Rift V2 - Beach",
 			"kind": "maps",
 			"creator": "thekillerey",
-			"patch": "16.20",
+			"patch": "16.21",
 			"publishedAt": "2026-10-15",
-			"updatedAt": "2026-10-15",
+			"updatedAt": "2026-10-27",
 			"downloads": 1,
 			"thumb": "mods/old-summoners-rift-v2-beach/thumb.webp?v=1a280af1",
 			"file": {
-				"version": 1,
-				"asset": "old-summoners-rift-v2-beach-v1.fantome",
-				"size": 218857822,
-				"sha256": "4fe41b05bf34601ea5e991eb0ed5a555cef43cefd51f391d4294591a6b6f81fd"
+				"version": 2,
+				"asset": "old-summoners-rift-v2-beach-v2.fantome",
+				"size": 332248222,
+				"sha256": "3b642c9f28b15f33dbc338d731340fc9fca1a91007237b19f5690312d1dfb3d5"
 			},
 			"maps": [
 				11
@@ -9173,16 +9173,16 @@
 			"name": "Old Summoners Rift V2 - Cursed",
 			"kind": "maps",
 			"creator": "thekillerey",
-			"patch": "16.20",
+			"patch": "16.21",
 			"publishedAt": "2026-10-15",
-			"updatedAt": "2026-10-15",
+			"updatedAt": "2026-10-27",
 			"downloads": 0,
 			"thumb": "mods/old-summoners-rift-v2-cursed/thumb.webp?v=764c29f7",
 			"file": {
-				"version": 1,
-				"asset": "old-summoners-rift-v2-cursed-v1.fantome",
-				"size": 261683430,
-				"sha256": "f4db00844c73402d14a183f68e31fdcdd40e3d94d512f83fdd0951f5f6c143b7"
+				"version": 2,
+				"asset": "old-summoners-rift-v2-cursed-v2.fantome",
+				"size": 329155510,
+				"sha256": "7ef0654a64750cb3aba1324faf94727ae183248709fa768649311da45cc12e66"
 			},
 			"maps": [
 				11
@@ -9242,16 +9242,16 @@
 			"name": "Old Summoners Rift V2 - Unbound",
 			"kind": "maps",
 			"creator": "thekillerey",
-			"patch": "16.20",
+			"patch": "16.21",
 			"publishedAt": "2026-10-15",
-			"updatedAt": "2026-10-15",
+			"updatedAt": "2026-10-27",
 			"downloads": 0,
 			"thumb": "mods/old-summoners-rift-v2-unbound/thumb.webp?v=89274cd0",
 			"file": {
-				"version": 1,
-				"asset": "old-summoners-rift-v2-unbound-v1.fantome",
-				"size": 195713406,
-				"sha256": "b57c097c29ac3a80d9700975195a4f3145f7e26e3c70f0c372e76589e9e57e1c"
+				"version": 2,
+				"asset": "old-summoners-rift-v2-unbound-v2.fantome",
+				"size": 246762212,
+				"sha256": "7d8faef966302de73c92c1509e2352c8e60f8b628b2a6449a9165bd55b380587"
 			},
 			"maps": [
 				11
@@ -9265,16 +9265,16 @@
 			"name": "Old Summoners Rift V2 - Winter",
 			"kind": "maps",
 			"creator": "thekillerey",
-			"patch": "16.20",
+			"patch": "16.21",
 			"publishedAt": "2026-10-15",
-			"updatedAt": "2026-10-15",
+			"updatedAt": "2026-10-27",
 			"downloads": 0,
 			"thumb": "mods/old-summoners-rift-v2-winter/thumb.webp?v=2bb7663c",
 			"file": {
-				"version": 1,
-				"asset": "old-summoners-rift-v2-winter-v1.fantome",
-				"size": 212944431,
-				"sha256": "d4ae64a55e30e223b2bce22b5b7a7e4112c6fa9d26efb38ef1cf6897dec67cb0"
+				"version": 2,
+				"asset": "old-summoners-rift-v2-winter-v2.fantome",
+				"size": 282201893,
+				"sha256": "c2b9145ea6e06d3e950d25dce3c8669089d73aa976b43b8c9dbfe1ea0fdd6034"
 			},
 			"maps": [
 				11
@@ -13223,16 +13223,16 @@
 			"name": "Winter Rift 2025 - Night",
 			"kind": "maps",
 			"creator": "thekillerey",
-			"patch": "16.20",
+			"patch": "16.21",
 			"publishedAt": "2026-10-15",
-			"updatedAt": "2026-10-15",
+			"updatedAt": "2026-10-27",
 			"downloads": 0,
 			"thumb": "mods/winter-rift-2025-night/thumb.webp?v=40cdf36b",
 			"file": {
-				"version": 1,
-				"asset": "winter-rift-2025-night-v1.fantome",
-				"size": 182207238,
-				"sha256": "a4491687b08f317a5e3d49852c175b8083cf0607331baf813c31aaaf6d27e6c4"
+				"version": 2,
+				"asset": "winter-rift-2025-night-v2.fantome",
+				"size": 182179107,
+				"sha256": "b65523613736b8057f7f8f5b4be1b3adbb23c056aed420a725ddfe1b52fa7f51"
 			},
 			"maps": [
 				11
