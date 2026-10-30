@@ -1208,7 +1208,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-15",
-			"downloads": 0,
+			"downloads": 1,
 			"thumb": "mods/2016-outro-music-recall/thumb.webp?v=ee762161",
 			"file": {
 				"version": 1,
@@ -1225,7 +1225,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-15",
-			"downloads": 0,
+			"downloads": 1,
 			"thumb": "mods/2024-summoner-spells/thumb.webp?v=32a718c8",
 			"file": {
 				"version": 1,
@@ -1429,7 +1429,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-15",
-			"downloads": 0,
+			"downloads": 2,
 			"thumb": "mods/adblock-for-lol/thumb.webp?v=a8c4d160",
 			"file": {
 				"version": 1,
@@ -3851,7 +3851,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-15",
-			"downloads": 4,
+			"downloads": 5,
 			"thumb": "mods/dark-mode-hud/thumb.webp?v=d0b0046d",
 			"file": {
 				"version": 1,
@@ -12808,7 +12808,7 @@
 			"patch": "16.20",
 			"publishedAt": "2026-10-15",
 			"updatedAt": "2026-10-15",
-			"downloads": 18,
+			"downloads": 20,
 			"thumb": "mods/uttumdotum-korean-font/thumb.webp?v=c4ff5ca4",
 			"file": {
 				"version": 1,
