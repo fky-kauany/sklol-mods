@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-10-27T03:57:59.009Z",
+	"generatedAt": "2026-11-06T02:10:47.426Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -3275,16 +3275,16 @@
 			"name": "Classic Rift - Harrowing",
 			"kind": "maps",
 			"creator": "thekillerey",
-			"patch": "16.21",
+			"patch": "16.22",
 			"publishedAt": "2026-10-15",
-			"updatedAt": "2026-10-27",
+			"updatedAt": "2026-11-05",
 			"downloads": 0,
 			"thumb": "mods/classic-rift-harrowing/thumb.webp?v=6f008f0b",
 			"file": {
-				"version": 2,
-				"asset": "classic-rift-harrowing-v2.fantome",
-				"size": 71061520,
-				"sha256": "7ed88b10a023d834175d6aeb0c94504238a764bae91e38ce6535be149f21c5f3"
+				"version": 3,
+				"asset": "classic-rift-harrowing-v3.fantome",
+				"size": 77282799,
+				"sha256": "ea26cb4213a2c2d37fd5e0074870d7b1e2bf24ef84f7888f16902fa354f1cccc"
 			},
 			"maps": [
 				453
@@ -9149,16 +9149,16 @@
 			"name": "Old Summoners Rift V2 - Beach",
 			"kind": "maps",
 			"creator": "thekillerey",
-			"patch": "16.21",
+			"patch": "16.22",
 			"publishedAt": "2026-10-15",
-			"updatedAt": "2026-10-27",
+			"updatedAt": "2026-11-05",
 			"downloads": 1,
 			"thumb": "mods/old-summoners-rift-v2-beach/thumb.webp?v=1a280af1",
 			"file": {
-				"version": 2,
-				"asset": "old-summoners-rift-v2-beach-v2.fantome",
-				"size": 332248222,
-				"sha256": "3b642c9f28b15f33dbc338d731340fc9fca1a91007237b19f5690312d1dfb3d5"
+				"version": 3,
+				"asset": "old-summoners-rift-v2-beach-v3.fantome",
+				"size": 381462472,
+				"sha256": "01c39bf451a54a1a3fa6e60534d21da5956811d165a2b1ab85950b63fe93ecfd"
 			},
 			"maps": [
 				11
@@ -9172,16 +9172,16 @@
 			"name": "Old Summoners Rift V2 - Cursed",
 			"kind": "maps",
 			"creator": "thekillerey",
-			"patch": "16.21",
+			"patch": "16.22",
 			"publishedAt": "2026-10-15",
-			"updatedAt": "2026-10-27",
+			"updatedAt": "2026-11-05",
 			"downloads": 0,
 			"thumb": "mods/old-summoners-rift-v2-cursed/thumb.webp?v=764c29f7",
 			"file": {
-				"version": 2,
-				"asset": "old-summoners-rift-v2-cursed-v2.fantome",
-				"size": 329155510,
-				"sha256": "7ef0654a64750cb3aba1324faf94727ae183248709fa768649311da45cc12e66"
+				"version": 3,
+				"asset": "old-summoners-rift-v2-cursed-v3.fantome",
+				"size": 427807652,
+				"sha256": "b248730d4cd95195531597786e90c8599ab9947a3e1c2ddd2a340b569ad2bdb5"
 			},
 			"maps": [
 				11
@@ -9195,16 +9195,16 @@
 			"name": "Old Summoners Rift V2 - Day",
 			"kind": "maps",
 			"creator": "thekillerey",
-			"patch": "16.21",
+			"patch": "16.22",
 			"publishedAt": "2026-10-15",
-			"updatedAt": "2026-10-26",
+			"updatedAt": "2026-11-05",
 			"downloads": 0,
 			"thumb": "mods/old-summoners-rift-v2-day/thumb.webp?v=df2e7983",
 			"file": {
-				"version": 2,
-				"asset": "old-summoners-rift-v2-day-v2.fantome",
-				"size": 320932194,
-				"sha256": "b102e26ea36f4f3e016dc5f17ab4cb613ff792223f421718e429036f423d260b"
+				"version": 3,
+				"asset": "old-summoners-rift-v2-day-v3.fantome",
+				"size": 361547684,
+				"sha256": "ee16d61c749412a3ef4e583b20843cc78e161999f33061e86ee36528e721dd74"
 			},
 			"maps": [
 				11
@@ -9218,16 +9218,16 @@
 			"name": "Old Summoners Rift V2 - Night",
 			"kind": "maps",
 			"creator": "thekillerey",
-			"patch": "16.21",
+			"patch": "16.22",
 			"publishedAt": "2026-10-15",
-			"updatedAt": "2026-10-26",
+			"updatedAt": "2026-11-05",
 			"downloads": 1,
 			"thumb": "mods/old-summoners-rift-v2-night/thumb.webp?v=8aaa54ed",
 			"file": {
-				"version": 2,
-				"asset": "old-summoners-rift-v2-night-v2.fantome",
-				"size": 263513134,
-				"sha256": "f26db5f5ee161b989abd23b1695509935e5b66acbc7decb05bdbef7c01324b6d"
+				"version": 3,
+				"asset": "old-summoners-rift-v2-night-v3.fantome",
+				"size": 333701644,
+				"sha256": "baa6c8aafae579e6352a18307f0b5052149c533da375cc9aba0d0dca398c9cb0"
 			},
 			"maps": [
 				11
@@ -9241,16 +9241,16 @@
 			"name": "Old Summoners Rift V2 - Unbound",
 			"kind": "maps",
 			"creator": "thekillerey",
-			"patch": "16.21",
+			"patch": "16.22",
 			"publishedAt": "2026-10-15",
-			"updatedAt": "2026-10-27",
+			"updatedAt": "2026-11-05",
 			"downloads": 0,
 			"thumb": "mods/old-summoners-rift-v2-unbound/thumb.webp?v=89274cd0",
 			"file": {
-				"version": 2,
-				"asset": "old-summoners-rift-v2-unbound-v2.fantome",
-				"size": 246762212,
-				"sha256": "7d8faef966302de73c92c1509e2352c8e60f8b628b2a6449a9165bd55b380587"
+				"version": 3,
+				"asset": "old-summoners-rift-v2-unbound-v3.fantome",
+				"size": 294076935,
+				"sha256": "0d01a3c9b50c3ed24186e8fb178629333929f35b99d002f5f65b3eef534412a0"
 			},
 			"maps": [
 				11
@@ -9264,16 +9264,16 @@
 			"name": "Old Summoners Rift V2 - Winter",
 			"kind": "maps",
 			"creator": "thekillerey",
-			"patch": "16.21",
+			"patch": "16.22",
 			"publishedAt": "2026-10-15",
-			"updatedAt": "2026-10-27",
+			"updatedAt": "2026-11-05",
 			"downloads": 0,
 			"thumb": "mods/old-summoners-rift-v2-winter/thumb.webp?v=2bb7663c",
 			"file": {
-				"version": 2,
-				"asset": "old-summoners-rift-v2-winter-v2.fantome",
-				"size": 282201893,
-				"sha256": "c2b9145ea6e06d3e950d25dce3c8669089d73aa976b43b8c9dbfe1ea0fdd6034"
+				"version": 3,
+				"asset": "old-summoners-rift-v2-winter-v3.fantome",
+				"size": 386071291,
+				"sha256": "d4da5575addf0752239b5a5ed7da6b3589613c0adfed89b31c0e62ac85d64af5"
 			},
 			"maps": [
 				11
@@ -13222,16 +13222,16 @@
 			"name": "Winter Rift 2025 - Night",
 			"kind": "maps",
 			"creator": "thekillerey",
-			"patch": "16.21",
+			"patch": "16.22",
 			"publishedAt": "2026-10-15",
-			"updatedAt": "2026-10-27",
+			"updatedAt": "2026-11-05",
 			"downloads": 0,
 			"thumb": "mods/winter-rift-2025-night/thumb.webp?v=40cdf36b",
 			"file": {
-				"version": 2,
-				"asset": "winter-rift-2025-night-v2.fantome",
-				"size": 182179107,
-				"sha256": "b65523613736b8057f7f8f5b4be1b3adbb23c056aed420a725ddfe1b52fa7f51"
+				"version": 3,
+				"asset": "winter-rift-2025-night-v3.fantome",
+				"size": 190475208,
+				"sha256": "56525cc3b87df8c186dfab34a181ff4c6e089abcb315b0e3a594973b2190fa46"
 			},
 			"maps": [
 				11
