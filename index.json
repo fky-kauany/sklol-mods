@@ -4174,16 +4174,16 @@
 			"name": "Default Summoner Rift",
 			"kind": "maps",
 			"creator": "thekillerey",
-			"patch": "16.20",
+			"patch": "16.23",
 			"publishedAt": "2026-10-15",
-			"updatedAt": "2026-10-15",
+			"updatedAt": "2026-11-20",
 			"downloads": 14,
 			"thumb": "mods/default-summoner-rift/thumb.webp?v=1f1d6bdb",
 			"file": {
-				"version": 1,
-				"asset": "default-summoner-rift-v1.fantome",
-				"size": 30938584,
-				"sha256": "4c91b40977254ac6e4461c8ff18e769433be8054c192922b9d2c3123c9adb968"
+				"version": 2,
+				"asset": "default-summoner-rift-v2.modpkg",
+				"size": 28253168,
+				"sha256": "e822063b7fae0c8f557384667461a762d00445a5084d72b0efddbcafc8eeb843"
 			},
 			"maps": [
 				11
