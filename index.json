@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-11-06T02:10:47.426Z",
+	"generatedAt": "2026-11-20T03:18:21.173Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -1766,16 +1766,16 @@
 			"name": "Anima Squad Rift: Battle for Final City — Recreated",
 			"kind": "maps",
 			"creator": "evilzones",
-			"patch": "16.21",
+			"patch": "16.23",
 			"publishedAt": "2026-10-15",
-			"updatedAt": "2026-10-27",
+			"updatedAt": "2026-11-20",
 			"downloads": 18,
 			"thumb": "mods/anima-squad-rift-battle-for-final-city-recreated/thumb.webp?v=a4741658",
 			"file": {
-				"version": 2,
-				"asset": "anima-squad-rift-battle-for-final-city-recreated-v2.fantome",
-				"size": 395691462,
-				"sha256": "4ab443c627f0351282f30963d3ca1aab51fdb6cc9d1b961198675d0b21edfd60"
+				"version": 3,
+				"asset": "anima-squad-rift-battle-for-final-city-recreated-v3.fantome",
+				"size": 396443681,
+				"sha256": "6343c6ab7eeb1578f5b6316f2386b5e1728407c141ebd3976bfcf72427b4c58a"
 			},
 			"maps": [
 				11
@@ -2477,16 +2477,16 @@
 			"name": "Black and White Rift",
 			"kind": "maps",
 			"creator": "aropatnik",
-			"patch": "16.20",
+			"patch": "16.23",
 			"publishedAt": "2026-10-15",
-			"updatedAt": "2026-10-15",
+			"updatedAt": "2026-11-20",
 			"downloads": 21,
 			"thumb": "mods/black-and-white-rift/thumb.webp?v=1087e7e0",
 			"file": {
-				"version": 1,
-				"asset": "black-and-white-rift-v1.fantome",
-				"size": 158751202,
-				"sha256": "e239d8e18d33bdaee88d1ecc7a3942aeb7705531ba5a1d3d4b32a1ffd2d7aede"
+				"version": 2,
+				"asset": "black-and-white-rift-v2.fantome",
+				"size": 304126689,
+				"sha256": "fa86e75db857b6529653d7dfe1aac4ecb52042f9da5f4ff73f0cb68b890046f6"
 			},
 			"maps": [
 				11
@@ -3658,16 +3658,16 @@
 			"name": "Cursed Rift",
 			"kind": "maps",
 			"creator": "aropatnik",
-			"patch": "16.20",
+			"patch": "16.23",
 			"publishedAt": "2026-10-15",
-			"updatedAt": "2026-10-15",
+			"updatedAt": "2026-11-20",
 			"downloads": 3,
 			"thumb": "mods/cursed-rift/thumb.webp?v=74ec3037",
 			"file": {
-				"version": 1,
-				"asset": "cursed-rift-v1.fantome",
-				"size": 195057341,
-				"sha256": "a2a481fae7646e7d7bafc64fd5f9609cb9297cbd7794365b1890a2cab00ebe1a"
+				"version": 2,
+				"asset": "cursed-rift-v2.fantome",
+				"size": 377314819,
+				"sha256": "2dfd86f28c3815bd216363444b7dae2491f7576471ae3065df6cb182d5b466d7"
 			},
 			"maps": [
 				11
@@ -7321,16 +7321,16 @@
 			"name": "Low Res Rift Reborn",
 			"kind": "maps",
 			"creator": "aropatnik",
-			"patch": "16.20",
+			"patch": "16.23",
 			"publishedAt": "2026-10-15",
-			"updatedAt": "2026-10-15",
+			"updatedAt": "2026-11-20",
 			"downloads": 3,
 			"thumb": "mods/low-res-rift-reborn/thumb.webp?v=c939820b",
 			"file": {
-				"version": 1,
-				"asset": "low-res-rift-reborn-v1.fantome",
-				"size": 7586,
-				"sha256": "ffbc77219fb378dbe94690ff544c341b16edf9be7fdca8e64a842fd3a9a95484"
+				"version": 2,
+				"asset": "low-res-rift-reborn-v2.fantome",
+				"size": 136152,
+				"sha256": "347c097f286dd818870ac1dd6be1b7be93b528b7b63d9c782510f8dd1aaa50fa"
 			},
 			"maps": [
 				11
@@ -9149,16 +9149,16 @@
 			"name": "Old Summoners Rift V2 - Beach",
 			"kind": "maps",
 			"creator": "thekillerey",
-			"patch": "16.22",
+			"patch": "16.23",
 			"publishedAt": "2026-10-15",
-			"updatedAt": "2026-11-05",
+			"updatedAt": "2026-11-20",
 			"downloads": 6,
 			"thumb": "mods/old-summoners-rift-v2-beach/thumb.webp?v=1a280af1",
 			"file": {
-				"version": 3,
-				"asset": "old-summoners-rift-v2-beach-v3.fantome",
-				"size": 381462472,
-				"sha256": "01c39bf451a54a1a3fa6e60534d21da5956811d165a2b1ab85950b63fe93ecfd"
+				"version": 4,
+				"asset": "old-summoners-rift-v2-beach-v4.fantome",
+				"size": 381529001,
+				"sha256": "be3cf4d8bb8c07b0be2d6286ffaa8dfdd744114fff775af4ce5a33e53c4f4633"
 			},
 			"maps": [
 				11
@@ -9172,16 +9172,16 @@
 			"name": "Old Summoners Rift V2 - Cursed",
 			"kind": "maps",
 			"creator": "thekillerey",
-			"patch": "16.22",
+			"patch": "16.23",
 			"publishedAt": "2026-10-15",
-			"updatedAt": "2026-11-05",
+			"updatedAt": "2026-11-20",
 			"downloads": 0,
 			"thumb": "mods/old-summoners-rift-v2-cursed/thumb.webp?v=764c29f7",
 			"file": {
-				"version": 3,
-				"asset": "old-summoners-rift-v2-cursed-v3.fantome",
-				"size": 427807652,
-				"sha256": "b248730d4cd95195531597786e90c8599ab9947a3e1c2ddd2a340b569ad2bdb5"
+				"version": 4,
+				"asset": "old-summoners-rift-v2-cursed-v4.fantome",
+				"size": 427873500,
+				"sha256": "e9930aab4269b60ea6695fd03855436ac68df6f2e74e156360d28936f133388c"
 			},
 			"maps": [
 				11
@@ -9195,16 +9195,16 @@
 			"name": "Old Summoners Rift V2 - Day",
 			"kind": "maps",
 			"creator": "thekillerey",
-			"patch": "16.22",
+			"patch": "16.23",
 			"publishedAt": "2026-10-15",
-			"updatedAt": "2026-11-05",
+			"updatedAt": "2026-11-20",
 			"downloads": 0,
 			"thumb": "mods/old-summoners-rift-v2-day/thumb.webp?v=df2e7983",
 			"file": {
-				"version": 3,
-				"asset": "old-summoners-rift-v2-day-v3.fantome",
-				"size": 361547684,
-				"sha256": "ee16d61c749412a3ef4e583b20843cc78e161999f33061e86ee36528e721dd74"
+				"version": 4,
+				"asset": "old-summoners-rift-v2-day-v4.fantome",
+				"size": 361614213,
+				"sha256": "f451e78bb4c9806f80af4cd9dd5548f442bb0e7f3708c9e17183352a9fb66bf2"
 			},
 			"maps": [
 				11
@@ -9241,16 +9241,16 @@
 			"name": "Old Summoners Rift V2 - Unbound",
 			"kind": "maps",
 			"creator": "thekillerey",
-			"patch": "16.22",
+			"patch": "16.23",
 			"publishedAt": "2026-10-15",
-			"updatedAt": "2026-11-05",
+			"updatedAt": "2026-11-20",
 			"downloads": 0,
 			"thumb": "mods/old-summoners-rift-v2-unbound/thumb.webp?v=89274cd0",
 			"file": {
-				"version": 3,
-				"asset": "old-summoners-rift-v2-unbound-v3.fantome",
-				"size": 294076935,
-				"sha256": "0d01a3c9b50c3ed24186e8fb178629333929f35b99d002f5f65b3eef534412a0"
+				"version": 4,
+				"asset": "old-summoners-rift-v2-unbound-v4.fantome",
+				"size": 294142766,
+				"sha256": "fd690bfcb17ad023fec3d33a99c22425e61137ca34db70658f49e7c6245a336f"
 			},
 			"maps": [
 				11
@@ -9264,16 +9264,16 @@
 			"name": "Old Summoners Rift V2 - Winter",
 			"kind": "maps",
 			"creator": "thekillerey",
-			"patch": "16.22",
+			"patch": "16.23",
 			"publishedAt": "2026-10-15",
-			"updatedAt": "2026-11-05",
+			"updatedAt": "2026-11-20",
 			"downloads": 0,
 			"thumb": "mods/old-summoners-rift-v2-winter/thumb.webp?v=2bb7663c",
 			"file": {
-				"version": 3,
-				"asset": "old-summoners-rift-v2-winter-v3.fantome",
-				"size": 386071291,
-				"sha256": "d4da5575addf0752239b5a5ed7da6b3589613c0adfed89b31c0e62ac85d64af5"
+				"version": 4,
+				"asset": "old-summoners-rift-v2-winter-v4.fantome",
+				"size": 386136799,
+				"sha256": "0f5581508556e32e0f029690f76e118f397a03092511034b5e91b5e4c7f68aee"
 			},
 			"maps": [
 				11
@@ -11061,16 +11061,16 @@
 			"name": "Shrek Rift Reborn",
 			"kind": "maps",
 			"creator": "aropatnik",
-			"patch": "16.20",
+			"patch": "16.23",
 			"publishedAt": "2026-10-15",
-			"updatedAt": "2026-10-15",
+			"updatedAt": "2026-11-20",
 			"downloads": 0,
 			"thumb": "mods/shrek-rift-reborn/thumb.webp?v=27e433d8",
 			"file": {
-				"version": 1,
-				"asset": "shrek-rift-reborn-v1.fantome",
-				"size": 107799874,
-				"sha256": "44b915f194eb948116b3b6684961601ae376dc578eafe3f3756862cbf8a67999"
+				"version": 2,
+				"asset": "shrek-rift-reborn-v2.fantome",
+				"size": 186211267,
+				"sha256": "f38ac49fdbfeee50274d89355aaf35c3b4c2b8fff14266cc1378a2e7c815adda"
 			},
 			"maps": [
 				11
