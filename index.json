@@ -1,6 +1,6 @@
 {
 	"schema": 1,
-	"generatedAt": "2026-11-20T03:18:21.173Z",
+	"generatedAt": "2026-11-20T03:19:30.310Z",
 	"creators": {
 		"403": {
 			"name": "403",
@@ -12975,16 +12975,16 @@
 			"name": "Warm Rift",
 			"kind": "maps",
 			"creator": "aropatnik",
-			"patch": "16.20",
+			"patch": "16.23",
 			"publishedAt": "2026-10-15",
-			"updatedAt": "2026-10-15",
+			"updatedAt": "2026-11-20",
 			"downloads": 2,
 			"thumb": "mods/warm-rift/thumb.webp?v=eff4e28d",
 			"file": {
-				"version": 1,
-				"asset": "warm-rift-v1.fantome",
-				"size": 199849580,
-				"sha256": "1358ffe5dd71944055966fad3fd6b44fb7a1ff209b46180ce80b188f44248131"
+				"version": 2,
+				"asset": "warm-rift-v2.fantome",
+				"size": 384209275,
+				"sha256": "49ca43e8599bc4364e0dc7ce5e4820c605dee7eca1ae41a11e079e073bc18a10"
 			},
 			"maps": [
 				11
@@ -13279,16 +13279,16 @@
 			"name": "Winter Rift 2025 - Season 5",
 			"kind": "maps",
 			"creator": "thekillerey",
-			"patch": "16.21",
+			"patch": "16.23",
 			"publishedAt": "2026-10-15",
-			"updatedAt": "2026-10-26",
+			"updatedAt": "2026-11-20",
 			"downloads": 0,
 			"thumb": "mods/winter-rift-2025-season-5/thumb.webp?v=89a450c3",
 			"file": {
-				"version": 2,
-				"asset": "winter-rift-2025-season-5-v2.fantome",
-				"size": 234370163,
-				"sha256": "576fd3f9f78e0646284ef5f229dea85ead53c7d37526d994e62e03b469951fe2"
+				"version": 3,
+				"asset": "winter-rift-2025-season-5-v3.fantome",
+				"size": 240124886,
+				"sha256": "b072114a511a6e983b1b8fe37b0af4b2330caa0fb1423fbc95563c347f431852"
 			},
 			"maps": [
 				11
